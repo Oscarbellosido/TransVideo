@@ -48,6 +48,9 @@ input[type=search] { flex: 1; min-width: 160px; background: var(--card); color: 
 .resum-dia ul { margin: 0; padding-left: 20px; }
 .resum-dia li { margin: 6px 0; color: var(--text-2); }
 .resum-dia li strong { color: var(--text); }
+.resum-dia .subt { font-size: .95rem; margin: 16px 0 4px; }
+.resum-dia.setmanal { border-color: var(--accent); }
+.dia.setmana { border-style: dashed; }
 
 .video { background: var(--card); border: 1px solid var(--border); border-left: 4px solid var(--c); border-radius: 14px; margin-bottom: 14px; overflow: hidden; }
 .cap { display: grid; grid-template-columns: 168px 1fr; gap: 14px; padding: 14px; }
@@ -69,6 +72,8 @@ details[open] summary::before { content: "▾ "; }
 .cos h4 { font-size: .78rem; text-transform: uppercase; letter-spacing: .07em; color: var(--muted); margin: 12px 0 4px; }
 .cos ul { margin: 0; padding-left: 20px; }
 .cos li { margin: 5px 0; }
+.minut { font-size: .78rem; color: var(--accent); text-decoration: none; white-space: nowrap; border: 1px solid var(--border); border-radius: 999px; padding: 0 7px; margin-left: 4px; }
+.minut:hover { border-color: var(--accent); }
 .conclusio { background: var(--card-2); border-radius: 10px; padding: 10px 14px; margin-top: 12px; }
 .temes { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 12px; }
 .tema { font-size: .75rem; background: var(--card-2); color: var(--text-2); border-radius: 999px; padding: 2px 9px; cursor: pointer; border: 0; font-family: inherit; }
@@ -140,10 +145,23 @@ document.getElementById('tema').onclick = () => {
 
 const fmtDia = d => new Date(d + 'T12:00').toLocaleDateString('ca', { weekday: 'long', day: 'numeric', month: 'long' });
 const fmtHora = d => new Date(d).toLocaleString('ca', { weekday: 'short', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
+// Un punt clau pot ser un text o { text, t } amb el segon del vídeo on es diu.
+const txt = p => typeof p === 'string' ? p : p?.text || '';
+const mmss = s => s >= 3600 ? `${Math.floor(s / 3600)}:${String(Math.floor(s % 3600 / 60)).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}` : `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`;
 const fmtDurada = s => s >= 3600 ? `${Math.floor(s / 3600)} h ${Math.round(s % 3600 / 60)} min` : `${Math.round(s / 60)} min`;
 
-const lots = [...new Set(D.videos.map(v => v.lot).concat(Object.keys(D.dies)))].sort().reverse();
-let lotActiu = lots[0];
+// Seleccions possibles: un dia ('AAAA-MM-DD'), una setmana ('S:AAAA-MM-DD', data de tancament) o tot ('*').
+const SETMANES = D.setmanes || {};
+const lots = [...new Set(D.videos.map(v => v.lot).concat(Object.keys(D.dies)))]
+  .concat(Object.keys(SETMANES).map(d => 'S:' + d))
+  .sort((a, b) => a.replace('S:', '').localeCompare(b.replace('S:', '')) || (a.startsWith('S:') ? 1 : -1)).reverse();
+const diaLocal = iso => new Date(iso).toLocaleDateString('sv-SE');
+const fmtCurt = d => new Date(d + 'T12:00').toLocaleDateString('ca', { day: 'numeric', month: 'short' });
+const esDelLot = v => lotActiu === '*' || (lotActiu.startsWith('S:')
+  ? diaLocal(v.data) >= SETMANES[lotActiu.slice(2)].des_de && diaLocal(v.data) <= lotActiu.slice(2)
+  : v.lot === lotActiu);
+const liEtiqueta = p => { const m = p.match(/^([^.:]{2,30}[.:])\s(.*)$/); return `<li>${m ? `<strong>${esc(m[1])}</strong> ${esc(m[2])}` : esc(p)}</li>`; };
+let lotActiu = lots.find(l => !l.startsWith('S:')) || lots[0] || '*';
 let filtre = new Set(CANALS.map(c => c.id));
 let cerca = '';
 
@@ -161,17 +179,20 @@ if (D.actualitzat) document.getElementById('actualitzat').textContent = 'Actuali
 
 function pintaDies() {
   const el = document.getElementById('dies');
-  el.innerHTML = [...lots.map(l => `<button class="dia" data-lot="${l}" aria-pressed="${l === lotActiu}">${l === new Date().toLocaleDateString('sv-SE') ? 'Avui · ' : ''}${esc(fmtDia(l))}</button>`),
+  el.innerHTML = [...lots.map(l => `<button class="dia${l.startsWith('S:') ? ' setmana' : ''}" data-lot="${l}" aria-pressed="${l === lotActiu}">${l.startsWith('S:')
+    ? `📅 Setmana ${esc(fmtCurt(SETMANES[l.slice(2)].des_de))} – ${esc(fmtCurt(l.slice(2)))}`
+    : (l === new Date().toLocaleDateString('sv-SE') ? 'Avui · ' : '') + esc(fmtDia(l))}</button>`),
     `<button class="dia" data-lot="*" aria-pressed="${lotActiu === '*'}">Tots</button>`].join('');
   el.querySelectorAll('.dia').forEach(b => b.onclick = () => { lotActiu = b.dataset.lot; pinta(); });
 }
 
 function pintaResumDia() {
+  if (lotActiu.startsWith('S:')) return pintaResumSetmana();
   const r = D.dies[lotActiu];
   document.getElementById('resumDia').innerHTML = r ? `<section class="resum-dia">
     <div class="et">El resum del dia · ${esc(fmtDia(lotActiu))}</div>
     <h2>${esc(r.titular)}</h2>
-    <ul>${r.punts.map(p => { const m = p.match(/^([^.:]{2,30}[.:])\s(.*)$/); return `<li>${m ? `<strong>${esc(m[1])}</strong> ${esc(m[2])}` : esc(p)}</li>`; }).join('')}</ul>
+    <ul>${r.punts.map(liEtiqueta).join('')}</ul>
     ${VEU_OK ? `<div class="accions">
       <button class="escolta" data-audio="dia">🔊 Escolta el resum del dia</button>
       <button class="escolta principal" data-audio="tot">▶ Escolta-ho tot</button>
@@ -179,14 +200,30 @@ function pintaResumDia() {
   </section>` : '';
 }
 
+function pintaResumSetmana() {
+  const r = SETMANES[lotActiu.slice(2)];
+  const bloc = (titol, llista) => llista?.length ? `<h3 class="subt">${titol}</h3><ul>${llista.map(liEtiqueta).join('')}</ul>` : '';
+  document.getElementById('resumDia').innerHTML = `<section class="resum-dia setmanal">
+    <div class="et">El resum de la setmana · del ${esc(fmtCurt(r.des_de))} al ${esc(fmtCurt(lotActiu.slice(2)))}</div>
+    <h2>${esc(r.titular)}</h2>
+    <ul>${r.punts.map(liEtiqueta).join('')}</ul>
+    ${bloc('🤝 On coincideixen', r.coincideixen)}
+    ${bloc('⚔️ On discrepen', r.discrepen)}
+    ${bloc('👀 A vigilar la setmana vinent', r.a_vigilar)}
+    ${VEU_OK ? `<div class="accions">
+      <button class="escolta" data-audio="setmana">🔊 Escolta el resum de la setmana</button>
+    </div>` : ''}
+  </section>`;
+}
+
 function videosVisibles() {
   const q = cerca.toLowerCase();
-  return D.videos.filter(v => (lotActiu === '*' || v.lot === lotActiu) && filtre.has(v.canal) &&
-    (!q || [v.titol, v.resum, ...(v.punts || []), ...(v.temes || [])].join(' ').toLowerCase().includes(q)));
+  return D.videos.filter(v => esDelLot(v) && filtre.has(v.canal) &&
+    (!q || [v.titol, v.resum, ...(v.punts || []).map(txt), ...(v.temes || [])].join(' ').toLowerCase().includes(q)));
 }
 
 function pintaXips() {
-  const delLot = D.videos.filter(v => lotActiu === '*' || v.lot === lotActiu);
+  const delLot = D.videos.filter(esDelLot);
   document.getElementById('xips').innerHTML = CANALS.map(c =>
     `<button class="xip" style="--c:${c.color}" data-c="${c.id}" aria-pressed="${filtre.has(c.id)}"><i></i>${esc(c.nom)} <b>${delLot.filter(v => v.canal === c.id).length}</b></button>`).join('') +
     `<input type="search" id="cerca" placeholder="Cerca (bitcoin, BCE, IA…)" value="${esc(cerca)}">`;
@@ -216,7 +253,7 @@ function pintaLlista() {
       <details>
         <summary>Punts clau i conclusió</summary>
         <div class="cos">
-          <ul>${(v.punts || []).map(p => `<li>${esc(p)}</li>`).join('')}</ul>
+          <ul>${(v.punts || []).map(p => `<li>${esc(txt(p))}${Number.isFinite(p?.t) ? ` <a class="minut" href="${url}&t=${Math.floor(p.t)}s" target="_blank" rel="noopener" title="Obre el vídeo en aquest moment">▶ ${mmss(Math.floor(p.t))}</a>` : ''}</li>`).join('')}</ul>
           ${v.dades?.length ? `<h4>Xifres</h4><ul>${v.dades.map(p => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}
           ${v.conclusio ? `<div class="conclusio"><strong>Què me n'emporto:</strong> ${esc(v.conclusio)}</div>` : ''}
           <div class="temes">${(v.temes || []).map(t => `<button class="tema" data-t="${esc(t)}">#${esc(t)}</button>`).join('')}</div>
@@ -261,11 +298,19 @@ function pistaDia(lot) {
   const r = D.dies[lot];
   return { id: 'dia', nom: 'El resum del dia', frases: [`Resum del ${fmtDia(lot)}.`, ...frases(r.titular), ...r.punts.flatMap(frases)] };
 }
+function pistaSetmana(data) {
+  const r = SETMANES[data];
+  const bloc = (t, l) => l?.length ? [t, ...l.flatMap(frases)] : [];
+  const llarg = d => new Date(d + 'T12:00').toLocaleDateString('ca', { day: 'numeric', month: 'long' });
+  return { id: 'setmana', nom: 'El resum de la setmana', frases: [`Resum de la setmana del ${llarg(r.des_de)} al ${llarg(data)}.`,
+    ...frases(r.titular), ...r.punts.flatMap(frases), ...bloc('On coincideixen.', r.coincideixen),
+    ...bloc('On discrepen.', r.discrepen), ...bloc('A vigilar la setmana vinent.', r.a_vigilar)] };
+}
 function pistaVideo(v) {
   const c = canal[v.canal]?.nom || '';
   return { id: v.id, nom: `${c}: ${v.titol}`, frases: [
     `${c}.`, ...frases(v.titol), ...frases(v.resum),
-    ...(v.punts?.length ? ['Punts clau.', ...v.punts.flatMap(frases)] : []),
+    ...(v.punts?.length ? ['Punts clau.', ...v.punts.map(txt).flatMap(frases)] : []),
     ...(v.conclusio ? ['Què me n\'emporto.', ...frases(v.conclusio)] : []),
   ] };
 }
@@ -321,6 +366,7 @@ document.addEventListener('click', e => {
   const quin = b.dataset.audio;
   if (A.cua[A.pista]?.id === quin && A.cua.length === 1) return atura(); // tornar a clicar = aturar
   if (quin === 'dia') comenca([pistaDia(lotActiu)]);
+  else if (quin === 'setmana') comenca([pistaSetmana(lotActiu.slice(2))]);
   else if (quin === 'tot') comenca([...(D.dies[lotActiu] ? [pistaDia(lotActiu)] : []), ...videosVisibles().map(pistaVideo)]);
   else comenca([pistaVideo(D.videos.find(v => v.id === quin))]);
 });

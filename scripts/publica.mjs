@@ -1,6 +1,7 @@
 // Afegeix els resums escrits a pendents/ a dades/resums.json i regenera dades/resums.js.
 //   pendents/<id>.resum.json  → resum d'un vídeo (cal el pendents/<id>.json corresponent)
 //   pendents/dia.json         → resum conjunt del dia { data, titular, punts[] }
+//   pendents/setmana.json     → resum setmanal { data, des_de, titular, punts[], coincideixen[], discrepen[], a_vigilar[] }
 // Ús: node scripts/publica.mjs
 import fs from 'node:fs';
 import path from 'node:path';
@@ -9,6 +10,7 @@ const ARREL = path.resolve(import.meta.dirname, '..');
 const P = f => path.join(ARREL, 'pendents', f);
 const fitxer = path.join(ARREL, 'dades', 'resums.json');
 const dades = fs.existsSync(fitxer) ? JSON.parse(fs.readFileSync(fitxer, 'utf8')) : { videos: [], dies: {} };
+dades.setmanes ||= {};
 
 // Data del lot: la del resum del dia si n'hi ha, si no la d'avui (hora local).
 const avui = new Date().toLocaleDateString('sv-SE');
@@ -30,6 +32,12 @@ if (fs.existsSync(P('dia.json'))) {
   dades.dies[dia.data] = { titular: dia.titular, punts: dia.punts };
   fs.unlinkSync(P('dia.json'));
   console.log(`✓ resum del dia ${dia.data}`);
+}
+if (fs.existsSync(P('setmana.json'))) {
+  const { data, ...setmana } = JSON.parse(fs.readFileSync(P('setmana.json'), 'utf8'));
+  dades.setmanes[data] = setmana;
+  fs.unlinkSync(P('setmana.json'));
+  console.log(`✓ resum setmanal ${setmana.des_de} → ${data}`);
 }
 dades.videos.sort((a, b) => b.data.localeCompare(a.data));
 dades.actualitzat = new Date().toISOString();
