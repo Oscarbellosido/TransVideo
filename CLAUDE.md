@@ -1,7 +1,10 @@
 # TransVideo — resum diari de vídeos de YouTube
 
 App en català que cada dia resumeix els vídeos nous de Juan Ramón Rallo, Pablo Gil, Marc Vidal i Bitcoin al día.
-No fa servir API de pagament: els resums els escriu Claude en una tasca programada cada matí.
+No fa servir API de pagament: els resums els escriu Claude en una tasca programada cada dia (~12:45).
+
+- **App:** https://oscarbellosido.github.io/TransVideo/ (GitHub Pages des de `main`)
+- **Repo:** https://github.com/Oscarbellosido/TransVideo (públic)
 
 ## Estructura
 - `canals.json` — canals (id intern, nom, channel_id de YouTube, color). Per afegir-ne un, cal el `channel_id` (UC…).
@@ -25,7 +28,7 @@ No fa servir API de pagament: els resums els escriu Claude en una tasca programa
    Cada punt comença amb una etiqueta curta acabada en punt o dos punts (la pàgina la posa en negreta).
    Creua els canals: on coincideixen i on discrepen.
 4. `node scripts/publica.mjs`.
-5. `git add -A && git commit -m "Resums AAAA-MM-DD"` (repo propi d'aquesta carpeta).
+5. `git add -A && git commit -m "Resums AAAA-MM-DD" && git push` (repo propi d'aquesta carpeta; el push publica la web).
 
 ## Regles dels resums
 - En català, frases curtes i clares. Sense ideologia afegida: explica què diu l'autor, no si té raó.
@@ -37,4 +40,5 @@ No fa servir API de pagament: els resums els escriu Claude en una tasca programa
 - Les transcripcions es baixen amb l'API InnerTube (client ANDROID). La pista bona és `es` + `kind=asr`; les altres solen ser doblatges automàtics.
 - La pàgina de YouTube redirigeix a consent.youtube.com: per resoldre un @handle cal la galeta `SOCS=CAI`.
 - Si YouTube bloqueja la IP (CAPTCHA), alternativa: llegir la transcripció amb l'extensió Claude a Chrome.
+- `pendents/` (transcripcions) i `.claude/` no es pugen mai (.gitignore): al repo públic només hi van els resums.
 - La carpeta d'usuari `C:\Users\Carles` també és un repo git: aquesta carpeta té el seu propi `.git`.

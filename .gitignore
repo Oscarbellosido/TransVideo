@@ -1,2 +1,4 @@
+.claude/
 pendents/
 node_modules/
+*.txt
