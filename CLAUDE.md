@@ -13,7 +13,7 @@ No fa servir API de pagament: els resums els escriu Claude en una tasca programa
 - `index.html` — la pàgina. Llegeix `dades/resums.js`, per això funciona amb doble clic (file://).
 
 ## Procediment diari (el que fa la tasca programada)
-1. `node scripts/baixa.mjs 2` (vídeos de les últimes 48 h que encara no s'han resumit).
+1. `node scripts/baixa.mjs` (vídeos dels últims 7 dies que encara no s'han resumit; així es recuperen els dies que la tasca no s'ha executat).
 2. Per cada `pendents/<id>.json` (camps: titol, canal, data, durada, text): llegeix la transcripció SENCERA
    (les llargues, per trossos) i escriu `pendents/<id>.resum.json`:
    ```json
@@ -27,7 +27,7 @@ No fa servir API de pagament: els resums els escriu Claude en una tasca programa
 3. Escriu `pendents/dia.json` amb el resum conjunt: `{ "data": "AAAA-MM-DD" (avui), "titular": "...", "punts": ["Tema. Text…"] }`.
    Cada punt comença amb una etiqueta curta acabada en punt o dos punts (la pàgina la posa en negreta).
    Creua els canals: on coincideixen i on discrepen.
-4. `node scripts/publica.mjs`.
+4. `node scripts/publica.mjs` (executa'l SEMPRE, encara que no hi hagi vídeos nous: actualitza la data `actualitzat`, i la pàgina avisa si fa més de 36 h que no canvia).
 5. `git add -A && git commit -m "Resums AAAA-MM-DD" && git push` (repo propi d'aquesta carpeta; el push publica la web).
 
 ## Regles dels resums

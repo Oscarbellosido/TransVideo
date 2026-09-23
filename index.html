@@ -29,6 +29,7 @@ h1 em { font-style: normal; font-size: .75rem; color: var(--muted); font-weight:
 .btn { background: var(--card); color: var(--text); border: 1px solid var(--border); border-radius: 10px; padding: 7px 12px; font: inherit; font-size: .9rem; cursor: pointer; }
 .btn:hover { border-color: var(--accent); }
 .actualitzat { color: var(--muted); font-size: .85rem; margin: -6px 0 14px; }
+.avis { background: #e0a52622; border: 1px solid #e0a526; color: var(--text); border-radius: 12px; padding: 10px 14px; margin: -4px 0 16px; font-size: .9rem; }
 
 .dies { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 6px; margin-bottom: 14px; scrollbar-width: thin; }
 .dia { flex: none; background: var(--card); border: 1px solid var(--border); color: var(--text-2); border-radius: 999px; padding: 6px 14px; cursor: pointer; font: inherit; font-size: .9rem; }
@@ -104,6 +105,7 @@ footer { color: var(--muted); font-size: .8rem; text-align: center; margin-top: 
     <button class="btn" id="tema" title="Canvia el tema">🌓</button>
   </header>
   <p class="actualitzat" id="actualitzat"></p>
+  <div class="avis" id="avis" hidden></div>
   <nav class="dies" id="dies" aria-label="Dies"></nav>
   <div id="resumDia"></div>
   <div class="xips" id="xips"></div>
@@ -146,6 +148,16 @@ let filtre = new Set(CANALS.map(c => c.id));
 let cerca = '';
 
 if (D.actualitzat) document.getElementById('actualitzat').textContent = 'Actualitzat ' + fmtHora(D.actualitzat);
+// La tasca s'executa cada dia: si fa més de 36 h que no s'actualitza, alguna cosa ha fallat.
+{
+  const hores = D.actualitzat ? (Date.now() - new Date(D.actualitzat)) / 36e5 : Infinity;
+  if (hores > 36) {
+    const el = document.getElementById('avis');
+    el.hidden = false;
+    el.textContent = hores === Infinity ? '⚠ Encara no hi ha cap actualització.'
+      : `⚠ Fa ${Math.floor(hores / 24) >= 2 ? Math.floor(hores / 24) + ' dies' : Math.round(hores) + ' hores'} que no hi ha resums nous. Potser la tasca diària no s'ha executat (PC apagat o app de Claude tancada) o YouTube ha bloquejat les transcripcions.`;
+  }
+}
 
 function pintaDies() {
   const el = document.getElementById('dies');

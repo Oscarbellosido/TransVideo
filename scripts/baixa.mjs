@@ -1,10 +1,12 @@
 // Baixa els vídeos nous dels canals (RSS) i en desa la transcripció a pendents/<id>.json.
-// Ús: node scripts/baixa.mjs [dies=2]
+// Ús: node scripts/baixa.mjs [dies=7]
+// Finestra àmplia a propòsit: si un dia la tasca no s'executa (PC apagat), l'endemà recupera
+// els vídeos perduts. Els ja resumits (dades/resums.json) no es tornen a baixar.
 import fs from 'node:fs';
 import path from 'node:path';
 
 const ARREL = path.resolve(import.meta.dirname, '..');
-const DIES = Number(process.argv[2] || 2);
+const DIES = Number(process.argv[2] || 7);
 const DURADA_MIN = 180; // segons: descarta els shorts
 
 const canals = JSON.parse(fs.readFileSync(path.join(ARREL, 'canals.json'), 'utf8'));
