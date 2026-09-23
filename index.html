@@ -72,6 +72,23 @@ details[open] summary::before { content: "▾ "; }
 .temes { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 12px; }
 .tema { font-size: .75rem; background: var(--card-2); color: var(--text-2); border-radius: 999px; padding: 2px 9px; cursor: pointer; border: 0; font-family: inherit; }
 .buit { text-align: center; color: var(--muted); padding: 40px 0; }
+
+/* Àudio */
+.accions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 14px; }
+.escolta { display: inline-flex; align-items: center; gap: 6px; background: var(--card-2); color: var(--text); border: 1px solid var(--border); border-radius: 999px; padding: 5px 12px; font: inherit; font-size: .85rem; cursor: pointer; }
+.escolta:hover { border-color: var(--accent); }
+.escolta.principal { background: var(--accent); border-color: var(--accent); color: #fff; }
+.escolta.sona { border-color: var(--accent); color: var(--accent); }
+.escolta.principal.sona { color: #fff; }
+.meta .escolta { padding: 1px 9px; font-size: .78rem; margin-left: auto; }
+.video.sona { box-shadow: 0 0 0 2px var(--accent); }
+.reproductor { position: fixed; left: 50%; bottom: 16px; transform: translateX(-50%); width: min(620px, calc(100% - 32px)); background: var(--card); border: 1px solid var(--border); border-radius: 14px; box-shadow: 0 10px 30px var(--shadow); padding: 10px 12px; display: none; align-items: center; gap: 10px; z-index: 10; }
+.reproductor.actiu { display: flex; }
+.reproductor .que { flex: 1; min-width: 0; font-size: .85rem; }
+.reproductor .que b { display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.reproductor .que small { color: var(--muted); }
+.reproductor button, .reproductor select { background: var(--card-2); color: var(--text); border: 1px solid var(--border); border-radius: 10px; font: inherit; font-size: .9rem; padding: 6px 9px; cursor: pointer; }
+body.amb-reproductor .wrap { padding-bottom: 100px; }
 footer { color: var(--muted); font-size: .8rem; text-align: center; margin-top: 30px; }
 
 @media (max-width: 560px) {
@@ -93,6 +110,13 @@ footer { color: var(--muted); font-size: .8rem; text-align: center; margin-top: 
   <div id="llista"></div>
   <footer>Resums fets per Claude a partir de les transcripcions automàtiques de YouTube. Poden contenir errors: en cas de dubte, mira el vídeo.</footer>
 </div>
+<div class="reproductor" id="reproductor" role="region" aria-label="Reproductor d'àudio">
+  <div class="que"><b id="rpQue"></b><small id="rpPas"></small></div>
+  <button id="rpPausa" title="Pausa / continua">⏸</button>
+  <button id="rpSeg" title="Següent">⏭</button>
+  <select id="rpVel" title="Velocitat"><option value="0.9">0,9×</option><option value="1">1×</option><option value="1.15">1,15×</option><option value="1.3">1,3×</option><option value="1.5">1,5×</option></select>
+  <button id="rpAtura" title="Atura">⏹</button>
+</div>
 
 <script src="dades/resums.js"></script>
 <script>
@@ -102,6 +126,7 @@ const canal = Object.fromEntries(CANALS.map(c => [c.id, c]));
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const guarda = (k, v) => { try { localStorage.setItem(k, v); } catch {} };
 const llegeix = k => { try { return localStorage.getItem(k); } catch { return null; } };
+const VEU_OK = 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window;
 
 // Tema
 const tema = llegeix('tv-tema');
@@ -135,6 +160,10 @@ function pintaResumDia() {
     <div class="et">El resum del dia · ${esc(fmtDia(lotActiu))}</div>
     <h2>${esc(r.titular)}</h2>
     <ul>${r.punts.map(p => { const m = p.match(/^([^.:]{2,30}[.:])\s(.*)$/); return `<li>${m ? `<strong>${esc(m[1])}</strong> ${esc(m[2])}` : esc(p)}</li>`; }).join('')}</ul>
+    ${VEU_OK ? `<div class="accions">
+      <button class="escolta" data-audio="dia">🔊 Escolta el resum del dia</button>
+      <button class="escolta principal" data-audio="tot">▶ Escolta-ho tot</button>
+    </div>` : ''}
   </section>` : '';
 }
 
@@ -163,11 +192,11 @@ function pintaLlista() {
   document.getElementById('llista').innerHTML = vs.length ? vs.map(v => {
     const c = canal[v.canal] || { nom: v.canal, color: '#888' };
     const url = 'https://www.youtube.com/watch?v=' + encodeURIComponent(v.id);
-    return `<article class="video" style="--c:${c.color}">
+    return `<article class="video" id="v-${esc(v.id)}" style="--c:${c.color}">
       <div class="cap">
         <a class="miniatura" href="${url}" target="_blank" rel="noopener"><img loading="lazy" alt="" src="https://i.ytimg.com/vi/${encodeURIComponent(v.id)}/mqdefault.jpg"><span>${fmtDurada(v.durada || 0)}</span></a>
         <div>
-          <div class="meta"><span class="canal">${esc(c.nom)}</span><span>${esc(fmtHora(v.data))}</span></div>
+          <div class="meta"><span class="canal">${esc(c.nom)}</span><span>${esc(fmtHora(v.data))}</span>${VEU_OK ? `<button class="escolta" data-audio="${esc(v.id)}" title="Escolta el resum">🔊 Escolta</button>` : ''}</div>
           <h3><a href="${url}" target="_blank" rel="noopener">${esc(v.titol)}</a></h3>
           <p class="resum">${esc(v.resum)}</p>
         </div>
@@ -188,7 +217,113 @@ function pintaLlista() {
   });
 }
 
-function pinta() { pintaDies(); pintaResumDia(); pintaXips(); pintaLlista(); }
+function pinta() { pintaDies(); pintaResumDia(); pintaXips(); pintaLlista(); marcaSonant(); }
+
+/* ── Àudio (veu del navegador, Web Speech API) ─────────────────────────────── */
+// Cua de "pistes" (resum del dia o un vídeo); cada pista es parteix en frases
+// perquè Chrome talla les locucions llargues.
+const synth = window.speechSynthesis;
+const A = { cua: [], pista: -1, frases: [], frase: 0, pausat: false, vel: Number(llegeix('tv-vel')) || 1, veu: null };
+document.getElementById('rpVel').value = String(A.vel);
+
+function triaVeu() {
+  const veus = synth.getVoices();
+  const puntua = v => (v.lang.toLowerCase().startsWith('ca') ? 100 : v.lang.toLowerCase().startsWith('es-es') ? 10 : v.lang.toLowerCase().startsWith('es') ? 5 : 0)
+    + (/natural|online|google/i.test(v.name) ? 2 : 0);
+  A.veu = veus.slice().sort((a, b) => puntua(b) - puntua(a))[0] || null;
+}
+if (VEU_OK) { triaVeu(); synth.onvoiceschanged = triaVeu; }
+
+// Adapta símbols i xifres perquè la veu els llegeixi bé.
+const perLlegir = t => String(t)
+  .replace(/(\d)\.(\d{3})/g, '$1$2').replace(/(\d)\.(\d{3})/g, '$1$2')
+  .replace(/M\$/g, ' milions de dòlars').replace(/M€/g, ' milions d\'euros')
+  .replace(/\s?\$/g, ' dòlars').replace(/\s?€/g, ' euros')
+  .replace(/×\s?(\d)/g, 'per $1').replace(/(\d)\s?–\s?(\d)/g, '$1 a $2').replace(/(\d)-(\d)/g, '$1 a $2')
+  .replace(/\bEUA\b/g, 'Estats Units').replace(/\bUE\b/g, 'Unió Europea').replace(/\bIA\b/g, 'intel·ligència artificial')
+  .replace(/[«»"]/g, '');
+
+const frases = t => perLlegir(t).match(/[^.!?;]+[.!?;]*\s*/g)?.map(s => s.trim()).filter(Boolean) || [];
+
+function pistaDia(lot) {
+  const r = D.dies[lot];
+  return { id: 'dia', nom: 'El resum del dia', frases: [`Resum del ${fmtDia(lot)}.`, ...frases(r.titular), ...r.punts.flatMap(frases)] };
+}
+function pistaVideo(v) {
+  const c = canal[v.canal]?.nom || '';
+  return { id: v.id, nom: `${c}: ${v.titol}`, frases: [
+    `${c}.`, ...frases(v.titol), ...frases(v.resum),
+    ...(v.punts?.length ? ['Punts clau.', ...v.punts.flatMap(frases)] : []),
+    ...(v.conclusio ? ['Què me n\'emporto.', ...frases(v.conclusio)] : []),
+  ] };
+}
+
+function comenca(cua) {
+  synth.cancel();
+  Object.assign(A, { cua, pista: 0, frase: 0, pausat: false });
+  document.body.classList.add('amb-reproductor');
+  document.getElementById('reproductor').classList.add('actiu');
+  parla();
+}
+
+function parla() {
+  const p = A.cua[A.pista];
+  if (!p) return atura();
+  if (A.frase >= p.frases.length) { A.pista++; A.frase = 0; return parla(); }
+  const u = new SpeechSynthesisUtterance(p.frases[A.frase]);
+  if (A.veu) { u.voice = A.veu; u.lang = A.veu.lang; } else u.lang = 'ca-ES';
+  u.rate = A.vel;
+  const pista = A.pista;
+  u.onend = () => { if (A.pista === pista && !A.pausat) { A.frase++; parla(); } };
+  u.onerror = e => { if (e.error !== 'interrupted' && e.error !== 'canceled') { A.frase++; parla(); } };
+  synth.speak(u);
+  actualitzaReproductor();
+}
+
+function atura() {
+  synth.cancel();
+  Object.assign(A, { cua: [], pista: -1, pausat: false });
+  document.body.classList.remove('amb-reproductor');
+  document.getElementById('reproductor').classList.remove('actiu');
+  marcaSonant();
+}
+
+function actualitzaReproductor() {
+  const p = A.cua[A.pista];
+  document.getElementById('rpQue').textContent = (A.pausat ? '⏸ ' : '🔊 ') + p.nom;
+  document.getElementById('rpPas').textContent = `${A.pista + 1} de ${A.cua.length}` +
+    (A.veu && !A.veu.lang.toLowerCase().startsWith('ca') ? ` · sense veu catalana al dispositiu, es fa servir: ${A.veu.name}` : '');
+  document.getElementById('rpPausa').textContent = A.pausat ? '▶' : '⏸';
+  marcaSonant();
+}
+
+function marcaSonant() {
+  const id = A.cua[A.pista]?.id;
+  document.querySelectorAll('.video').forEach(el => el.classList.toggle('sona', el.id === 'v-' + id));
+  document.querySelectorAll('[data-audio]').forEach(b => b.classList.toggle('sona', !!id && b.dataset.audio === id));
+}
+
+document.addEventListener('click', e => {
+  const b = e.target.closest('[data-audio]');
+  if (!b) return;
+  const quin = b.dataset.audio;
+  if (A.cua[A.pista]?.id === quin && A.cua.length === 1) return atura(); // tornar a clicar = aturar
+  if (quin === 'dia') comenca([pistaDia(lotActiu)]);
+  else if (quin === 'tot') comenca([...(D.dies[lotActiu] ? [pistaDia(lotActiu)] : []), ...videosVisibles().map(pistaVideo)]);
+  else comenca([pistaVideo(D.videos.find(v => v.id === quin))]);
+});
+document.getElementById('rpAtura').onclick = atura;
+document.getElementById('rpSeg').onclick = () => { synth.cancel(); A.pausat = false; A.pista++; A.frase = 0; parla(); };
+document.getElementById('rpPausa').onclick = () => {
+  // Es reprèn des de l'inici de la frase: pause()/resume() no és fiable amb totes les veus.
+  A.pausat = !A.pausat;
+  if (A.pausat) synth.cancel(); else parla();
+  actualitzaReproductor();
+};
+document.getElementById('rpVel').onchange = e => {
+  A.vel = Number(e.target.value); guarda('tv-vel', A.vel);
+  if (A.cua.length && !A.pausat) { synth.cancel(); parla(); }
+};
 pinta();
 </script>
 </body>
