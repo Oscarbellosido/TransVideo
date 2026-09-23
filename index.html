@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Resum de vídeos · By CRE</title>
+<meta name="description" content="Resum diari dels vídeos de YouTube de Juan Ramón Rallo, Pablo Gil, Marc Vidal i Bitcoin al día.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23c0392b'/%3E%3Cpath d='M25 20l20 12-20 12z' fill='white'/%3E%3C/svg%3E">
+<style>
+:root {
+  color-scheme: dark;
+  --bg: #0c1626; --bg-2: #111f33; --card: #15263d; --card-2: #1a2e48;
+  --text: #eef3f8; --text-2: #a9b8c9; --muted: #7d8ea3;
+  --border: rgba(148,178,214,0.16); --accent: #3987e5; --shadow: rgba(0,0,0,0.35);
+}
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg: #f4f6f9; --bg-2: #ffffff; --card: #ffffff; --card-2: #f2f5f9;
+  --text: #0b0b0b; --text-2: #52514e; --muted: #74736e;
+  --border: rgba(20,40,70,0.12); --accent: #2a78d6; --shadow: rgba(20,40,70,0.08);
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+.wrap { max-width: 920px; margin: 0 auto; padding: 0 16px 60px; }
+header { display: flex; align-items: center; gap: 12px; padding: 22px 0 14px; flex-wrap: wrap; }
+h1 { font-size: 1.5rem; margin: 0; flex: 1; letter-spacing: -0.01em; }
+h1 span { color: var(--text-2); font-weight: 400; }
+h1 em { font-style: normal; font-size: .75rem; color: var(--muted); font-weight: 500; margin-left: 6px; }
+.btn { background: var(--card); color: var(--text); border: 1px solid var(--border); border-radius: 10px; padding: 7px 12px; font: inherit; font-size: .9rem; cursor: pointer; }
+.btn:hover { border-color: var(--accent); }
+.actualitzat { color: var(--muted); font-size: .85rem; margin: -6px 0 14px; }
+
+.dies { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 6px; margin-bottom: 14px; scrollbar-width: thin; }
+.dia { flex: none; background: var(--card); border: 1px solid var(--border); color: var(--text-2); border-radius: 999px; padding: 6px 14px; cursor: pointer; font: inherit; font-size: .9rem; }
+.dia[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+.xips { display: flex; gap: 8px; flex-wrap: wrap; margin: 4px 0 18px; }
+.xip { display: inline-flex; align-items: center; gap: 7px; background: var(--card); border: 1px solid var(--border); color: var(--text); border-radius: 999px; padding: 5px 12px 5px 9px; cursor: pointer; font: inherit; font-size: .88rem; }
+.xip i { width: 10px; height: 10px; border-radius: 50%; background: var(--c); }
+.xip[aria-pressed="false"] { opacity: .45; }
+.xip b { color: var(--muted); font-weight: 500; }
+input[type=search] { flex: 1; min-width: 160px; background: var(--card); color: var(--text); border: 1px solid var(--border); border-radius: 999px; padding: 6px 14px; font: inherit; font-size: .9rem; }
+
+.resum-dia { background: linear-gradient(135deg, var(--card-2), var(--card)); border: 1px solid var(--border); border-radius: 16px; padding: 18px 20px; margin-bottom: 22px; box-shadow: 0 6px 20px var(--shadow); }
+.resum-dia .et { font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--accent); font-weight: 700; }
+.resum-dia h2 { font-size: 1.2rem; margin: 6px 0 10px; line-height: 1.35; }
+.resum-dia ul { margin: 0; padding-left: 20px; }
+.resum-dia li { margin: 6px 0; color: var(--text-2); }
+.resum-dia li strong { color: var(--text); }
+
+.video { background: var(--card); border: 1px solid var(--border); border-left: 4px solid var(--c); border-radius: 14px; margin-bottom: 14px; overflow: hidden; }
+.cap { display: grid; grid-template-columns: 168px 1fr; gap: 14px; padding: 14px; }
+.miniatura { position: relative; display: block; border-radius: 8px; overflow: hidden; aspect-ratio: 16/9; background: var(--card-2); }
+.miniatura img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.miniatura span { position: absolute; right: 5px; bottom: 5px; background: rgba(0,0,0,.8); color: #fff; font-size: .75rem; padding: 1px 5px; border-radius: 4px; }
+.meta { font-size: .8rem; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.meta .canal { color: var(--c); font-weight: 700; }
+.video h3 { font-size: 1.02rem; margin: 3px 0 6px; line-height: 1.3; }
+.video h3 a { color: inherit; text-decoration: none; }
+.video h3 a:hover { text-decoration: underline; }
+.video .resum { margin: 0; color: var(--text-2); }
+details { border-top: 1px solid var(--border); }
+summary { cursor: pointer; padding: 10px 14px; color: var(--accent); font-size: .9rem; font-weight: 600; list-style: none; }
+summary::-webkit-details-marker { display: none; }
+summary::before { content: "▸ "; }
+details[open] summary::before { content: "▾ "; }
+.cos { padding: 0 18px 16px; }
+.cos h4 { font-size: .78rem; text-transform: uppercase; letter-spacing: .07em; color: var(--muted); margin: 12px 0 4px; }
+.cos ul { margin: 0; padding-left: 20px; }
+.cos li { margin: 5px 0; }
+.conclusio { background: var(--card-2); border-radius: 10px; padding: 10px 14px; margin-top: 12px; }
+.temes { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 12px; }
+.tema { font-size: .75rem; background: var(--card-2); color: var(--text-2); border-radius: 999px; padding: 2px 9px; cursor: pointer; border: 0; font-family: inherit; }
+.buit { text-align: center; color: var(--muted); padding: 40px 0; }
+footer { color: var(--muted); font-size: .8rem; text-align: center; margin-top: 30px; }
+
+@media (max-width: 560px) {
+  .cap { grid-template-columns: 1fr; }
+  h1 { font-size: 1.25rem; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>📺 Resum de vídeos <span>economia i inversió</span><em>By CRE</em></h1>
+    <button class="btn" id="tema" title="Canvia el tema">🌓</button>
+  </header>
+  <p class="actualitzat" id="actualitzat"></p>
+  <nav class="dies" id="dies" aria-label="Dies"></nav>
+  <div id="resumDia"></div>
+  <div class="xips" id="xips"></div>
+  <div id="llista"></div>
+  <footer>Resums fets per Claude a partir de les transcripcions automàtiques de YouTube. Poden contenir errors: en cas de dubte, mira el vídeo.</footer>
+</div>
+
+<script src="dades/resums.js"></script>
+<script>
+const D = window.RESUMS || { videos: [], dies: {} };
+const CANALS = window.CANALS || [];
+const canal = Object.fromEntries(CANALS.map(c => [c.id, c]));
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const guarda = (k, v) => { try { localStorage.setItem(k, v); } catch {} };
+const llegeix = k => { try { return localStorage.getItem(k); } catch { return null; } };
+
+// Tema
+const tema = llegeix('tv-tema');
+if (tema) document.documentElement.dataset.theme = tema;
+document.getElementById('tema').onclick = () => {
+  const nou = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light';
+  document.documentElement.dataset.theme = nou; guarda('tv-tema', nou);
+};
+
+const fmtDia = d => new Date(d + 'T12:00').toLocaleDateString('ca', { weekday: 'long', day: 'numeric', month: 'long' });
+const fmtHora = d => new Date(d).toLocaleString('ca', { weekday: 'short', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
+const fmtDurada = s => s >= 3600 ? `${Math.floor(s / 3600)} h ${Math.round(s % 3600 / 60)} min` : `${Math.round(s / 60)} min`;
+
+const lots = [...new Set(D.videos.map(v => v.lot).concat(Object.keys(D.dies)))].sort().reverse();
+let lotActiu = lots[0];
+let filtre = new Set(CANALS.map(c => c.id));
+let cerca = '';
+
+if (D.actualitzat) document.getElementById('actualitzat').textContent = 'Actualitzat ' + fmtHora(D.actualitzat);
+
+function pintaDies() {
+  const el = document.getElementById('dies');
+  el.innerHTML = [...lots.map(l => `<button class="dia" data-lot="${l}" aria-pressed="${l === lotActiu}">${l === new Date().toLocaleDateString('sv-SE') ? 'Avui · ' : ''}${esc(fmtDia(l))}</button>`),
+    `<button class="dia" data-lot="*" aria-pressed="${lotActiu === '*'}">Tots</button>`].join('');
+  el.querySelectorAll('.dia').forEach(b => b.onclick = () => { lotActiu = b.dataset.lot; pinta(); });
+}
+
+function pintaResumDia() {
+  const r = D.dies[lotActiu];
+  document.getElementById('resumDia').innerHTML = r ? `<section class="resum-dia">
+    <div class="et">El resum del dia · ${esc(fmtDia(lotActiu))}</div>
+    <h2>${esc(r.titular)}</h2>
+    <ul>${r.punts.map(p => { const m = p.match(/^([^.:]{2,30}[.:])\s(.*)$/); return `<li>${m ? `<strong>${esc(m[1])}</strong> ${esc(m[2])}` : esc(p)}</li>`; }).join('')}</ul>
+  </section>` : '';
+}
+
+function videosVisibles() {
+  const q = cerca.toLowerCase();
+  return D.videos.filter(v => (lotActiu === '*' || v.lot === lotActiu) && filtre.has(v.canal) &&
+    (!q || [v.titol, v.resum, ...(v.punts || []), ...(v.temes || [])].join(' ').toLowerCase().includes(q)));
+}
+
+function pintaXips() {
+  const delLot = D.videos.filter(v => lotActiu === '*' || v.lot === lotActiu);
+  document.getElementById('xips').innerHTML = CANALS.map(c =>
+    `<button class="xip" style="--c:${c.color}" data-c="${c.id}" aria-pressed="${filtre.has(c.id)}"><i></i>${esc(c.nom)} <b>${delLot.filter(v => v.canal === c.id).length}</b></button>`).join('') +
+    `<input type="search" id="cerca" placeholder="Cerca (bitcoin, BCE, IA…)" value="${esc(cerca)}">`;
+  document.querySelectorAll('.xip').forEach(b => b.onclick = () => {
+    filtre.has(b.dataset.c) ? filtre.delete(b.dataset.c) : filtre.add(b.dataset.c);
+    if (!filtre.size) CANALS.forEach(c => filtre.add(c.id));
+    pinta();
+  });
+  const inp = document.getElementById('cerca');
+  inp.oninput = () => { cerca = inp.value; pintaLlista(); };
+}
+
+function pintaLlista() {
+  const vs = videosVisibles();
+  document.getElementById('llista').innerHTML = vs.length ? vs.map(v => {
+    const c = canal[v.canal] || { nom: v.canal, color: '#888' };
+    const url = 'https://www.youtube.com/watch?v=' + encodeURIComponent(v.id);
+    return `<article class="video" style="--c:${c.color}">
+      <div class="cap">
+        <a class="miniatura" href="${url}" target="_blank" rel="noopener"><img loading="lazy" alt="" src="https://i.ytimg.com/vi/${encodeURIComponent(v.id)}/mqdefault.jpg"><span>${fmtDurada(v.durada || 0)}</span></a>
+        <div>
+          <div class="meta"><span class="canal">${esc(c.nom)}</span><span>${esc(fmtHora(v.data))}</span></div>
+          <h3><a href="${url}" target="_blank" rel="noopener">${esc(v.titol)}</a></h3>
+          <p class="resum">${esc(v.resum)}</p>
+        </div>
+      </div>
+      <details>
+        <summary>Punts clau i conclusió</summary>
+        <div class="cos">
+          <ul>${(v.punts || []).map(p => `<li>${esc(p)}</li>`).join('')}</ul>
+          ${v.dades?.length ? `<h4>Xifres</h4><ul>${v.dades.map(p => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}
+          ${v.conclusio ? `<div class="conclusio"><strong>Què me n'emporto:</strong> ${esc(v.conclusio)}</div>` : ''}
+          <div class="temes">${(v.temes || []).map(t => `<button class="tema" data-t="${esc(t)}">#${esc(t)}</button>`).join('')}</div>
+        </div>
+      </details>
+    </article>`;
+  }).join('') : `<p class="buit">${D.videos.length ? 'Cap vídeo amb aquest filtre.' : 'Encara no hi ha resums.'}</p>`;
+  document.querySelectorAll('.tema').forEach(b => b.onclick = () => {
+    cerca = b.dataset.t; lotActiu = '*'; pinta();
+  });
+}
+
+function pinta() { pintaDies(); pintaResumDia(); pintaXips(); pintaLlista(); }
+pinta();
+</script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+[
+  { "id": "rallo",   "nom": "Juan Ramón Rallo", "canal": "UCBLCvUUCiSqBCEc-TqZ9rGw", "color": "#c0392b" },
+  { "id": "pablogil","nom": "Pablo Gil",        "canal": "UCPQ2dheMajZPnIleYZHzblg", "color": "#1f6feb" },
+  { "id": "vidal",   "nom": "Marc Vidal",       "canal": "UCKC77AR_zWXRTE2GOD_2Uag", "color": "#8e44ad" },
+  { "id": "btcdia",  "nom": "Bitcoin al día",   "canal": "UCA58hhLv4pdgDjBW5oNSklA", "color": "#f7931a" }
+]
