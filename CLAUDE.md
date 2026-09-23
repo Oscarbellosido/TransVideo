@@ -10,7 +10,8 @@ No fa servir API de pagament: els resums els escriu Claude en una tasca programa
 - `canals.json` — canals (id intern, nom, channel_id de YouTube, color). Per afegir-ne un, cal el `channel_id` (UC…).
 - `scripts/baixa.mjs` — llegeix l'RSS de cada canal i desa la transcripció dels vídeos nous a `pendents/<id>.json`. Descarta els shorts (< 3 min).
 - `scripts/publica.mjs` — fusiona `pendents/<id>.resum.json`, `pendents/dia.json` i `pendents/setmana.json` amb `dades/resums.json`, regenera `dades/resums.js` i esborra els pendents.
-- `index.html` — la pàgina. Llegeix `dades/resums.js`, per això funciona amb doble clic (file://).
+- `index.html` — la pàgina. Llegeix `dades/resums.js`, per això funciona amb doble clic (file://). Té àudio (veu del navegador), resum setmanal i enllaços al minut exacte.
+- `manifest.json`, `sw.js`, `icon*.png`, `icon.svg` — PWA instal·lable. Si canvies la llista SHELL de sw.js, puja la versió de CACHE.
 
 ## Procediment diari (el que fa la tasca programada)
 1. `node scripts/baixa.mjs` (vídeos dels últims 7 dies que encara no s'han resumit; així es recuperen els dies que la tasca no s'ha executat).

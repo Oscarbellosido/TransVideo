@@ -9,6 +9,10 @@ Resum diari, en català, dels vídeos de YouTube de:
 
 **App:** https://oscarbellosido.github.io/TransVideo/
 
+## Al mòbil
+
+Obre l'enllaç amb Chrome i tria **Afegeix a la pantalla d'inici** (o **Instal·la l'aplicació**). Funciona sense connexió amb els darrers resums desats. Cada resum es pot escoltar (🔊), i els diumenges hi ha un resum de la setmana.
+
 ## Com funciona
 
 1. Cada dia, cap a les 12:45, una tasca programada de Claude (a l'app d'escriptori) executa `scripts/baixa.mjs`, que llegeix l'RSS de cada canal i baixa la transcripció dels vídeos nous. Els shorts es descarten.
