@@ -25,6 +25,7 @@ for (const f of fs.readdirSync(path.join(ARREL, 'pendents')).filter(f => f.endsW
   dades.videos = dades.videos.filter(v => v.id !== id);
   dades.videos.push({ ...meta, ...resum, lot });
   fs.unlinkSync(P(f)); fs.unlinkSync(P(`${id}.json`));
+  if (fs.existsSync(P(`${id}.txt`))) fs.unlinkSync(P(`${id}.txt`));
   afegits++;
 }
 if (fs.existsSync(P('dia.json'))) {

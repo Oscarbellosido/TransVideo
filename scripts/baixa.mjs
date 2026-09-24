@@ -84,6 +84,10 @@ for (const c of canals) {
       // Els subtítols automàtics poden tardar hores a aparèixer: si el vídeo és recent, es torna a provar demà.
       if (!t.text && Date.now() - new Date(v.data) < 48 * 36e5) { console.log(`… ${c.nom}: encara sense subtítols, es provarà la propera vegada — ${v.titol}`); continue; }
       fs.writeFileSync(fitxer, JSON.stringify({ ...v, canal: c.id, durada: t.durada, idioma: t.idioma, text: t.text }, null, 1));
+      // Còpia llegible amb l'eina Read (línies curtes): la tasca no ha de fer servir ordres per llegir-la.
+      const linies = (t.text || '(sense subtítols)\n\nDescripció:\n' + v.descripcio).replace(/ (\[\d+:\d\d\])/g, '\n$1').split('\n');
+      fs.writeFileSync(path.join(dirPendents, `${v.id}.txt`),
+        `${c.nom} — ${v.titol}\n${v.data} · ${Math.round(t.durada / 60)} min\n\n${linies.join('\n')}\n`);
       nous++;
       console.log(`${t.text ? '✓' : '⚠ sense subtítols (es resumirà per la descripció)'} ${c.nom}: ${v.titol} (${Math.round(t.durada / 60)} min)`);
     } catch (e) {

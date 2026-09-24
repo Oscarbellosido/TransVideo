@@ -18,8 +18,9 @@ No fa servir API de pagament: els resums els escriu Claude en una tasca programa
    - Codi de sortida 2 = YouTube bloqueja les transcripcions (pàgina "Sorry"/CAPTCHA): l'script s'atura sense desar res dolent.
      Continua igualment amb els pendents que hi hagi (si n'hi ha) i digues-ho al missatge final. NO ho tornis a provar en bucle.
    - Els shorts descartats es desen a `dades/descartats.json` perquè no es tornin a consultar.
-2. Per cada `pendents/<id>.json` (camps: titol, canal, data, durada, text): llegeix la transcripció SENCERA
-   (les llargues, per trossos) i escriu `pendents/<id>.resum.json`:
+2. Per cada vídeo pendent, llegeix `pendents/<id>.txt` SENCER amb l'eina **Read** (si és llarg, amb offset/limit per trossos;
+   té una línia per cada marca [m:ss]) i escriu `pendents/<id>.resum.json` amb l'eina **Write**. El `pendents/<id>.json` té les
+   mateixes dades (titol, canal, data, durada, text, descripcio) però en una sola línia: no cal llegir-lo.
    ```json
    { "resum": "2-3 frases: la tesi del vídeo",
      "punts": [{ "text": "punt clau concret, amb noms i xifres", "t": 754 }],
@@ -46,6 +47,12 @@ No fa servir API de pagament: els resums els escriu Claude en una tasca programa
    ```
 5. `node scripts/publica.mjs` (executa'l SEMPRE, encara que no hi hagi vídeos nous: actualitza la data `actualitzat`, i la pàgina avisa si fa més de 36 h que no canvia).
 6. `git add -A && git commit -m "Resums AAAA-MM-DD" && git push` (repo propi d'aquesta carpeta; el push publica la web).
+
+## Permisos (la tasca s'executa sense ningú davant)
+`.claude/settings.local.json` (no es puja al repo) autoritza NOMÉS: `node scripts/baixa.mjs`, `node scripts/publica.mjs`,
+`git pull --rebase`, `git status`, `git add -A`, `git commit -m ...`, `git push`, i Read/Write/Edit a `pendents/` i Read a `dades/`.
+Qualsevol altra ordre (node -e, Get-Content, cat…) es queda esperant un permís que ningú no dona i la tasca s'encalla.
+Executa les ordres de git una per una. Si afegeixes un pas nou al procediment, afegeix-ne el permís.
 
 ## Regles dels resums
 - En català, frases curtes i clares. Sense ideologia afegida: explica què diu l'autor, no si té raó.
