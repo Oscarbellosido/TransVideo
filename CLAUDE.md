@@ -45,14 +45,14 @@ No fa servir API de pagament: els resums els escriu Claude en una tasca programa
      "discrepen": ["Tema. on diuen coses diferents (qui diu què)"],
      "a_vigilar": ["Tema. dates, dades i nivells que els autors han dit que cal mirar la setmana vinent"] }
    ```
-5. `node scripts/publica.mjs` (executa'l SEMPRE, encara que no hi hagi vídeos nous: actualitza la data `actualitzat`, i la pàgina avisa si fa més de 36 h que no canvia).
-6. `git add -A && git commit -m "Resums AAAA-MM-DD" && git push` (repo propi d'aquesta carpeta; el push publica la web).
+5. `node scripts/publica.mjs --push` — SEMPRE, encara que no hi hagi vídeos nous: fusiona, actualitza la data `actualitzat`
+   (la pàgina avisa si fa més de 36 h que no canvia) i fa ell mateix git add/commit/push de `dades/`. No facis cap commit a mà.
 
 ## Permisos (la tasca s'executa sense ningú davant)
-`.claude/settings.local.json` (no es puja al repo) autoritza NOMÉS: `node scripts/baixa.mjs`, `node scripts/publica.mjs`,
-`git pull --rebase`, `git status`, `git add -A`, `git commit -m ...`, `git push`, i Read/Write/Edit a `pendents/` i Read a `dades/`.
-Qualsevol altra ordre (node -e, Get-Content, cat…) es queda esperant un permís que ningú no dona i la tasca s'encalla.
-Executa les ordres de git una per una. Si afegeixes un pas nou al procediment, afegeix-ne el permís.
+`.claude/settings.local.json` (no es puja al repo) autoritza NOMÉS: `node scripts/baixa.mjs`, `node scripts/publica.mjs --push`,
+`git pull --rebase`, i Read/Write/Edit a `pendents/` i Read a `dades/`. El commit i el push els fa publica.mjs (un commit a mà
+amb missatge de diverses línies no encaixa amb cap permís i la tasca s'encalla). Qualsevol altra ordre (node -e, Get-Content,
+cat…) es queda esperant un permís que ningú no dona. Si afegeixes un pas nou al procediment, afegeix-ne el permís.
 
 ## Regles dels resums
 - En català, frases curtes i clares. Sense ideologia afegida: explica què diu l'autor, no si té raó.

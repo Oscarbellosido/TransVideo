@@ -2,9 +2,11 @@
 //   pendents/<id>.resum.json  → resum d'un vídeo (cal el pendents/<id>.json corresponent)
 //   pendents/dia.json         → resum conjunt del dia { data, titular, punts[] }
 //   pendents/setmana.json     → resum setmanal { data, des_de, titular, punts[], coincideixen[], discrepen[], a_vigilar[] }
-// Ús: node scripts/publica.mjs
+// Ús: node scripts/publica.mjs [--push]
+//   --push: a més, fa git add/commit/push de dades/ (així la tasca programada només necessita permís per a aquesta ordre).
 import fs from 'node:fs';
 import path from 'node:path';
+import { execFileSync } from 'node:child_process';
 
 const ARREL = path.resolve(import.meta.dirname, '..');
 const P = f => path.join(ARREL, 'pendents', f);
@@ -49,3 +51,19 @@ fs.writeFileSync(path.join(ARREL, 'dades', 'resums.js'), `window.CANALS = ${JSON
 console.log(`${afegits} resums afegits · ${dades.videos.length} vídeos en total`);
 const queden = fs.readdirSync(path.join(ARREL, 'pendents')).filter(f => f.endsWith('.json'));
 if (queden.length) console.log(`Queden per resumir: ${queden.join(', ')}`);
+
+if (process.argv.includes('--push')) {
+  const git = (...a) => execFileSync('git', a, { cwd: ARREL, encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] });
+  try {
+    git('add', 'dades');
+    if (!git('diff', '--cached', '--name-only').trim()) console.log('Git: res a publicar.');
+    else {
+      git('commit', '-m', `Resums ${new Date().toLocaleDateString('sv-SE')}`);
+      git('push');
+      console.log('Git: commit i push fets (la web s\'actualitza en 1-2 minuts).');
+    }
+  } catch (e) {
+    console.log(`✗ Git ha fallat: ${(e.stderr || e.message).toString().trim()}`);
+    process.exitCode = 1;
+  }
+}
