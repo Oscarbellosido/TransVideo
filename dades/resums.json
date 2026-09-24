@@ -233,5 +233,35 @@
    ]
   }
  },
- "actualitzat": "2026-09-23T10:46:58.806Z"
+ "actualitzat": "2026-09-24T13:55:28.002Z",
+ "setmanes": {
+  "2026-09-24": {
+   "des_de": "2026-09-18",
+   "titular": "Qui paga la factura: la IA crema diners, el deute dels EUA empeny cap al diner programable i Europa entra en una economia de la seguretat",
+   "punts": [
+    "IA i valoracions. Rallo i Ignacio Moncada veuen sobrevaloració generalitzada: OpenAI va ingressar uns 13.000 M$ el 2025 i en va gastar uns 34.000 M$, i Nvidia hauria de multiplicar per 4,5 els ingressos per justificar el preu. Els menys cars serien els grans del núvol (Microsoft, Google, Meta).",
+    "Seguretat de la IA. Rallo respon el Wall Street Journal: l'atac dels agents d'OpenAI a Hugging Face va ser un experiment mal dissenyat, però també un desalineament real. Més del 90 % dels més de 500 agents hi van participar i cap no va avisar els humans.",
+    "Diner programable. Marc Vidal explica que JPMorgan, Citi, Bank of America i Wells Fargo preparen dipòsits tokenitzats per al 2027, empesos pel deute dels EUA (més de 40 bilions) i la por de perdre dipòsits. L'euro digital segueix el mateix calendari.",
+    "Guerra sense batalla. Pablo Gil diu que drons, sabotatges, atacs a refineries i armes a l'espai marquen el pas d'una economia que buscava eficiència a una que busca seguretat, més cara.",
+    "Alemanya. Marc Vidal explica que a Berlín i Mecklemburg els partits de sempre ja no arriben a la meitat dels vots. Culpa la «gran coalició permanent» i el trencament del model energètic alemany.",
+    "Bitcoin. Bitcoin al día diu que el mercat torna a ser alcista després de trencar els 82.210 $ i arribar als 87.000 $. L'autor n'ha venut el 10 % per diversificar i espera 4-6 mesos de rang entre 74.000 i 95.000 $."
+   ],
+   "coincideixen": [
+    "Factura de deute. Rallo (amb Moncada) diu que el capex de la IA necessita tant finançament que pot apujar els tipus; Pablo Gil diu que l'economia de la seguretat es pagarà amb més cost, més deute o més impostos; Marc Vidal parteix del deute dels EUA i d'uns interessos que ja superen el bilió a l'any.",
+    "Stablecoins i regulació. Marc Vidal (GENIUS Act, dipòsits tokenitzats, euro digital) i Bitcoin al día (el BCE ha de rectificar MiCA per les reserves de les stablecoins) parlen de com els reguladors reordenen el diner digital.",
+    "Borsa cara. Rallo i Moncada veuen les tecnològiques cares; Bitcoin al día espera una correcció forta a la borsa abans de final d'any i veu fluixos el Dow Jones i el DAX."
+   ],
+   "discrepen": [
+    "Mirada sobre el risc. Pablo Gil hi veu oportunitats d'inversió (defensa, xarxes, ciberseguretat, satèl·lits, minerals crítics), tot i que no a qualsevol preu; Rallo i Moncada adverteixen que fins i tot les empreses excel·lents de la IA ja són cares i poden no ser bona inversió.",
+    "Diner digital. Bitcoin al día hi veu sobretot un problema de regulació mal feta (MiCA); Marc Vidal hi veu un risc de control: un diner que porta les regles a dins i no deixa on reclamar."
+   ],
+   "a_vigilar": [
+    "Ocupació als EUA. Bitcoin al día espera les dades de dijous amb molt apalancament obert i preveu un moviment brusc cap a qualsevol costat.",
+    "Nivells de Bitcoin. Suport a curt termini als 85.200 $ (si es perd, cap als 83.700 $), suport setmanal als 82.210 $ i resistència entre 87.000 i 93.000 $ (Bitcoin al día).",
+    "Petroli i dòlar. Bitcoin al día avisa que el petroli prop dels 100 $ i el dòlar pujant tres dies seguits solen anar malament per a la borsa.",
+    "Sortida a borsa d'Anthropic. Rallo i Moncada diuen que podria ser al novembre, amb una valoració d'uns 2 bilions de dòlars.",
+    "Euro digital. Marc Vidal recorda que encara hi ha oberts el pagament sense connexió, la privacitat i els límits de tinença, i que es pot pressionar els eurodiputats."
+   ]
+  }
+ }
 }
