@@ -15,7 +15,8 @@ No fa servir API de pagament: els resums els escriu Claude en una tasca programa
 - `manifest.json`, `sw.js`, `icon*.png`, `icon.svg` — PWA instal·lable. Si canvies la llista SHELL de sw.js, puja la versió de CACHE.
 
 ## Procediment diari (el que fa la tasca programada)
-1. `node scripts/baixa.mjs` (vídeos dels últims 7 dies que encara no s'han resumit; així es recuperen els dies que la tasca no s'ha executat).
+1. `node scripts/baixa.mjs` (vídeos dels últims 7 dies que encara no s'han resumit, els més antics primer, com a molt 5 per execució
+   i 8 s entre vídeos; la resta, l'endemà. Així es recuperen els dies perduts sense provocar el bloqueig de YouTube).
    - Codi de sortida 2 = YouTube bloqueja les transcripcions (pàgina "Sorry"/CAPTCHA): l'script s'atura sense desar res dolent.
      Continua igualment amb els pendents que hi hagi (si n'hi ha) i digues-ho al missatge final. NO ho tornis a provar en bucle.
    - Els shorts descartats es desen a `dades/descartats.json` perquè no es tornin a consultar.

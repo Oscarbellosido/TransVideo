@@ -1,15 +1,19 @@
 // Baixa els vídeos nous dels canals (RSS) i en desa la transcripció a pendents/<id>.json.
 // Ús: node scripts/baixa.mjs [dies=7]
-// Finestra àmplia a propòsit: si un dia la tasca no s'executa (PC apagat), l'endemà recupera
-// els vídeos perduts. Els ja resumits (dades/resums.json) no es tornen a baixar.
+// Finestra àmplia a propòsit: si un dia la tasca no s'executa (PC apagat) o YouTube bloqueja, els dies
+// següents recupera els vídeos perduts, com a molt MAX_VIDEOS per execució i els més antics primer.
+// Els ja resumits (dades/resums.json) no es tornen a baixar.
 // Codi de sortida 2 = YouTube bloqueja les transcripcions (s'atura i ho torna a provar la propera vegada).
+// YouTube bloqueja la IP amb poques peticions seguides (el 24/9/2026 en van bastar ~13 vídeos): no pugis els límits.
 import fs from 'node:fs';
 import path from 'node:path';
 
 const ARREL = path.resolve(import.meta.dirname, '..');
 const DIES = Number(process.argv[2] || 7);
-const DURADA_MIN = 180; // segons: descarta els shorts
-const PAUSA_MS = 2500;  // entre vídeos, per no semblar un robot
+const DURADA_MIN = 180;  // segons: descarta els shorts
+const PAUSA_MS = 8000;   // entre vídeos, per no semblar un robot
+const MAX_VIDEOS = 5;    // transcripcions per execució; la resta, l'endemà
+const MAX_CONSULTES = 8; // vídeos consultats per execució (inclou els shorts que es descarten)
 const espera = ms => new Promise(r => setTimeout(r, ms));
 // YouTube torna una pàgina "Sorry…" (CAPTCHA) quan detecta massa peticions.
 class Bloqueig extends Error {}
@@ -66,17 +70,26 @@ async function transcripcio(id) {
 }
 
 const limit = Date.now() - DIES * 86400e3;
-let nous = 0, bloquejat = null;
+// 1. Candidats de tots els canals (l'RSS continua funcionant encara que YouTube bloquegi els subtítols).
+const candidats = [];
 for (const c of canals) {
-  if (bloquejat) break;
-  let videos;
-  try { videos = await llegeixFeed(c.canal); }
-  catch (e) { console.log(`✗ ${c.nom}: no s'ha pogut llegir el feed (${e.message})`); continue; }
-  for (const v of videos) {
-    if (new Date(v.data) < limit || fets.has(v.id) || descartats.has(v.id)) continue;
-    if (/#shorts?\b/i.test(v.titol)) { descartats.add(v.id); continue; }
+  try {
+    for (const v of await llegeixFeed(c.canal)) {
+      if (new Date(v.data) < limit || fets.has(v.id) || descartats.has(v.id)) continue;
+      if (/#shorts?\b/i.test(v.titol)) { descartats.add(v.id); continue; }
+      if (fs.existsSync(path.join(dirPendents, `${v.id}.json`))) continue;
+      candidats.push({ v, c });
+    }
+  } catch (e) { console.log(`✗ ${c.nom}: no s'ha pogut llegir el feed (${e.message})`); }
+}
+// 2. Els més antics primer, perquè cap no surti de la finestra de dies mentre s'espera torn.
+candidats.sort((a, b) => a.v.data.localeCompare(b.v.data));
+
+let nous = 0, consultes = 0, bloquejat = null;
+for (const { v, c } of candidats) {
+    if (nous >= MAX_VIDEOS || consultes >= MAX_CONSULTES) break;
     const fitxer = path.join(dirPendents, `${v.id}.json`);
-    if (fs.existsSync(fitxer)) continue;
+    consultes++;
     try {
       await espera(PAUSA_MS);
       const t = await transcripcio(v.id);
@@ -94,10 +107,11 @@ for (const c of canals) {
       if (e instanceof Bloqueig) { bloquejat = e.message; break; }
       console.log(`✗ ${c.nom}: ${v.titol} — ${e.message}`);
     }
-  }
 }
 fs.writeFileSync(fitxerDescartats, JSON.stringify([...descartats]));
 console.log(`\n${nous} vídeos nous a pendents/`);
+const queden = candidats.length - consultes;
+if (!bloquejat && queden > 0) console.log(`… En queden ${queden} per a la propera execució (màxim ${MAX_VIDEOS} vídeos per dia, per no provocar el bloqueig de YouTube).`);
 if (bloquejat) {
   console.log(`\n⛔ YOUTUBE BLOQUEJA LES TRANSCRIPCIONS (${bloquejat}). S'ha aturat per no empitjorar-ho.`);
   console.log(`   Els vídeos que falten es baixaran en la propera execució (finestra de ${DIES} dies).`);
