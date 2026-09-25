@@ -69,7 +69,10 @@ async function transcripcio(id) {
   return { durada, text: text || null, idioma: pista.languageCode };
 }
 
-const limit = Date.now() - DIES * 86400e3;
+// Decisió de l'usuari (25/9/2026): els vídeos publicats abans d'avui no es recuperen mai (se'n van perdre
+// del 24 i anteriors pel bloqueig de YouTube). Es comença pels del 25/9 en endavant.
+const INICI = new Date('2026-09-25T00:00:00+02:00').getTime();
+const limit = Math.max(Date.now() - DIES * 86400e3, INICI);
 // 1. Candidats de tots els canals (l'RSS continua funcionant encara que YouTube bloquegi els subtítols).
 const candidats = [];
 for (const c of canals) {
