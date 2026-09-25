@@ -55,6 +55,16 @@ No fa servir API de pagament: els resums els escriu Claude en una tasca programa
 amb missatge de diverses línies no encaixa amb cap permís i la tasca s'encalla). Qualsevol altra ordre (node -e, Get-Content,
 cat…) es queda esperant un permís que ningú no dona. Si afegeixes un pas nou al procediment, afegeix-ne el permís.
 
+## Qui depèn de les dades (no trencar)
+L'app **Economia** (`Programacio/Economia`, https://oscarbellosido.github.io/Economia/) llegeix cada dia
+`../TransVideo/dades/resums.json` des de GitHub Pages (targeta "Què diuen els divulgadors"). És una app estàtica: si canvia
+l'esquema, es trenca i no es pot arreglar sola. Abans de canviar-lo, avisa l'usuari perquè ho adapti a Economia.
+Esquema del qual depèn: `actualitzat` (ISO) · `videos[].{id, canal, titol, data, durada, resum, punts, dades, conclusio, temes, lot}`
+(`punts`: string o `{text, t}`, `t` opcional; `dades`/`conclusio` poden faltar) · `dies[data] = {titular, punts}` (clau = dia de
+generació) · `setmanes[data] = {des_de, titular, punts, coincideixen, discrepen, a_vigilar}` (clau = final del període).
+Afegir camps nous no trenca res; canviar el nom o el tipus d'un camp, o treure'n un, sí.
+Economia també llegeix `transcripcions/` (local), amb el format `AAAA-MM-DD_canal_id.txt`.
+
 ## Regles dels resums
 - En català, frases curtes i clares. Sense ideologia afegida: explica què diu l'autor, no si té raó.
 - No inventar res: ni noms (el presentador de Bitcoin al día no diu el seu nom), ni xifres, ni atribuir a un canal el que diu un altre.
