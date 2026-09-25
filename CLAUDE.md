@@ -10,7 +10,7 @@ No fa servir API de pagament: els resums els escriu Claude en una tasca programa
 - `canals.json` — canals (id intern, nom, channel_id de YouTube, color). Per afegir-ne un, cal el `channel_id` (UC…).
 - `scripts/baixa.mjs` — llegeix l'RSS de cada canal i desa la transcripció dels vídeos nous a `pendents/<id>.json`. Descarta els shorts (< 3 min).
 - `scripts/publica.mjs` — fusiona `pendents/<id>.resum.json`, `pendents/dia.json` i `pendents/setmana.json` amb `dades/resums.json`, regenera `dades/resums.js` i esborra els pendents.
-- `transcripcions/` — arxiu LOCAL de totes les transcripcions (`AAAA-MM-DD_canal_id.txt`, amb marques [m:ss]); publica.mjs hi mou el .txt de cada vídeo resumit. No es puja mai (.gitignore). La fa servir també l'app Economia. `scripts/recupera-transcripcions.mjs` torna a baixar les que faltin (ús puntual, s'atura si YouTube bloqueja).
+- `transcripcions/` — arxiu LOCAL de totes les transcripcions (`AAAA-MM-DD_canal_id.txt`, amb marques [m:ss]); publica.mjs hi mou el .txt de cada vídeo resumit. No es puja mai (.gitignore). La fa servir també l'app Economia. No tornis a baixar transcripcions de vídeos ja resumits: YouTube bloqueja la IP si es fan moltes peticions (les del 16-24/9 es van reconstruir dels registres locals; les 7 primeres no tenen marques de temps).
 - `index.html` — la pàgina. Llegeix `dades/resums.js`, per això funciona amb doble clic (file://). Té àudio (veu del navegador), resum setmanal i enllaços al minut exacte.
 - `manifest.json`, `sw.js`, `icon*.png`, `icon.svg` — PWA instal·lable. Si canvies la llista SHELL de sw.js, puja la versió de CACHE.
 
