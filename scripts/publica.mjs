@@ -27,7 +27,13 @@ for (const f of fs.readdirSync(path.join(ARREL, 'pendents')).filter(f => f.endsW
   dades.videos = dades.videos.filter(v => v.id !== id);
   dades.videos.push({ ...meta, ...resum, lot });
   fs.unlinkSync(P(f)); fs.unlinkSync(P(`${id}.json`));
-  if (fs.existsSync(P(`${id}.txt`))) fs.unlinkSync(P(`${id}.txt`));
+  // La transcripció es guarda a transcripcions/ (només en aquest PC, no es puja: .gitignore)
+  // perquè altres apps (p. ex. Economia) la puguin consultar.
+  if (fs.existsSync(P(`${id}.txt`))) {
+    const arxiu = path.join(ARREL, 'transcripcions');
+    fs.mkdirSync(arxiu, { recursive: true });
+    fs.renameSync(P(`${id}.txt`), path.join(arxiu, `${meta.data.slice(0, 10)}_${meta.canal}_${id}.txt`));
+  }
   afegits++;
 }
 if (fs.existsSync(P('dia.json'))) {
