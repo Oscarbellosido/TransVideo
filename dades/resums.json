@@ -1,6 +1,171 @@
 {
  "videos": [
   {
+   "id": "jRU76tYulxw",
+   "titol": "Bitcoin. Importante el cierre semanal. Bitget reanudará los retiros a partir del lunes.",
+   "data": "2026-09-26T08:24:51+00:00",
+   "canal": "btcdia",
+   "durada": 918,
+   "idioma": "es",
+   "resum": "Bitget eleva el robatori a 388 milions de dòlars, ja cobert pel seu fons, i reprendrà els retirs de manera escalonada a partir de dilluns 28. Bitcoin està en un moviment lateral al voltant dels 84.000 $ i el tancament setmanal de diumenge decidirà si la ruptura dels 82.210 $ es consolida.",
+   "punts": [
+    {
+     "text": "Bitget xifra el robatori en 388 milions de dòlars en actius, coberts pel fons de l'exchange. Ha corregit la vulnerabilitat i l'exchange funciona, excepte els retirs.",
+     "t": 6
+    },
+    {
+     "text": "Calendari de retirs: el 28 només la xarxa Bitcoin; el 29 ETH (Ethereum, BNB Smart Chain, Arbitrum, Base i Optimism); el 30 USDT; i el 2 d'octubre, la resta de tokens i el diner fiat.",
+     "t": 37
+    },
+    {
+     "text": "Strategy demana als accionistes poder pagar dividends diaris a les accions preferents (abans van passar de mensuals a quinzenals), per donar-los més liquiditat i atreure capital.",
+     "t": 130
+    },
+    {
+     "text": "L'impuls de la setmana passada va venir de la SEC i la CFTC, que van anunciar regulació per a almenys 5 anys quan semblava que la llei Clarity s'encallava. Sense notícies noves, Bitcoin seguirà les borses i les dades dels EUA de la setmana vinent.",
+     "t": 346
+    },
+    {
+     "text": "Tancament setmanal: si és feble (zona dels 83.000 $ o prop dels 82.210 $), la setmana vinent podria baixar cap als 81.320 $ o els 80.291 $. L'autor creu que el mercat està en correcció i buscarà suport més avall.",
+     "t": 409
+    },
+    {
+     "text": "En el gràfic horari, Bitcoin fa un lateral amb el punt mitjà als 84.040 $: el cap de setmana decidirà si va cap als 86.300 $ o cap als 82.210 $.",
+     "t": 502
+    },
+    {
+     "text": "Altcoins: la gent busca gangues, fins i tot en tokens sense fonaments. Backpack va tocar 1,40 $ i ara és a 1,17 $, BGB torna al nivell d'abans del hackeig i Zcash perdria sentit si Bitcoin tingués transaccions privades.",
+     "t": 563
+    }
+   ],
+   "dades": [
+    "Robatori a Bitget: 388 milions de dòlars",
+    "Retirs de Bitget: del 28 de setembre al 2 d'octubre",
+    "Bitcoin: 84.056 $; nivell clau: 82.210 $",
+    "Suports inferiors: 81.320 $ i 80.291 $; resistència: 86.300 $"
+   ],
+   "conclusio": "Cal mirar el tancament setmanal de diumenge i el mensual de la setmana vinent. Un tancament clar per sobre dels 82.210 $ confirmaria la ruptura; si no, hi pot haver correcció abans d'una nova pujada.",
+   "temes": [
+    "bitcoin",
+    "bitget",
+    "strategy",
+    "regulació",
+    "altcoins",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-09-26"
+  },
+  {
+   "id": "iWcJLl4deps",
+   "titol": "Franco desahució a Maricarmen: la izquierda dicta sentencia",
+   "data": "2026-09-25T20:00:30+00:00",
+   "canal": "rallo",
+   "durada": 1323,
+   "idioma": "es",
+   "resum": "Rallo sosté que l'esquerra ha reescrit la història per culpar el franquisme del desnonament de Maricarmen. Segons ell, va ser la llei franquista de lloguers la que la va protegir 70 anys, i la llei del PSOE de 1994 la que va fer caducar el contracte de renda antiga el 2007.",
+   "punts": [
+    {
+     "text": "Maricarmen, de 87 anys, vivia des de 1956 en un pis del Retiro amb renda antiga gràcies a la Llei d'Arrendaments Urbans franquista, amb pròrroga forçosa i subrogació per defunció.",
+     "t": 126
+    },
+    {
+     "text": "El text refós de 1964 permetia dues subrogacions indefinides: primer la mare (1960) i després la filla, que s'hauria pogut quedar al pis de per vida.",
+     "t": 188
+    },
+    {
+     "text": "El decret Boyer (1985) va treure la pròrroga forçosa només als contractes nous. La llei de 1994 de Felipe González va limitar a 2 anys la subrogació dels fills, llevat d'una discapacitat del 65% o d'una subrogació feta abans del 31/12/2004.",
+     "t": 250
+    },
+    {
+     "text": "La mare va morir el novembre de 2005 i Maricarmen té un 50% de discapacitat, de manera que el contracte es va extingir el novembre de 2007. Els nous propietaris van pujar el lloguer a preu de mercat.",
+     "t": 373
+    },
+    {
+     "text": "Rallo desmunta la tesi d'eldiario.es i de David Broncano (TVE) que el problema ve del fet que les dones no podien signar contractes: la llei franquista mantenia les condicions per al cònjuge i els fills, i la de 1994 limita els fills a 2 anys sigui quina sigui la subrogació.",
+     "t": 590
+    },
+    {
+     "text": "Segons ell, fins i tot si la mare hagués signat el contracte el 1956, la renda antiga s'hauria extingit igualment el 2007.",
+     "t": 1053
+    },
+    {
+     "text": "Crítica de fons: la llei franquista va expropiar de fet els pisos, que es van degradar perquè ningú no hi invertia, i va frenar la construcció per llogar. El franquisme almenys feia habitatge públic; el govern actual, segons Rallo, ni construeix ni deixa construir.",
+     "t": 1146
+    }
+   ],
+   "dades": [
+    "Contracte signat el 3/9/1956; subrogació de la mare el 1960",
+    "Llei de 1994: fills subrogats només 2 anys (excepte discapacitat ≥65% o subrogació abans del 31/12/2004)",
+    "Discapacitat de Maricarmen: 50%; renda antiga extingida el novembre de 2007",
+    "Renda antiga: uns 500 € al mes"
+   ],
+   "conclusio": "Per a Rallo, tornar a la llei de lloguers franquista destruiria encara més el mercat. La crisi d'habitatge requereix més construcció, privada o pública, i no reescriure la història.",
+   "temes": [
+    "habitatge",
+    "lloguer",
+    "renda antiga",
+    "psoe",
+    "franquisme",
+    "mitjans"
+   ],
+   "lot": "2026-09-26"
+  },
+  {
+   "id": "dDKDlrvYlgc",
+   "titol": "Hackeo de Bitget. USDT vuelve a casa (Bitcoin). Transacciones privadas en la red  de Bitcoin.",
+   "data": "2026-09-25T09:11:05+00:00",
+   "canal": "btcdia",
+   "durada": 870,
+   "idioma": "es",
+   "resum": "Bitget ha patit un hackeig de 352 milions de dòlars a les carteres calentes i ha suspès els retirs, però un fons de cobertura cobreix les pèrdues i el mercat ho ha pres amb calma. A més, hi ha dues notícies positives per a Bitcoin: USDT hi torna i es treballa en transaccions privades sense tocar el protocol. Bitcoin es manté a prop dels 84.300 $ i imita el S&P 500.",
+   "punts": [
+    {
+     "text": "Bitget confirma un robatori de 352 milions de dòlars a les carteres calentes (les dels retirs diaris); les fredes no s'han vist afectades i el fons de cobertura de l'exchange cobreix les pèrdues. Els retirs estan suspesos.",
+     "t": 6
+    },
+    {
+     "text": "L'autor recorda que abans ja van hackejar Binance i altres exchanges, i insisteix a diversificar en diversos exchanges: qui només tingués diners a Bitget ara no els pot treure.",
+     "t": 127
+    },
+    {
+     "text": "El mercat ho ha pres amb calma: el token BGB ha caigut poc i rebota un 0,65%, i Bitcoin no s'ha vist afectat.",
+     "t": 158
+    },
+    {
+     "text": "Paolo Ardoino, CEO de Tether, diu que USDT «torna a casa», a Bitcoin, amb Lightning Network; per a l'autor és positiu perquè genera comissions per als miners quan quedin pocs bitcoins nous per emetre.",
+     "t": 251
+    },
+    {
+     "text": "Una proposta vol portar transaccions privades a Bitcoin, a l'estil de Zcash, sense cap fork ni canvi de consens.",
+     "t": 312
+    },
+    {
+     "text": "Borses: el S&P 500 i el Nasdaq aguanten, però el Dow Jones i el DAX mostren debilitat; el petroli, a 105,17 $ després de tocar 108,23 $, pressiona la inflació. L'autor no se'n refia i creu que, quan el Nasdaq giri, hi haurà una correcció important.",
+     "t": 405
+    },
+    {
+     "text": "Bitcoin a 84.336 $: resistència clau als 84.750 $ i suport als 83.240 $; si el perd, com a mínim 82.210 $, i després 81.630 $ i 80.900 $. El tancament setmanal dirà si la ruptura dels 82.210 $ és clara.",
+     "t": 506
+    }
+   ],
+   "dades": [
+    "Hackeig de Bitget: 352 milions de dòlars",
+    "Bitcoin: 84.336 $",
+    "Petroli: 105,17 $ (màxim d'ahir, 108,23 $)",
+    "Suports: 83.240 $ i 82.210 $; resistència: 84.750 $"
+   ],
+   "conclusio": "Els hackejos d'exchanges seguiran passant: cal repartir els diners en diversos exchanges. Per a Bitcoin, el que compta és el tancament setmanal per sobre dels 82.210 $.",
+   "temes": [
+    "bitcoin",
+    "bitget",
+    "hackeig",
+    "tether",
+    "privacitat",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-09-26"
+  },
+  {
    "id": "JnQOECvTkJ8",
    "titol": "Bitcoin. Avances cuánticos. Mercados empeorando perspectivas. Datos de empleo hoy.",
    "data": "2026-09-24T08:17:00+00:00",
@@ -923,9 +1088,21 @@
     "Alemanya i Espanya. Rallo atribueix la patacada de la CDU (fora del Parlament de Mecklenburg amb un 4,9 %) a les promeses incomplertes de Merz i al cordó sanitari contra l'AfD, i diu que Feijóo l'ha evitat obrint-se a pactar amb Vox.",
     "Habitatge. Marc Vidal explica que els joves de 30 anys estudien i guanyen més que el 1984, però als EUA només un 29 % té casa (un 47 % aleshores). El mur és l'entrada: a Espanya equival a quatre anys de sou."
    ]
+  },
+  "2026-09-26": {
+   "titular": "Bitget encaixa un hackeig de 388 milions sense arrossegar Bitcoin, i Rallo carrega contra la versió de l'esquerra sobre el desnonament de Maricarmen",
+   "punts": [
+    "Hackeig de Bitget. Bitcoin al día explica en dos vídeos el robatori a les carteres calentes de Bitget: primer 352 milions de dòlars i després 388, coberts pel fons de l'exchange. Els retirs tornen de manera escalonada del 28 de setembre al 2 d'octubre.",
+    "Diversificar. El missatge de Bitcoin al día és repartir els diners en diversos exchanges: mentre duri la suspensió, qui només tingui fons a Bitget no els pot treure.",
+    "Bitcoin. Fa un lateral al voltant dels 84.000 $ i segueix el S&P 500. El nivell clau és 82.210 $: un tancament setmanal feble el diumenge podria dur-lo cap als 81.300 $ o els 80.300 $.",
+    "Bones notícies de fons. Tether vol tornar a moure USDT sobre Bitcoin amb Lightning, una proposta vol transaccions privades sense canviar el protocol i Strategy vol pagar dividends diaris a les preferents.",
+    "Borses i petroli. Bitcoin al día veu debilitat al Dow Jones i al DAX i un petroli per sobre dels 105 $ que pressiona la inflació. Creu que, quan el Nasdaq giri, hi haurà una correcció important.",
+    "Habitatge. Rallo sosté que va ser la llei de lloguers franquista la que va protegir Maricarmen durant 70 anys. Va ser la llei del PSOE de 1994 la que va fer caducar el contracte el 2007. Diu que eldiario.es i David Broncano s'equivoquen en culpar-ne el franquisme.",
+    "Sense punts de contacte. Avui els dos canals parlen de temes diferents (cripto i habitatge) i no hi ha cap coincidència ni discrepància directa."
+   ]
   }
  },
- "actualitzat": "2026-09-25T10:44:37.568Z",
+ "actualitzat": "2026-09-26T10:58:17.547Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
