@@ -7,10 +7,10 @@
    "canal": "rallo",
    "durada": 1155,
    "idioma": "es",
-   "resum": "Rallo explica que Francia s'acosta a una crisi de deute: els tipus del bo a 10 anys ja superen el 4,7%, el nivell més alt des del 2008, i el governador del Banc de França ha avisat que el BCE no rescatarà l'Estat francès si no fa primer els deures fiscals.",
+   "resum": "Rallo explica que França s'acosta a una crisi de deute: els tipus del bo a 10 anys ja superen el 4,7%, el nivell més alt des del 2008, i el governador del Banc de França ha avisat que el BCE no rescatarà l'Estat francès si no fa primer els deures fiscals.",
    "punts": [
     {
-     "text": "El governador del Banc de França, Emanuel Mulín, ha advertit que Francia ha d'evitar una crisi de deute abans de les eleccions presidencials d'abril-maig de 2027 i que el BCE no ha de donar-se per fet com a rescatador.",
+     "text": "El governador del Banc de França, Emanuel Mulín, ha advertit que França ha d'evitar una crisi de deute abans de les eleccions presidencials d'abril-maig de 2027 i que el BCE no ha de donar-se per fet com a rescatador.",
      "t": 64
     },
     {
@@ -34,7 +34,7 @@
      "t": 366
     },
     {
-     "text": "El BCE té l'instrument de protecció de la transmissió (creat el juliol de 2022) per comprar deute sense límit fixat, però només si l'Estat compleix el marc fiscal europeu; Francia està sotmesa a un procediment per dèficit excessiu des de juliol de 2024, cosa que li bloquejaria l'ajuda si no aprova el pla d'ajust.",
+     "text": "El BCE té l'instrument de protecció de la transmissió (creat el juliol de 2022) per comprar deute sense límit fixat, però només si l'Estat compleix el marc fiscal europeu; França està sotmesa a un procediment per dèficit excessiu des de juliol de 2024, cosa que li bloquejaria l'ajuda si no aprova el pla d'ajust.",
      "t": 493
     },
     {
@@ -42,7 +42,7 @@
      "t": 704
     },
     {
-     "text": "Compara la situació amb Alemanya: Francia amenaça la UE des del vessant fiscal, mentre Alemanya ho fa des del vessant polític, amb una CDU i un SPD sense majoria i l'auge d'Alternativa per Alemanya, eurosceptica però partidària del lliure comerç i la lliure circulació.",
+     "text": "Compara la situació amb Alemanya: França amenaça la UE des del vessant fiscal, mentre Alemanya ho fa des del vessant polític, amb una CDU i un SPD sense majoria i l'auge d'Alternativa per Alemanya, eurosceptica però partidària del lliure comerç i la lliure circulació.",
      "t": 935
     }
    ],
@@ -52,7 +52,7 @@
     "Dèficit 2026 estimat: 5,4%",
     "Pla d'estalvi proposat: 54.000 milions d'euros"
    ],
-   "conclusio": "Rallo conclou que cap dels grans candidats a la presidència francesa (Le Pen, Mélenchon) té un pla creïble per corregir el dèficit, i que si Francia no fa un ajust real, el BCE no podrà intervenir per aturar una crisi de deute que amenaçaria l'eurozona.",
+   "conclusio": "Rallo conclou que cap dels grans candidats a la presidència francesa (Le Pen, Mélenchon) té un pla creïble per corregir el dèficit, i que si França no fa un ajust real, el BCE no podrà intervenir per aturar una crisi de deute que amenaçaria l'eurozona.",
    "temes": [
     "deute públic",
     "francia",
@@ -1165,7 +1165,7 @@
    ]
   },
   "2026-09-27": {
-   "titular": "Rallo alerta que Francia s'acosta a una crisi de deute i que el BCE no la rescatarà si no fa ajustos",
+   "titular": "Rallo alerta que França s'acosta a una crisi de deute i que el BCE no la rescatarà si no fa ajustos",
    "punts": [
     "Deute francès: el bo a 10 anys paga ja el 4,7%, el nivell més alt des del 2008, per sobre fins i tot del de Grècia.",
     "Sense xarxa de seguretat: el governador del Banc de França avisa que el BCE no comprarà deute francès si abans no s'aprova un ajust fiscal seriós.",
@@ -1173,7 +1173,7 @@
    ]
   }
  },
- "actualitzat": "2026-09-27T08:21:32.782Z",
+ "actualitzat": "2026-09-27T08:24:36.415Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
@@ -1203,14 +1203,14 @@
     "Euro digital. Marc Vidal recorda que encara hi ha oberts el pagament sense connexió, la privacitat i els límits de tinença, i que es pot pressionar els eurodiputats."
    ]
   },
-  "2026-09-27 (avui)": {
-   "des_de": "2026-09-21 (fa 6 dies)",
-   "titular": "Bitcoin es refà d'un hackeig de Bitget i trenca a l'alça mentre Alemanya, la intel·ligència artificial i ara Francia posen a prova la confiança dels mercats",
+  "2026-09-27": {
+   "des_de": "2026-09-21",
+   "titular": "Bitcoin es refà d'un hackeig de Bitget i trenca a l'alça mentre Alemanya, la intel·ligència artificial i ara França posen a prova la confiança dels mercats",
    "punts": [
     "Bitcoin. Bitcoin al día explica que el preu ha trencat els 82.210 $ i ha arribat als 87.000 $; l'autor n'ha venut el 10 % per diversificar. Un hackeig a Bitget (352 → 388 milions de dòlars) no l'ha arrossegat, i la setmana acaba en lateral prop dels 84.000 $ pendent del tancament de diumenge.",
     "Alemanya. Marc Vidal i Rallo analitzen la debacle de la CDU (fora del Parlament de Mecklenburg amb un 4,9 %) i l'ascens de l'AfD i l'esquerra radical a Berlín, i hi veuen la fi del consens dels partits tradicionals.",
     "Intel·ligència artificial. Rallo, amb l'inversor Ignacio Moncada, qüestiona la valoració d'OpenAI, Anthropic i Nvidia i respon al Wall Street Journal sobre l'atac dels agents d'OpenAI a Hugging Face; Marc Vidal desmunta els mites de l'AGI imminent, l'accés universal i la riquesa fàcil.",
-    "Deute públic. Marc Vidal explica que els grans bancs dels EUA preparen dipòsits tokenitzats per al 2027 empesos pel deute nord-americà; Rallo tanca la setmana alertant que Francia s'acosta a una crisi de deute (bo a 10 anys al 4,7 %) i que el BCE no la rescatarà si no fa ajustos.",
+    "Deute públic. Marc Vidal explica que els grans bancs dels EUA preparen dipòsits tokenitzats per al 2027 empesos pel deute nord-americà; Rallo tanca la setmana alertant que França s'acosta a una crisi de deute (bo a 10 anys al 4,7 %) i que el BCE no la rescatarà si no fa ajustos.",
     "Geopolítica. Pablo Gil parla d'una «guerra sense batalla»: drons, sabotatges i armes a l'espai marquen el pas cap a una economia de la seguretat, més cara.",
     "Habitatge. Rallo desmunta la versió sobre el desnonament de Maricarmen: no va ser la llei franquista sinó la del PSOE de 1994 la que va fer caducar la seva renda antiga el 2007."
    ],
