@@ -115,6 +115,16 @@ fs.writeFileSync(fitxerDescartats, JSON.stringify([...descartats]));
 console.log(`\n${nous} vídeos nous a pendents/`);
 const queden = candidats.length - consultes;
 if (!bloquejat && queden > 0) console.log(`… En queden ${queden} per a la propera execució (màxim ${MAX_VIDEOS} vídeos per dia, per no provocar el bloqueig de YouTube).`);
+// Data d'avui i si toca resum setmanal: així la tasca no ha d'executar cap ordre per saber-ho.
+{
+  const avui = new Date().toLocaleDateString('sv-SE');
+  const diaSetmana = new Date().toLocaleDateString('ca', { weekday: 'long' });
+  const setmanes = fs.existsSync(fitxerResums) ? Object.keys(JSON.parse(fs.readFileSync(fitxerResums, 'utf8')).setmanes || {}).sort() : [];
+  const ultima = setmanes.at(-1);
+  const diesDes = ultima ? Math.round((new Date(avui) - new Date(ultima)) / 864e5) : Infinity;
+  const toca = ultima !== avui && (new Date().getDay() === 0 || diesDes >= 7);
+  console.log(`\n📅 Avui: ${avui} (${diaSetmana}). Resum setmanal: ${toca ? 'TOCA' : 'no toca'} (últim: ${ultima || 'cap'}).`);
+}
 if (bloquejat) {
   console.log(`\n⛔ YOUTUBE BLOQUEJA LES TRANSCRIPCIONS (${bloquejat}). S'ha aturat per no empitjorar-ho.`);
   console.log(`   Els vídeos que falten es baixaran en la propera execució (finestra de ${DIES} dies).`);

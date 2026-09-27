@@ -36,8 +36,9 @@ No fa servir API de pagament: els resums els escriu Claude en una tasca programa
 3. Escriu `pendents/dia.json` amb el resum conjunt: `{ "data": "AAAA-MM-DD" (avui), "titular": "...", "punts": ["Tema. Text…"] }`.
    Cada punt comença amb una etiqueta curta acabada en punt o dos punts (la pàgina la posa en negreta).
    Creua els canals: on coincideixen i on discrepen. Si avui no hi ha cap vídeo nou, no l'escriguis.
-4. **Resum setmanal**: si avui és diumenge, o si l'última entrada de `setmanes` a `dades/resums.json` té més de 7 dies
-   (o no n'hi ha cap), escriu `pendents/setmana.json` a partir dels resums (no de les transcripcions) dels vídeos publicats
+4. **Resum setmanal**: `baixa.mjs` acaba amb una línia "📅 Avui: AAAA-MM-DD (dia). Resum setmanal: TOCA / no toca".
+   Fes-li cas: NO calculis la data ni el dia de la setmana amb cap ordre (date, node -e… no tenen permís i la tasca s'encalla).
+   Si TOCA, escriu `pendents/setmana.json` a partir dels resums (no de les transcripcions) dels vídeos publicats
    els últims 7 dies, inclosos els d'avui:
    ```json
    { "data": "AAAA-MM-DD (avui)", "des_de": "AAAA-MM-DD (fa 6 dies)",
