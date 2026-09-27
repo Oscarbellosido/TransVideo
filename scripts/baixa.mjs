@@ -120,6 +120,10 @@ for (const { v, c } of candidats) {
 }
 fs.writeFileSync(fitxerDescartats, JSON.stringify([...descartats]));
 console.log(`\n${nous} vídeos nous a pendents/`);
+// Tots els pendents de resumir (també els d'una execució anterior que va quedar a mitges).
+const perResumir = fs.readdirSync(dirPendents).filter(f => /^[\w-]{11}\.json$/.test(f)).map(f => f.slice(0, 11));
+if (perResumir.length) console.log(`Per resumir (llegeix pendents/<id>.txt): ${perResumir.map(id =>
+  id + (fs.existsSync(path.join(dirPendents, `${id}.resum.json`)) ? ' (ja té un .resum.json a mitges)' : '')).join(', ')}`);
 const queden = candidats.length - consultes;
 if (!bloquejat && queden > 0) console.log(`… En queden ${queden} per a la propera execució (màxim ${MAX_VIDEOS} vídeos per dia, per no provocar el bloqueig de YouTube).`);
 // Data d'avui i si toca resum setmanal: així la tasca no ha d'executar cap ordre per saber-ho.
