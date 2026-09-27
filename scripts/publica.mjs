@@ -14,15 +14,24 @@ const fitxer = path.join(ARREL, 'dades', 'resums.json');
 const dades = fs.existsSync(fitxer) ? JSON.parse(fs.readFileSync(fitxer, 'utf8')) : { videos: [], dies: {} };
 dades.setmanes ||= {};
 
+// Les dates han de ser AAAA-MM-DD exactes: altres apps (Economia) en depenen. Si el model hi afegeix
+// text ("2026-09-27 (avui)"), se'n treu la data; si no n'hi ha cap, s'atura.
+const nomesData = (x, on) => {
+  const m = String(x ?? '').match(/\d{4}-\d{2}-\d{2}/);
+  if (!m) throw new Error(`Data no vàlida a ${on}: "${x}"`);
+  if (m[0] !== x) console.log(`⚠ Data corregida a ${on}: "${x}" → "${m[0]}"`);
+  return m[0];
+};
 // Data del lot: la del resum del dia si n'hi ha, si no la d'avui (hora local).
 const avui = new Date().toLocaleDateString('sv-SE');
-const lot = fs.existsSync(P('dia.json')) ? JSON.parse(fs.readFileSync(P('dia.json'), 'utf8')).data : avui;
+const lot = fs.existsSync(P('dia.json')) ? nomesData(JSON.parse(fs.readFileSync(P('dia.json'), 'utf8')).data, 'dia.json') : avui;
 let afegits = 0;
 for (const f of fs.readdirSync(path.join(ARREL, 'pendents')).filter(f => f.endsWith('.resum.json'))) {
   const id = f.replace('.resum.json', '');
   if (!fs.existsSync(P(`${id}.json`))) { console.log(`✗ falta pendents/${id}.json`); continue; }
   const { text, descripcio, ...meta } = JSON.parse(fs.readFileSync(P(`${id}.json`), 'utf8'));
   const resum = JSON.parse(fs.readFileSync(P(f), 'utf8'));
+  if (typeof resum.resum !== 'string' || !Array.isArray(resum.punts)) { console.log(`✗ ${f}: falta "resum" o "punts"; no es publica`); continue; }
   delete resum.id;
   dades.videos = dades.videos.filter(v => v.id !== id);
   dades.videos.push({ ...meta, ...resum, lot });
@@ -38,13 +47,14 @@ for (const f of fs.readdirSync(path.join(ARREL, 'pendents')).filter(f => f.endsW
 }
 if (fs.existsSync(P('dia.json'))) {
   const dia = JSON.parse(fs.readFileSync(P('dia.json'), 'utf8'));
-  dades.dies[dia.data] = { titular: dia.titular, punts: dia.punts };
+  dades.dies[nomesData(dia.data, 'dia.json')] = { titular: dia.titular, punts: dia.punts };
   fs.unlinkSync(P('dia.json'));
   console.log(`✓ resum del dia ${dia.data}`);
 }
 if (fs.existsSync(P('setmana.json'))) {
   const { data, ...setmana } = JSON.parse(fs.readFileSync(P('setmana.json'), 'utf8'));
-  dades.setmanes[data] = setmana;
+  setmana.des_de = nomesData(setmana.des_de, 'setmana.json (des_de)');
+  dades.setmanes[nomesData(data, 'setmana.json')] = setmana;
   fs.unlinkSync(P('setmana.json'));
   console.log(`✓ resum setmanal ${setmana.des_de} → ${data}`);
 }

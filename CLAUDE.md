@@ -41,13 +41,15 @@ No fa servir API de pagament: els resums els escriu Claude en una tasca programa
    Si TOCA, escriu `pendents/setmana.json` a partir dels resums (no de les transcripcions) dels vídeos publicats
    els últims 7 dies, inclosos els d'avui:
    ```json
-   { "data": "AAAA-MM-DD (avui)", "des_de": "AAAA-MM-DD (fa 6 dies)",
+   { "data": "2026-09-27", "des_de": "2026-09-21",
      "titular": "la idea de la setmana",
      "punts": ["Tema. 4-6 temes que han marcat la setmana, dient quin canal ho diu"],
      "coincideixen": ["Tema. on coincideixen dos o més canals"],
      "discrepen": ["Tema. on diuen coses diferents (qui diu què)"],
      "a_vigilar": ["Tema. dates, dades i nivells que els autors han dit que cal mirar la setmana vinent"] }
    ```
+   `data` = avui i `des_de` = fa 6 dies, NOMÉS en format AAAA-MM-DD, sense cap text afegit (Economia en depèn). Escriu en català
+   correcte (França, Alemanya, Brussel·les…), encara que la transcripció sigui en castellà.
 5. `node scripts/publica.mjs --push` — SEMPRE, encara que no hi hagi vídeos nous: fusiona, actualitza la data `actualitzat`
    (la pàgina avisa si fa més de 36 h que no canvia) i fa ell mateix git add/commit/push de `dades/`. No facis cap commit a mà.
 
