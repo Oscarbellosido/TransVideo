@@ -1,6 +1,69 @@
 {
  "videos": [
   {
+   "id": "u1nq9iWJml4",
+   "titol": "¿Está Francia al borde de una crisis de deuda?",
+   "data": "2026-09-26T19:00:01+00:00",
+   "canal": "rallo",
+   "durada": 1155,
+   "idioma": "es",
+   "resum": "Rallo explica que Francia s'acosta a una crisi de deute: els tipus del bo a 10 anys ja superen el 4,7%, el nivell més alt des del 2008, i el governador del Banc de França ha avisat que el BCE no rescatarà l'Estat francès si no fa primer els deures fiscals.",
+   "punts": [
+    {
+     "text": "El governador del Banc de França, Emanuel Mulín, ha advertit que Francia ha d'evitar una crisi de deute abans de les eleccions presidencials d'abril-maig de 2027 i que el BCE no ha de donar-se per fet com a rescatador.",
+     "t": 64
+    },
+    {
+     "text": "El deute públic francès ha passat d'estar per sota del 100% del PIB el 2019 a prop del 120% aquest any: és el tercer més alt de l'eurozona, darrere de Grècia i Itàlia, però pujant mentre el de Grècia baixa.",
+     "t": 155
+    },
+    {
+     "text": "El dèficit previst per 2026 ha pujat del 4,7% al 5% i ara es reconeix que arribarà al 5,4%; per 2027 es torna a prometre un 5% tot i els incompliments recurrents del passat.",
+     "t": 185
+    },
+    {
+     "text": "El bo francès a 10 anys paga ja el 4,7%, per sobre del de Grècia (4,4%) i amb una prima de risc de més de 100 punts bàsics sobre Alemanya.",
+     "t": 216
+    },
+    {
+     "text": "La factura d'interessos del deute passarà de 65.000 milions d'euros aquest any a uns 75.000 milions el 2027, uns 10.000 milions més de despesa anual només en interessos.",
+     "t": 306
+    },
+    {
+     "text": "El govern de Lecornu presentarà l'1 d'octubre un pressupost per 2027 amb un pla d'estalvi de 54.000 milions d'euros, però ni així es contindria la pujada del deute ni de la pressió fiscal, i la seva aprovació a l'Assemblea Nacional no està garantida.",
+     "t": 366
+    },
+    {
+     "text": "El BCE té l'instrument de protecció de la transmissió (creat el juliol de 2022) per comprar deute sense límit fixat, però només si l'Estat compleix el marc fiscal europeu; Francia està sotmesa a un procediment per dèficit excessiu des de juliol de 2024, cosa que li bloquejaria l'ajuda si no aprova el pla d'ajust.",
+     "t": 493
+    },
+    {
+     "text": "Rallo critica la proposta de Mélenchon d'impagar el deute públic en mans del BCE per ser un despropòsit i il·legal (article 123 del Tractat de la UE), i assenyala que ni l'esquerra de Mélenchon ni la dreta de Le Pen tenen un pla creïble per corregir el dèficit.",
+     "t": 704
+    },
+    {
+     "text": "Compara la situació amb Alemanya: Francia amenaça la UE des del vessant fiscal, mentre Alemanya ho fa des del vessant polític, amb una CDU i un SPD sense majoria i l'auge d'Alternativa per Alemanya, eurosceptica però partidària del lliure comerç i la lliure circulació.",
+     "t": 935
+    }
+   ],
+   "dades": [
+    "Deute públic francès: ~120% del PIB",
+    "Bo a 10 anys: 4,7% (màxim des de 2008)",
+    "Dèficit 2026 estimat: 5,4%",
+    "Pla d'estalvi proposat: 54.000 milions d'euros"
+   ],
+   "conclusio": "Rallo conclou que cap dels grans candidats a la presidència francesa (Le Pen, Mélenchon) té un pla creïble per corregir el dèficit, i que si Francia no fa un ajust real, el BCE no podrà intervenir per aturar una crisi de deute que amenaçaria l'eurozona.",
+   "temes": [
+    "deute públic",
+    "francia",
+    "bce",
+    "dèficit",
+    "eleccions presidencials",
+    "eurozona"
+   ],
+   "lot": "2026-09-27"
+  },
+  {
    "id": "jRU76tYulxw",
    "titol": "Bitcoin. Importante el cierre semanal. Bitget reanudará los retiros a partir del lunes.",
    "data": "2026-09-26T08:24:51+00:00",
@@ -1100,9 +1163,17 @@
     "Habitatge. Rallo sosté que va ser la llei de lloguers franquista la que va protegir Maricarmen durant 70 anys. Va ser la llei del PSOE de 1994 la que va fer caducar el contracte el 2007. Diu que eldiario.es i David Broncano s'equivoquen en culpar-ne el franquisme.",
     "Sense punts de contacte. Avui els dos canals parlen de temes diferents (cripto i habitatge) i no hi ha cap coincidència ni discrepància directa."
    ]
+  },
+  "2026-09-27": {
+   "titular": "Rallo alerta que Francia s'acosta a una crisi de deute i que el BCE no la rescatarà si no fa ajustos",
+   "punts": [
+    "Deute francès: el bo a 10 anys paga ja el 4,7%, el nivell més alt des del 2008, per sobre fins i tot del de Grècia.",
+    "Sense xarxa de seguretat: el governador del Banc de França avisa que el BCE no comprarà deute francès si abans no s'aprova un ajust fiscal seriós.",
+    "Cap dels grans candidats a la presidència francesa de 2027, ni Le Pen ni Mélenchon, presenta un pla creïble per corregir el dèficit públic."
+   ]
   }
  },
- "actualitzat": "2026-09-26T10:59:43.179Z",
+ "actualitzat": "2026-09-27T08:21:32.782Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
@@ -1130,6 +1201,33 @@
     "Petroli i dòlar. Bitcoin al día avisa que el petroli prop dels 100 $ i el dòlar pujant tres dies seguits solen anar malament per a la borsa.",
     "Sortida a borsa d'Anthropic. Rallo i Moncada diuen que podria ser al novembre, amb una valoració d'uns 2 bilions de dòlars.",
     "Euro digital. Marc Vidal recorda que encara hi ha oberts el pagament sense connexió, la privacitat i els límits de tinença, i que es pot pressionar els eurodiputats."
+   ]
+  },
+  "2026-09-27 (avui)": {
+   "des_de": "2026-09-21 (fa 6 dies)",
+   "titular": "Bitcoin es refà d'un hackeig de Bitget i trenca a l'alça mentre Alemanya, la intel·ligència artificial i ara Francia posen a prova la confiança dels mercats",
+   "punts": [
+    "Bitcoin. Bitcoin al día explica que el preu ha trencat els 82.210 $ i ha arribat als 87.000 $; l'autor n'ha venut el 10 % per diversificar. Un hackeig a Bitget (352 → 388 milions de dòlars) no l'ha arrossegat, i la setmana acaba en lateral prop dels 84.000 $ pendent del tancament de diumenge.",
+    "Alemanya. Marc Vidal i Rallo analitzen la debacle de la CDU (fora del Parlament de Mecklenburg amb un 4,9 %) i l'ascens de l'AfD i l'esquerra radical a Berlín, i hi veuen la fi del consens dels partits tradicionals.",
+    "Intel·ligència artificial. Rallo, amb l'inversor Ignacio Moncada, qüestiona la valoració d'OpenAI, Anthropic i Nvidia i respon al Wall Street Journal sobre l'atac dels agents d'OpenAI a Hugging Face; Marc Vidal desmunta els mites de l'AGI imminent, l'accés universal i la riquesa fàcil.",
+    "Deute públic. Marc Vidal explica que els grans bancs dels EUA preparen dipòsits tokenitzats per al 2027 empesos pel deute nord-americà; Rallo tanca la setmana alertant que Francia s'acosta a una crisi de deute (bo a 10 anys al 4,7 %) i que el BCE no la rescatarà si no fa ajustos.",
+    "Geopolítica. Pablo Gil parla d'una «guerra sense batalla»: drons, sabotatges i armes a l'espai marquen el pas cap a una economia de la seguretat, més cara.",
+    "Habitatge. Rallo desmunta la versió sobre el desnonament de Maricarmen: no va ser la llei franquista sinó la del PSOE de 1994 la que va fer caducar la seva renda antiga el 2007."
+   ],
+   "coincideixen": [
+    "Alemanya. Rallo i Marc Vidal, el mateix dia, coincideixen que els partits tradicionals (CDU, SPD) s'enfonsen i que el vot de càstig se'n va als extrems, tot i posar l'accent en causes diferents: el cordó sanitari (Rallo) i la «gran coalició permanent» i la crisi energètica (Vidal).",
+    "IA sobrevalorada. Rallo (amb Moncada) i Marc Vidal coincideixen que l'entusiasme per la IA no es correspon amb els resultats: els laboratoris perden diners i la majoria d'empreses encara no en noten l'impacte en la productivitat.",
+    "Deute que condiciona. Marc Vidal parteix del deute dels EUA per explicar el diner programable i Rallo tanca la setmana amb el deute francès al límit; tots dos mostren com l'endeutament dels estats acaba condicionant els bancs centrals."
+   ],
+   "discrepen": [
+    "Focus del risc de deute. Rallo posa l'accent en la crisi fiscal francesa i el paper del BCE, mentre Marc Vidal centra el risc en el deute dels EUA i les seves conseqüències (diner programable, dipòsits tokenitzats): tots dos parlen de deute públic, però miren costats oposats de l'Atlàntic."
+   ],
+   "a_vigilar": [
+    "Tancament setmanal de Bitcoin (diumenge 27/9): per sobre de 82.210 $ confirmaria la ruptura alcista; per sota, correcció cap a 81.320 $ o 80.291 $ (Bitcoin al día).",
+    "Retirs de Bitget: calendari esglaonat fins al 2 d'octubre, quan es reactivarien la resta de tokens i el diner fiat.",
+    "Pressupost francès: Lecornu el presenta l'1 d'octubre amb un pla d'estalvi de 54.000 milions d'euros, sense l'aprovació garantida a l'Assemblea Nacional (Rallo).",
+    "Sortida a borsa d'Anthropic, possiblement al novembre, amb una valoració d'uns 2 bilions de dòlars (Rallo i Ignacio Moncada).",
+    "Eleccions presidencials franceses d'abril-maig de 2027, l'horitzó que preocupa el governador del Banc de França (Rallo)."
    ]
   }
  }
