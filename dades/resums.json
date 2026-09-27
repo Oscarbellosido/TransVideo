@@ -1,6 +1,65 @@
 {
  "videos": [
   {
+   "id": "PGchxdCPtQc",
+   "titol": "Bitcoin. Se encamina a un buen cierre semanal. Pero las nubes para los mercados no desaparecen.",
+   "data": "2026-09-27T08:45:27+00:00",
+   "canal": "btcdia",
+   "durada": 725,
+   "idioma": "es",
+   "resum": "Bitcoin puja lleugerament i encara pot signar el tercer mes consecutiu en positiu, però el vídeo repassa senyals de precaució: un exchange que es recupera d'un hackeig, un token que sembla insostenible i el risc de noves pujades de tipus d'interès.",
+   "punts": [
+    {
+     "text": "Carta de drets digitals: Michael Saylor publica cinc principis que demana que es reconeguin per llei: crear actius digitals, emetre'ls al mercat, mantenir-los o triar custodi, transferir-los i usar-los (gastar-los, invertir-los o posar-los com a garantia de préstecs).",
+     "t": 36
+    },
+    {
+     "text": "SEC: una de les comissionades deixa el càrrec en acabar el mandat; les dues persones que queden són favorables a Bitcoin.",
+     "t": 159
+    },
+    {
+     "text": "Bitcoin: puja un 0,42% i trenca a l'alça els 82.210 en gràfic setmanal, camí del tercer mes consecutiu en positiu; el moviment important del diumenge sol arribar a partir de les 8 del vespre.",
+     "t": 189
+    },
+    {
+     "text": "Rang actual: Bitcoin es mou entre el suport dels 83.247 i la resistència dels 84.700 (preu actual 84.796); si perd el suport aniria cap als 82.210.",
+     "t": 280
+    },
+    {
+     "text": "Altcoins: el token Backpack té un comportament extraordinari (a prop de 150), i Aave, Cardano i Solana també intenten trencar resistències.",
+     "t": 313
+    },
+    {
+     "text": "BGB (Bitget) puja un 1,34% i recupera la caiguda pel hackeig; les retirades es restableixen de manera esglonada a partir de demà (primer Bitcoin, després Ethereum, USDT i, el dia 2, la resta i el fiat), encara que en la pràctica ja es pot retirar tot convertint-ho a Bitcoin.",
+     "t": 345
+    },
+    {
+     "text": "Zcash manté una línia alcista molt accelerada que l'autor considera insostenible: preveu una correcció important, encara que no definitiva.",
+     "t": 559
+    },
+    {
+     "text": "Aquesta setmana hi ha dades d'ocupació i IPC que donaran pistes sobre tipus d'interès; els bancs comercials ja descompten noves pujades a Europa i als EUA. És possible que la Reserva Federal no mogui tipus en aquesta reunió per no interferir en les eleccions, però sí probablement en la següent.",
+     "t": 624
+    }
+   ],
+   "dades": [
+    "Bitcoin: 84.796 $",
+    "Suport 83.247 / resistència 84.700",
+    "Backpack (token) prop de 150",
+    "BGB +1,34%"
+   ],
+   "conclusio": "L'autor recomana cautela: cal esperar el tancament real de la vela setmanal a partir de les 8 del vespre, i avisa que si els tipus d'interès continuen pujant i la inflació es manté alta, les borses acabaran entrant en correcció.",
+   "temes": [
+    "bitcoin",
+    "altcoins",
+    "tipus d'interès",
+    "sec",
+    "drets digitals",
+    "zcash"
+   ],
+   "lot": "2026-09-27"
+  },
+  {
    "id": "u1nq9iWJml4",
    "titol": "¿Está Francia al borde de una crisis de deuda?",
    "data": "2026-09-26T19:00:01+00:00",
@@ -1165,15 +1224,17 @@
    ]
   },
   "2026-09-27": {
-   "titular": "Rallo alerta que França s'acosta a una crisi de deute i que el BCE no la rescatarà si no fa ajustos",
+   "titular": "Bitcoin apunta al tercer mes consecutiu en positiu, però el mercat vigila els tipus d'interès i un exchange que es recupera d'un hackeig",
    "punts": [
-    "Deute francès: el bo a 10 anys paga ja el 4,7%, el nivell més alt des del 2008, per sobre fins i tot del de Grècia.",
-    "Sense xarxa de seguretat: el governador del Banc de França avisa que el BCE no comprarà deute francès si abans no s'aprova un ajust fiscal seriós.",
-    "Cap dels grans candidats a la presidència francesa de 2027, ni Le Pen ni Mélenchon, presenta un pla creïble per corregir el dèficit públic."
+    "Bitcoin: puja un 0,42% i trenca a l'alça els 82.210 en setmanal, camí del tercer mes consecutiu en positiu, entre el suport dels 83.247 i la resistència dels 84.700.",
+    "Drets digitals: Michael Saylor demana que la llei reconegui cinc drets sobre els actius digitals (crear-los, emetre'ls, custodiar-los, transferir-los i usar-los com a garantia).",
+    "BGB (Bitget) recupera la caiguda pel hackeig, amb retirades que es restableixen de manera esglonada des de demà.",
+    "Zcash manté una pujada tan accelerada que l'autor la considera insostenible i preveu una correcció important.",
+    "Tipus d'interès: aquesta setmana arriben dades d'ocupació i IPC; els mercats ja descompten noves pujades a Europa i als EUA, encara que la Reserva Federal potser espera a després de les eleccions dels EUA."
    ]
   }
  },
- "actualitzat": "2026-09-27T08:24:36.415Z",
+ "actualitzat": "2026-09-27T10:46:30.967Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
