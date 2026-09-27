@@ -7,6 +7,7 @@
 // YouTube bloqueja la IP amb poques peticions seguides (el 24/9/2026 en van bastar ~13 vídeos): no pugis els límits.
 import fs from 'node:fs';
 import path from 'node:path';
+import { execFileSync } from 'node:child_process';
 
 const ARREL = path.resolve(import.meta.dirname, '..');
 const DIES = Number(process.argv[2] || 7);
@@ -17,6 +18,12 @@ const MAX_CONSULTES = 8; // vídeos consultats per execució (inclou els shorts 
 const espera = ms => new Promise(r => setTimeout(r, ms));
 // YouTube torna una pàgina "Sorry…" (CAPTCHA) quan detecta massa peticions.
 class Bloqueig extends Error {}
+
+// Porta el repo al dia (per si s'ha editat des de GitHub). --autostash: si una execució anterior es va
+// quedar a mitges, els canvis locals de dades/ no fan fallar el pull.
+try {
+  execFileSync('git', ['pull', '--rebase', '--autostash', '-q'], { cwd: ARREL, stdio: ['ignore', 'pipe', 'pipe'] });
+} catch (e) { console.log(`⚠ git pull ha fallat (es continua igualment): ${(e.stderr || e.message).toString().trim()}`); }
 
 const canals = JSON.parse(fs.readFileSync(path.join(ARREL, 'canals.json'), 'utf8'));
 const fitxerResums = path.join(ARREL, 'dades', 'resums.json');
