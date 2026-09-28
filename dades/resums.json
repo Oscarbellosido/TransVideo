@@ -1,6 +1,220 @@
 {
  "videos": [
   {
+   "id": "Kv6yHxyxTcQ",
+   "titol": "Bitcoin. Empieza la semana corrigiendo fuerte. Datos macro a seguir. USDC a Bitcoin también.",
+   "data": "2026-09-28T09:26:06+00:00",
+   "canal": "btcdia",
+   "durada": 1131,
+   "idioma": "es",
+   "resum": "Anàlisi setmanal de Bitcoin al día: la setmana comença amb correcció forta arrossegada per la caiguda de metalls preciosos i bosses, mentre s'esperen dades macro clau (PCE, nòmines) que marcaran el mercat; també es destaca l'arribada d'USDC a la xarxa de Bitcoin via Alpen.",
+   "punts": [
+    {
+     "text": "Setmana carregada de dades macro: dimarts confiança del consumidor dels EUA i tipus d'Austràlia (es preveu pujada de 25 pb fins al 4,6%); dimecres PCE i creació de llocs de treball; dijous ISM manufacturer; divendres nòmines no agrícoles i atur.",
+     "t": 5
+    },
+    {
+     "text": "MicroStrategy ha continuat comprant Bitcoin la setmana passada; els ETF de Bitcoin van tenir entrades de 2.400 milions de dòlars, la major entrada des d'octubre de 2025, tot i que es va alentir als últims dies.",
+     "t": 128
+    },
+    {
+     "text": "La stablecoin USDC (Circle) arribarà a la cadena de Bitcoin a través d'Alpen, permetent obtenir dòlars prestats i moure Bitcoin entre cadenes, seguint el mateix camí que ja fa USDT.",
+     "t": 193
+    },
+    {
+     "text": "Bitcoin cau un 1,79% fins als 82.962 dòlars; el suport principal és 82.210, amb possibilitat de baixar cap a 81.200-80.300 o fins i tot a la línia de suport més clara si les borses entren en correcció.",
+     "t": 313
+    },
+    {
+     "text": "Els metalls preciosos també cauen amb força: or -3,34% (confirma figura de cap i espatlles), plata -5,3%, platí -3,38%.",
+     "t": 471
+    },
+    {
+     "text": "El Dow Jones ja marca mínims decreixents (pitjor tècnica), mentre el Nasdaq encara dissimula prop de màxims; si Wall Street entra en correcció clara, Bitcoin perdria el suport de 82.210 i podria baixar fins a 76.000-77.000.",
+     "t": 542
+    },
+    {
+     "text": "Previsió a mig termini: cap a febrer de 2027 Bitcoin podria atacar la resistència de 93.890-94.000, consolidar uns quatre mesos, i tornar a tocar els 100.000 a la segona meitat de 2027.",
+     "t": 986
+    }
+   ],
+   "dades": [
+    "Bitcoin: 82.962 $ (-1,79%)",
+    "Entrades ETF: 2.400 M$ en una setmana",
+    "Or: -3,34%",
+    "Objectiu Bitcoin: 93.890-94.000 $ cap a febrer de 2027"
+   ],
+   "conclusio": "Cal vigilar les dades macro de la setmana i el comportament de les borses (Dow Jones i Nasdaq): si Wall Street aguanta sense corregir amb força, Bitcoin hauria de rebotar als suports esmentats; si corregeix, Bitcoin perdrà nivells addicionals.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "macroeconomia",
+    "anàlisi tècnica",
+    "borsa"
+   ],
+   "lot": "2026-09-28"
+  },
+  {
+   "id": "7ZYMbR7tPRY",
+   "titol": "Vivienda, Maricarmen y el regreso del 15-M | Con Miguel Anxo Bastos",
+   "data": "2026-09-27T21:07:40+00:00",
+   "canal": "rallo",
+   "durada": 3564,
+   "idioma": "es",
+   "resum": "Conversa entre Juan Ramón Rallo i el professor Miguel Anxo Bastos sobre el cas de Maricarmen i el nou 15M acampat a Sol: coincideixen que la seva situació ha estat instrumentalitzada políticament, que Espanya és un país de propietaris on aquest discurs anti-propietat no calarà com a Alemanya, i que el moviment servirà sobretot per generar nous lideratges dins l'extrema esquerra, no per resoldre el problema de l'habitatge.",
+   "punts": [
+    {
+     "text": "Bastos: la política es mou per emocions, no per anàlisi racional; el cas de Maricarmen (que Pablo Iglesias ha comparat amb Rosa Parks) s'ha 'dramatitzat' perquè funciona molt millor que qualsevol estadística. Ella no és una persona sense alternatives materials, sinó que valorava sobretot el seu arrelament emocional al barri.",
+     "t": 220
+    },
+    {
+     "text": "Bastos: el sindicat de llogaters, com tota organització que viu d'un problema, no té incentius forts per resoldre'l del tot ('terminació de les polítiques públiques'); posa l'exemple de com es va canviar la definició de 'fam' per inflar-ne les xifres.",
+     "t": 854
+    },
+    {
+     "text": "Ambdós: si es volgués ajudar de debò Maricarmen, amb els diners que es van gastar els manifestants (bitllets, tendes, menjar) n'hi hauria hagut prou per comprar-li directament l'habitatge; en canvi es prefereix muntar el 15M.",
+     "t": 1937
+    },
+    {
+     "text": "Rallo assenyala indicis d'organització prèvia (el sindicat ja tenia previst acampar a Sol, i Carlos Bardem ja parlava d'un futur 15M i coneixia per endavant el cas de 'Paquita', la següent desnonada de la llista).",
+     "t": 2074
+    },
+    {
+     "text": "Bastos: a diferència del 15M original (nascut en plena crisi, amb discurs transversal contra retallades), aquest és un discurs explícitament anti-propietat privada de l'habitatge, cosa que no calarà en un país on tres quartes parts de la població és propietària (a diferència de Berlín, on ho és el 90%).",
+     "t": 2604
+    },
+    {
+     "text": "Bastos preveu que el decret que el govern aprovarà dimarts serà 'descafeïnat', sense radicalitat real, i que el moviment no té gaire futur perquè ha triat mal moment (tardor, no estiu) i és un tema massa complex per a solucions fàcils.",
+     "t": 2980
+    },
+    {
+     "text": "Sobre la caiguda del govern: cap dels dos creu que caigui per això; Bastos aposta que Pedro Sánchez convocarà eleccions quan li convingui, probablement a l'estiu, no per pressió d'aquest moviment.",
+     "t": 3134
+    }
+   ],
+   "dades": [
+    "Espanya: ~75% de la població és propietària d'habitatge",
+    "Berlín: ~90% de lloguer",
+    "El 15M original va acabar amb majoria absoluta del PP"
+   ],
+   "conclusio": "Tots dos coincideixen que la solució real és permetre construir més i liberalitzar l'urbanisme, no atacar la propietat privada; el nou 15M servirà sobretot com a procés de selecció de nous líders per a l'extrema esquerra, no per resoldre el problema de l'habitatge.",
+   "temes": [
+    "habitatge",
+    "15m",
+    "psoe",
+    "política espanyola",
+    "sindicat de llogaters"
+   ],
+   "lot": "2026-09-28"
+  },
+  {
+   "id": "vNwGL9g5XKc",
+   "titol": "¿Puede seguir SUBIENDO la bolsa? Riesgos, fortalezas y niveles clave",
+   "data": "2026-09-27T16:00:08+00:00",
+   "canal": "pablogil",
+   "durada": 2052,
+   "idioma": "es",
+   "resum": "Pablo Gil analitza si la bosса pot seguir pujant: totes les grans borses mundials mostren sobrecompra però encara no han trencat les seves directrius alcistes, i identifica quines borses (Japó, Espanya, emergents) ho estan fent millor que els EUA. Repassa també els grans riscos latents: concentració extrema, apalancament, valoracions altes i l'economia circular de la IA.",
+   "punts": [
+    {
+     "text": "Les principals borses mundials (MSCI ACWI, S&P500, Eurostoxx 600, Nikkei) mostren sobrecompra extrema i divergències en l'RSI, però cap ha trencat encara la directriu alcista de llarg termini que confirmaria un canvi de tendència.",
+     "t": 63
+    },
+    {
+     "text": "La hegemonia dels EUA respecte a la resta del món (S&P500 vs MSCI ACWI ex-USA) va tocar sostre el desembre de 2024 i des de llavors encadena màxims i mínims decreixents: el Nikkei japonès i l'Ibex espanyol ja mostren millor comportament relatiu que els EUA; l'Eurostoxx 600 encara no, i els emergents comencen a trencar una tendència baixista de 15 anys.",
+     "t": 505
+    },
+    {
+     "text": "Risc 1: el pes de la renda variable en els actius financers dels ciutadans nord-americans ha arribat gairebé al 50%, un nivell històricament alt i molt concentrat en pocs valors.",
+     "t": 934
+    },
+    {
+     "text": "Risc 2: la migració massiva cap a fons passius (ETF que repliquen l'índex) concentra encara més el capital en les 9 companyies més grans, que ja pesen un 37,8% del S&P500 (Nvidia 8,1%, Apple 7,3%, Microsoft 5,5%...); l'índex equiponderat ha caigut un 55% respecte al ponderat.",
+     "t": 1176
+    },
+    {
+     "text": "Risc 3: el marge de deute (compra apalancada) s'ha disparat un 570% des d'agost de 2026 mentre la borsa només ha crescut un 361%, un desajust similar al vist abans de les caigudes del 2000, 2007 i 2021.",
+     "t": 1488
+    },
+    {
+     "text": "Risc 4: 'economia circular' de la IA (Nvidia, Intel, OpenAI, Oracle, AMD, Microsoft) amb interessos creuats i prop d'un bilió de dòlars invertit en infraestructura; un problema en una d'aquestes empreses podria arrossegar-ne d'altres. Els CDS (assegurances d'impagament) d'aquestes companyies ja han pujat de preu.",
+     "t": 1513
+    },
+    {
+     "text": "Risc 5: valoracions altes (PER de Shiller): els EUA estan al percentil 93,9 (proper als nivells de l'any 2000), mentre Europa ronda el percentil 76-80 i Espanya el 79; els marges empresarials estan en rècord (18,2%) i per ara justifiquen els preus.",
+     "t": 1606
+    }
+   ],
+   "dades": [
+    "Concentració de les 9 majors empreses del S&P500: 37,8%",
+    "Marge de deute: +570% des d'agost 2026",
+    "PER de Shiller EUA: percentil 93,9",
+    "Marge net rècord del S&P500: 18,2%"
+   ],
+   "conclusio": "La tendència alcista no mostra símptomes de revertir-se a curt termini i encara hi ha marge, però cal vigilar aquests riscos per detectar un canvi de tendència; Gil anuncia una segona part (dimarts) amb els nivells exactes a vigilar i fins on podria caure el mercat.",
+   "temes": [
+    "borsa",
+    "inversió",
+    "anàlisi tècnica",
+    "intel·ligència artificial",
+    "risc de mercat"
+   ],
+   "lot": "2026-09-28"
+  },
+  {
+   "id": "1NMC-LBYCUs",
+   "titol": "La izquierda monta otro 15-M: fracasará como el anterior",
+   "data": "2026-09-27T14:30:31+00:00",
+   "canal": "rallo",
+   "durada": 1095,
+   "idioma": "es",
+   "resum": "Rallo argumenta que el nou 15M sorgit després del desnonament de Maricarmen repetirà el fracàs de l'original de 2011: el problema de l'habitatge és de falta d'oferta i les mesures que reclama el sindicat de llogaters (lloguers indefinits, congelació de preus, moratòria de desnonaments) reduiran encara més aquesta oferta.",
+   "punts": [
+    {
+     "text": "El decret 'Maricarmen' que exigeixen els acampats a Sol inclou quatre mesures: contractes de lloguer indefinits amb pròrroga automàtica, congelació dels lloguers vigents i futurs, restricció del lloguer de temporada i per habitacions, i moratòria efectiva dels desnonaments.",
+     "t": 152
+    },
+    {
+     "text": "Irene Montero (Podemos) hi ha sumat la proposta d'expropiar 650.000 habitatges a 'fons voltor'.",
+     "t": 195
+    },
+    {
+     "text": "Espanya necessita prop d'1 milió d'habitatges més allà on hi ha demanda, concentrada a les grans ciutats per l'augment de població per immigració; el govern socialista no ha impulsat construcció pública per augmentar l'oferta.",
+     "t": 246
+    },
+    {
+     "text": "La llei d'habitatge del PSOE, Sumar, ERC i Bildu ha fracassat, però els seus impulsors no ho atribueixen al seu fonament erroni sinó que demanen radicalitzar encara més les mateixes mesures.",
+     "t": 339
+    },
+    {
+     "text": "Comparació amb el 15M original: políticament no va aconseguir res (el PP va guanyar per majoria absoluta) i econòmicament tampoc se'l va escoltar; a Grècia, on sí es va fer cas a un moviment similar (Syriza), els retalls van ser molt pitjors.",
+     "t": 551
+    },
+    {
+     "text": "El 15M original sí que va tenir un èxit: va servir de pedrera per a nous líders d'extrema esquerra (va néixer Podem). Rallo preveu que aquest nou moviment farà la mateixa funció, ja que els antics líders (Iglesias, Montero, Garzón, Yolanda Díaz) estan desacreditats.",
+     "t": 738
+    },
+    {
+     "text": "Rallo proposa com a solució real liberalitzar el sòl i la legislació urbanística per facilitar la construcció, i si es vol una via d'esquerres, destinar més diners públics a habitatge públic.",
+     "t": 1049
+    }
+   ],
+   "dades": [
+    "~1 milió d'habitatges de dèficit a Espanya",
+    "650.000 habitatges que Irene Montero vol expropiar",
+    "25.000-300.000 assistents a la manifestació segons font"
+   ],
+   "conclusio": "Rallo conclou que si es vol ajudar de veritat casos com el de Maricarmen cal aportar diners directament, no protestar per mesures que enfonsaran encara més l'oferta d'habitatge; la solució passa per liberalitzar la construcció.",
+   "temes": [
+    "habitatge",
+    "15m",
+    "lloguer",
+    "psoe",
+    "política espanyola"
+   ],
+   "lot": "2026-09-28"
+  },
+  {
    "id": "PGchxdCPtQc",
    "titol": "Bitcoin. Se encamina a un buen cierre semanal. Pero las nubes para los mercados no desaparecen.",
    "data": "2026-09-27T08:45:27+00:00",
@@ -1232,9 +1446,17 @@
     "Zcash manté una pujada tan accelerada que l'autor la considera insostenible i preveu una correcció important.",
     "Tipus d'interès: aquesta setmana arriben dades d'ocupació i IPC; els mercats ja descompten noves pujades a Europa i als EUA, encara que la Reserva Federal potser espera a després de les eleccions dels EUA."
    ]
+  },
+  "2026-09-28": {
+   "titular": "Rallo diagnostica que el nou 15M repetirà el fracàs del 2011, mentre Bitcoin i les borses comencen la setmana corregint enmig d'una setmana carregada de dades macro",
+   "punts": [
+    "Habitatge i 15M: en dos vídeos (un en solitari i un directe amb el professor Miguel Anxo Bastos), Juan Ramón Rallo analitza l'acampada a Sol arran del desnonament de Maricarmen. Tots dos coincideixen que el cas s'ha instrumentalitzat políticament amb finalitats emocionals, que les mesures que reclama el sindicat de llogaters (lloguers indefinits, congelació de preus, moratòria de desnonaments) agreujaran el dèficit d'oferta d'habitatge en lloc de resoldre'l, i que en un país on tres quartes parts de la població és propietària, el discurs anti-propietat privada no calarà com a Berlín. Preveuen que el moviment servirà sobretot per generar nous lideratges dins l'extrema esquerra, no per resoldre el problema real.",
+    "Borsa: Pablo Gil repassa quines borses ho fan millor que els EUA (Japó, Espanya, emergents) i alerta de cinc riscos latents al mercat nord-americà: concentració extrema en poques tecnològiques, migració massiva a fons passius, apalancament disparat, l'economia circular de les inversions en IA i valoracions properes a les de l'any 2000. Conclou que, tot i la sobrecompra, encara no hi ha senyal clara de canvi de tendència.",
+    "Bitcoin: Bitcoin al día obre la setmana amb una correcció forta (-1,79%, fins a 82.962 $), arrossegat també per la caiguda de l'or, la plata i el platí i per la pitjor tècnica del Dow Jones. La setmana porta dades macro clau (PCE dimecres, nòmines divendres) que marcaran el rumb; a mig termini preveu que Bitcoin podria tornar a atacar els 93.890-94.000 $ cap a febrer de 2027."
+   ]
   }
  },
- "actualitzat": "2026-09-27T10:46:30.967Z",
+ "actualitzat": "2026-09-28T10:47:22.044Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
