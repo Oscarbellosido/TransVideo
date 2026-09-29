@@ -7,51 +7,46 @@
    "canal": "btcdia",
    "durada": 1062,
    "idioma": "es",
-   "resum": "Marc Vidal recorre Wall Street per buscar senyals de crac borsari i no en troba: l'índex de la por i els diferencials de crèdit estan tranquils. El problema real, diu, és al mercat de bons i al del dièsel, que sí que mostren tensió mentre la borsa segueix ignorant-ho.",
+   "resum": "Bitcoin al día repassa la compra setmanal de Strategy, desmenteix un malentès viral sobre la fiscalitat de l'autocustòdia a Espanya i analitza un mercat cautelós per l'alça del petroli i les dades macro que arriben aquesta setmana.",
    "punts": [
     {
-     "text": "Índex de la por (VIX) a 16, molt lluny de zones de pànic (80 el 2008, prop de 80 el març del 2020).",
-     "t": 32
+     "text": "Strategy va comprar 1.665 bitcoins la setmana passada i va recomprar accions preferents STRC per reduir el tipus d'interès que ha de pagar, finançant-ho amb venda d'accions de Microstrategy per 246,2 milions.",
+     "t": 36
     },
     {
-     "text": "El bo del tresor nord-americà a 10 anys ha tocat el 5,12% i el de 30 anys el 5,44%, la pujada més violenta dels bons des del 'Liberation Day', segons Reuters.",
-     "t": 339
+     "text": "Aclareix un malentès viral: que l'autocustòdia i les operacions dins del mateix exchange estranger estiguin exemptes del model 720/721 (informe d'actius a l'estranger) no vol dir que no calgui tributar per les plusvàlues; a Espanya s'ha de pagar igualment.",
+     "t": 127
     },
     {
-     "text": "El mercat del dièsel: les exportacions des de l'Orient Mitjà cap a Europa cauen al nivell més baix des del 2020, amb el Brent per sobre dels 104 $ i preus rècord del gasoil a Europa.",
-     "t": 452
+     "text": "Bidget reprèn els retiraments per fases: ahir Bitcoin, avui Ethereum, demà USDT, i el dia 2 tots els actius, inclòs fiat.",
+     "t": 96
     },
     {
-     "text": "Un rumor sense confirmar sobre una possible prohibició de 90 dies d'exportar dièsel des dels EUA va moure els futurs del gasoil un 4% en hores, encara que la Casa Blanca ho va desmentir.",
-     "t": 482
+     "text": "Bitcoin cotitza a 83.874 $ (+0,43%), amb el petroli a 97,82 $ mantenint pressió sobre la inflació; nivells clau a vigilar: suport a 82.210 i resistència a 84.600.",
+     "t": 403
     },
     {
-     "text": "Compara la situació amb la crisi del petroli de 1973: no va començar a Wall Street sinó en una refineria, i va trigar mesos (via inflació i tipus) a arribar a la borsa.",
-     "t": 646
+     "text": "Entre les altcoins destaquen AVE (+11,9%) i Cardano (+16,9%) amb bon comportament, mentre BGB encara cotitza per sota del nivell previ al hackeig i ZK segueix corregint després d'un període d'especulació.",
+     "t": 679
     },
     {
-     "text": "La finestreta repo de la Fed va estar a zero: no falta liquiditat, per això el mecanisme clàssic de crisi financera (marge calls en cadena) no s'ha activat.",
-     "t": 829
-    },
-    {
-     "text": "Proposa vigilar quatre senyals alhora: el VIX, els diferencials de crèdit basura, la finestreta repo i si el bo a 10 anys i el dièsel pugen junts.",
-     "t": 1010
+     "text": "Aquesta setmana el mercat estarà pendent de les dades macro (PCE, ocupació): amb el petroli prop dels 100 $, no espera sorpreses positives d'inflació, però sí que hi podria haver marge d'optimisme si les dades d'ocupació surten fluixes.",
+     "t": 956
     }
    ],
    "dades": [
-    "VIX a 16",
-    "Bo a 10 anys: 5,12% / a 30 anys: 5,44%",
-    "Exportacions de dièsel de l'Orient Mitjà: ~110.000 barrils/dia, mínim des del 2020",
-    "Brent per sobre dels 104 $"
+    "Bitcoin: 83.874 $ (+0,43%)",
+    "Strategy: +1.665 BTC",
+    "Petroli: 97,82 $",
+    "AVE +11,9%, Cardano +16,9%, BGB -1,09%"
    ],
-   "conclusio": "No hi ha proves d'un crac borsari imminent, però el cost del diner ja s'està notant en hipoteques, crèdits i preus, encara que encara no es vegi a la borsa: recomana mirar el mercat de bons i el del dièsel, no l'índex.",
+   "conclusio": "Recomana vigilar el suport dels 82.210 aquesta setmana: si el petroli es manté alt i surten dades d'inflació dolentes, podria trencar-se a la baixa; només unes dades d'ocupació febles donarien marge per pujar.",
    "temes": [
-    "wall street",
-    "bons",
-    "dièsel",
-    "petroli",
-    "risc financer",
-    "tipus d'interès"
+    "bitcoin",
+    "strategy",
+    "fiscalitat cripto",
+    "altcoins",
+    "anàlisi tècnica"
    ],
    "lot": "2026-09-29"
   },
@@ -117,46 +112,51 @@
    "canal": "vidal",
    "durada": 1177,
    "idioma": "es",
-   "resum": "Bitcoin al día repassa la compra setmanal de Strategy, desmenteix un malentès viral sobre la fiscalitat de l'autocustòdia a Espanya i analitza un mercat cautelós per l'alça del petroli i les dades macro que arriben aquesta setmana.",
+   "resum": "Marc Vidal recorre Wall Street per buscar senyals de crac borsari i no en troba: l'índex de la por i els diferencials de crèdit estan tranquils. El problema real, diu, és al mercat de bons i al del dièsel, que sí que mostren tensió mentre la borsa segueix ignorant-ho.",
    "punts": [
     {
-     "text": "Strategy va comprar 1.665 bitcoins la setmana passada i va recomprar accions preferents STRC per reduir el tipus d'interès que ha de pagar, finançant-ho amb venda d'accions de Microstrategy per 246,2 milions.",
-     "t": 36
+     "text": "Índex de la por (VIX) a 16, molt lluny de zones de pànic (80 el 2008, prop de 80 el març del 2020).",
+     "t": 32
     },
     {
-     "text": "Aclareix un malentès viral: que l'autocustòdia i les operacions dins del mateix exchange estranger estiguin exemptes del model 720/721 (informe d'actius a l'estranger) no vol dir que no calgui tributar per les plusvàlues; a Espanya s'ha de pagar igualment.",
-     "t": 127
+     "text": "El bo del tresor nord-americà a 10 anys ha tocat el 5,12% i el de 30 anys el 5,44%, la pujada més violenta dels bons des del 'Liberation Day', segons Reuters.",
+     "t": 339
     },
     {
-     "text": "Bidget reprèn els retiraments per fases: ahir Bitcoin, avui Ethereum, demà USDT, i el dia 2 tots els actius, inclòs fiat.",
-     "t": 96
+     "text": "El mercat del dièsel: les exportacions des de l'Orient Mitjà cap a Europa cauen al nivell més baix des del 2020, amb el Brent per sobre dels 104 $ i preus rècord del gasoil a Europa.",
+     "t": 452
     },
     {
-     "text": "Bitcoin cotitza a 83.874 $ (+0,43%), amb el petroli a 97,82 $ mantenint pressió sobre la inflació; nivells clau a vigilar: suport a 82.210 i resistència a 84.600.",
-     "t": 403
+     "text": "Un rumor sense confirmar sobre una possible prohibició de 90 dies d'exportar dièsel des dels EUA va moure els futurs del gasoil un 4% en hores, encara que la Casa Blanca ho va desmentir.",
+     "t": 482
     },
     {
-     "text": "Entre les altcoins destaquen AVE (+11,9%) i Cardano (+16,9%) amb bon comportament, mentre BGB encara cotitza per sota del nivell previ al hackeig i ZK segueix corregint després d'un període d'especulació.",
-     "t": 679
+     "text": "Compara la situació amb la crisi del petroli de 1973: no va començar a Wall Street sinó en una refineria, i va trigar mesos (via inflació i tipus) a arribar a la borsa.",
+     "t": 646
     },
     {
-     "text": "Aquesta setmana el mercat estarà pendent de les dades macro (PCE, ocupació): amb el petroli prop dels 100 $, no espera sorpreses positives d'inflació, però sí que hi podria haver marge d'optimisme si les dades d'ocupació surten fluixes.",
-     "t": 956
+     "text": "La finestreta repo de la Fed va estar a zero: no falta liquiditat, per això el mecanisme clàssic de crisi financera (marge calls en cadena) no s'ha activat.",
+     "t": 829
+    },
+    {
+     "text": "Proposa vigilar quatre senyals alhora: el VIX, els diferencials de crèdit basura, la finestreta repo i si el bo a 10 anys i el dièsel pugen junts.",
+     "t": 1010
     }
    ],
    "dades": [
-    "Bitcoin: 83.874 $ (+0,43%)",
-    "Strategy: +1.665 BTC",
-    "Petroli: 97,82 $",
-    "AVE +11,9%, Cardano +16,9%, BGB -1,09%"
+    "VIX a 16",
+    "Bo a 10 anys: 5,12% / a 30 anys: 5,44%",
+    "Exportacions de dièsel de l'Orient Mitjà: ~110.000 barrils/dia, mínim des del 2020",
+    "Brent per sobre dels 104 $"
    ],
-   "conclusio": "Recomana vigilar el suport dels 82.210 aquesta setmana: si el petroli es manté alt i surten dades d'inflació dolentes, podria trencar-se a la baixa; només unes dades d'ocupació febles donarien marge per pujar.",
+   "conclusio": "No hi ha proves d'un crac borsari imminent, però el cost del diner ja s'està notant en hipoteques, crèdits i preus, encara que encara no es vegi a la borsa: recomana mirar el mercat de bons i el del dièsel, no l'índex.",
    "temes": [
-    "bitcoin",
-    "strategy",
-    "fiscalitat cripto",
-    "altcoins",
-    "anàlisi tècnica"
+    "wall street",
+    "bons",
+    "dièsel",
+    "petroli",
+    "risc financer",
+    "tipus d'interès"
    ],
    "lot": "2026-09-29"
   },
@@ -167,7 +167,7 @@
    "canal": "btcdia",
    "durada": 1131,
    "idioma": "es",
-   "resum": "Anàlisi setmanal de Bitcoin al día: la setmana comença amb correcció forta arrossegada per la caiguda de metalls preciosos i bosses, mentre s'esperen dades macro clau (PCE, nòmines) que marcaran el mercat; també es destaca l'arribada d'USDC a la xarxa de Bitcoin via Alpen.",
+   "resum": "Anàlisi setmanal de Bitcoin al día: la setmana comença amb correcció forta arrossegada per la caiguda de metalls preciosos i borses, mentre s'esperen dades macro clau (PCE, nòmines) que marcaran el mercat; també es destaca l'arribada d'USDC a la xarxa de Bitcoin via Alpen.",
    "punts": [
     {
      "text": "Setmana carregada de dades macro: dimarts confiança del consumidor dels EUA i tipus d'Austràlia (es preveu pujada de 25 pb fins al 4,6%); dimecres PCE i creació de llocs de treball; dijous ISM manufacturer; divendres nòmines no agrícoles i atur.",
@@ -274,7 +274,7 @@
    "canal": "pablogil",
    "durada": 2052,
    "idioma": "es",
-   "resum": "Pablo Gil analitza si la bosса pot seguir pujant: totes les grans borses mundials mostren sobrecompra però encara no han trencat les seves directrius alcistes, i identifica quines borses (Japó, Espanya, emergents) ho estan fent millor que els EUA. Repassa també els grans riscos latents: concentració extrema, apalancament, valoracions altes i l'economia circular de la IA.",
+   "resum": "Pablo Gil analitza si la borsa pot seguir pujant: totes les grans borses mundials mostren sobrecompra però encara no han trencat les seves directrius alcistes, i identifica quines borses (Japó, Espanya, emergents) ho estan fent millor que els EUA. Repassa també els grans riscos latents: concentració extrema, apalancament, valoracions altes i l'economia circular de la IA.",
    "punts": [
     {
      "text": "Les principals borses mundials (MSCI ACWI, S&P500, Eurostoxx 600, Nikkei) mostren sobrecompra extrema i divergències en l'RSI, però cap ha trencat encara la directriu alcista de llarg termini que confirmaria un canvi de tendència.",
@@ -1625,7 +1625,7 @@
    ]
   }
  },
- "actualitzat": "2026-09-29T10:46:45.341Z",
+ "actualitzat": "2026-09-29T16:22:29.051Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
