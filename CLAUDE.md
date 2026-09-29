@@ -24,12 +24,16 @@ No fa servir API de pagament: els resums els escriu Claude en una tasca programa
    té una línia per cada marca [m:ss]) i escriu `pendents/<id>.resum.json` amb l'eina **Write**. El `pendents/<id>.json` té les
    mateixes dades (titol, canal, data, durada, text, descripcio) però en una sola línia: no cal llegir-lo.
    ```json
-   { "resum": "2-3 frases: la tesi del vídeo",
+   { "titol": "el títol del vídeo, copiat EXACTE de la 1a línia del .txt (després de «Canal — »)",
+     "resum": "2-3 frases: la tesi del vídeo",
      "punts": [{ "text": "punt clau concret, amb noms i xifres", "t": 754 }],
      "dades": ["xifres clau, 2-4"],
      "conclusio": "què se n'emporta l'espectador / què recomana l'autor",
      "temes": ["3-6 etiquetes curtes en minúscula"] }
    ```
+   - `titol` és obligatori: publica.mjs el compara amb el del vídeo i, si no quadra, NO publica el resum (el 29/9/2026 es van
+     intercanviar els resums de Marc Vidal i Bitcoin al día). Fes els vídeos d'un en un: llegeix un .txt, escriu el seu
+     .resum.json amb el MATEIX id al nom del fitxer, i només després passa al següent.
    - 5-7 punts. `t` = segons des de l'inici del vídeo on es comença a explicar aquell punt: la transcripció porta marques
      `[m:ss]` cada ~30 s; fes servir la marca just anterior al passatge (p. ex. `[12:34]` → 754). Si no ho saps segur, omet `t`.
    - Si `text` és null (sense subtítols), resumeix a partir del títol i la `descripcio`, sense `t`, i digues-ho al resum.

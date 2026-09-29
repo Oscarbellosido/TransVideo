@@ -32,7 +32,15 @@ for (const f of fs.readdirSync(path.join(ARREL, 'pendents')).filter(f => f.endsW
   const { text, descripcio, ...meta } = JSON.parse(fs.readFileSync(P(`${id}.json`), 'utf8'));
   const resum = JSON.parse(fs.readFileSync(P(f), 'utf8'));
   if (typeof resum.resum !== 'string' || !Array.isArray(resum.punts)) { console.log(`✗ ${f}: falta "resum" o "punts"; no es publica`); continue; }
-  delete resum.id;
+  // El resum ha de dir de quin vídeo és (títol copiat del .txt): el 29/9/2026 se'n van intercanviar dos
+  // de canals diferents. Si no quadra, no es publica i es queda a pendents/ per revisar-lo.
+  const norm = s => String(s ?? '').normalize('NFC').replace(/\s+/g, ' ').trim().toLowerCase();
+  if (norm(resum.titol) !== norm(meta.titol)) {
+    console.log(`✗ ${f}: el "titol" del resum ("${resum.titol ?? 'cap'}") no és el del vídeo ("${meta.titol}"). NO es publica: revisa que el resum sigui d'aquest vídeo.`);
+    process.exitCode = 1;
+    continue;
+  }
+  delete resum.id; delete resum.titol; delete resum.canal;
   dades.videos = dades.videos.filter(v => v.id !== id);
   dades.videos.push({ ...meta, ...resum, lot });
   fs.unlinkSync(P(f)); fs.unlinkSync(P(`${id}.json`));
