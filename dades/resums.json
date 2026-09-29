@@ -1,6 +1,166 @@
 {
  "videos": [
   {
+   "id": "3ZihEv7tRpE",
+   "titol": "Bitcoin. Compra de Strategy. Mercado con cautela por el petróleo alto y los datos macro que vienen.",
+   "data": "2026-09-29T09:26:09+00:00",
+   "canal": "btcdia",
+   "durada": 1062,
+   "idioma": "es",
+   "resum": "Marc Vidal recorre Wall Street per buscar senyals de crac borsari i no en troba: l'índex de la por i els diferencials de crèdit estan tranquils. El problema real, diu, és al mercat de bons i al del dièsel, que sí que mostren tensió mentre la borsa segueix ignorant-ho.",
+   "punts": [
+    {
+     "text": "Índex de la por (VIX) a 16, molt lluny de zones de pànic (80 el 2008, prop de 80 el març del 2020).",
+     "t": 32
+    },
+    {
+     "text": "El bo del tresor nord-americà a 10 anys ha tocat el 5,12% i el de 30 anys el 5,44%, la pujada més violenta dels bons des del 'Liberation Day', segons Reuters.",
+     "t": 339
+    },
+    {
+     "text": "El mercat del dièsel: les exportacions des de l'Orient Mitjà cap a Europa cauen al nivell més baix des del 2020, amb el Brent per sobre dels 104 $ i preus rècord del gasoil a Europa.",
+     "t": 452
+    },
+    {
+     "text": "Un rumor sense confirmar sobre una possible prohibició de 90 dies d'exportar dièsel des dels EUA va moure els futurs del gasoil un 4% en hores, encara que la Casa Blanca ho va desmentir.",
+     "t": 482
+    },
+    {
+     "text": "Compara la situació amb la crisi del petroli de 1973: no va començar a Wall Street sinó en una refineria, i va trigar mesos (via inflació i tipus) a arribar a la borsa.",
+     "t": 646
+    },
+    {
+     "text": "La finestreta repo de la Fed va estar a zero: no falta liquiditat, per això el mecanisme clàssic de crisi financera (marge calls en cadena) no s'ha activat.",
+     "t": 829
+    },
+    {
+     "text": "Proposa vigilar quatre senyals alhora: el VIX, els diferencials de crèdit basura, la finestreta repo i si el bo a 10 anys i el dièsel pugen junts.",
+     "t": 1010
+    }
+   ],
+   "dades": [
+    "VIX a 16",
+    "Bo a 10 anys: 5,12% / a 30 anys: 5,44%",
+    "Exportacions de dièsel de l'Orient Mitjà: ~110.000 barrils/dia, mínim des del 2020",
+    "Brent per sobre dels 104 $"
+   ],
+   "conclusio": "No hi ha proves d'un crac borsari imminent, però el cost del diner ja s'està notant en hipoteques, crèdits i preus, encara que encara no es vegi a la borsa: recomana mirar el mercat de bons i el del dièsel, no l'índex.",
+   "temes": [
+    "wall street",
+    "bons",
+    "dièsel",
+    "petroli",
+    "risc financer",
+    "tipus d'interès"
+   ],
+   "lot": "2026-09-29"
+  },
+  {
+   "id": "g1QwimYC7K4",
+   "titol": "El “milagro” de la vivienda en Viena: lo que la izquierda no te cuenta",
+   "data": "2026-09-28T20:00:17+00:00",
+   "canal": "rallo",
+   "durada": 1555,
+   "idioma": "es",
+   "resum": "Juan Ramón Rallo analitza el model de lloguer de Viena, que l'esquerra posa d'exemple per al decret Mar Carmen, i mostra que és molt més matisat del que es ven: també hi ha desnonaments i contractes temporals al privat, i té problemes greus de racionament i deteriorament que no s'expliquen.",
+   "punts": [
+    {
+     "text": "Estructura del mercat vienès: el 78% dels llars viu de lloguer, repartit en tres blocs similars: pisos de l'Ajuntament (21%), pisos de cooperatives sense ànim de lucre (21%) i mercat privat (~33%, del qual ~10% regulat i ~20% lliure).",
+     "t": 61
+    },
+    {
+     "text": "A diferència del decret Mar Carmen, a Viena sí que hi ha desnonaments (l'empresa municipal en fa uns 900 l'any) i els contractes privats no són indefinits ni tenen preu regulat en la major part dels casos.",
+     "t": 368
+    },
+    {
+     "text": "El parc públic ve d'un segle d'inversió fiscal continuada: Viena té un impost municipal específic per habitatge de l'1,5% del salari, a més de la resta d'impostos, i encara així els inquilins mai arriben a ser propietaris.",
+     "t": 512
+    },
+    {
+     "text": "La major part de la construcció nova la fa el sector privat: el 2024 es van acabar 12.500 habitatges a Viena (70% promotors privats, 30% cooperatives), un ritme tres vegades superior al d'Espanya per habitant.",
+     "t": 645
+    },
+    {
+     "text": "L'accés a l'habitatge públic o social està racionat amb el 'Wien-Ticket': cal portar 2 anys empadronat, tenir nacionalitat austríaca/UE o estatus de refugiat, no superar 61.000 €/any (individual) o 115.000 €/any (família de 4), i esperar de mitjana any i mig.",
+     "t": 812
+    },
+    {
+     "text": "El Tribunal de Comptes austríac ha detectat 9.000 pisos públics buits per manca de manteniment, i el ritme real de rehabilitació és d'un edifici cada 52-67 anys enlloc dels 30 anys previstos.",
+     "t": 1109
+    },
+    {
+     "text": "Als edificis privats anteriors a 1953 amb renda regulada (rendibilitat per sota de l'1%), els propietaris opten per deixar-los deteriorar fins a poder-los enderrocar i reconstruir amb renda lliure: el parc d'edificis antics cau un 1% l'any.",
+     "t": 1200
+    }
+   ],
+   "dades": [
+    "78% dels llars vienesos viuen de lloguer, 20% en propietat",
+    "60% del lloguer vienès és subsidiat/regulat, 20% és lliure (preus similars a Madrid o Barcelona)",
+    "9.000 pisos públics buits el 2024",
+    "Renda de referència als edificis pre-1953: uns 6,74 €/m² (uns 9 €/m² amb despeses)"
+   ],
+   "conclusio": "Rallo conclou que el model de Viena no és fàcilment replicable ni és tan barat com sembla (es paga amb impostos i manteniment deficient), i que la diferència real amb Espanya és que a Viena el 60% de les famílies són inquilines subsidiades de per vida en lloc de propietàries; el decret Mar Carmen, a més, seria encara més restrictiu que el model vienès.",
+   "temes": [
+    "habitatge",
+    "lloguer",
+    "viena",
+    "decret mar carmen",
+    "regulació de preus",
+    "propietat"
+   ],
+   "lot": "2026-09-29"
+  },
+  {
+   "id": "zfX6B8haIqc",
+   "titol": "Todos hablan de un crash en Wall Street, pero el problema está en la pantalla de al lado",
+   "data": "2026-09-28T17:07:25+00:00",
+   "canal": "vidal",
+   "durada": 1177,
+   "idioma": "es",
+   "resum": "Bitcoin al día repassa la compra setmanal de Strategy, desmenteix un malentès viral sobre la fiscalitat de l'autocustòdia a Espanya i analitza un mercat cautelós per l'alça del petroli i les dades macro que arriben aquesta setmana.",
+   "punts": [
+    {
+     "text": "Strategy va comprar 1.665 bitcoins la setmana passada i va recomprar accions preferents STRC per reduir el tipus d'interès que ha de pagar, finançant-ho amb venda d'accions de Microstrategy per 246,2 milions.",
+     "t": 36
+    },
+    {
+     "text": "Aclareix un malentès viral: que l'autocustòdia i les operacions dins del mateix exchange estranger estiguin exemptes del model 720/721 (informe d'actius a l'estranger) no vol dir que no calgui tributar per les plusvàlues; a Espanya s'ha de pagar igualment.",
+     "t": 127
+    },
+    {
+     "text": "Bidget reprèn els retiraments per fases: ahir Bitcoin, avui Ethereum, demà USDT, i el dia 2 tots els actius, inclòs fiat.",
+     "t": 96
+    },
+    {
+     "text": "Bitcoin cotitza a 83.874 $ (+0,43%), amb el petroli a 97,82 $ mantenint pressió sobre la inflació; nivells clau a vigilar: suport a 82.210 i resistència a 84.600.",
+     "t": 403
+    },
+    {
+     "text": "Entre les altcoins destaquen AVE (+11,9%) i Cardano (+16,9%) amb bon comportament, mentre BGB encara cotitza per sota del nivell previ al hackeig i ZK segueix corregint després d'un període d'especulació.",
+     "t": 679
+    },
+    {
+     "text": "Aquesta setmana el mercat estarà pendent de les dades macro (PCE, ocupació): amb el petroli prop dels 100 $, no espera sorpreses positives d'inflació, però sí que hi podria haver marge d'optimisme si les dades d'ocupació surten fluixes.",
+     "t": 956
+    }
+   ],
+   "dades": [
+    "Bitcoin: 83.874 $ (+0,43%)",
+    "Strategy: +1.665 BTC",
+    "Petroli: 97,82 $",
+    "AVE +11,9%, Cardano +16,9%, BGB -1,09%"
+   ],
+   "conclusio": "Recomana vigilar el suport dels 82.210 aquesta setmana: si el petroli es manté alt i surten dades d'inflació dolentes, podria trencar-se a la baixa; només unes dades d'ocupació febles donarien marge per pujar.",
+   "temes": [
+    "bitcoin",
+    "strategy",
+    "fiscalitat cripto",
+    "altcoins",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-09-29"
+  },
+  {
    "id": "Kv6yHxyxTcQ",
    "titol": "Bitcoin. Empieza la semana corrigiendo fuerte. Datos macro a seguir. USDC a Bitcoin también.",
    "data": "2026-09-28T09:26:06+00:00",
@@ -1454,9 +1614,18 @@
     "Borsa: Pablo Gil repassa quines borses ho fan millor que els EUA (Japó, Espanya, emergents) i alerta de cinc riscos latents al mercat nord-americà: concentració extrema en poques tecnològiques, migració massiva a fons passius, apalancament disparat, l'economia circular de les inversions en IA i valoracions properes a les de l'any 2000. Conclou que, tot i la sobrecompra, encara no hi ha senyal clara de canvi de tendència.",
     "Bitcoin: Bitcoin al día obre la setmana amb una correcció forta (-1,79%, fins a 82.962 $), arrossegat també per la caiguda de l'or, la plata i el platí i per la pitjor tècnica del Dow Jones. La setmana porta dades macro clau (PCE dimecres, nòmines divendres) que marcaran el rumb; a mig termini preveu que Bitcoin podria tornar a atacar els 93.890-94.000 $ cap a febrer de 2027."
    ]
+  },
+  "2026-09-29": {
+   "titular": "El petroli car inquieta bons i cripto, mentre Rallo qüestiona el mite del lloguer de Viena",
+   "punts": [
+    "Petroli i inflació: Marc Vidal i Bitcoin al día coincideixen que el petroli/dièsel per sobre dels 97-104 $ és la font real de pressió sobre la inflació aquesta setmana, mentre borses i cripto esperen les dades macro amb cautela.",
+    "Bons: Marc Vidal destaca que el bo del tresor a 10 anys ha tocat el 5,12% (el de 30 anys el 5,44%), la pujada més violenta des del 'Liberation Day', tot i que la borsa i el VIX (a 16) encara no ho reflecteixen.",
+    "Cripto: Bitcoin al día repassa la compra de 1.665 BTC de Strategy i aclareix que l'exempció de l'informe d'actius a l'estranger no eximeix de tributar per les plusvàlues a Espanya.",
+    "Habitatge: Juan Ramón Rallo desmunta el model de lloguer de Viena que cita l'esquerra per al decret Mar Carmen, mostrant que també hi ha desnonaments i que el 60% de famílies vienesos són inquilines subsidiades de per vida, no propietàries."
+   ]
   }
  },
- "actualitzat": "2026-09-28T10:47:22.044Z",
+ "actualitzat": "2026-09-29T10:46:45.341Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
