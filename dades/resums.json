@@ -1,6 +1,222 @@
 {
  "videos": [
   {
+   "id": "yfJulh3EseA",
+   "titol": "Bitcoin. Datos importantes hoy, pondrán a prueba el soporte de 82.210. Cuidado con la bolsa.",
+   "data": "2026-09-30T08:46:56+00:00",
+   "canal": "btcdia",
+   "durada": 903,
+   "idioma": "es",
+   "resum": "Bitcoin cotitza a 83.196 $ i s'acosta al suport clau dels 82.210 $ just abans de dades importants dels EUA (PCE, PIB i ocupació) que poden decidir el moviment. L'autor avisa que el Nasdaq és qui sosté ara mateix Bitcoin i la resta de borses, i que si el Nasdaq cau, tot caurà amb ell.",
+   "punts": [
+    {
+     "text": "Avui es publiquen a les 12:30 UTC el PCE (l'indicador d'inflació preferit de la Reserva Federal), el PIB i dades d'ocupació dels EUA; s'espera alta volatilitat.",
+     "t": 172
+    },
+    {
+     "text": "Si el PCE surt alt, pujarà la pressió baixista sobre bons (el bo a 10 anys ja supera el 5,20%, nivells de fa 19 anys), borses i Bitcoin, que perdria els 82.210 $; si surt més suau, hi podria haver un rebot cap als 85.000 $.",
+     "t": 203
+    },
+    {
+     "text": "El Dow Jones ja està en correcció, però el Nasdaq aguanta i, mentre no cedeixi, Bitcoin i la resta de mercats tampoc acaben de caure; en el moment que el Nasdaq caigui, la resta caurà amb ell.",
+     "t": 253
+    },
+    {
+     "text": "En gràfic horari, Bitcoin es troba comprimit entre una línia baixista i el suport dels 82.210 $/82.850 $; la línia baixista coincidirà amb aquest suport el 4 d'octubre a les 3 h, així que la ruptura (cap amunt o avall) s'ha de resoldre en els pròxims dies, probablement avui mateix.",
+     "t": 497
+    },
+    {
+     "text": "Si es trenca a l'alça, primera resistència als 85.100 $; si es trenca a la baixa, es perdrien els 82.210 $ cap a la zona dels 81.100 $, i si arriba a envoltar la vela setmanal anterior es podria anar cap als 76.900-77.000 $.",
+     "t": 400
+    },
+    {
+     "text": "Entre les altcoins: Cardano (0,68%) té una resistència clau als 0,315 $; Ethereum (+0,28%) puja per fonaments propis mentre altres altcoins pugen per moviments especulatius; Bitget ja ha reobert els retirs en ETH i BTC després del problema recent, cosa que l'autor fa servir per recomanar diversificar entre diversos exchanges grans.",
+     "t": 662
+    }
+   ],
+   "dades": [
+    "Bitcoin: 83.196 $",
+    "Suport clau: 82.210 $",
+    "Resistència: 85.100 $",
+    "Bo a 10 anys EUA: >5,20%"
+   ],
+   "conclusio": "L'autor recomana estar molt atents avui a les dades macro dels EUA i al comportament del Nasdaq, ja que decidiran si Bitcoin trenca a l'alça cap als 85.000 $ o cau cap als 81.100 $ o més avall.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "nasdaq",
+    "tipus d'interès",
+    "anàlisi tècnica",
+    "altcoins"
+   ],
+   "lot": "2026-09-30"
+  },
+  {
+   "id": "C5fxs4TDn0c",
+   "titol": "La inflación se dispara en España: el gran engaño de Sánchez",
+   "data": "2026-09-29T18:30:14+00:00",
+   "canal": "rallo",
+   "durada": 1126,
+   "idioma": "es",
+   "resum": "L'INE ha publicat una inflació del 4,9% interanual al setembre, la més alta des de febrer del 2023 i molt per sobre de la resta de l'eurozona. Rallo explica que el govern va amagar i socialitzar el cost de la inflació amb rebaixes fiscals, i que ara passa el mateix però a menor escala.",
+   "punts": [
+    {
+     "text": "El setembre l'IPC espanyol va pujar un 4,9% interanual, la xifra més alta des de febrer del 2023; a l'agost Espanya estava al 4,6% davant el 3,2% de l'eurozona.",
+     "t": 0
+    },
+    {
+     "text": "Només Lituània, Xipre i Bulgària tenen una inflació més alta que Espanya a l'eurozona; la inflació subjacent espanyola és del 3,1% davant el 2,2% de la zona euro.",
+     "t": 30
+    },
+    {
+     "text": "El principal responsable és el preu dels carburants: el gasoli es va encarir un 30% interanual i la gasolina un 17% a l'agost, set mesos després de l'inici de la guerra a l'Iran.",
+     "t": 94
+    },
+    {
+     "text": "Durant la crisi inflacionista anterior el govern va amagar part de la inflació amb rebaixes fiscals (IVA, excepció ibèrica, subsidis energètics) pagades amb dèficit, no perquè els preus no pugessin sinó perquè es maquillaven estadísticament.",
+     "t": 466
+    },
+    {
+     "text": "L'IPC a impostos constants d'Eurostat mostra que entre gener del 2021 i desembre del 2024 els preus van pujar un 21% a Espanya davant el 20,5% de l'eurozona: no van pujar menys, es va amagar la pujada.",
+     "t": 589
+    },
+    {
+     "text": "Aquest any el govern va rebaixar al 10% l'IVA de la llum, el gas i els carburants en esclatar la guerra a l'Iran (març), però en revertir-se al juny-juliol la inflació oficial va pujar del 3,7% al 4,6% i al 4,9%: no és inflació nova, és inflació que estava amagada.",
+     "t": 665
+    },
+    {
+     "text": "Per a Rallo la inflació és un fenomen monetari i fiscal, no energètic: Suïssa i la Xina tenen inflació per sota de l'1% tot i patir el mateix xoc energètic, perquè la seva política fiscal i monetària és més restrictiva.",
+     "t": 836
+    }
+   ],
+   "dades": [
+    "IPC setembre: 4,9%",
+    "Eurozona: 3,2%",
+    "Subjacent Espanya: 3,1% vs 2,2%",
+    "Gasoli +30%, gasolina +17% interanual"
+   ],
+   "conclusio": "Rallo conclou que el govern no mereix ni el mèrit d'una inflació passada suposadament més baixa ni tota la culpa de l'actual, però sí és responsable d'haver-la amagat estadísticament amb mesures fiscals cares i insostenibles.",
+   "temes": [
+    "inflació",
+    "espanya",
+    "eurozona",
+    "ipc",
+    "política fiscal",
+    "energia"
+   ],
+   "lot": "2026-09-30"
+  },
+  {
+   "id": "y-oH7at_Z_M",
+   "titol": "El poder mediático se desploma: ¿por qué los gobiernos tienen miedo?",
+   "data": "2026-09-29T18:26:31+00:00",
+   "canal": "vidal",
+   "durada": 1195,
+   "idioma": "es",
+   "resum": "Marc Vidal comenta el Digital News Report 2026 de l'Institut Reuters, presentat al Global News Summit de YouTube: per primer cop les xarxes i plataformes de vídeo superen la televisió com a font principal de notícies. Explica que la caiguda de confiança en els mitjans no és culpa de les plataformes, sinó el preu de poder triar, i que governs europeus preparen lleis (com la de prominència) per intentar recuperar el control del relat.",
+   "punts": [
+    {
+     "text": "El Digital News Report 2026 de l'Institut Reuters (Oxford), amb 97.520 enquestats en 48 mercats, confirma per primera vegada que les xarxes i plataformes de vídeo (54%) superen la televisió (52%) i les webs de mitjans (51%) com a font de notícies.",
+     "t": 154
+    },
+    {
+     "text": "La televisió ha perdut 13 punts de confiança des del 2020 i les webs de mitjans 12 punts, mentre les plataformes es mantenen estables: no és que guanyin audiència, és que el públic abandona els mitjans tradicionals.",
+     "t": 215
+    },
+    {
+     "text": "Un 77% de la població mundial veu notícies en vídeo online cada setmana, i en 45 dels 48 països hi ha més gent informant-se per plataformes que per televisió; només Alemanya, Dinamarca i Holanda hi resisteixen.",
+     "t": 215
+    },
+    {
+     "text": "A Espanya el mercat publicitari va caure un 2,6% (12.700 milions), la televisió un 4,4% (Atresmedia i Mediaset gairebé un 10% cadascuna, amb Mediaset fusionant les redaccions de Telecinco i Cuatro); la subscripció digital de premsa a Espanya és només d'1 milió, un «club» amb un 96% de penetració d'internet.",
+     "t": 277
+    },
+    {
+     "text": "La confiança global en les notícies ha caigut al 37%, la més baixa des del 2015 (33% a Espanya), però la confiança en marques concretes es manté: cau la confiança en el conjunt perquè la gent troba informació en canals nous en què mai havia confiat abans.",
+     "t": 588
+    },
+    {
+     "text": "Un 45% prefereix notícies imparcials (el doble que els que volen confirmació ideològica) i el 42% dels usuaris de chatbots d'IA fa clic cap a la font original per verificar-la, un reflex nou d'alfabetització informativa.",
+     "t": 772
+    },
+    {
+     "text": "Un 12% de la població mundial ja s'informa exclusivament per xarxes socials (el doble que el 2020) i un 42% evita les notícies sovint; governs a Brussel·les, Londres i Madrid preparen lleis de «prominència» i regulació de creadors (a Espanya, la llei de rectificació ja afecta creadors amb més de 100.000 seguidors).",
+     "t": 934
+    }
+   ],
+   "dades": [
+    "Xarxes/vídeo 54% vs TV 52%",
+    "Confiança mundial: 37% (mínim des del 2015)",
+    "12% només s'informa per xarxes (x2 des del 2020)",
+    "42% fa clic a la font original des de chatbots"
+   ],
+   "conclusio": "Vidal conclou que el model de 70 anys d'un país mirant la mateixa pantalla s'ha acabat sense marxa enrere, i que la clau no és triar entre televisió, plataformes o IA, sinó aprendre a informar-se bé: buscar la font, comparar versions i exigir criteri, no credencials.",
+   "temes": [
+    "mitjans",
+    "youtube",
+    "desinformació",
+    "confiança",
+    "regulació",
+    "intel·ligència artificial"
+   ],
+   "lot": "2026-09-30"
+  },
+  {
+   "id": "lWvKoNJKYCs",
+   "titol": "¿Puede seguir SUBIENDO la bolsa? Análisis histórico, tendencias y soportes | Parte 2",
+   "data": "2026-09-29T16:00:29+00:00",
+   "canal": "pablogil",
+   "durada": 2226,
+   "idioma": "es",
+   "resum": "Pablo Gil explica com detectar un canvi de tendència a borsa a partir de màxims i mínims decreixents, i marca els nivells clau a vigilar al SP500, Nasdaq, Eurostoxx i altres índexs. Repassa cicles històrics llargs (Japó, Ibex, Eurostoxx 50) per recordar que la borsa pot passar dècades sense retorn real i que ningú pot preveure amb certesa el futur.",
+   "punts": [
+    {
+     "text": "Un canvi de tendència es confirma quan el mercat perd suports clau i comença a fer màxims cada cop més baixos i mínims cada cop més baixos, com va passar el 2000-2001 i el 2007-2008.",
+     "t": 66
+    },
+    {
+     "text": "Nivells clau a vigilar: MSCI ACWI a 134, SP500 a 6.340 punts, Eurostoxx 600 al voltant de 561, MSCI emergents a 545 i Nikkei a 50.650 punts; perdre'ls obriria el debat sobre un canvi de tendència.",
+     "t": 676
+    },
+    {
+     "text": "Amb les bandes de Bollinger, una correcció menor (com les de 2011, 2016, 2019, 2022 o 2025) portaria el SP500 a caure un 30%; una correcció més severa fins a la directriu de llarg termini seria del 42%.",
+     "t": 1345
+    },
+    {
+     "text": "L'Eurostoxx 600 té un marge del 15% fins a la banda inferior recent, amb objectius de correcció del 30% i del 43% si es trenca.",
+     "t": 1527
+    },
+    {
+     "text": "Historicament la borsa alterna dècades de forta pujada amb dècades gairebé planes: l'Eurostoxx 50 va trigar 25 anys a recuperar el màxim del 2000 i l'Ibex, des del 2002 fins al 2023, amb correccions del 60-68%.",
+     "t": 1588
+    },
+    {
+     "text": "El Nikkei japonès va pujar més d'un 23.000% entre principis dels 50 i el 1989 (davant un 1.600% del SP500), però després va perdre un 82% i ha trigat més de 30 anys a recuperar-se, un exemple que el que sembla imparable pot no ser-ho.",
+     "t": 1770
+    },
+    {
+     "text": "Gil planteja que canvis estructurals (regulació de la IA, deute públic, tipus d'interès, guerra híbrida entre EUA i la Xina) podrien alterar dràsticament els mercats, i insisteix que ningú pot predir quan passarà: cal tenir una metodologia per detectar el canvi, no endevinar-lo.",
+     "t": 1990
+    }
+   ],
+   "dades": [
+    "SP500 nivell clau: 6.340 punts",
+    "Correcció menor potencial: -30%",
+    "Correcció severa potencial: -42%",
+    "Nikkei 1950-1989: +23.000% vs SP500 +1.600%, després -82%"
+   ],
+   "conclusio": "Gil recomana no intentar predir el futur sinó tenir una metodologia objectiva (estructura de màxims i mínims) per detectar quan comença realment un canvi de tendència i actuar en conseqüència, sense caure en el catastrofisme ni en l'excés de confiança.",
+   "temes": [
+    "borsa",
+    "anàlisi tècnica",
+    "sp500",
+    "nasdaq",
+    "cicles borsaris",
+    "japó"
+   ],
+   "lot": "2026-09-30"
+  },
+  {
    "id": "3ZihEv7tRpE",
    "titol": "Bitcoin. Compra de Strategy. Mercado con cautela por el petróleo alto y los datos macro que vienen.",
    "data": "2026-09-29T09:26:09+00:00",
@@ -1623,9 +1839,19 @@
     "Cripto: Bitcoin al día repassa la compra de 1.665 BTC de Strategy i aclareix que l'exempció de l'informe d'actius a l'estranger no eximeix de tributar per les plusvàlues a Espanya.",
     "Habitatge: Juan Ramón Rallo desmunta el model de lloguer de Viena que cita l'esquerra per al decret Mar Carmen, mostrant que també hi ha desnonaments i que el 60% de famílies vienesos són inquilines subsidiades de per vida, no propietàries."
    ]
+  },
+  "2026-09-30": {
+   "titular": "Inflació disparada a Espanya i mercats en tensió a l'espera de les dades dels EUA",
+   "punts": [
+    "Inflació. Rallo alerta que l'IPC espanyol del setembre puja al 4,9%, el més alt des del 2023 i molt per sobre de l'eurozona, i acusa el govern d'haver amagat estadísticament part de la inflació amb rebaixes fiscals.",
+    "Borsa. Pablo Gil marca els nivells clau a vigilar (SP500 a 6.340, Eurostoxx 600 a 561) per detectar un canvi de tendència, i recorda que la borsa pot passar dècades senceres sense retorn real, com Japó després del 1989.",
+    "Mercats. Bitcoin al día i Pablo Gil coincideixen que el Nasdaq és qui sosté ara mateix tots els mercats: mentre aguanti, ni Bitcoin ni la resta de borses acaben de caure, però si cedeix, arrossegarà la resta.",
+    "Dades macro. Avui es publiquen el PCE, el PIB i l'ocupació dels EUA, que poden decidir si Bitcoin trenca a l'alça cap als 85.000 $ o cau cap als 82.210 $ i per sota.",
+    "Mitjans. Marc Vidal repassa el Digital News Report 2026: per primer cop les xarxes i plataformes de vídeo superen la televisió com a font de notícies, i governs europeus preparen lleis per recuperar-hi control."
+   ]
   }
  },
- "actualitzat": "2026-09-29T16:22:29.051Z",
+ "actualitzat": "2026-09-30T10:47:15.245Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
