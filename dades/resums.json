@@ -1,6 +1,170 @@
 {
  "videos": [
   {
+   "id": "KlJrXo3ynng",
+   "titol": "Bitcoin. Más cerca de una corrección que de nuevas subidas. Señales bajistas en las bolsas.",
+   "data": "2026-10-01T08:16:06+00:00",
+   "canal": "btcdia",
+   "durada": 964,
+   "idioma": "es",
+   "resum": "L'analista veu senyals baixistes clars a les borses (Dow Jones i DAX ja en correcció, tipus a 30 anys per sobre del 5,20%) i creu que Bitcoin, tot i aguantar millor gràcies a notícies regulatòries recents, no serà immune si cau el Nasdaq. Situa un suport clau a la zona dels 74.000-75.500 dòlars.",
+   "punts": [
+    {
+     "text": "El Dow Jones i el DAX alemany ja estan en clara correcció i trencant línies de tendència, mentre l'S&P 500 i el Nasdaq encara ho disimulen.",
+     "t": 132
+    },
+    {
+     "text": "Els tipus dels bons a 30 anys superen el 5,20%, nivells no vistos des del 2002, i l'eurodòlar ha perdut un suport de diversos anys.",
+     "t": 163
+    },
+    {
+     "text": "Bitcoin es manté relativament fort gràcies a la pujada regulatòria dels dies 18 i 21 de setembre (SEC i CFTC), que li ha donat un marge fins a la zona de suport dels 74.000-75.500 dòlars.",
+     "t": 395
+    },
+    {
+     "text": "Si Bitcoin aguanta aquest suport durant la correcció borsària, quedaria ben posicionat per a un proper impuls cap als 93.000-94.000 dòlars, tot i que seria un procés de mesos.",
+     "t": 458
+    },
+    {
+     "text": "Bitcoin tanca el seu tercer mes seguit en positiu (juliol, agost, setembre), cosa que no passava des de fa temps.",
+     "t": 469
+    },
+    {
+     "text": "En el curt termini cal vigilar els suports dels 82.210 i 82.650 dòlars: perdre'ls obriria la porta a una caiguda més gran cap als 76.200.",
+     "t": 512
+    },
+    {
+     "text": "Entre les altcoins, el token de Backpack ha rebotat prop d'un 50% i Ethereum ha superat una línia baixista de diversos anys, guanyant marge abans d'una possible correcció.",
+     "t": 563
+    }
+   ],
+   "dades": [
+    "Bitcoin als 83.468 dòlars",
+    "Tipus a 30 anys per sobre del 5,20%",
+    "Suport clau: 74.000-75.500 dòlars",
+    "Tercer mes consecutiu en positiu"
+   ],
+   "conclusio": "L'analista recomana vigilar la ruptura dels suports en el curt-mig termini: creu més probable una correcció que noves pujades immediates, tot i que un rebot podria portar Bitcoin cap als 86.700 dòlars.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "borses",
+    "tipus d'interès",
+    "altcoins",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-10-01"
+  },
+  {
+   "id": "jiIBV7gr0H4",
+   "titol": "El fin del alquiler: Contratos perpetuos con indemnización",
+   "data": "2026-09-30T20:00:02+00:00",
+   "canal": "rallo",
+   "durada": 1142,
+   "idioma": "es",
+   "resum": "Rallo analitza el segon decret «Maric Carmen», redactat per Sumar, que converteix els contractes de lloguer en pràcticament indefinits i obliga el propietari a pagar una indemnització per recuperar el seu habitatge. Argumenta que el PSOE ho permet perquè la resta de partits ho tombin i així el primer decret sembli menys dur.",
+   "punts": [
+    {
+     "text": "Passats els 5 anys de contracte (7 si l'arrendador és empresa), es prorroga obligatòriament per nous períodes de 5-7 anys de manera indefinida si ningú avisa amb 6 mesos d'antelació.",
+     "t": 152
+    },
+    {
+     "text": "Per recuperar l'habitatge, el propietari ha d'indemnitzar l'inquilí amb com a mínim 12 mensualitats calculades al preu de mercat (índex de referència), no al preu que realment cobrava.",
+     "t": 245
+    },
+    {
+     "text": "Com més barat hagi llogat un propietari respecte al mercat, més desproporcionada és la indemnització: posa l'exemple d'un pis llogat a meitat de preu, on la indemnització equival a dos anys de la renda cobrada.",
+     "t": 448
+    },
+    {
+     "text": "L'única manera d'evitar la indemnització és oferir una renovació amb la renda pràcticament congelada (indexada) i que sigui l'inquilí qui la rebutgi.",
+     "t": 580
+    },
+    {
+     "text": "S'elimina el marge de negociació: qualsevol pacte diferent de renovar 5-7 anys en les mateixes condicions és nul de ple dret.",
+     "t": 644
+    },
+    {
+     "text": "La indemnització pendent viatja amb l'habitatge si es ven, i el nou règim s'aplica retroactivament als contractes vigents, inclosos els de tàcita reconducció.",
+     "t": 674
+    },
+    {
+     "text": "Preveu que els propietaris deixin de llogar o venguin, que pugin la renda inicial als nous contractes, que seleccionin més els inquilins (preferència per funcionaris) i que es creï un mercat dividit entre inquilins protegits i la resta exclosos.",
+     "t": 838
+    }
+   ],
+   "dades": [
+    "Contractes mínims de 5 o 7 anys amb pròrroga indefinida",
+    "Indemnització mínima de 12 mensualitats a preu de mercat",
+    "Exemple: lloguer de 800€ el 2019 davant un mercat actual de 1.100€, indemnització de 13.200€"
+   ],
+   "conclusio": "Rallo conclou que el decret no crea cap habitatge nou, sinó que redueix l'oferta de lloguer i perjudica sobretot joves i treballadors temporals, mentre blinda els inquilins que ja tenen contracte.",
+   "temes": [
+    "habitatge",
+    "lloguer",
+    "regulació",
+    "espanya",
+    "sumar",
+    "psoe"
+   ],
+   "lot": "2026-10-01"
+  },
+  {
+   "id": "Xu_X42Ilrd0",
+   "titol": "El fin del orden mundial: ¿quién manda ahora en el mundo? (y por qué te afecta)",
+   "data": "2026-09-30T17:00:32+00:00",
+   "canal": "vidal",
+   "durada": 1159,
+   "idioma": "es",
+   "resum": "Marc Vidal analitza la cimera de l'Assemblea General de l'ONU per argumentar que l'organització està en fallida financera i funcional: els seus propis membres (Xina, Rússia, Brasil, Mèxic, Argentina, Iran) no paguen les quotes perquè saben que no té capacitat real d'imposar res. Repassa fracassos històrics (Ruanda, Srebrenica, Haití) per concloure que el problema no és de pressupost sinó d'estructura i de manca de responsabilitat.",
+   "punts": [
+    {
+     "text": "El pressupost ordinari de l'ONU per al 2026 és de 3.450 milions de dòlars, i a tancament de 2025 acumulava quotes impagades més del doble que l'any anterior, amb els EUA com a principal deutor seguits de Xina, Rússia, Veneçuela, Brasil, Argentina, Mèxic i Iran.",
+     "t": 244
+    },
+    {
+     "text": "El pla d'ajust «UN80» preveu retallar un 18,8% de la plantilla; l'Alt Comissionat de Drets Humans va rebre només 191 dels 246 milions aprovats i l'Organització Internacional per a les Migracions va perdre un 30% dels seus empleats en un any.",
+     "t": 367
+    },
+    {
+     "text": "Casos històrics on va fallar amb pressupost disponible: el genocidi de Ruanda el 1994 (800.000 morts amb cascos blaus presents però sense ordre d'actuar), la massacre de Srebrenica el 1995 (8.000 morts en una «zona segura» de l'ONU) i el còlera a Haití el 2010 (10.000 morts per cascos blaus nepalesos, mai es va acceptar responsabilitat legal).",
+     "t": 451
+    },
+    {
+     "text": "El 1999 els EUA van negociar amb la llei Helms-Biden pagar els seus deutes a canvi de reduir la seva pròpia quota del 25% al 22%, cosa que segons Vidal va ensenyar a la resta de membres que no pagar té recompensa.",
+     "t": 673
+    },
+    {
+     "text": "Cita Hannah Arendt i el seu concepte del «govern de ningú»: una burocràcia on cap responsable individual pot ser assenyalat, cosa que explica la impunitat en els casos anteriors.",
+     "t": 736
+    },
+    {
+     "text": "El Consell de Seguretat, amb el vet dels cinc membres permanents, controla qui pot arribar a secretari general (es renova a final d'any entre sis candidats), cosa que perpetua un sistema que a cap dels cinc li interessa que funcioni ni que desaparegui.",
+     "t": 890
+    },
+    {
+     "text": "Espanya paga 60 milions de dòlars anuals a l'ONU, poc més d'1€ per persona.",
+     "t": 1011
+    }
+   ],
+   "dades": [
+    "Pressupost ordinari 2026: 3.450 milions de dòlars",
+    "Retallada de plantilla UN80: 18,8%",
+    "Genocidi de Ruanda: 800.000 morts; Srebrenica: 8.000 morts; Haití: 10.000 morts per còlera",
+    "Espanya aporta 60 milions de dòlars anuals"
+   ],
+   "conclusio": "Vidal conclou que no cal un «àrbitre» que només fa discursos i no té capacitat sancionadora: demana quotes amb pèrdua de vot si no es paguen, agències amb data de caducitat i auditoria externa, i reivindica que el progrés real ve de qui produeix i comercia, no de les resolucions de l'ONU.",
+   "temes": [
+    "onu",
+    "geopolítica",
+    "relacions internacionals",
+    "burocràcia",
+    "assemblea general",
+    "multilateralisme"
+   ],
+   "lot": "2026-10-01"
+  },
+  {
    "id": "yfJulh3EseA",
    "titol": "Bitcoin. Datos importantes hoy, pondrán a prueba el soporte de 82.210. Cuidado con la bolsa.",
    "data": "2026-09-30T08:46:56+00:00",
@@ -1849,9 +2013,17 @@
     "Dades macro. Avui es publiquen el PCE, el PIB i l'ocupació dels EUA, que poden decidir si Bitcoin trenca a l'alça cap als 85.000 $ o cau cap als 82.210 $ i per sota.",
     "Mitjans. Marc Vidal repassa el Digital News Report 2026: per primer cop les xarxes i plataformes de vídeo superen la televisió com a font de notícies, i governs europeus preparen lleis per recuperar-hi control."
    ]
+  },
+  "2026-10-01": {
+   "titular": "Rallo denuncia el segon decret del lloguer de Sumar, Bitcoin al día veu risc de correcció borsària i Marc Vidal qüestiona la legitimitat de l'ONU",
+   "punts": [
+    "Lloguer: Rallo alerta que el segon decret «Maric Carmen» de Sumar converteix els contractes de lloguer en pràcticament indefinits, amb indemnitzacions obligatòries per al propietari que vulgui recuperar el seu habitatge.",
+    "Mercats: Bitcoin al día veu senyals baixistes clares al Dow Jones i al DAX i uns tipus a 30 anys als nivells del 2002, i situa un suport clau per a Bitcoin a la zona dels 74.000-75.500 dòlars davant una possible correcció borsària.",
+    "Institucions: Marc Vidal denuncia que l'ONU acumula quotes impagades per part dels seus propis membres (Xina, Rússia, Brasil, entre d'altres) perquè l'organització no té capacitat real de sancionar ni d'actuar, com ja va demostrar en fracassos com Ruanda o Srebrenica."
+   ]
   }
  },
- "actualitzat": "2026-09-30T10:47:15.245Z",
+ "actualitzat": "2026-10-01T10:47:00.526Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
