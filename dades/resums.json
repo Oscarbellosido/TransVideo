@@ -1,6 +1,226 @@
 {
  "videos": [
   {
+   "id": "h2QOuIUEkWI",
+   "titol": "Bitcoin. Rebota y gana margen por encima de 82.210 . Datos de empleo marcarán la jornada.",
+   "data": "2026-10-02T07:23:26+00:00",
+   "canal": "btcdia",
+   "durada": 752,
+   "idioma": "es",
+   "resum": "Anàlisi tècnica diària de Bitcoin: el rebot dels dos últims dies el situa a 86.070$ amb marge suficient per no perdre la zona de 82.210$ aquesta setmana, pendent de les dades de nòmines no agrícoles de la tarda que marcaran el tancament setmanal.",
+   "punts": [
+    {
+     "text": "Bitcoin cotitza a 86.070$ després de rebotar dos dies seguits, cosa que li dona marge per no perdre la zona de 82.210$ aquesta setmana encara que la dada d'ocupació d'avui surti dolenta.",
+     "t": 39
+    },
+    {
+     "text": "Les probabilitats de pujada de tipus d'interès aquest mes han baixat fins al 25%, després d'haver arribat al 69% uns dies abans; poden tornar a canviar amb la dada de la tarda.",
+     "t": 195
+    },
+    {
+     "text": "Preveu que octubre sigui un mes de transició sense gaires pujades i que novembre porti una correcció, amb una bona oportunitat de compra cap a la tercera setmana de novembre (al voltant del 20-21).",
+     "t": 226
+    },
+    {
+     "text": "Bitcoin s'està comportant millor que l'or, el Dow Jones, el DAX alemany i l'S&P 500; només el Nasdaq aguanta igual de bé, i mentre el Nasdaq no corregeixi, Bitcoin tampoc ho farà.",
+     "t": 287
+    },
+    {
+     "text": "Des de la caiguda de 126.000 a 60.000$ es va trencar la correlació habitual: normalment Bitcoin amplificava per tres els moviments de la borsa, però ara cau i puja de manera més moderada.",
+     "t": 348
+    },
+    {
+     "text": "El mercat espera tranquil fins a les 14:30 hora central europea, quan es publiquen les nòmines no agrícoles i l'atur dels EUA, que definiran el tancament de la setmana.",
+     "t": 533
+    },
+    {
+     "text": "Entre les altcoins, el token de backpack i AVE es comporten bé però amb molta volatilitat; Cardano necessita trencar els 315 per tenir un moviment especulatiu, mentre BGB, BNB i Ethereum es mostren febles.",
+     "t": 561
+    }
+   ],
+   "dades": [
+    "Bitcoin: 86.070$ (marge de suport fins a 82.210$)",
+    "Probabilitat de pujada de tipus a l'octubre: 25% (havia arribat al 69%)",
+    "Oportunitat de compra prevista: cap al 20-21 de novembre",
+    "Caiguda prèvia de Bitcoin: de 126.000$ a 60.000$"
+   ],
+   "conclusio": "Espera que Bitcoin es mantingui per sobre de 82.210$ aquesta setmana sigui quin sigui el resultat de la dada d'ocupació, que octubre sigui de transició i novembre porti una correcció, amb una bona oportunitat de compra cap al 20-21 de novembre.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "anàlisi tècnica",
+    "mercats",
+    "tipus d'interès",
+    "altcoins"
+   ],
+   "lot": "2026-10-02"
+  },
+  {
+   "id": "IiEO-gw0s5c",
+   "titol": "El fondo buitre de Sánchez: proteger a los okupas para expoliar a los propietarios",
+   "data": "2026-10-01T20:00:37+00:00",
+   "canal": "rallo",
+   "durada": 1115,
+   "idioma": "es",
+   "resum": "Juan Ramón Rallo analitza el primer decret 'Maricarmen', presentat com a lluita contra els fons voltor, i argumenta que en realitat converteix l'Estat en el gran fons voltor del país: enfonsa el valor dels habitatges ocupats o llogats i s'assegura ser l'únic comprador capaç d'adquirir-los a preu de saldo.",
+   "punts": [
+    {
+     "text": "El decret obliga el jutge a suspendre el desnonament, fins al 2030, d'un ocupa vulnerable sense alternativa habitacional en un immoble de qui té més de dos pisos llogats, fins i tot si hi ha sentència ferma i l'ocupació va ser violenta.",
+     "t": 125
+    },
+    {
+     "text": "També protegeix de manera permanent els 'inquiocupes' (llogaters que deixen de pagar): la comunitat autònoma té 2 mesos per oferir alternativa o pagar el deute, i si no ho fa, el contracte segueix vigent mentre duri la vulnerabilitat del llogater.",
+     "t": 187
+    },
+    {
+     "text": "Amb la inflació al 5%, el decret limita l'actualització dels lloguers vigents al 2% (o al 0% en zones tensionades), de manera que els propietaris perden poder adquisitiu encara que el llogater pagui.",
+     "t": 311
+    },
+    {
+     "text": "Aquestes mesures enfonsen el valor de mercat dels habitatges ocupats o llogats que no es poden desnonar, i quan el propietari necessita vendre, normalment ho fa amb descomptes del 50-70% a societats especialitzades a resoldre aquest tipus de problemes.",
+     "t": 496
+    },
+    {
+     "text": "El decret prohibeix a qualsevol entitat privada (fons, immobiliàries, promotores, fins i tot societats patrimonials familiars) comprar aquests immobles amb un descompte superior al 30% sobre el valor de taxació, cosa que farà que molts rebutgin l'operació.",
+     "t": 556
+    },
+    {
+     "text": "Aquest límit del 30% NO s'aplica a les administracions ni empreses públiques (com Casa47): l'Estat sí pot comprar un pis ocupat al 40, 50 o 60% del seu valor de taxació, eliminant de facto els seus competidors privats en aquesta compra.",
+     "t": 713
+    },
+    {
+     "text": "Com que no s'augmenta el nombre total d'habitatges, sinó que només canvia la titularitat de privat a públic, és un joc de suma zero: guanyen l'Estat i els actuals ocupants, i perden els propietaris forçats a vendre barat i els futurs llogaters o compradors.",
+     "t": 934
+    }
+   ],
+   "dades": [
+    "Límit de compra per a entitats privades: no per sota del 70% del valor de taxació (fins el 2028)",
+    "Descomptes habituals de venda d'habitatges ocupats: 50-70% del valor de mercat",
+    "Actualització màxima del lloguer: 2% (o 0%), amb inflació al 5%",
+    "Administracions públiques: poden comprar a 40-60% del valor de taxació, sense el límit del 30%"
+   ],
+   "conclusio": "Amb l'excusa de combatre els fons voltor, el decret converteix l'Estat en l'únic comprador capaç d'adquirir habitatges problemàtics a preu de saldo, sense augmentar l'oferta d'habitatge: un joc de suma zero on guanyen l'Estat i els actuals ocupants, i perden els propietaris actuals i els futurs llogaters o compradors, perquè desincentiva la inversió immobiliària.",
+   "temes": [
+    "habitatge",
+    "lloguer",
+    "espanya",
+    "política econòmica",
+    "fons voltor",
+    "ocupació il·legal"
+   ],
+   "lot": "2026-10-02"
+  },
+  {
+   "id": "g3mRxbiXrsA",
+   "titol": "La crisis de vivienda en España: el problema no es el precio",
+   "data": "2026-10-01T17:08:34+00:00",
+   "canal": "vidal",
+   "durada": 1286,
+   "idioma": "es",
+   "resum": "Marc Vidal analitza el nou decret de l'habitatge a Espanya (el 'decret Maricarmen') i defensa que el problema real no és el preu sinó l'escassetat d'oferta, acumulada durant dècades per tots els governs. Mesures com la pròrroga de lloguers a Madrid o la compra parcial d'habitatges a Catalunya protegeixen qui ja té casa però no afegeixen cap habitatge nou.",
+   "punts": [
+    {
+     "text": "La construcció d'habitatge s'ha enfonsat des de la crisi: 865.000 visats el 2006, menys de 34.000 el 2013 i només ~90.000 anuals ara, davant 240.000 llars noves cada any; el Banc d'Espanya calcula que falten unes 750.000 vivendes.",
+     "t": 156
+    },
+    {
+     "text": "El 'decret Maricarmen' amplia les pròrrogues de lloguer fins al 2028, limita les pujades al 2% i suspèn alguns desnonaments fins al 2030 per a llogaters vulnerables quan el propietari és un gran tenidor, però no inclou cap xifra ni calendari d'habitatges nous.",
+     "t": 339
+    },
+    {
+     "text": "La Generalitat de Catalunya anuncia que comprarà el 50-60% d'habitatges a majors de 40 anys sense hipoteca (100 milions d'euros), però això no afegeix cap casa nova i només ajuda a competir per les que ja existeixen.",
+     "t": 646
+    },
+    {
+     "text": "L'evidència internacional sobre control de lloguers (revisió de Cochrane/Colodilin, 2024) mostra que conté els preus de qui ja és dins però redueix l'oferta: Catalunya (-5% preu, -10% contractes), San Francisco (-15% oferta), Berlín (-60% anuncis).",
+     "t": 739
+    },
+    {
+     "text": "Desenvolupar sòl nou triga de mitjana 15-20 anys a Espanya i la reforma de la llei del sòl ha fracassat dues vegades al Congrés; l'habitatge protegit ha caigut de 70.000 qualificacions el 2008 a 14.000 el 2024.",
+     "t": 800
+    },
+    {
+     "text": "A Viena, el lloguer regulat funciona perquè hi ha 220.000 habitatges municipals i 200.000 cooperatius construïts durant un segle; a Espanya l'habitatge social de lloguer és <2% del total, davant el 8% de mitjana europea i >20% a Àustria o Holanda.",
+     "t": 985
+    },
+    {
+     "text": "El balanç del BCE va passar de 4,7 a 8,84 bilions d'euros entre 2019 i 2022, i els materials de construcció han pujat un 26,7% des de 2019: part de l'encariment de l'habitatge és pèrdua de poder adquisitiu de l'euro, no només preu real.",
+     "t": 1047
+    }
+   ],
+   "dades": [
+    "Visats d'obra nova: 865.000 (2006) → <34.000 (2013) → ~90.000/any (ara) davant 240.000 llars nous",
+    "Falten ~750.000 habitatges (Banc d'Espanya)",
+    "Habitatge social de lloguer a Espanya: <2% (mitjana UE: 8%; Àustria/Holanda >20%)",
+    "Recaptació tributària espanyola: 212.000M€ (2019) → 325.000M€ (2025), +50%"
+   ],
+   "conclusio": "El problema de l'habitatge a Espanya no és el preu sinó l'escassetat d'oferta, arrossegada per dècades de manca de construcció per part de tots els governs i agreujada per la pèrdua de valor de l'euro. Els decrets que protegeixen els llogaters actuals o subvencionen la compra no afegeixen cap casa nova: reparteixen l'escassetat en lloc de resoldre-la, mentre l'Estat recapta més que mai sense construir l'habitatge que falta.",
+   "temes": [
+    "habitatge",
+    "lloguer",
+    "espanya",
+    "inflació",
+    "política econòmica",
+    "bce"
+   ],
+   "lot": "2026-10-02"
+  },
+  {
+   "id": "4jTVza4vSyU",
+   "titol": "La deuda de EE.UU se dispara: impacto en bolsa, mercados y BITCOIN",
+   "data": "2026-10-01T16:00:36+00:00",
+   "canal": "pablogil",
+   "durada": 1697,
+   "idioma": "es",
+   "resum": "Pablo Gil explica quan el deute d'un país esdevé perillós: no importa la xifra absoluta sinó la relació entre el seu cost, el creixement econòmic i el dèficit. Aplica la idea als Estats Units, amb projeccions de la CBO que mostren com de sensible és el seu futur fiscal a petites pujades de tipus.",
+   "punts": [
+    {
+     "text": "Un país no té un problema perquè degui molt, sinó quan el deute creix més de pressa que la seva capacitat de pagar-lo: cal mirar quant costa finançar-lo, quant creix l'economia i si el dèficit continua.",
+     "t": 61
+    },
+    {
+     "text": "El PIB mesura la mida de l'economia i per això el deute es compara amb ell en percentatge, per saber si un país deu més o menys del que produeix en un any.",
+     "t": 217
+    },
+    {
+     "text": "Quan el cost del deute supera el creixement econòmic i el govern continua gastant més del que ingressa, s'entra en un 'efecte bola de neu': més deute genera més interessos, que generen més dèficit i més emissió de deute.",
+     "t": 368
+    },
+    {
+     "text": "Els Estats Units tenen un deute equivalent al 126% del PIB (mesura bruta) o al 101% segons la mesura que fa servir la CBO (Oficina Pressupostària del Congrés).",
+     "t": 644
+    },
+    {
+     "text": "La CBO calcula que amb les polítiques actuals el deute arribaria al 175% del PIB el 2056, però si els tipus d'interès fossin només un punt més alts del previst, pujaria fins al 222%.",
+     "t": 675
+    },
+    {
+     "text": "La inflació permet reduir el pes real del deute sense impagar formalment: un estat pot retornar tots els diners promesos però amb molt menys poder adquisitiu (repressió financera).",
+     "t": 921
+    },
+    {
+     "text": "El FMI calcula que el deute públic mundial ronda el 94% del PIB el 2025 i podria arribar al 100% el 2029, mentre els interessos nets dels EUA podrien absorbir el 6,9% de la seva economia el 2056, més que la seguretat social o Medicare.",
+     "t": 1105
+    }
+   ],
+   "dades": [
+    "Deute dels EUA: 126% del PIB (brut) / 101% (mesura CBO)",
+    "Projecció CBO 2056: 175% del PIB (escenari central) → 222% si els tipus pugen només 1 punt",
+    "Deute públic mundial: ~94% del PIB el 2025 → ~100% el 2029 (FMI)",
+    "Interessos nets dels EUA el 2056: 6,9% del PIB"
+   ],
+   "conclusio": "No hi ha un llindar màgic de deute perillós: el que compta és si creix més ràpid que la capacitat de pagar-lo. Pablo Gil no preveu una fallida dels EUA sinó que el cost s'acabarà repartint via més impostos, menys despesa, més creixement o més inflació, i recomana no simplificar la inversió (ni amb or ni amb bitcoin) sinó vigilar com evolucionen bons, borsa, or, bitcoin i efectiu segons quina d'aquestes vies s'acabi imposant.",
+   "temes": [
+    "deute públic",
+    "eeuu",
+    "tipus d'interès",
+    "inflació",
+    "inversió",
+    "bons"
+   ],
+   "lot": "2026-10-02"
+  },
+  {
    "id": "KlJrXo3ynng",
    "titol": "Bitcoin. Más cerca de una corrección que de nuevas subidas. Señales bajistas en las bolsas.",
    "data": "2026-10-01T08:16:06+00:00",
@@ -2021,9 +2241,18 @@
     "Mercats: Bitcoin al día veu senyals baixistes clares al Dow Jones i al DAX i uns tipus a 30 anys als nivells del 2002, i situa un suport clau per a Bitcoin a la zona dels 74.000-75.500 dòlars davant una possible correcció borsària.",
     "Institucions: Marc Vidal denuncia que l'ONU acumula quotes impagades per part dels seus propis membres (Xina, Rússia, Brasil, entre d'altres) perquè l'organització no té capacitat real de sancionar ni d'actuar, com ja va demostrar en fracassos com Ruanda o Srebrenica."
    ]
+  },
+  "2026-10-02": {
+   "titular": "El decret de l'habitatge marca el dia: Marc Vidal i Juan Ramón Rallo coincideixen que no soluciona l'escassetat de pisos, mentre Pablo Gil alerta sobre el deute mundial i Bitcoin al día espera les dades d'ocupació dels EUA.",
+   "punts": [
+    "Habitatge: Marc Vidal i Juan Ramón Rallo analitzen el decret 'Maricarmen' des d'angles diferents però arriben a la mateixa conclusió: no afegeix cap casa nova. Vidal ho emmarca en dècades de manca de construcció (falten ~750.000 habitatges segons el Banc d'Espanya); Rallo detalla com l'Estat es reserva el dret a comprar pisos ocupats molt per sota del seu valor de taxació, prohibint-ho a les empreses privades.",
+    "Coincidència: tant Vidal com Rallo coincideixen que les mesures del decret només redistribueixen o congelen els habitatges existents, sense augmentar l'oferta, i que el cost final el paguen els propietaris actuals i qui encara no té casa.",
+    "Deute públic: Pablo Gil explica que un país no té un problema per deure molt, sinó quan el deute creix més ràpid que la seva capacitat de pagar-lo; els Estats Units, amb un deute del 101% del PIB, podrien arribar al 222% el 2056 si els tipus d'interès pugen només un punt més del previst.",
+    "Mercats: Bitcoin al día situa el bitcoin a 86.070$, amb marge per aguantar per sobre de 82.210$ aquesta setmana pendent de les dades d'ocupació dels EUA, i preveu una correcció al novembre amb una possible oportunitat de compra cap al 20-21 d'aquest mes."
+   ]
   }
  },
- "actualitzat": "2026-10-01T10:47:00.526Z",
+ "actualitzat": "2026-10-02T10:47:56.489Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
