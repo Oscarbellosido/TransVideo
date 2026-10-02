@@ -320,8 +320,23 @@ function pistaVideo(v) {
   ] };
 }
 
+// Ajunta frases curtes en trossos de fins a ~250 caràcters: cada locució nova fa que algunes veus
+// (les "naturals" d'Edge, la de Google a Android) reiniciïn volum i entonació, i amb frases soltes
+// el volum puja i baixa tota l'estona. 250 és prou curt per evitar el tall de Chrome a les ~15 s.
+function agrupa(frases, max = 250) {
+  const trossos = [];
+  for (let f of frases) {
+    if (!/[.!?;:]$/.test(f)) f += '.';
+    const ultim = trossos.at(-1);
+    if (ultim && ultim.length + f.length + 1 <= max) trossos[trossos.length - 1] = ultim + ' ' + f;
+    else trossos.push(f);
+  }
+  return trossos;
+}
+
 function comenca(cua) {
   synth.cancel();
+  cua.forEach(p => { p.frases = agrupa(p.frases); });
   Object.assign(A, { cua, pista: 0, frase: 0, pausat: false });
   document.body.classList.add('amb-reproductor');
   document.getElementById('reproductor').classList.add('actiu');
@@ -334,7 +349,7 @@ function parla() {
   if (A.frase >= p.frases.length) { A.pista++; A.frase = 0; return parla(); }
   const u = new SpeechSynthesisUtterance(p.frases[A.frase]);
   if (A.veu) { u.voice = A.veu; u.lang = A.veu.lang; } else u.lang = 'ca-ES';
-  u.rate = A.vel;
+  u.rate = A.vel; u.volume = 1; u.pitch = 1;
   const pista = A.pista;
   u.onend = () => { if (A.pista === pista && !A.pausat) { A.frase++; parla(); } };
   u.onerror = e => { if (e.error !== 'interrupted' && e.error !== 'canceled') { A.frase++; parla(); } };
