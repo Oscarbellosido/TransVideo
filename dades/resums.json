@@ -1,6 +1,239 @@
 {
  "videos": [
   {
+   "id": "GuXnfc4LuVU",
+   "titol": "Bitcoin. Liquidación de cortos en 87.000 y vuelta para atrás. Sigue el mercado con cautela.",
+   "data": "2026-10-03T08:13:55+00:00",
+   "canal": "btcdia",
+   "durada": 1784,
+   "idioma": "es",
+   "resum": "L'analista de Bitcoin al día repassa el desemborsament del FMI a El Salvador i la liquidació de posicions curtes a Bitcoin en la zona dels 87.000 dòlars, i dedica bona part del vídeo a explicar per què la inflació i el deute públic fan que els preus no puguin deixar de pujar. Manté una visió cautelosa a curt termini mentre el mercat no es correlacioni de nou amb una correcció del Nasdaq.",
+   "punts": [
+    {
+     "text": "El FMI ha aprovat un nou desemborsament de 138.000 (milions, en la moneda del fons) a El Salvador després de revisar l'acord: el país compleix amb la reducció del dèficit encara que continua acumulant bitcoins, cosa que no estava prevista en l'acord.",
+     "t": 5
+    },
+    {
+     "text": "Recomana a El Salvador utilitzar el FMI en comptes de deixar-se utilitzar per ell, i alliberar-se del deute com més aviat millor per no repetir els errors d'Europa, on considera que ja s'ha superat el punt de no retorn per l'endeutament acumulat.",
+     "t": 127
+    },
+    {
+     "text": "Ahir hi va haver un moviment per sobre dels 87.000 dòlars que va provocar liquidacions d'entre 120 i 200 milions de dòlars en posicions curtes molt apalancades, aprofitant un dato macro millor de l'esperat i un rebot de l'S&P 500.",
+     "t": 420
+    },
+    {
+     "text": "La inflació a Espanya ha arribat al 4,9%, una xifra que qualifica de barbaritat perquè, acumulada any rere any, multiplica els preus per dos en pocs anys; atribueix la inflació a la pèrdua de valor del diner per l'endeutament, no a decisions arbitràries sobre preus.",
+     "t": 624
+    },
+    {
+     "text": "Als Estats Units, al voltant del 30% del pressupost ja es destina només a pagar interessos del deute (no a amortitzar-lo); si aquesta proporció segueix creixent, no quedaran recursos per a sanitat, educació ni funcionaris.",
+     "t": 1086
+    },
+    {
+     "text": "Diferencia Europa dels Estats Units: tots dos tenen un deute i una gestió pressupostària igual de dolentes, però els EUA tenen l'avantatge d'acollir les grans empreses tecnològiques líders del món, cosa que allarga el seu marge, mentre que Europa ja no té marge fiscal.",
+     "t": 1232
+    },
+    {
+     "text": "A curt termini preveu una correcció del mercat: si Bitcoin perd la línia de tendència actual anirà cap als 82.210 dòlars, i si perd aquest nivell cap a la zona dels 74.000-75.000; situa el mínim possible de la correcció cap al 21 de novembre.",
+     "t": 1337
+    },
+    {
+     "text": "Les altcoins depenen totalment de Bitcoin: gairebé cap no té fonaments sòlids i, si Bitcoin no puja, tornen a desinflar-se; destaca AVE com la més alcista a curt termini i Cardano com pràcticament morta per manca de fonaments.",
+     "t": 1715
+    }
+   ],
+   "dades": [
+    "liquidacions de 120-200 milions de dòlars a Bitcoin en la zona dels 87.000",
+    "inflació a Espanya: 4,9%",
+    "aproximadament 30% del pressupost dels EUA destinat només a interessos del deute",
+    "suport clau a 82.210 dòlars; correcció major fins a 74.000-75.000 dòlars"
+   ],
+   "conclusio": "L'autor recomana seguir el mercat amb cautela: espera una correcció a curt termini mentre Nasdaq, Dow Jones i DAX no es tornin a correlacionar, i insisteix que l'arrel de la pujada de preus és la pèrdua de valor del diner per l'endeutament, no decisions arbitràries sobre preus.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "el salvador",
+    "inflació",
+    "deute públic",
+    "mercats"
+   ],
+   "lot": "2026-10-03"
+  },
+  {
+   "id": "0NMjTS6dbus",
+   "titol": "“No quedará impune”: la izquierda amenaza a quienes tumbaron sus decretos",
+   "data": "2026-10-03T07:00:23+00:00",
+   "canal": "rallo",
+   "durada": 1102,
+   "idioma": "es",
+   "resum": "Rallo denuncia que, un cop el Congrés va tombar els decrets Maricarmen d'habitatge, diversos diputats de Sumar i aliats van acusar públicament els diputats de dretes que hi van votar en contra de ser responsables personals dels futurs desnonaments, suïcidis i morts associades. Ho interpreta com una estratègia de polarització i amenaça per compensar l'esgotament d'una legislatura sense majoria real.",
+   "punts": [
+    {
+     "text": "El Congrés va tombar ahir els dos decrets Maricarmen d'habitatge, el projecte regulatori estrella de la legislatura; Rallo recorda que en quatre anys el govern tampoc ha aconseguit aprovar uns pressupostos, perquè la majoria progressista d'investidura mai va existir realment.",
+     "t": 31
+    },
+    {
+     "text": "El ministre Pablo Bustinduy va dir des del Congrés que qui votés que no \"estará estampando su nombre y apellido en cada desahucio\"; Rallo li retreu que la seva pròpia mare, Ángeles Amador, va ser ministra del govern que el 1994 va aprovar la Llei d'Arrendaments Urbans que va posar fi a la renda antiga de Maricarmen.",
+     "t": 158
+    },
+    {
+     "text": "La votació d'ahir es va fer, a petició de l'esquerra, de manera pública i individualitzada, diputat per diputat i a cara descoberta.",
+     "t": 436
+    },
+    {
+     "text": "La diputada de Sumar Tesh va demanar a les xarxes que es memoritzessin els noms, cognoms i cares dels diputats que votessin que no als decrets.",
+     "t": 436
+    },
+    {
+     "text": "El diputat de Compromís-Sumar Alberto Ibáñez va dir que votar que no era \"empujar a que cientos de personas pierdan sus vidas, a que se suiciden\".",
+     "t": 624
+    },
+    {
+     "text": "El diputat Gerardo Pisarello (Sumar) va advertir des de la tribuna que els diputats de PP, Vox i Junts \"no van a quedar impunes\" pel seu vot.",
+     "t": 778
+    },
+    {
+     "text": "Gabriel Rufián va animar els diputats de dretes a sortir al carrer sense escorta ni cotxe oficial a veure què els podia passar.",
+     "t": 872
+    },
+    {
+     "text": "Rallo atribueix aquesta escalada retòrica a dues raons: el nerviosisme per l'esgotament de la legislatura i la caiguda a les enquestes, i l'estratègia de polarització que ja va funcionar electoralment per a Pedro Sánchez el 2023.",
+     "t": 934
+    }
+   ],
+   "dades": [],
+   "conclusio": "Rallo qualifica aquest discurs de \"guerracivilista\", perquè atribueix per endavant qualsevol desnonament futur a la dreta i no als vuit anys de polítiques d'habitatge de l'esquerra, i avisa que, sense arguments tècnics, al govern només li queda l'apel·lació a l'emotivitat per intentar mantenir-se al poder.",
+   "temes": [
+    "habitatge",
+    "congrés",
+    "sumar",
+    "psoe",
+    "polarització",
+    "política espanyola"
+   ],
+   "lot": "2026-10-03"
+  },
+  {
+   "id": "I_d3jllTQhA",
+   "titol": "Francia está en llamas y lo apaga con deuda (nadie quiere ver lo que viene)",
+   "data": "2026-10-02T14:52:44+00:00",
+   "canal": "vidal",
+   "durada": 1337,
+   "idioma": "es",
+   "resum": "Marc Vidal analitza l'onada de protestes estudiantils i funcionarials a França (instituts bloquejats, detencions, incendis) i la connecta amb vuit anys de conflictes socials (armilles grogues, pensions, agricultors) que el govern sempre ha apaivagat amb més deute. La tesi és que l'Estat francès ja no pot créixer prou per complir les seves promeses i que el veritable debat és qui paga primer: l'Estat sempre paga puntualment el creditor mentre administra la resta amb anuncis.",
+   "punts": [
+    {
+     "text": "El 29 de setembre el Ministeri d'Educació francès va comptabilitzar 416 instituts afectats i 45 bloquejats del tot; els sindicats estudiantils en comptaven més de 400, i les xifres oficials van pujar després a 356 instituts bloquejats, 625 detencions en un dia i 83 policies i gendarmes ferits.",
+     "t": 124
+    },
+    {
+     "text": "A Nantes el vestíbul de l'institut Nelson Mandela va quedar destruït per un incendi que la direcció considera provocat; a Marsella van saquejar i cremar un vehicle de bombers; a l'Illa de França els danys ja superen el milió d'euros.",
+     "t": 249
+    },
+    {
+     "text": "Els estudiants només demanen més professors, més infermeres escolars, classes menys plenes i que no es toquin les ajudes a l'habitatge; la mateixa setmana els funcionaris protesten per la congelació salarial.",
+     "t": 372
+    },
+    {
+     "text": "Repassa vuit anys de conflictes amb el mateix fons: les armilles grogues (2018, comprades amb 100 euros més al mes pel Govern), la reforma de pensions del 2023 aprovada sense votació, els disturbis del 2023 i els talls dels agricultors del 2024.",
+     "t": 462
+    },
+    {
+     "text": "El deute públic francès va tancar el segon trimestre del 2026 al 119% del PIB (3,6 bilions d'euros), amb un creixement previst de només el 0,4% enguany; tot i així, el Tresor col·loca deute sense problemes i amb molta demanda.",
+     "t": 585
+    },
+    {
+     "text": "El pla d'ajust de Lecornu (54.000 milions per al 2027) no sanejaria el dèficit, només evitaria que pugi del 5% al 6,5% del PIB; el cost recau en la congelació salarial dels funcionaris, retallades en baixes per malaltia i gairebé 6.000 milions a càrrec dels pensionistes.",
+     "t": 680
+    },
+    {
+     "text": "Una enquesta de gener del 2026 mostra una confiança del 15-20% en partits, Parlament i Govern, però del 73-79% en hospitals i policia: els francesos no han deixat de confiar en l'Estat que els atén, sinó en el que decideix.",
+     "t": 772
+    },
+    {
+     "text": "Compara la situació amb la crisi fiscal de la monarquia francesa de 1787-1789: el problema no va ser mai la manca de diners (el creditor va cobrar fins al final), sinó la incapacitat d'acordar qui perdia.",
+     "t": 928
+    }
+   ],
+   "dades": [
+    "deute públic francès: 119% del PIB, 3,6 bilions d'euros",
+    "creixement previst del 0,4% el 2026 i 0,9% el 2027",
+    "356 instituts bloquejats i 625 detencions en un dia",
+    "confiança del 15% en els partits polítics, del 79% en els hospitals",
+    "pla d'ajust de Lecornu: 54.000 milions d'euros per al 2027"
+   ],
+   "conclusio": "Vidal recomana llegir els pressupostos com ho fa un creditor (interessos, pensions i sous públics cobren sempre primer), distingir entre anunci, llei votada i diner executat, i no construir la vida sobre promeses de protecció que no tenen partida pressupostària: formar-se i no dependre d'un sol ocupador o d'un sol Estat, perquè cap govern, de cap color, s'atreveix a dir en veu alta qui ha de perdre.",
+   "temes": [
+    "frança",
+    "deute públic",
+    "protestes",
+    "pressupostos",
+    "pensions",
+    "política europea"
+   ],
+   "lot": "2026-10-03"
+  },
+  {
+   "id": "FPs5cSoPHt8",
+   "titol": "Los decretos Maricarmen: el fracaso de la política de vivienda del PSOE",
+   "data": "2026-10-02T11:18:00+00:00",
+   "canal": "rallo",
+   "durada": 4314,
+   "idioma": "es",
+   "resum": "Rallo debat amb Daniel Fernández i Diego Sánchez de la Cruz, coautors del llibre \"Un país sin casas\", els dos decrets llei aprovats arran del cas Maricarmen, que blindarien l'inquilinat de manera gairebé indefinida. Hi coincideixen que és una resposta electoralista i tècnicament nefasta a un problema que és, de fons, d'escassetat d'oferta.",
+   "punts": [
+    {
+     "text": "L'oferta de lloguer ja s'havia desplomat en qüestió de dies des que es van conèixer els decrets; abans calien mesos perquè reials decrets anteriors tinguessin aquest efecte.",
+     "t": 185
+    },
+    {
+     "text": "Un dels decrets convertia els contractes de lloguer en gairebé indefinits i amb indemnització, equiparant-los al contracte laboral espanyol, que històricament ha generat un atur molt alt.",
+     "t": 309
+    },
+    {
+     "text": "El 95% del sòl espanyol no és urbanitzable i, del 5% restant, els terminis per desbloquejar promocions urbanístiques (Chamartín, Campamento, Jaén) superen els 20-25 anys.",
+     "t": 494
+    },
+    {
+     "text": "La renda antiga franquista (congelació de lloguers) va fer caure el pes del mercat de lloguer espanyol un 80%; el cas de Maricarmen n'és un exemple directe, amb un lloguer de menys de 200 euros al barri del Retiro.",
+     "t": 1142
+    },
+    {
+     "text": "Pedro Sánchez va reconèixer en les converses filtrades amb Ávalos que el decret de vulnerabilitat del 2020 seria \"un negociazo\" per als fons voltor i els grans tenidors, segons els autors.",
+     "t": 1295
+    },
+    {
+     "text": "Més del 90% de la propietat en lloguer a Espanya és de petits i mitjans propietaris, no de fons; els autors defensen que cal més inversió professionalitzada, no menys, per repartir riscos.",
+     "t": 1632
+    },
+    {
+     "text": "Espanya és penúltima d'Europa occidental en drets de propietat i té una de les fiscalitats més altes sobre el lloguer de l'OCDE: l'IBI hauria devaluat en 350.000 milions d'euros el patrimoni immobiliari dels espanyols en 40 anys, i la vivenda genera més de 50.000 milions d'euros anuals en impostos.",
+     "t": 3562
+    },
+    {
+     "text": "Proposen eliminar el 40% obligatori de vivenda de protecció oficial en noves promocions (l'òptim seria zero), alliberar tot el sòl no protegit per urbanitzar i retirar els controls de preus del lloguer.",
+     "t": 2587
+    }
+   ],
+   "dades": [
+    "80% de caiguda del mercat de lloguer amb la renda antiga franquista",
+    "95% del sòl espanyol no és urbanitzable",
+    "més de 50.000 milions d'euros recaptats cada any amb impostos sobre l'habitatge",
+    "350.000 milions d'euros de pèrdua de patrimoni estimada per l'IBI en 40 anys",
+    "pujada de preus del 44% i caiguda de l'oferta de més del 30% a les zones amb control de lloguers"
+   ],
+   "conclusio": "Al final del directe, Rallo confirma que els decrets no han tirat endavant al Congrés, però insisteix que això només evita un empitjorament: el problema de fons de l'habitatge continua sense resoldre's i caldrien reformes profundes (alliberar sòl, eliminar la VPO obligatòria, reduir la fiscalitat) que cap govern ha volgut emprendre.",
+   "temes": [
+    "habitatge",
+    "lloguer",
+    "psoe",
+    "fons voltor",
+    "fiscalitat",
+    "regulació"
+   ],
+   "lot": "2026-10-03"
+  },
+  {
    "id": "h2QOuIUEkWI",
    "titol": "Bitcoin. Rebota y gana margen por encima de 82.210 . Datos de empleo marcarán la jornada.",
    "data": "2026-10-02T07:23:26+00:00",
@@ -2250,9 +2483,19 @@
     "Deute públic: Pablo Gil explica que un país no té un problema per deure molt, sinó quan el deute creix més ràpid que la seva capacitat de pagar-lo; els Estats Units, amb un deute del 101% del PIB, podrien arribar al 222% el 2056 si els tipus d'interès pugen només un punt més del previst.",
     "Mercats: Bitcoin al día situa el bitcoin a 86.070$, amb marge per aguantar per sobre de 82.210$ aquesta setmana pendent de les dades d'ocupació dels EUA, i preveu una correcció al novembre amb una possible oportunitat de compra cap al 20-21 d'aquest mes."
    ]
+  },
+  "2026-10-03": {
+   "titular": "El Congrés tomba els decrets Maricarmen enmig d'amenaces de l'esquerra, mentre França i l'anàlisi de mercats alerten del mateix problema de fons: estats que prometen més del que poden pagar.",
+   "punts": [
+    "Habitatge: el Congrés va tombar ahir els dos decrets Maricarmen; Rallo, amb els autors d'\"Un país sin casas\", repassa per què considera que agreujaven el problema (control de preus, 95% del sòl no urbanitzable, fiscalitat elevada) i proposa alliberar sòl i eliminar la VPO obligatòria.",
+    "Polarització: Rallo denuncia que diversos diputats de Sumar (Bustinduy, Tesh, Ibáñez, Pisarello, Rufián) van responsabilitzar personalment els diputats de dretes de futurs desnonaments i suïcidis per votar en contra dels decrets, una estratègia que atribueix al nerviosisme per l'esgotament de la legislatura.",
+    "Deute i malestar social: Marc Vidal connecta les protestes estudiantils i funcionarials a França (instituts cremats, centenars de detencions) amb vuit anys de conflictes que l'Estat sempre ha apaivagat amb més deute (119% del PIB), i hi veu el mateix mecanisme que amenaça altres països europeus.",
+    "Deute i inflació: tant Marc Vidal com Bitcoin al día coincideixen que l'arrel dels problemes econòmics a Europa és l'endeutament públic creixent; Bitcoin al día ho il·lustra amb la inflació del 4,9% a Espanya i amb els EUA destinant ja un 30% del pressupost només a interessos del deute.",
+    "Mercats: Bitcoin al día destaca la liquidació de 120-200 milions de dòlars en curts a Bitcoin en la zona dels 87.000 dòlars i manté una previsió de correcció a curt termini cap als 82.210 o, si es perd aquest nivell, cap als 74.000-75.000 dòlars."
+   ]
   }
  },
- "actualitzat": "2026-10-02T10:47:56.489Z",
+ "actualitzat": "2026-10-03T10:47:18.655Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
