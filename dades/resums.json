@@ -1,6 +1,124 @@
 {
  "videos": [
   {
+   "id": "jHPYrrbd6Dw",
+   "titol": "Bitcoin. Ligero repunte el fin de semana, pero vela semanal de indefinición.",
+   "data": "2026-10-04T08:19:38+00:00",
+   "canal": "btcdia",
+   "durada": 733,
+   "idioma": "es",
+   "resum": "Bitcoin es manté per sobre dels 82.210 dòlars amb un cap de setmana tranquil i una vela setmanal d'indefinició. El mercat espera les dades macro de la setmana i la decisió sobre si trenca a l'alça o corregeix.",
+   "punts": [
+    {
+     "text": "El preu del petroli es manté alt (102,72 $) per els atacs a Orient Mitjà, el que manté la pressió sobre la inflació i els bancs centrals, encara que a curt termini no s'esperen pujades de tipus.",
+     "t": 67
+    },
+    {
+     "text": "Bitcoin es comporta millor que la resta d'actius: es manté per sobre dels 82.210, mentre la borsa no tecnològica porta gairebé un mes en correcció.",
+     "t": 130
+    },
+    {
+     "text": "El S&P 500 ha rebotat però no ha marcat nou màxim; el Nasdaq sí que en va marcar un divendres, una situació anòmala entre índexs.",
+     "t": 161
+    },
+    {
+     "text": "La vela setmanal és d'indefinició (mitja per sobre i per sota, poc cos): si Bitcoin perd els 82.210 anirà cap als 77.000; si aguanta, el següent moviment seria cap als 93.700.",
+     "t": 254
+    },
+    {
+     "text": "L'autor creu que la zona de compra bona arribarà cap al 21 de novembre, quan encara falten gairebé dos mesos.",
+     "t": 317
+    },
+    {
+     "text": "Altcoins: Backpack (1.247) amb bon aspecte tècnic, Cardano +0,35% cap als 310, BNB -0,37%, Ethereum +0,29% (li costa perquè els diners especulatius van cap a capitalitzacions més petites), Solana +0,73%, Tron -0,51%, ZEC/Zetacas +1,85% rebotant.",
+     "t": 441
+    },
+    {
+     "text": "Bitcoin tanca el repàs a 85.150; l'autor avisa que el que importa és com tanca avui a la nit, no el moviment del dissabte al matí.",
+     "t": 687
+    }
+   ],
+   "dades": [
+    "Bitcoin: 85.150 $",
+    "Suport clau: 82.210 $",
+    "Petroli: 102,72 $",
+    "Zona de compra prevista: 21 de novembre"
+   ],
+   "conclusio": "El mercat està en impàs esperant les dades macro de la setmana; l'espectador ha de vigilar si Bitcoin perd els 82.210 (cap a 77.000) o aguanta (cap a 93.700), sense fer-se il·lusions amb el moviment del cap de setmana.",
+   "temes": [
+    "bitcoin",
+    "altcoins",
+    "anàlisi tècnica",
+    "petroli",
+    "tipus d'interès",
+    "nasdaq"
+   ],
+   "lot": "2026-10-04"
+  },
+  {
+   "id": "jqzt6cTYwdE",
+   "titol": "Pagar su deuda destruyendo tus ahorros: el plan de Trump y de Francia",
+   "data": "2026-10-03T19:00:29+00:00",
+   "canal": "rallo",
+   "durada": 1390,
+   "idioma": "es",
+   "resum": "Trump ha reconegut obertament que vol usar la inflació per alleugerir el deute públic dels EUA, i a Europa Francia viu una dinàmica semblant amb la prima de risc disparada. Rallo explica per què als polítics els convé la inflació i per què els bancs centrals, tot i ser formalment independents, acaben cedint quan el deute posa en risc l'estabilitat financera.",
+   "punts": [
+    {
+     "text": "Trump ha dit en una entrevista a la revista Time que \"certs nivells d'inflació ajudaran a pagar aquest deute públic molt ràpidament\", referint-se al deute federal, que ja supera els 40 bilions de dòlars.",
+     "t": 90
+    },
+    {
+     "text": "El dèficit públic federal dels EUA és estructural, del 6% del PIB, tot i estar en plena ocupació i creixement, sense recessió.",
+     "t": 152
+    },
+    {
+     "text": "El tipus d'interès del deute públic a 10 anys dels EUA és el més alt en 25 anys; el Tresor ja paga més d'1 bilió de dòlars anuals només en interessos, una cinquena part de tota la recaptació fiscal.",
+     "t": 195
+    },
+    {
+     "text": "A França, el govern ha presentat els pressupostos de 2027 amb 43.000 milions d'euros d'ajust, però ni així estabilitzen el deute, que pujarà del 119,3% al 121,7% del PIB, el nivell més alt des de la Segona Guerra Mundial.",
+     "t": 399
+    },
+    {
+     "text": "La prima de risc entre el bo francès i l'alemany a 10 anys ha pujat fins als 150 punts bàsics, el nivell més alt des de la crisi de l'euro de 2012; el bo francès a 10 anys ja paga gairebé el 5%, el tipus més alt des de 2002.",
+     "t": 459
+    },
+    {
+     "text": "El mercat no es creu l'ajust perquè el govern francès és minoritari, sense garanties d'aprovar els pressupostos, i hi ha eleccions presidencials en 6 mesos amb una possible segona volta entre Le Pen i Mélenchon.",
+     "t": 500
+    },
+    {
+     "text": "Rallo argumenta que la inflació beneficia sempre el deutor i que l'Estat és el gran deutor de l'economia i, a més, el gestor monopolístic de la moneda: un conflicte d'interessos que la independència dels bancs centrals intenta limitar, sense èxit total.",
+     "t": 870
+    },
+    {
+     "text": "L'exemple de 2012 (el \"faré tot el necessari\" de Draghi) mostra que quan un Estat gran com França s'acosta a la fallida, el banc central acaba intervenint encara que formalment no li correspongui.",
+     "t": 1135
+    },
+    {
+     "text": "La inflació té perdedors clars: els inversors en deute públic i els tenedors de moneda estatal, que perden poder adquisitiu com una mena d'impost extraordinari per amortitzar el deute.",
+     "t": 1350
+    }
+   ],
+   "dades": [
+    "Deute federal EUA: >40 bilions $",
+    "Dèficit estructural EUA: 6% del PIB",
+    "Deute públic francès: 119,3% → 121,7% del PIB previst el 2027",
+    "Prima de risc França-Alemanya: 150 punts bàsics"
+   ],
+   "conclusio": "Rallo recomana protegir-se de la inflació que previsiblement vindrà als EUA i a la zona euro, ja que tant Trump com la classe política francesa compten (de forma explícita o implícita) amb que els bancs centrals acabaran cedint per rescatar el deute públic.",
+   "temes": [
+    "deute públic",
+    "inflació",
+    "banc central",
+    "frança",
+    "estats units",
+    "tipus d'interès"
+   ],
+   "lot": "2026-10-04"
+  },
+  {
    "id": "GuXnfc4LuVU",
    "titol": "Bitcoin. Liquidación de cortos en 87.000 y vuelta para atrás. Sigue el mercado con cautela.",
    "data": "2026-10-03T08:13:55+00:00",
@@ -2493,9 +2611,17 @@
     "Deute i inflació: tant Marc Vidal com Bitcoin al día coincideixen que l'arrel dels problemes econòmics a Europa és l'endeutament públic creixent; Bitcoin al día ho il·lustra amb la inflació del 4,9% a Espanya i amb els EUA destinant ja un 30% del pressupost només a interessos del deute.",
     "Mercats: Bitcoin al día destaca la liquidació de 120-200 milions de dòlars en curts a Bitcoin en la zona dels 87.000 dòlars i manté una previsió de correcció a curt termini cap als 82.210 o, si es perd aquest nivell, cap als 74.000-75.000 dòlars."
    ]
+  },
+  "2026-10-04": {
+   "titular": "Rallo alerta que Trump i França compten amb la inflació per diluir el deute públic, mentre Bitcoin es manté en indefinició per sobre dels 82.210.",
+   "punts": [
+    "Deute públic: Trump ha reconegut que vol usar la inflació per pagar el deute dels EUA (>40 bilions $); a França la prima de risc ha pujat fins als 150 punts bàsics, el nivell més alt des de 2012.",
+    "Bancs centrals: Rallo veu probable que la Fed i el BCE acabin cedint i intervenint per rescatar els seus estats, encara que això generi inflació.",
+    "Bitcoin: es manté per sobre dels 82.210 $ amb una vela setmanal d'indefinició; la decisió entre pujar cap als 93.700 o corregir cap als 77.000 encara trigarà setmanes."
+   ]
   }
  },
- "actualitzat": "2026-10-03T10:47:18.655Z",
+ "actualitzat": "2026-10-04T10:47:23.336Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
@@ -2550,6 +2676,31 @@
     "Pressupost francès: Lecornu el presenta l'1 d'octubre amb un pla d'estalvi de 54.000 milions d'euros, sense l'aprovació garantida a l'Assemblea Nacional (Rallo).",
     "Sortida a borsa d'Anthropic, possiblement al novembre, amb una valoració d'uns 2 bilions de dòlars (Rallo i Ignacio Moncada).",
     "Eleccions presidencials franceses d'abril-maig de 2027, l'horitzó que preocupa el governador del Banc de França (Rallo)."
+   ]
+  },
+  "2026-10-04": {
+   "des_de": "2026-09-28",
+   "titular": "El deute públic torna a ser el fil que connecta la setmana: EUA i França s'acosten a la temptació de pagar-lo amb inflació, mentre a Espanya els decrets Maricarmen acaben tombats enmig d'una forta polarització.",
+   "punts": [
+    "Deute i inflació: Rallo explica que Trump ha reconegut obertament voler usar la inflació per pagar el deute dels EUA, i que a França la prima de risc ha pujat als nivells més alts des de 2012; Pablo Gil detalla amb les xifres de la CBO com de ràpid pot créixer el deute nord-americà si els tipus pugen.",
+    "Bitcoin: Bitcoin al día ha repetit tota la setmana que el suport clau és 82.210 $, amb el mercat indecís entre pujar cap a 93.700-94.000 $ o corregir cap a 74.000-77.000 $, i situa la propera bona oportunitat de compra cap al 20-21 de novembre.",
+    "Habitatge a Espanya: Rallo (en diversos vídeos) i Vidal coincideixen que els decrets Maricarmen no augmenten l'oferta d'habitatge i poden reduir-la; el Congrés els va tombar el 2 d'octubre i això va desfermar una forta escalada retòrica de diputats de Sumar contra els qui hi van votar en contra.",
+    "França: Vidal repassa les protestes estudiantils i funcionarials i el deute del 119% del PIB; Rallo hi afegeix que el BCE podria acabar intervenint per rescatar-la, tot i negar-ho formalment.",
+    "Mercats i borsa: Pablo Gil i Vidal avisen que, tot i que la borsa (VIX baix) encara no mostra senyals de crac, el mercat de bons (tipus a 10 i 30 anys als nivells més alts en dècades) i el del dièsel sí que mostren tensió.",
+    "Altres: Vidal analitza la fallida financera i funcional de l'ONU i la caiguda de confiança en els mitjans tradicionals davant les xarxes i plataformes de vídeo."
+   ],
+   "coincideixen": [
+    "Deute públic i inflació: Rallo, Pablo Gil i Vidal alerten, cada un des del seu àmbit (EUA, França i mercats), que els governs molt endeutats acabaran recorrent a la inflació per alleugerir el deute, més que no a retallades.",
+    "Habitatge: Rallo i Vidal coincideixen que el problema de fons a Espanya és l'escassetat d'oferta, i que els decrets Maricarmen protegeixen els llogaters actuals sense construir cap habitatge nou."
+   ],
+   "discrepen": [
+    "To sobre la inevitabilitat de la inflació: Rallo l'hi dona per gairebé segura (tant als EUA com a la zona euro), mentre Pablo Gil és més prudent i parla de diverses vies possibles (més impostos, menys despesa, més creixement o més inflació) sense decantar-se."
+   ],
+   "a_vigilar": [
+    "Si Bitcoin trenca el suport dels 82.210 $ (cap a 77.000 $) o aguanta cap als 93.700 $; btcdia situa la propera finestra de compra cap al 20-21 de novembre.",
+    "L'evolució de la prima de risc francesa i si el BCE acaba intervenint per rescatar el deute de França, tot i negar-ho de moment.",
+    "Si el govern francès aconsegueix aprovar els pressupostos de 2027 a l'Assemblea Nacional, amb eleccions presidencials en 6 mesos de fons.",
+    "La reacció política a Espanya després que el Congrés tombés els decrets Maricarmen el 2 d'octubre."
    ]
   }
  }
