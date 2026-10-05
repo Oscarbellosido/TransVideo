@@ -1,6 +1,163 @@
 {
  "videos": [
   {
+   "id": "N2zMZB8HyfY",
+   "titol": "Bitcoin. Subida fuerte el Domingo, que lo desmarca del inicio débil de la bolsa. $ sube fuerte.",
+   "data": "2026-10-05T08:43:15+00:00",
+   "canal": "btcdia",
+   "durada": 777,
+   "idioma": "es",
+   "resum": "Anàlisi diària del mercat de criptomonedes: Bitcoin va pujar fort diumenge i es manté a prop dels 87.000 dòlars, desmarcant-se de la feblesa de les borses. Repàs dels principals altcoins i dels factors macroeconòmics que condicionen la setmana.",
+   "punts": [
+    {
+     "text": "El bo a 10 anys dels EUA es mou entre el 5,25% i el 5,34%, nivells no vistos des del 2002, i continua sent el principal fre per a les pujades del mercat; les expectatives de pujada de tipus a la propera reunió han baixat del 64% al 17-23% després del dada d'ocupació i per la proximitat de les eleccions.",
+     "t": 6
+    },
+    {
+     "text": "Bitcoin va pujar amb molta força diumenge a la nit, arribant gairebé als 87.000 dòlars, i recupera part del que havia perdut divendres; mentre no es trenqui la línia de tendència alcista a la baixa no hi haurà correcció, i el suport queda als 85.400.",
+     "t": 254
+    },
+    {
+     "text": "Michael Saylor ha tornat a anunciar compres de Bitcoin i recompra de deute (STRC), en línia amb les aproximadament 1.000 BTC comprades la setmana anterior.",
+     "t": 436
+    },
+    {
+     "text": "Entre els altcoins: Cardano puja un 5% i està a punt de trencar resistència als 315 (objectiu 348 i fins a 370 si la trenca); Ethereum, Solana, Tron i XRP es mantenen febles; el token de Backpack corregeix i convé deixar-lo reposar.",
+     "t": 501
+    },
+    {
+     "text": "Critica el marketing agressiu al voltant de Zcash (lobista a Washington, notícies constants) per intentar inflar i distribuir el token, en contrast amb Bitcoin, que no necessita cap empresa que en faci màrqueting.",
+     "t": 162
+    },
+    {
+     "text": "Les borses (S&P 500, Dow Jones, DAX) es mouen pràcticament planes malgrat la pujada de tipus a llarg termini i la caiguda de l'euro, una divergència que considera preocupant perquè el mercat sembla ignorar aquests senyals.",
+     "t": 654
+    }
+   ],
+   "dades": [
+    "Bitcoin a 86.466 $ al tancament del vídeo",
+    "Bo a 10 anys dels EUA al 5,25-5,34%",
+    "Resistència de Bitcoin als 87.000 $, suport als 85.400 $",
+    "~1.000 BTC comprats per Michael Saylor la setmana anterior"
+   ],
+   "conclusio": "Bitcoin mostra força pròpia desmarcant-se de la borsa, però l'autor avisa que la divergència entre els tipus d'interès/dòlar i la calma de les borses no pot durar indefinidament i que la correcció pot arribar en qualsevol moment.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "altcoins",
+    "tipus d'interès",
+    "michael saylor",
+    "zcash"
+   ],
+   "lot": "2026-10-05"
+  },
+  {
+   "id": "xZsMaANJkrM",
+   "titol": "La UE quiere controlar el acceso a Internet: los menores son la excusa",
+   "data": "2026-10-04T19:00:38+00:00",
+   "canal": "rallo",
+   "durada": 1118,
+   "idioma": "es",
+   "resum": "Juan Ramón Rallo denuncia que la Ley Kids de la Comissió Europea, presentada com a protecció dels menors a internet, construeix en realitat una infraestructura de credencials digitals que l'Estat pot utilitzar per censurar l'accés dels adults a internet. Posa l'exemple de Brasil, on Lula ha bloquejat mercats de predicció electorals amb la mateixa excusa paternalista.",
+   "punts": [
+    {
+     "text": "La Comissió Europea va presentar el 17 de setembre la Ley Kids: prohibeix comptes a xarxes socials a menors de 13 anys, permet «miniuentas» vinculades a un adult entre 13 i 15 anys amb un límit d'1 hora diària, i regula també vídeos, videojocs, botigues d'aplicacions, sistemes operatius i chatbots d'IA.",
+     "t": 124
+    },
+    {
+     "text": "La llei inverteix la càrrega de la prova: ara seran les plataformes les que hauran de demostrar que els seus serveis són segurs per disseny, amb un pla de compliment davant la Comissió i un auditor independent.",
+     "t": 217
+    },
+    {
+     "text": "Explica els quatre mètodes de verificació d'edat (DNI amb selfie, estimació facial, banc/operadora, credencial digital estatal) i per què la credencial digital estatal, tot i vendre's com la més respectuosa amb la privacitat, depèn de que el sistema sigui inatacable i que els polítics no vulguin fer-ne un ús abusiu.",
+     "t": 313
+    },
+    {
+     "text": "El consultor de seguretat Paul Moore va trencar en menys de 2 minuts, el 14 d'abril, l'aplicació de verificació d'edat de la Comissió Europea i va descobrir que guardava sense xifrar al mòbil les fotos de cara i DNI; el pedaç posterior el va qualificar de «teatre de seguretat».",
+     "t": 1153
+    },
+    {
+     "text": "Compara el sistema de credencials amb un passaport: qui l'emet pot retirar-lo, i la mateixa infraestructura es podria usar per segmentar l'accés a internet per nivells més enllà de l'edat.",
+     "t": 557
+    },
+    {
+     "text": "A Regne Unit, des que van entrar en vigor els controls d'edat el 25 de juliol de 2025, l'ús diari de VPN al mòbil va passar de 650.000 a més d'1,4 milions d'usuaris segons OFCOM, sobretot adults; la Cambra dels Lords va intentar prohibir les VPN als menors de 18 anys, però el govern britànic ho va frenar al juliol.",
+     "t": 671
+    },
+    {
+     "text": "Un jutge federal dels EUA va suspendre cautelarment la llei de Utah que obligava les webs a tractar com a usuari de Utah qualsevol persona físicament allà encara que fes servir una VPN.",
+     "t": 999
+    }
+   ],
+   "dades": [
+    "Comptes a xarxes socials prohibides als menors de 13 anys a la UE",
+    "Límit d'1 hora diària entre 13 i 15 anys amb miniuentas",
+    "Usuaris de VPN diaris al Regne Unit: de 650.000 a 1,4 milions en un mes",
+    "Cambra dels Lords: 207 vots a favor contra 159 per prohibir VPN a menors"
+   ],
+   "conclusio": "Rallo conclou que, encara que algunes restriccions puguin ser raonables aplicades per les famílies, no ho són imposades per l'Estat a tothom, i que la protecció dels menors és l'excusa per construir una infraestructura de credencials que amenaça la llibertat d'accés a internet de tots els adults.",
+   "temes": [
+    "unió europea",
+    "censura",
+    "internet",
+    "privacitat",
+    "vpn",
+    "ley kids"
+   ],
+   "lot": "2026-10-05"
+  },
+  {
+   "id": "8wD733sP920",
+   "titol": "¿CRISIS demográfica? El desafío de inmigración en EUROPA",
+   "data": "2026-10-04T16:00:02+00:00",
+   "canal": "pablogil",
+   "durada": 1178,
+   "idioma": "es",
+   "resum": "Pablo Gil analitza la immigració des de les xifres demogràfiques: Europa envelleix i necessita treballadors, mentre que a l'Àfrica subsahariana milions de joves entren cada any al mercat laboral sense trobar prou feina formal. Conclou que ni tancar fronteres ni obrir-les sense límit resol un desequilibri d'aquesta magnitud.",
+   "punts": [
+    {
+     "text": "La Unió Europea té 450 milions d'habitants, amb una fecunditat molt per sota dels 2,1 fills per dona necessaris per mantenir la població; la Comissió Europea calcula que la població en edat laboral podria reduir-se en 1 milió de persones cada any fins al 2050.",
+     "t": 121
+    },
+    {
+     "text": "El Banc Mundial calcula que la població en edat de treballar a l'Àfrica subsahariana augmentarà en uns 740 milions de persones en les properes tres dècades; cada any entren 10-12 milions de joves al mercat laboral africà però només es creen uns 3 milions de llocs formals.",
+     "t": 181
+    },
+    {
+     "text": "La integració no depèn només d'obrir la frontera: idioma, sistema educatiu d'origen, homologació de titulacions i distància cultural fan que la incorporació sigui molt diferent segons l'origen de la persona immigrant.",
+     "t": 427
+    },
+    {
+     "text": "Posa el Marroc com a exemple: creixement econòmic fort i inversió en infraestructures, però atur juvenil molt elevat, molts joves que ni estudien ni treballen i baixa participació laboral femenina, el que explica que la gent emigri encara que el PIB creixi.",
+     "t": 551
+    },
+    {
+     "text": "La intel·ligència artificial, l'automatització i la robòtica poden canviar radicalment quants treballadors i de quin perfil necessitarà Europa d'aquí a 10-20 anys, cosa que fa arriscat dissenyar avui una política migratòria pensada per al 2050.",
+     "t": 705
+    },
+    {
+     "text": "La solució de fons, diu, ha de començar a l'origen: electricitat, educació, finançament, institucions i empreses que generin feina a l'Àfrica, no només ajuda humanitària.",
+     "t": 832
+    }
+   ],
+   "dades": [
+    "450 milions d'habitants a la UE",
+    "-1 milió de població activa l'any a la UE fins 2050",
+    "+740 milions de persones en edat laboral a l'Àfrica subsahariana en 30 anys",
+    "10-12 milions de joves al mercat laboral africà cada any vs. 3 milions de llocs formals creats"
+   ],
+   "conclusio": "Ni tancar fronteres ni obrir-les sense límit soluciona el problema: cal una immigració ordenada i gestionada a Europa, però la solució real passa per crear oportunitats reals a l'origen, a l'Àfrica.",
+   "temes": [
+    "immigració",
+    "demografia",
+    "europa",
+    "àfrica",
+    "mercat laboral",
+    "intel·ligència artificial"
+   ],
+   "lot": "2026-10-05"
+  },
+  {
    "id": "jHPYrrbd6Dw",
    "titol": "Bitcoin. Ligero repunte el fin de semana, pero vela semanal de indefinición.",
    "data": "2026-10-04T08:19:38+00:00",
@@ -2619,9 +2776,18 @@
     "Bancs centrals: Rallo veu probable que la Fed i el BCE acabin cedint i intervenint per rescatar els seus estats, encara que això generi inflació.",
     "Bitcoin: es manté per sobre dels 82.210 $ amb una vela setmanal d'indefinició; la decisió entre pujar cap als 93.700 o corregir cap als 77.000 encara trigarà setmanes."
    ]
+  },
+  "2026-10-05": {
+   "titular": "Rallo alerta de la Ley Kids com a infraestructura de censura, Pablo Gil posa xifres al xoc demogràfic Europa-Àfrica i Bitcoin s'apropa als 87.000 dòlars malgrat la tensió dels bons.",
+   "punts": [
+    "Censura digital: Juan Ramón Rallo avisa que la Ley Kids de la UE, presentada per protegir els menors, crea un sistema de credencials digitals que l'Estat podria usar per controlar l'accés dels adults a internet, com ja passa a Brasil amb els mercats de predicció.",
+    "Immigració i demografia: Pablo Gil mostra que Europa perdrà població activa mentre l'Àfrica subsahariana sumarà 740 milions de persones en edat de treballar en 30 anys, i conclou que ni tancar fronteres ni obrir-les sense límit resol el desequilibri.",
+    "Mercats: Bitcoin al día destaca una pujada forta de Bitcoin diumenge, prop dels 87.000 dòlars, desmarcant-se de la feblesa de les borses, mentre els tipus a llarg termini als EUA es mantenen en màxims des del 2002.",
+    "Tots dos canals d'opinió (Rallo i Pablo Gil) parteixen avui d'un mateix patró: polítiques presentades com a protecció (dels menors, de la cohesió social) que, segons ells, amaguen problemes de fons més complexos de resoldre amb mesures simples."
+   ]
   }
  },
- "actualitzat": "2026-10-04T10:47:23.336Z",
+ "actualitzat": "2026-10-05T10:47:05.425Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
