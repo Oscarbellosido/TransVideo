@@ -1,6 +1,270 @@
 {
  "videos": [
   {
+   "id": "pS6_nWlZmvA",
+   "titol": "Las tres jugadas sucias de Sánchez para ganar las elecciones",
+   "data": "2026-10-06T08:00:29+00:00",
+   "canal": "rallo",
+   "durada": 1211,
+   "idioma": "es",
+   "resum": "Rallo denuncia tres moviments de Sánchez en les hores posteriors a convocar eleccions pel 29 de novembre: aprovar a la Diputación Permanente decrets que el ple del Congrés ja havia rebutjat, impulsar des del govern una vaga general contra l'oposició, i maniobrar per esquivar la suspensió cautelar del Tribunal Suprem sobre els efectes electorals de la llei de nets.",
+   "punts": [
+    {
+     "text": "Primera jugada: el ple del Congrés va rebutjar divendres els dos decrets \"Maric Carmen\" sobre habitatge (el primer amb els vots de PP, Vox i Junts; el segon també amb el PNV i Coalició Canària).",
+     "t": 93
+    },
+    {
+     "text": "Sánchez vol tornar a presentar-los sense canvis a la Diputación Permanente, un òrgan de 69 membres on PP, Vox i Junts tenen 34 escons (un per sota de la majoria absoluta, que serien 35) perquè la proporcionalitat respecte al ple no és perfecta.",
+     "t": 244
+    },
+    {
+     "text": "Rallo diferencia això del precedent de 2019: aquell decret de lloguer sí havia canviat i havia guanyat suports nous, de manera que hauria estat aprovat també pel ple; en aquest cas cap dels tres partits canvia el seu vot, i per tant és una subversió de la voluntat majoritària del ple.",
+     "t": 391
+    },
+    {
+     "text": "Segona jugada: CCOO i UGT (amb el suport explícit de Yolanda Díaz, Mónica García i Isabel Rodríguez) han convocat la primera vaga general des de 2012 i la primera sota un mandat de Sánchez, no contra el govern sinó contra l'oposició, per mantenir viu el tema de l'habitatge durant tota la campanya.",
+     "t": 526
+    },
+    {
+     "text": "Tercera jugada (més especulativa): el cens electoral per al 29 de novembre és el tancat l'1 d'agost, abans que el Tribunal Suprem suspengués cautelarment els efectes electorals de la llei de nets; el cens CERA ha passat de 2,3 a més de 2,7 milions d'electors, sobretot a l'Argentina, Mèxic i Cuba.",
+     "t": 836
+    },
+    {
+     "text": "Com que els consolats no podran revisar a temps els expedients per distingir exiliats reals de qui només es va beneficiar de la presumpció ministerial, la suspensió del Suprem queda de facto inaplicable; Vox i Justicia Europa demanen suspendre en bloc el vot de tots els nacionalitzats per aquesta via, una mesura que Rallo veu jurídicament més fràgil i que podria acabar al Constitucional.",
+     "t": 959
+    }
+   ],
+   "dades": [
+    "El cens CERA puja de 2,3 a més de 2,7 milions d'electors",
+    "Augment de més de 400.000 electors a l'estranger",
+    "34 escons de PP+Vox+Junts a la Diputación Permanente (35 és la majoria absoluta)"
+   ],
+   "conclusio": "Rallo conclou que Sánchez no juga a perdre: aquestes tres maniobres (legislativa, sindical i judicial) marcaran tota la campanya perquè l'objectiu és retenir el poder encara que les enquestes el donin per perdedor.",
+   "temes": [
+    "eleccions generals",
+    "psoe",
+    "habitatge",
+    "vaga general",
+    "llei de nets",
+    "tribunal suprem"
+   ],
+   "lot": "2026-10-06"
+  },
+  {
+   "id": "QLEIwoZxxjg",
+   "titol": "Bitcoin. El precio sigue parado en un rango pequeño entre 82.210 y 87.000.",
+   "data": "2026-10-06T07:55:40+00:00",
+   "canal": "btcdia",
+   "durada": 810,
+   "idioma": "es",
+   "resum": "El mercat de criptomonedes està en fase de transició i consolidació després de la pujada recent, sense aconseguir superar els 87.000 dòlars i amb risc de correcció. Bitcoin cotitza al voltant dels 85.000 dòlars, sostingut per notícies regulatòries més que per demanda nova.",
+   "punts": [
+    {
+     "text": "Bitcoin ha atacat diverses vegades la zona dels 87.000 dòlars sense èxit i ahir va corregir malgrat els màxims històrics del Nasdaq i les pujades de l'S&P 500.",
+     "t": 38
+    },
+    {
+     "text": "MicroStrategy va comprar 334 bitcoins la setmana passada i segueix recomprant bons STRC per sota de 100, reduint deute a preu més barat del que el va vendre.",
+     "t": 68
+    },
+    {
+     "text": "La CFTC es reafirma, junt amb la SEC, en proposar un marc regulatori unificat per a les criptoempreses (categories CTX i CAM) després del fracàs de la llei Clarity, per evitar haver de demanar llicència estat per estat.",
+     "t": 158
+    },
+    {
+     "text": "Alerta que els mercats borsaris (Nasdaq, S&P 500) estan en màxims però necessiten una correcció; si el Nasdaq corregeix, Bitcoin no se'n escaparà.",
+     "t": 335
+    },
+    {
+     "text": "Nivells clau: mentre no es perdi el mínim de diumenge als 84.700, no hi hauria caigudes majors; perdre aquesta zona portaria ràpidament als 83.300. Al gràfic horari, trencar la línia de tendència alcista obriria caiguda cap als 84.000.",
+     "t": 465
+    },
+    {
+     "text": "Les dues pujades fortes del 18 i el 26 de setembre es deuen només a notícies de regulació; sense elles, el gràfic de Bitcoin s'assemblaria més a la consolidació de l'S&P 500.",
+     "t": 555
+    },
+    {
+     "text": "Repàs d'altcoins: Cardano intenta trencar resistència als 3,14 (objectiu 3,44), BNB lateral amb resistència important al voltant de 0,0009778, Ethereum i Solana consolidant, i XRP sense gaire potencial de pujada.",
+     "t": 675
+    }
+   ],
+   "dades": [
+    "Bitcoin entre 82.210 i 87.000 dòlars",
+    "MicroStrategy va comprar 334 bitcoins la setmana passada",
+    "Mínim clau de diumenge: 84.700 dòlars"
+   ],
+   "conclusio": "El mercat necessita una correcció forta que li doni un nou suport sòlid, o bé noves notícies positives (regulació, baixada del petroli, pausa en tipus d'interès), per tornar a avançar; de moment toca vigilar els nivells de suport abans de prendre posicions.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "anàlisi tècnica",
+    "regulació",
+    "altcoins"
+   ],
+   "lot": "2026-10-06"
+  },
+  {
+   "id": "5M53TxSfhnY",
+   "titol": "Elecciones en España: ¿volverá a ganar Sánchez? | Con Miguel Anxo Bastos",
+   "data": "2026-10-05T20:41:16+00:00",
+   "canal": "rallo",
+   "durada": 3980,
+   "idioma": "es",
+   "resum": "Rallo conversa amb el politòleg Miguel Anxo Bastos sobre la convocatòria electoral del 29 de novembre. Bastos creu que les enquestes donen avantatge a PP i Vox, però que el marge s'estrenyirà perquè el PSOE està aconseguint mobilitzar el seu electorat amb la crisi de l'habitatge i mesures de darrera hora. També analitza els errors de l'esquerra i de la dreta de cara a la campanya.",
+   "punts": [
+    {
+     "text": "Convocatòria: no és una jugada mestra sinó calculada; Sánchez va triar el moment aprofitant unes mobilitzacions per l'habitatge que, segons Bastos, ja estaven orquestrades per entorns pròxims al PSOE.",
+     "t": 182
+    },
+    {
+     "text": "Previsió: tot apunta a una victòria de PP i Vox, però Bastos creu que el marge es reduirà perquè la crisi de l'habitatge i la corrupció mobilitzen un electorat d'esquerres que abans estava desmotivat.",
+     "t": 398
+    },
+    {
+     "text": "Critica que el PSOE aprovi a la Diputación Permanente decrets que fa tres dies van ser rebutjats al ple, i que convoqui una vaga general contra l'oposició (no contra el govern): en diu que és un moviment \"ridícul\" que es pot girar en contra seva.",
+     "t": 582
+    },
+    {
+     "text": "La llei d'habitatge és, per a Bastos, un tema molt divisiu perquè el 75% dels espanyols és propietari; recorda que, segons els àudios filtrats d'Ábalos i Koldo, el mateix Sánchez va ordenar suavitzar-la, cosa que indica que l'actual impuls és només electoral.",
+     "t": 857
+    },
+    {
+     "text": "El PNV es juga molt si acaba votant aquests decrets: perdria la seva imatge d'hàbil negociador i quedaria com una simple \"crossa\" del sanchisme davant el seu propi electorat, de perfil més conservador.",
+     "t": 979
+    },
+    {
+     "text": "Retret a la dreta: el 2023 va pecar de ser massa reactiva, limitant-se a \"derogar el sanchisme\" sense un discurs positiu propi; Bastos posa com a exemple el discurs de Churchill (sacrifici amb un objectiu il·lusionant) i el \"no hay dinero\" de Rajoy.",
+     "t": 2225
+    },
+    {
+     "text": "Sobre l'esquerra a la dreta del PSOE (Sumar/Podem/Frente Amplio), preveu un descalabre important i una baralla interna pel lideratge, amb Yolanda Díaz com la figura més hàbil políticament, tot i no compartir les seves idees.",
+     "t": 3203
+    }
+   ],
+   "dades": [
+    "Eleccions convocades pel 29 de novembre",
+    "PP i Vox busquen arribar als 210 diputats per reformar la Constitució",
+    "El 75% dels espanyols és propietari d'habitatge"
+   ],
+   "conclusio": "Bastos recomana a la dreta no caure en les provocacions del PSOE, construir un discurs propi i positiu, i no donar per fet el resultat: en 50 dies de campanya hi pot haver sorpreses en qualsevol sentit.",
+   "temes": [
+    "eleccions generals",
+    "psoe",
+    "pp",
+    "vox",
+    "habitatge",
+    "pnv"
+   ],
+   "lot": "2026-10-06"
+  },
+  {
+   "id": "D7tpbEUFSOk",
+   "titol": "Francia fuera de control: el aviso que Europa no quiere ver",
+   "data": "2026-10-05T18:00:07+00:00",
+   "canal": "vidal",
+   "durada": 1461,
+   "idioma": "es",
+   "resum": "Marc Vidal fa balanç de l'escalada de disturbis a França, que ha passat d'un institut de Créteil a desenes de ciutats amb més de 5.000 detencions en una setmana. Defensa que la \"guspira\" (les protestes escolars) és només el detonant, i que el \"combustible\" real és 40 anys de concentració territorial d'immigració, pobresa i fracàs escolar sense integració completada.",
+   "punts": [
+    {
+     "text": "L'escalada: de 440 detencions el dimarts a gairebé 2.000 en un sol dia el dijous, amb més de 5.000 detencions acumulades i més de 170 estudiants i 65 membres del personal educatiu ferits; el vestíbul del Liceu Nelson Mandela de Nantes va cremar.",
+     "t": 150
+    },
+    {
+     "text": "El moviment ja no és perifèria de París: s'ha estès a Lille, Lyon, Toulouse, Grenoble, Estrasburg, Nice i Nantes; el govern de Sébastien Lecornu ha desplegat unitats antidisturbis (CRS i gendarmeria mòbil).",
+     "t": 181
+    },
+    {
+     "text": "La mecànica del contagi: no hi va haver cap llei ni cap mort policial a l'origen, sinó un institut amb professors sense substituir i l'ansietat pel Parcoursup (la plataforma d'accés a la universitat); les xarxes socials van convertir un cas local en una experiència col·lectiva.",
+     "t": 304
+    },
+    {
+     "text": "Batalla pel relat: el govern hi veu La France Insoumise i l'esquerra radical explotant-ho, Mélenchon hi veu l'abandonament dels barris, i Le Pen i Bardella hi veuen la prova de que la immigració ha trencat França; Vidal diu que probablement cap dels tres relats és complet.",
+     "t": 429
+    },
+    {
+     "text": "Les dades de Seine-Saint-Denis (departament 93): 31% d'immigrants, 29,5% de taxa de pobresa (38,7% en menors de 18 anys), 27,7% d'atur juvenil; entre els descendents d'immigrants subsaharians l'edat mediana és de 14 anys.",
+     "t": 613
+    },
+    {
+     "text": "La integració no s'ha tancat: l'atur entre descendents d'immigrants és gairebé el doble que la mitjana (prop del 12% enfront del 6,5%), i més del 29% dels descendents d'immigrants no europeus sent que no els veuen com a francesos.",
+     "t": 859
+    },
+    {
+     "text": "Clau per entendre si escala: cal mirar si dimarts tornen a bloquejar-se centenars d'instituts i si la concentració convocada per la CGT a París aconsegueix unir estudiants, professors i altres sindicats en una mobilització transversal.",
+     "t": 1194
+    }
+   ],
+   "dades": [
+    "Més de 5.000 detencions en una setmana",
+    "31% d'immigrants a Seine-Saint-Denis",
+    "Edat mediana de 14 anys entre descendents d'immigrants subsaharians",
+    "Atur juvenil del 27,7% al departament 93"
+   ],
+   "conclusio": "Vidal avisa que el mateix \"combustible\" (immigració concentrada, pobresa, joventut i escola que falla com a ascensor social) existeix també a Espanya, i que cap color polític vol parlar-ne perquè no dona vots.",
+   "temes": [
+    "frança",
+    "disturbis",
+    "immigració",
+    "educació",
+    "integració",
+    "europa"
+   ],
+   "lot": "2026-10-06"
+  },
+  {
+   "id": "tlvOJGO1UJ8",
+   "titol": "La jugada de Sánchez: por qué convoca elecciones ahora",
+   "data": "2026-10-05T11:30:32+00:00",
+   "canal": "rallo",
+   "durada": 1207,
+   "idioma": "es",
+   "resum": "Rallo analitza per què Sánchez convoca eleccions el 29 de novembre tot i que les enquestes el donen per perdedor, amb el PSOE caient del 31,7% (121 escons el 2023) a un 25-26% i PP+Vox rondant els 200 escons. La seva tesi és que no és un moviment irracional, sinó el menys dolent entre les opcions que li quedaven.",
+   "punts": [
+    {
+     "text": "Convocar ara pot ser menys dolent que esperar: els pròxims mesos s'anuncien un \"calvari judicial\" per al PSOE, amb la possibilitat que el propi partit sigui imputat per finançament irregular.",
+     "t": 164
+    },
+    {
+     "text": "La hipermobilització de l'esquerra pels decrets d'habitatge deixava a Sánchez entre l'espasa i la paret: no convocar ara, enmig d'aquesta mobilització, hauria desmoralitzat les seves bases.",
+     "t": 307
+    },
+    {
+     "text": "La mobilització per l'habitatge també serveix per desviar el debat de temes incòmodes per al PSOE, com Ceuta (encara \"envaïda\" sense ordre públic restablert) i la corrupció que envolta el partit.",
+     "t": 367
+    },
+    {
+     "text": "Rallo adverteix que la finestra d'oportunitat és més estreta del que sembla: les polèmiques caduquen ràpid (fa un mes tot era Ceuta, ara ja ningú en parla) i el PSOE porta 8 anys agreujant el problema de l'habitatge que ara diu voler resoldre.",
+     "t": 460
+    },
+    {
+     "text": "Clau electoral: la convocatòria anticipada agafa desorganitzada tota l'esquerra a la seva esquerra (Podem, Sumar, Compromís, Adelante Andalucía), sense candidatura unitària ni temps per donar-se a conèixer, cosa que permetria al PSOE \"fagocitar\" bona part d'aquests vots.",
+     "t": 668
+    },
+    {
+     "text": "Encara que no li arribi per governar, fagocitar el vot de l'extrema esquerra podria convertir el PSOE en la força més votada el 29 de novembre, permetent a Sánchez dir que no ha fet un mal resultat encara que governi la dreta.",
+     "t": 833
+    },
+    {
+     "text": "Hipòtesi a llarg termini: Sánchez podria buscar, com va fer dins el PSOE o com va intentar el peronisme amb Milei, passar a l'oposició, atiar mobilitzacions socials contra un futur govern de PP i Vox, i intentar tornar al poder si aquest govern fracassa.",
+     "t": 1004
+    }
+   ],
+   "dades": [
+    "PSOE: del 31,7% i 121 escons (2023) a un 25-26% i prop de 100 escons a les enquestes",
+    "PP+Vox al voltant del 50% del vot i uns 200 escons a les enquestes"
+   ],
+   "conclusio": "Rallo conclou que no n'hi ha prou que Sánchez surti de la Moncloa: per treure'l de debò cal que perdi les eleccions amb total claredat i humiliació, perquè si no, pot tornar a intentar-ho des de l'oposició.",
+   "temes": [
+    "eleccions generals",
+    "psoe",
+    "pedro sánchez",
+    "estratègia electoral",
+    "extrema esquerra"
+   ],
+   "lot": "2026-10-06"
+  },
+  {
    "id": "N2zMZB8HyfY",
    "titol": "Bitcoin. Subida fuerte el Domingo, que lo desmarca del inicio débil de la bolsa. $ sube fuerte.",
    "data": "2026-10-05T08:43:15+00:00",
@@ -2785,9 +3049,19 @@
     "Mercats: Bitcoin al día destaca una pujada forta de Bitcoin diumenge, prop dels 87.000 dòlars, desmarcant-se de la feblesa de les borses, mentre els tipus a llarg termini als EUA es mantenen en màxims des del 2002.",
     "Tots dos canals d'opinió (Rallo i Pablo Gil) parteixen avui d'un mateix patró: polítiques presentades com a protecció (dels menors, de la cohesió social) que, segons ells, amaguen problemes de fons més complexos de resoldre amb mesures simples."
    ]
+  },
+  "2026-10-06": {
+   "titular": "Rallo diu que Sánchez juga net brut per aguantar al poder davant les eleccions del 29-N, mentre Vidal avisa que els disturbis a França anuncien un problema que també amenaça Espanya",
+   "punts": [
+    "Eleccions 29-N: Rallo (en dos vídeos) explica que Sánchez convoca ara perquè és el moment menys dolent abans d'un \"calvari judicial\", i denuncia tres jugades: aprovar decrets d'habitatge ja rebutjats pel ple a través de la Diputación Permanente, impulsar una vaga general contra l'oposició, i maniobrar per esquivar la suspensió judicial del cens electoral per la llei de nets.",
+    "Estratègia electoral: Rallo i el politòleg Miguel Anxo Bastos coincideixen que el marge de victòria de PP i Vox s'estrenyirà perquè l'esquerra s'està mobilitzant amb el tema de l'habitatge, però discrepen en si això beneficiarà de debò el PSOE: Rallo hi veu sobretot una manera de \"fagocitar\" el vot de Sumar i Podem; Bastos hi veu una estratègia arriscada que pot acabar girant-se en contra per excés.",
+    "Habitatge com a arma electoral: tots dos vídeos de Rallo i la conversa amb Bastos remarquen que és un tema molt divisiu (75% d'espanyols són propietaris) i que el PSOE no l'ha resolt en 8 anys de govern.",
+    "Avís de França: Marc Vidal relaciona l'onada de disturbis escolars a França (més de 5.000 detencions en una setmana) amb 40 anys de concentració territorial d'immigració, pobresa i fracàs escolar, i adverteix que Espanya té la mateixa \"recepta\" encara que sense la mateixa tradició de protesta al carrer.",
+    "Bitcoin al día descriu un mercat en consolidació entre els 82.210 i els 87.000 dòlars, sostingut per notícies regulatòries (CFTC i SEC) més que per demanda nova, amb MicroStrategy seguint comprant bitcoins i recomprant deute."
+   ]
   }
  },
- "actualitzat": "2026-10-05T10:47:05.425Z",
+ "actualitzat": "2026-10-06T10:48:29.266Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
