@@ -1,6 +1,170 @@
 {
  "videos": [
   {
+   "id": "zKtMg30hG1M",
+   "titol": "Bitcoin. Rompemos linea de tendencia. Liquidaciones de largos y posibilidad de testar los 82.210.",
+   "data": "2026-10-07T08:26:29+00:00",
+   "canal": "btcdia",
+   "durada": 1051,
+   "idioma": "es",
+   "resum": "Bitcoin trenca una línia de tendència clau i encadena liquidacions de llargs enmig de tensió geopolítica i petroli car. L'analista veu probable un test dels 82.210 $ i dibuixa tres escenaris segons com es comporti el Nasdaq.",
+   "punts": [
+    {
+     "text": "La caiguda de les últimes hores ha provocat 400 milions de dòlars de liquidacions de posicions llargues apalancades en cripto, en trencar-se una línia de tendència clau.",
+     "t": 35
+    },
+    {
+     "text": "Les wallets del govern dels EUA han mogut 833 bitcoins cap a Coinbase Prime (més una mica de BNB), sense confirmar-se cap venda.",
+     "t": 65
+    },
+    {
+     "text": "El petroli es manté a prop dels 100 $ pels atacs de l'Iran a petroliers a l'estret d'Ormuz, cosa que manté la inflació sense controlar.",
+     "t": 5
+    },
+    {
+     "text": "BlackRock diu que els agents d'intel·ligència artificial podrien impulsar la demanda de Bitcoin i stablecoins, tot i que l'analista creu que seran sobretot les stablecoins les que s'utilitzin per a pagaments.",
+     "t": 220
+    },
+    {
+     "text": "Tres escenaris segons el Nasdaq: correcció suau → suport als 79.000 $; correcció mitjana → zona de 75.000 $; correcció profunda (sobretot post-eleccions dels EUA) → per sota de 75.000 $, com a molt 71.000 $.",
+     "t": 401
+    },
+    {
+     "text": "Si perd els 82.210 $, el següent suport seria cap als 80.300 $; en gràfic horari, perdre els 83.850 $ portaria cap als 82.961 $.",
+     "t": 614
+    },
+    {
+     "text": "Un cop consolidi la zona, calcula que caldran uns 4-5 mesos abans que Bitcoin tingui força per pujar cap als 93.000-97.000 $.",
+     "t": 935
+    }
+   ],
+   "dades": [
+    "Bitcoin: 84.590 $ al tancament",
+    "Liquidacions: 400 milions $",
+    "Petroli: 100,83 $",
+    "Objectiu a vigilar: 82.210 $"
+   ],
+   "conclusio": "L'analista recomana paciència: fins que no passin uns 4-5 mesos de consolidació no hi haurà força per avançar cap a nivells superiors; de moment toca esperar alts i baixos.",
+   "temes": [
+    "bitcoin",
+    "anàlisi tècnica",
+    "criptomonedes",
+    "nasdaq",
+    "mercats",
+    "petroli"
+   ],
+   "lot": "2026-10-07"
+  },
+  {
+   "id": "3e6GeQSUpOg",
+   "titol": "Gobierno zombie: los medios que elogiaban a Sánchez ahora lo dan por muerto",
+   "data": "2026-10-07T08:00:09+00:00",
+   "canal": "rallo",
+   "durada": 982,
+   "idioma": "es",
+   "resum": "The Economist i Financial Times, que fa un any lloaven l'economia espanyola, ara donen per acabat el cicle polític de Pedro Sánchez. Rallo repassa les seves crítiques: l'habitatge, el model de creixement i la corrupció.",
+   "punts": [
+    {
+     "text": "El desembre de 2024 The Economist va posar Espanya primera en el rànquing de l'OCDE i Sánchez ho va celebrar; el setembre de 2025 el Financial Times la va anomenar \"l'economia més destacada d'Europa\".",
+     "t": 64
+    },
+    {
+     "text": "Ara ambdós mitjans critiquen els decrets d'habitatge del govern: protegeixen l'inquilí actual a costa de reduir l'oferta per a la resta, segons The Economist.",
+     "t": 188
+    },
+    {
+     "text": "El Financial Times acusa Sánchez de fer-se passar per defensor dels llogaters quan l'escassetat d'habitatge ha empitjorat durant els seus 8 anys de govern.",
+     "t": 219
+    },
+    {
+     "text": "Tots dos mitjans assenyalen la immigració massiva com una causa de l'escassetat: Espanya construeix 80.000 habitatges l'any mentre les llars han crescut en més de 700.000.",
+     "t": 283
+    },
+    {
+     "text": "El PIB espanyol ha crescut un 10% des de 2019 però el PIB per habitant només un 5%, i la productivitat per treballador no ha crescut gens des del 2019.",
+     "t": 344
+    },
+    {
+     "text": "El Financial Times descriu el govern de Sánchez com un \"govern zombi\", paralitzat i enfonsat en escàndols de corrupció, que governa cada cop més per decret.",
+     "t": 527
+    },
+    {
+     "text": "Ambdós mitjans es mostren escèptics que Sánchez conservi el poder després de les eleccions del 29 de novembre, tot i reconèixer-li talent per sobreviure.",
+     "t": 711
+    }
+   ],
+   "dades": [
+    "PIB: +10% des de 2019, PIB per habitant: +5%",
+    "80.000 habitatges nous l'any vs. +700.000 llars",
+    "Eleccions: 29 de novembre"
+   ],
+   "conclusio": "Els mateixos mitjans que lloaven la gestió de Sánchez ara li donen l'acta de defunció política, vinculant-ho al debat més ampli entre esquerra i dreta a Occident.",
+   "temes": [
+    "pedro sánchez",
+    "habitatge",
+    "immigració",
+    "economia espanyola",
+    "eleccions",
+    "corrupció"
+   ],
+   "lot": "2026-10-07"
+  },
+  {
+   "id": "kweeftwRxzE",
+   "titol": "¿Por qué elecciones ahora? El país real vs. el país de la campaña",
+   "data": "2026-10-06T17:00:29+00:00",
+   "canal": "vidal",
+   "durada": 1633,
+   "idioma": "es",
+   "resum": "Sánchez convoca eleccions pel 29 de novembre després de perdre dos decrets d'habitatge al Congrés. Marc Vidal analitza per què ho fa ara, com pensa convalidar el decret per la Diputació Permanent i per què el creixement econòmic no es nota a la butxaca dels joves.",
+   "punts": [
+    {
+     "text": "El Congrés va tombar divendres els dos decrets d'habitatge del govern (pròrroga de lloguers, topalls de rendes); l'endemà Sánchez va convocar eleccions pel 29 de novembre.",
+     "t": 185
+    },
+    {
+     "text": "El govern prepara tornar a aprovar el decret i convalidar-lo a la Diputació Permanent (un òrgan de només 60 diputats), un mecanisme pensat per emergències, no per repetir una votació perduda al ple.",
+     "t": 403
+    },
+    {
+     "text": "Vidal planteja 4 preguntes: per què 3 anys sense pressupostos, per què la urgència d'habitatge arriba per decret al final de la legislatura, què passarà amb 26.000 milions de fons europeus i què farà el govern amb el decret rebutjat.",
+     "t": 342
+    },
+    {
+     "text": "Espanya creix un 2,3-2,9% però el PIB per habitant només un 0,9% segons el FMI, perquè el creixement ve de sumar treballadors, no de millorar la productivitat.",
+     "t": 768
+    },
+    {
+     "text": "La inversió estrangera directa va caure un 21,8% el 2025 (30.000 milions), les exportacions amb prou feines van créixer un 0,6% i la renda per càpita real segueix al 92% de la mitjana europea, igual que fa 7 anys.",
+     "t": 862
+    },
+    {
+     "text": "La campanya es dividirà entre propietaris i llogaters: només el 14,5% dels menors de 30 anys viu fora de casa dels pares i la pujada del lloguer empeny el vot cap a direccions oposades segons el barri.",
+     "t": 984
+    },
+    {
+     "text": "Vidal recomana llegir els programes per la memòria econòmica, no fiar decisions personals a promeses electorals i protegir el poder adquisitiu pel propi compte.",
+     "t": 1527
+    }
+   ],
+   "dades": [
+    "Eleccions: 29 de novembre",
+    "PIB +2,3-2,9% però PIB per habitant +0,9% (FMI)",
+    "Inversió estrangera: -21,8% el 2025",
+    "Només 14,5% dels menors de 30 anys viu fora de casa dels pares"
+   ],
+   "conclusio": "El guanyador de les eleccions heretarà un país amb pressupostos pendents des de fa 3 anys, deute del 100% del PIB i fons europeus que s'acaben; Vidal recomana votar amb dades, no amb eslògans.",
+   "temes": [
+    "eleccions espanyoles",
+    "pedro sánchez",
+    "habitatge",
+    "economia espanyola",
+    "pressupostos",
+    "diputació permanent"
+   ],
+   "lot": "2026-10-07"
+  },
+  {
    "id": "pS6_nWlZmvA",
    "titol": "Las tres jugadas sucias de Sánchez para ganar las elecciones",
    "data": "2026-10-06T08:00:29+00:00",
@@ -3059,9 +3223,19 @@
     "Avís de França: Marc Vidal relaciona l'onada de disturbis escolars a França (més de 5.000 detencions en una setmana) amb 40 anys de concentració territorial d'immigració, pobresa i fracàs escolar, i adverteix que Espanya té la mateixa \"recepta\" encara que sense la mateixa tradició de protesta al carrer.",
     "Bitcoin al día descriu un mercat en consolidació entre els 82.210 i els 87.000 dòlars, sostingut per notícies regulatòries (CFTC i SEC) més que per demanda nova, amb MicroStrategy seguint comprant bitcoins i recomprant deute."
    ]
+  },
+  "2026-10-07": {
+   "titular": "Rallo i Vidal diuen que The Economist i Financial Times donen per acabat el cicle de Sánchez, mentre Bitcoin trenca suport i es juga els 82.210 $.",
+   "punts": [
+    "Eleccions i Sánchez: Rallo i Vidal coincideixen que la convocatòria del 29 de novembre arriba després de perdre els decrets d'habitatge al Congrés; Rallo destaca que mitjans com The Economist i el Financial Times, que fins fa poc lloaven l'economia espanyola, ara el donen per amortitzat, mentre Vidal se centra en com el govern prepara convalidar el decret a la Diputació Permanent.",
+    "Habitatge: ambdós canals assenyalen la immigració i la manca d'obra nova com a causa estructural de l'escassetat, no només la regulació de lloguers; Vidal hi afegeix que només el 14,5% dels menors de 30 anys viu fora de casa dels pares.",
+    "Economia espanyola: Rallo i Vidal coincideixen que el creixement del PIB amaga un estancament del PIB per habitant i de la productivitat des de 2019, i que els dos motors (fons europeus i immigració) s'estan esgotant.",
+    "Pressupostos: Vidal subratlla que el govern porta 3 anys sense presentar-los, tot i l'obligació constitucional d'1 d'octubre.",
+    "Mercats: Bitcoin trenca una línia de tendència clau i encadena 400 milions $ de liquidacions de llargs, amb l'estret d'Ormuz i el petroli car com a teló de fons de la inflació."
+   ]
   }
  },
- "actualitzat": "2026-10-06T10:48:29.266Z",
+ "actualitzat": "2026-10-07T10:47:00.231Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
