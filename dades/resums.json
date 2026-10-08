@@ -1,6 +1,169 @@
 {
  "videos": [
   {
+   "id": "jlqJHHUNnN8",
+   "titol": "Bitcoin. Tocamos el soporte y tenemos riesgo de perderlo si las bolsas siguen bajando.",
+   "data": "2026-10-08T07:38:38+00:00",
+   "canal": "btcdia",
+   "durada": 891,
+   "idioma": "es",
+   "resum": "Bitcoin ha caigut fins al suport dels 82.210 dòlars arrossegat per les borses, el petroli per sobre dels 100 dòlars i els bons a 10 anys en màxims des de 2002. L'analista hi veu un rebot temporal però manté cautela de cara a novembre, amb les eleccions nord-americanes com a factor de risc afegit.",
+   "punts": [
+    {
+     "text": "Bitcoin ha trencat la línia de tendència alcista i ha caigut fins al suport dels 82.210 dòlars, després de diversos intents fallits de superar els 87.000.",
+     "t": 36
+    },
+    {
+     "text": "Tres motius de la caiguda: el petroli persistint per sobre dels 100 dòlars pel conflicte a l'Orient Mitjà, el bo nord-americà a 10 anys en rendiments rècord des de 2002 (5,30%) i el dòlar enfortint-se davant l'euro.",
+     "t": 96
+    },
+    {
+     "text": "El moviment va provocar 550 milions de dòlars en liquidacions de criptomonedes en 24 hores i 487 milions de sortides dels ETFs, després que el dia anterior hi haguessin entrades; l'autor atribueix aquest volum diari sobretot a petits inversors, no a institucionals.",
+     "t": 189
+    },
+    {
+     "text": "L'S&P 500 podria baixar cap a la zona dels 7.716 punts, el que arrossegaria més caigudes de Bitcoin; l'euro està a prop de mínims contra el dòlar.",
+     "t": 313
+    },
+    {
+     "text": "Entre les altcoins: Ethereum i Solana a prop de perdre suports, XRP cap als 16,95 (amb risc de caure fins a 16,09), Zcash cau un 6%, mentre que BNB i les cripto d'exchanges aguanten millor.",
+     "t": 526
+    },
+    {
+     "text": "De cara a novembre preveu un mes negatiu per la incertesa de les eleccions dels EUA i perquè la Reserva Federal tindria més marge per pujar tipus un cop passades; per desembre espera recuperació.",
+     "t": 699
+    },
+    {
+     "text": "Pronòstic de tancament d'any: al voltant dels 87.650 dòlars, nivell similar al d'obertura de l'any, després d'una possible baixada fins a la zona dels 74.000-79.000 a l'octubre-novembre.",
+     "t": 910
+    }
+   ],
+   "dades": [
+    "Suport actual: 82.210 $",
+    "Liquidacions en 24h: 550 M$",
+    "Sortides d'ETFs: 487 M$",
+    "Bo EUA a 10 anys: 5,30%"
+   ],
+   "conclusio": "L'autor recomana paciència: espera correcció a l'octubre i novembre, però preveu recuperació cap a desembre fins a nivells similars als d'inici d'any.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "mercats",
+    "etf",
+    "altcoins"
+   ],
+   "lot": "2026-10-08"
+  },
+  {
+   "id": "7asKonizzTQ",
+   "titol": "A la muerte de Maricarmen: ¿quiénes son los buitres?",
+   "data": "2026-10-08T06:19:26+00:00",
+   "canal": "rallo",
+   "durada": 1019,
+   "idioma": "es",
+   "resum": "Rallo denuncia que l'esquerra i el PSOE estan utilitzant electoralment la mort de Maricarmen Abascal, atribuint-la al PP i Vox per haver votat contra la prohibició dels desnonaments. Segons ell, l'argument conté dues fal·làcies i, si s'acceptés la seva pròpia lògica causal, el responsable històric seria el PSOE, no el PP ni Vox.",
+   "punts": [
+    {
+     "text": "L'esquerra i el PSOE (Óscar López, Ramón Espinar, María Márquez) van culpar el PP i Vox de la mort en ple context electoral, de cara a les generals del 29 de novembre.",
+     "t": 94
+    },
+    {
+     "text": "Primera fal·làcia (atribució causal): que una llei sigui justa no implica que la societat sigui perfecta; Rallo compara l'argument amb culpar el PSOE i Sumar dels delictes comesos per immigrants per no voler tancar fronteres.",
+     "t": 304
+    },
+    {
+     "text": "Per evitar el desnonament d'una dona de 87 anys no calia prohibir els desnonaments a tota Espanya: n'hi hauria hagut prou que la societat civil li pagués el lloguer.",
+     "t": 396
+    },
+    {
+     "text": "Segona fal·làcia (narració històrica): el pis era de renda antiga (Llei d'arrendaments urbans de 1964, franquista); el Decret Boyer del PSOE (1985) no va rescindir els contractes anteriors, però la Llei d'arrendaments urbans de 1994, també del PSOE, va posar fi a la seva vigència indefinida, i el contracte va expirar el 2007.",
+     "t": 611
+    },
+    {
+     "text": "El 2007 governava Zapatero (PSOE); ni el PP ni Vox (que no existia) hi van tenir cap paper. La suspensió de desnonaments vigent fins febrer de 2026 tampoc protegia Maricarmen, perquè el seu desnonament no era per impagament sinó per contracte extingit des de 2007, com li van confirmar els tribunals.",
+     "t": 795
+    },
+    {
+     "text": "La derogació d'aquella suspensió pel PP, Vox i Junts el febrer de 2026, i la tombada dels decrets \"Maricarmen\" el 2 d'octubre, no van canviar res: ja havia estat desnonada abans.",
+     "t": 877
+    },
+    {
+     "text": "Conclusió de Rallo: si s'acceptés la causalitat (tramposa) que fan servir, el responsable seria el PSOE per la llei de 1994, no el PP ni Vox.",
+     "t": 919
+    }
+   ],
+   "dades": [
+    "Eleccions generals: 29 de novembre",
+    "Contracte de renda antiga extingit: 2007",
+    "Llei d'arrendaments urbans: 1994"
+   ],
+   "conclusio": "Rallo conclou que els veritables \"voltors\" són els que exploten políticament la mort de Maricarmen amb arguments falaços i una història distorsionada, i no els defensors de la propietat privada.",
+   "temes": [
+    "desnonaments",
+    "política",
+    "psoe",
+    "pp",
+    "vox",
+    "habitatge"
+   ],
+   "lot": "2026-10-08"
+  },
+  {
+   "id": "-IO1QCaLaRw",
+   "titol": "Algo acaba de romperse en el mercado de bonos y esta vez la factura llega a tu casa",
+   "data": "2026-10-07T18:15:41+00:00",
+   "canal": "vidal",
+   "durada": 1435,
+   "idioma": "es",
+   "resum": "Els inversors de deute públic han perdut la paciència amb França i el Regne Unit: els tipus dels bons han pujat a nivells no vistos en dècades perquè el mercat ja no es creu que la inflació pugui seguir diluint el deute sense conseqüències. La factura, diu Marc Vidal, no la paguen els polítics que l'han generat sinó els ciutadans, via impostos, retallades i hipoteques més cares.",
+   "punts": [
+    {
+     "text": "El bo francès a 10 anys va tocar el 4,96%, el nivell més alt des de juliol de 2002; el guilt britànic a 30 anys va superar el 6% per primer cop des de 1998, i el bo nord-americà a 10 anys va arribar al 5,34%.",
+     "t": 196
+    },
+    {
+     "text": "La prima de risc francesa (diferència amb Alemanya) va superar els 140 punts bàsics, la més àmplia des de 2012, amb un salt de 14 punts en un sol dia, el més gran des de març de 2020.",
+     "t": 247
+    },
+    {
+     "text": "Durant 15 anys els governs han evitat els ajustos imprimint diners i deixant que la inflació dilueixi el deute a costa dels qui treballen i estalvien; ara els creditors exigeixen interessos més alts per compensar aquesta pèrdua de valor.",
+     "t": 61
+    },
+    {
+     "text": "França preveu demanar prestats 340.000 milions d'euros l'any vinent (xifra rècord) i pagarà uns 91.000 milions només en interessos; Espanya haurà de captar 285.000 milions enguany (17% del PIB) i pagarà més de 42.000 milions en interessos.",
+     "t": 432
+    },
+    {
+     "text": "Recorda l'episodi de Liz Truss al Regne Unit el 2022: un minipressupost sense finançament clar va provocar una venda massiva de bons, una espiral que va obligar el Banc d'Anglaterra a intervenir i que va acabar amb la seva dimissió.",
+     "t": 524
+    },
+    {
+     "text": "La inflació de la zona euro va pujar al 3,8% al setembre (màxim en 3 anys) i a Espanya gairebé al 5%, empesa en part pel petroli Brent a prop dels 100 dòlars pel conflicte amb l'Iran.",
+     "t": 1049
+    },
+    {
+     "text": "El deute públic espanyol en euros no ha baixat: va arribar als 1,73 bilions a l'abril, un rècord; la ràtio sobre el PIB només sembla baixar perquè el PIB nominal creix per la inflació.",
+     "t": 809
+    }
+   ],
+   "dades": [
+    "Bo francès a 10 anys: 4,96%",
+    "Guilt britànic a 30 anys: >6%",
+    "Prima de risc francesa: >140 pb",
+    "Interessos del deute espanyol el 2026: >42.000 M€"
+   ],
+   "conclusio": "Vidal recomana revisar l'exposició a tipus variables, no confiar el futur a promeses públiques que depenen de deute barat, i formar-se financerament, perquè la inflació i la pujada d'interessos acabaran repercutint en impostos, retallades i hipoteques més cares.",
+   "temes": [
+    "deute públic",
+    "inflació",
+    "bons",
+    "francia",
+    "regne unit",
+    "espanya"
+   ],
+   "lot": "2026-10-08"
+  },
+  {
    "id": "zKtMg30hG1M",
    "titol": "Bitcoin. Rompemos linea de tendencia. Liquidaciones de largos y posibilidad de testar los 82.210.",
    "data": "2026-10-07T08:26:29+00:00",
@@ -375,6 +538,23 @@
     "europa"
    ],
    "lot": "2026-10-06"
+  },
+  {
+   "id": "0HuYpYixVdw",
+   "titol": "¿Comprar, alquilar o esperar? El problema de la vivienda, sin rodeos",
+   "data": "2026-10-05T15:55:53+00:00",
+   "canal": "pablogil",
+   "durada": 0,
+   "resum": "Vídeo sense subtítols: el resum es basa només en el títol i la descripció, que no detalla el contingut. Pel títol, Pablo Gil tracta el dilema de comprar, llogar o esperar davant el problema de l'habitatge.",
+   "punts": [],
+   "dades": [],
+   "conclusio": "Sense transcripció disponible no es pot concretar la recomanació de l'autor.",
+   "temes": [
+    "habitatge",
+    "lloguer",
+    "compra"
+   ],
+   "lot": "2026-10-08"
   },
   {
    "id": "tlvOJGO1UJ8",
@@ -3233,9 +3413,19 @@
     "Pressupostos: Vidal subratlla que el govern porta 3 anys sense presentar-los, tot i l'obligació constitucional d'1 d'octubre.",
     "Mercats: Bitcoin trenca una línia de tendència clau i encadena 400 milions $ de liquidacions de llargs, amb l'estret d'Ormuz i el petroli car com a teló de fons de la inflació."
    ]
+  },
+  "2026-10-08": {
+   "titular": "El mercat de bons es rebel·la contra el deute públic mentre Bitcoin cedeix davant les borses i la política espanyola es crispa amb la mort de Maricarmen",
+   "punts": [
+    "Deute públic: Marc Vidal alerta que França i el Regne Unit paguen interessos de bons no vistos des de fa dècades (bo francès al 4,96%, guilt britànic >6%), senyal que el mercat ja no accepta que la inflació dilueixi el deute sense cost.",
+    "Inflació com a impost ocult: tant Vidal com l'anàlisi de mercats de Bitcoin al día apunten al petroli per sobre dels 100 dòlars i als bons en màxims com a factors que erosionen la confiança en els actius de risc i en el deute públic.",
+    "Bitcoin a la baixa: l'analista de Bitcoin al día situa el suport en 82.210 dòlars i avisa que una nova caiguda de les borses el podria trencar; preveu un octubre i novembre complicats però recuperació cap a desembre.",
+    "Política i desnonaments: Juan Ramón Rallo rebat la instrumentalització electoral de la mort de Maricarmen Abascal, argumentant que el seu desnonament es deu a una llei del PSOE de 1994 i no a vots del PP o Vox.",
+    "Habitatge sense dades: Pablo Gil planteja el dilema de comprar, llogar o esperar, però el vídeo no té subtítols disponibles i no se'n pot resumir el contingut."
+   ]
   }
  },
- "actualitzat": "2026-10-07T10:47:00.231Z",
+ "actualitzat": "2026-10-08T10:47:33.233Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
