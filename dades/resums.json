@@ -1,6 +1,223 @@
 {
  "videos": [
   {
+   "id": "MveLoNf7d8s",
+   "titol": "Le doblamos la mano al Gobierno: cae su decreto de universidades",
+   "data": "2026-10-09T09:30:08+00:00",
+   "canal": "rallo",
+   "durada": 1621,
+   "idioma": "es",
+   "resum": "Juan Ramón Rallo explica que el Tribunal Suprem ha anul·lat íntegrament el decret d'universitats del govern del PSOE, que havia estat recorregut per 10 entitats, inclosa la Universitat de les Hespèrides, de la qual forma part. Repassa les barreres que imposava el decret a les universitats privades i per què, al seu parer, no tenien res a veure amb la qualitat educativa, i alerta que el govern podria intentar tornar a aprovar-lo per una altra via.",
+   "punts": [
+    {
+     "text": "El Tribunal Suprem ha fet pública la sentència (8 d'octubre) sobre el primer dels 10 recursos presentats contra el decret d'universitats, el del Govern Balear, i declara el decret nul de ple dret en la seva totalitat.",
+     "t": 62
+    },
+    {
+     "text": "El Suprem no entra en el fons de l'assumpte: anul·la el decret per defecte de forma, perquè el govern va declarar la tramitació 'urgent' per saltar-se la consulta pública prèvia exigida per llei, i el tribunal conclou que aquesta urgència no estava justificada.",
+     "t": 92
+    },
+    {
+     "text": "El decret exigia un mínim de 4.500 alumnes matriculats i almenys 10 graus, 6 màsters i 3 doctorats per poder obrir o mantenir una universitat; segons Rallo, amb aquests requisits Caltech, amb uns 2.400 alumnes, no hauria pogut existir a Espanya.",
+     "t": 305
+    },
+    {
+     "text": "Obligava a dedicar un 5% del pressupost a recerca pròpia i a captar en concurrència competitiva almenys un 2% més, avaluat en bona part per acadèmics de les universitats públiques competidores; si no s'assolia en 2 anys, es podia revocar l'autorització.",
+     "t": 519
+    },
+    {
+     "text": "Imposava capital immobilitzat: reservar allotjament per al 10% de les places presencials i avalar bancàriament tot el pressupost del tercer any d'activitat abans fins i tot de saber si l'autoritzarien.",
+     "t": 671
+    },
+    {
+     "text": "Les universitats amb més del 80% de docència virtual necessitaven una llei de les Corts Generals per ser reconegudes (amb excepcions per a les que impartien en llengua cooficial o rebien finançament autonòmic) i havien de tenir almenys el 75% del professorat resident a Espanya o la UE.",
+     "t": 793
+    },
+    {
+     "text": "Rallo adverteix que Pedro Sánchez ha dit que tornarà a aprovar el decret, i que el govern podria intentar-ho mitjançant un reial decret llei aprofitant la Diputació Permanent amb les Corts dissoltes, tot i que això xocaria amb l'article 27 de la Constitució.",
+     "t": 1469
+    }
+   ],
+   "dades": [
+    "El Suprem va deliberar conjuntament 10 recursos contra el decret el 29 de setembre",
+    "El decret exigia un mínim de 4.500 alumnes; Caltech en té uns 2.400",
+    "Calia reservar allotjament per al 10% de les places i avalar tot el pressupost del tercer any",
+    "Almenys el 75% del professorat havia de residir a Espanya o la UE"
+   ],
+   "conclusio": "Rallo celebra l'anul·lació com una victòria per a la llibertat d'ensenyament, però avisa que el govern podria intentar tornar a aprovar el mateix decret per via de reial decret llei aprofitant la Diputació Permanent de les Corts dissoltes.",
+   "temes": [
+    "universitats",
+    "tribunal suprem",
+    "llibertat d'ensenyament",
+    "política espanyola",
+    "regulació"
+   ],
+   "lot": "2026-10-09"
+  },
+  {
+   "id": "1gt-g6LZA5k",
+   "titol": "Bitcoin. Liquidaciones de más de 1000 M de $. El precio se estabilizara en esta zona un tiempo.",
+   "data": "2026-10-09T08:28:04+00:00",
+   "canal": "btcdia",
+   "durada": 1261,
+   "idioma": "es",
+   "resum": "Bitcoin al día repassa la forta liquidació de posicions llargues apalancades que ha provocat una caiguda fins a prop dels 80.200 $ i el rebot posterior cap als 82.500-82.690 $. L'autor espera consolidació amb alts i baixos a curt termini, una correcció més profunda cap al 21 de novembre, i no descarta tancar l'any a la zona dels 87.600 $ si les borses no s'esfonsen.",
+   "punts": [
+    {
+     "text": "Liquidació massiva de posicions llargues apalancades (més de 1.000 M$) després que Bitcoin caigués fins a prop dels 80.200 $; el preu rebota cap als 82.500 $.",
+     "t": 131
+    },
+    {
+     "text": "L'ESMA dona 3 mesos a les empreses de criptomonedes per retirar les stablecoins que no compleixin la normativa MiCA; opina que l'intent europeu de frenar les stablecoins en dòlars a favor de les d'euros no funcionarà a escala mundial.",
+     "t": 226
+    },
+    {
+     "text": "El govern dels EUA ha mogut 1.000 M$ en bitcoins incautats (12.267 BTC) que provindrien de la recuperació del hackeig de Bitfinex de 2016; es desconeix cap a on s'han enviat.",
+     "t": 289
+    },
+    {
+     "text": "A curt termini preveu que el preu es mogui entorn dels 82.000 $ amunt i avall, amb possible pujada cap als 84.000 $, fins que es trenqui la línia de tendència cap a finals d'octubre o principis de novembre.",
+     "t": 414
+    },
+    {
+     "text": "Escenari central: nova correcció més profunda cap al 21 de novembre amb suport principal a la zona dels 75.000 $; en el pitjor escenari, si les borses també corregeixen fort, podria arribar als 71.000 $.",
+     "t": 475
+    },
+    {
+     "text": "Si no hi ha un esfondrament major, manté la tesi de tancar l'any a la zona dels 87.600 $, en línia amb la seva previsió inicial d'un 2026 de transició amb moviment lateral, no un any baixista.",
+     "t": 538
+    },
+    {
+     "text": "Les altcoins acompanyen la correcció (Ethereum, Cardano, Solana, BNB amb vela molt negativa), mentre Tron es mou a contracorrent; els índexs borsaris, amb el S&P500 encara sense corregir clarament, són el principal risc afegit per Bitcoin.",
+     "t": 1062
+    }
+   ],
+   "dades": [
+    "Liquidacions superiors als 1.000 M$ en posicions llargues apalancades",
+    "Bitcoin a 82.690 $ després de rebotar des dels ~80.200 $",
+    "Suport clau a la zona dels 75.000 $ cap al 21 de novembre (71.000 $ en el pitjor escenari)",
+    "1.000 M$ en bitcoins del govern dels EUA moguts (12.267 BTC, origen Bitfinex 2016)"
+   ],
+   "conclusio": "Espera consolidació amb alts i baixos al voltant dels 82.000-84.000 $ a curt termini, una correcció més profunda cap al 21 de novembre amb suport clau als 75.000 $, i no descarta tancar l'any proper als 87.600 $ si les borses no s'esfonsen.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "mercats",
+    "anàlisi tècnica",
+    "altcoins"
+   ],
+   "lot": "2026-10-09"
+  },
+  {
+   "id": "tNDG0uU0UaE",
+   "titol": "Francia fue solo el comienzo: Bélgica, Italia... por qué Europa está en crisis y quién sigue",
+   "data": "2026-10-08T18:00:15+00:00",
+   "canal": "vidal",
+   "durada": 1281,
+   "idioma": "es",
+   "resum": "Marc Vidal connecta les protestes estudiantils i sindicals que s'estenen de França a Bèlgica i Itàlia amb un problema de fons: l'estat del benestar europeu creix en despesa però ja no és percebut com a suficient, perquè, a diferència dels anys 60, ara no hi ha creixement econòmic que dissolgui la factura. Conclou que l'ajust vindrà, probablement via inflació, i que ningú l'haurà votat.",
+   "punts": [
+    {
+     "text": "Protestes estudiantils i sindicals a Lieja, Charleroi i Mons (Bèlgica) i vagues generals a Itàlia contra el cost de la vida i la despesa militar, en la mateixa línia del que ja passava a França.",
+     "t": 61
+    },
+    {
+     "text": "Segons la Comissió Europea, Bèlgica creixerà només un 0,7% aquest any, el seu dèficit públic es manté al 5,2% del PIB i el deute pujarà del 107,9% al 110,5% del PIB; només França ho fa pitjor a la zona euro.",
+     "t": 338
+    },
+    {
+     "text": "Tot i aplicar retalls (reforma de pensions, endurir l'atur), el dèficit belga no baixa perquè el que s'estalvia se'l mengen els interessos del deute i la despesa en defensa.",
+     "t": 369
+    },
+    {
+     "text": "La despesa en protecció social de la UE va pujar un 7% el 2024 fins als 4,9 bilions d'euros (27,3% del PIB) i va créixer als 27 països sense excepció; el 40% va a pensions i el 30% a sanitat. No hi ha desmantellament de l'estat del benestar, sinó que cada any és més car de mantenir.",
+     "t": 459
+    },
+    {
+     "text": "Compara amb la 'vaga del segle' a Lieja de 1960: aleshores el fort creixement dels anys 60 va dissoldre el conflicte social; ara Bèlgica només creix un 0,7% i no hi ha marge per diluir la factura de la mateixa manera.",
+     "t": 609
+    },
+    {
+     "text": "La despesa en defensa a Bèlgica pujarà de l'1,4% al 1,8% del PIB i el dèficit agregat de la UE del 3,1% al 3,6%, empesos pels interessos del deute, l'energia i la defensa.",
+     "t": 759
+    },
+    {
+     "text": "Alerta d'una 'tercera via silenciosa': utilitzar la inflació per rebaixar el pes del deute (Trump ho va dir obertament sobre el deute dels EUA, per sobre dels 40 bilions de dòlars). A Bèlgica la inflació rondarà el 3,4%, per això els sindicats defensen la indexació salarial com a escut.",
+     "t": 944
+    }
+   ],
+   "dades": [
+    "Bèlgica: creixement del 0,7%, dèficit del 5,2% del PIB, deute del 107,9% al 110,5% del PIB",
+    "Despesa en protecció social de la UE: 4,9 bilions d'euros el 2024 (27,3% del PIB, +7%)",
+    "Despesa en defensa belga: de l'1,4% al 1,8% del PIB",
+    "Inflació prevista a Bèlgica: al voltant del 3,4%"
+   ],
+   "conclusio": "Recomana protegir ingressos i estalvis de la pèrdua de poder adquisitiu, no confiar el futur a promeses públiques que ja ningú pot finançar, i invertir en la pròpia capacitat de produir valor davant un ajust que arribarà, probablement via inflació, sense que ningú l'hagi votat.",
+   "temes": [
+    "estat de benestar",
+    "bèlgica",
+    "itàlia",
+    "deute públic",
+    "inflació",
+    "protestes socials"
+   ],
+   "lot": "2026-10-09"
+  },
+  {
+   "id": "MtiZtMuKsuo",
+   "titol": "La GRAN MENTIRA de los POLÍTICOS sobre el ESTADO DE BIENESTAR en ESPAÑA",
+   "data": "2026-10-08T16:00:03+00:00",
+   "canal": "pablogil",
+   "durada": 1850,
+   "idioma": "es",
+   "resum": "Pablo Gil defensa que els polítics amaguen que l'estat de benestar actual és insostenible: el deute barat de la dècada 2010-2020 s'ha de renovar ara a tipus molt més alts i això drenarà els pressupostos durant anys. Centra la segona part en l'habitatge: el problema és la manca d'oferta, no l'especulació, i les mesures del govern només reparteixen les poques \"cadires\" disponibles sense construir-ne de noves.",
+   "punts": [
+    {
+     "text": "El deute públic emès entre 2010 i 2020 a tipus d'interès zero o negatiu s'ha de renovar ara a tipus molt més alts, el que obligarà a destinar una part creixent dels pressupostos només al pagament d'interessos.",
+     "t": 278
+    },
+    {
+     "text": "La inflació acumulada des de la pandèmia ronda el 20-25% als països desenvolupats, mentre els salaris reals a Espanya pràcticament no han canviat en 8-9 anys: la gent se sent més pobra perquè ho és.",
+     "t": 185
+    },
+    {
+     "text": "Els propietaris particulars representen el 92% del parc immobiliari espanyol (només un 8% és institucional) i el 75% d'ells només té un habitatge: el problema real és la manca d'oferta, no l'especulació.",
+     "t": 531
+    },
+    {
+     "text": "A Catalunya, governada pel mateix partit que va impulsar la llei de l'habitatge de 2023, l'oferta de lloguer a Barcelona ha caigut al voltant d'un 80% des de l'aplicació dels topes de preus.",
+     "t": 687
+    },
+    {
+     "text": "Els nous decrets (50.000 € d'ajuda al nou propietari, aval d'impagaments a través de la comunitat) subvencionen la demanda, no resolen l'oferta, i acabaran traduint-se en preus més alts.",
+     "t": 842
+    },
+    {
+     "text": "El cas Mar Carmen ha disparat les protestes i ha forçat el govern a presentar decrets improvisats, redactats en 24 hores, abans de les eleccions.",
+     "t": 1189
+    },
+    {
+     "text": "Crítica a tota la classe política: Sánchez va prometre que no hi hauria més desnonaments i n'hi ha hagut més de 220.000; Feijóo promet un milió d'habitatges sense garanties de complir-ho.",
+     "t": 1375
+    }
+   ],
+   "dades": [
+    "Inflació acumulada del 20-25% des de la pandèmia en economies desenvolupades",
+    "92% dels propietaris són particulars; el 75% només té un habitatge",
+    "Caiguda d'aproximadament el 80% de l'oferta de lloguer a Barcelona des dels topes de preus",
+    "Més de 220.000 desnonaments en 8 anys malgrat la promesa de no haver-n'hi més"
+   ],
+   "conclusio": "Recomana desconfiar de les solucions improvisades dels polítics i centrar el debat en l'oferta d'habitatge, no en qui és el propietari ni en els preus; sense un augment real de l'oferta, el problema es perllongarà anys.",
+   "temes": [
+    "habitatge",
+    "estat de benestar",
+    "deute públic",
+    "inflació",
+    "política espanyola"
+   ],
+   "lot": "2026-10-09"
+  },
+  {
    "id": "jlqJHHUNnN8",
    "titol": "Bitcoin. Tocamos el soporte y tenemos riesgo de perderlo si las bolsas siguen bajando.",
    "data": "2026-10-08T07:38:38+00:00",
@@ -3423,9 +3640,19 @@
     "Política i desnonaments: Juan Ramón Rallo rebat la instrumentalització electoral de la mort de Maricarmen Abascal, argumentant que el seu desnonament es deu a una llei del PSOE de 1994 i no a vots del PP o Vox.",
     "Habitatge sense dades: Pablo Gil planteja el dilema de comprar, llogar o esperar, però el vídeo no té subtítols disponibles i no se'n pot resumir el contingut."
    ]
+  },
+  "2026-10-09": {
+   "titular": "Pablo Gil i Marc Vidal alerten que l'estat del benestar europeu ja no es pot pagar com fins ara, mentre el Suprem frena el decret d'universitats i Bitcoin es reajusta després de liquidacions massives",
+   "punts": [
+    "Estat del benestar: Pablo Gil i Marc Vidal coincideixen en que el deute barat emès entre 2010 i 2020 (a tipus zero o negatius) s'ha de renovar ara a tipus molt més alts, i que la inflació acumulada (20-25% a Espanya des de la pandèmia, al voltant del 3,4% prevista a Bèlgica) erosiona els salaris reals, fet que alimenta la sensació de pèrdua de poder adquisitiu encara que la despesa social de la UE segueixi creixent.",
+    "Habitatge: Pablo Gil assenyala que el 92% dels propietaris a Espanya són particulars (el 75% amb un sol habitatge) i que el problema real és la manca d'oferta, no l'especulació; a Bèlgica, segons Marc Vidal, els sindicats defensen la indexació salarial com a escut contra la inflació.",
+    "Protestes a Europa: Marc Vidal detalla aldarulls estudiantils a Lieja, Charleroi i Mons i vagues generals a Itàlia contra el cost de la vida i la despesa militar, en la mateixa línia del que ja passava a França.",
+    "Universitats: el Tribunal Suprem anul·la íntegrament el decret d'universitats del govern espanyol per no haver fet la consulta pública prèvia; Juan Ramón Rallo celebra la sentència però avisa que el govern podria intentar aprovar-lo de nou via reial decret llei.",
+    "Bitcoin: liquidacions de més de 1.000 M$ en posicions llargues van portar el preu a prop dels 80.200 $, amb rebot posterior cap als 82.500-82.690 $; Bitcoin al día preveu consolidació a curt termini i una correcció més profunda cap al 21 de novembre, amb suport clau als 75.000 $."
+   ]
   }
  },
- "actualitzat": "2026-10-08T10:47:33.233Z",
+ "actualitzat": "2026-10-09T10:49:20.384Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
