@@ -1,6 +1,61 @@
 {
  "videos": [
   {
+   "id": "vIvVPdBYMNI",
+   "titol": "Bitcoin. Nuevo robo en billeteras frias (Ledger) EE.UU dice que incautará Criptomonedas.",
+   "data": "2026-10-10T08:30:13+00:00",
+   "canal": "btcdia",
+   "durada": 945,
+   "idioma": "es",
+   "resum": "Usuaris de Ledger a Àsia han perdut milions en bitcoins comprats a través d'un revenedor, i els Estats Units plantegen confiscar criptomonedes vinculades a l'Iran. Bitcoin es manté just per sobre del suport dels 82.210 $ a l'espera del tancament de la vela setmanal.",
+   "punts": [
+    {
+     "text": "Usuaris de Ledger a Àsia han perdut en total uns 90 milions de dòlars en bitcoins, en dispositius comprats a través del revenedor Criptovillis. Ledger recomana no activar els dispositius comprats a aquest distribuïdor fins aclarir què ha passat.",
+     "t": 162
+    },
+    {
+     "text": "Un usuari ha perdut 80 bitcoins (6,6 milions de dòlars) per tenir-los tots en un mateix Ledger. L'autor insisteix que cal diversificar la custòdia en diversos llocs per limitar el dany si un d'ells falla.",
+     "t": 259
+    },
+    {
+     "text": "Estats Units planteja confiscar aquesta setmana 1.000 milions de dòlars en criptomonedes vinculades a l'Iran.",
+     "t": 321
+    },
+    {
+     "text": "Bitcoin cotitza a 82.837 $, just per sobre del suport dels 82.210 $. Demà diumenge tanca la vela setmanal, clau per saber si es trenca aquest suport o es manté obert a un rebot.",
+     "t": 382
+    },
+    {
+     "text": "L'índex borsari i el petroli no han corregit; Trump ha dit que no atacaran l'Iran abans de les eleccions de mig mandat, el que ha calmat una mica el mercat.",
+     "t": 476
+    },
+    {
+     "text": "Preveu que Bitcoin seguirà a la baixa amb alts i baixos fins tocar un mínim cap al 21 de novembre, i que a partir d'aquí el mercat milloraria cap a finals d'any.",
+     "t": 561
+    },
+    {
+     "text": "Altcoins amb rebot generalitzat: el token de Backpack puja un 25% fins a 122 (preu que considera car, millor esperar als 0,76-0,80), AVE manté bon comportament alcista, Ethereum segueix feble per sota de la tendència baixista principal, i XRP es manté ajustat al suport dels 1,694 $.",
+     "t": 827
+    }
+   ],
+   "dades": [
+    "~90 milions $ perduts en Ledgers a Àsia",
+    "6,6 milions $ (80 BTC) perduts per un usuari",
+    "1.000 milions $ en cripto de l'Iran que EUA planteja confiscar",
+    "Bitcoin al suport dels 82.210 $"
+   ],
+   "conclusio": "Recomana diversificar la custòdia entre diversos dispositius i no comprar mai a revenedors, només al fabricant. Pel mercat, espera que la correcció continuï algunes setmanes més fins a un mínim cap al 21 de novembre, abans de poder pensar en pujades més consistents.",
+   "temes": [
+    "bitcoin",
+    "seguretat",
+    "ledger",
+    "irán",
+    "mercat cripto",
+    "altcoins"
+   ],
+   "lot": "2026-10-10"
+  },
+  {
    "id": "MveLoNf7d8s",
    "titol": "Le doblamos la mano al Gobierno: cae su decreto de universidades",
    "data": "2026-10-09T09:30:08+00:00",
@@ -3650,9 +3705,19 @@
     "Universitats: el Tribunal Suprem anul·la íntegrament el decret d'universitats del govern espanyol per no haver fet la consulta pública prèvia; Juan Ramón Rallo celebra la sentència però avisa que el govern podria intentar aprovar-lo de nou via reial decret llei.",
     "Bitcoin: liquidacions de més de 1.000 M$ en posicions llargues van portar el preu a prop dels 80.200 $, amb rebot posterior cap als 82.500-82.690 $; Bitcoin al día preveu consolidació a curt termini i una correcció més profunda cap al 21 de novembre, amb suport clau als 75.000 $."
    ]
+  },
+  "2026-10-10": {
+   "titular": "Bitcoin al día alerta d'un robatori massiu a usuaris de Ledger a Àsia mentre Bitcoin es juga el suport dels 82.210 $ aquest cap de setmana",
+   "punts": [
+    "Seguretat: usuaris de Ledger a Àsia han perdut uns 90 milions de dòlars en bitcoins, comprats a través d'un revenedor (Criptovillis); Ledger recomana no activar aquests dispositius fins aclarir què ha passat.",
+    "Diversificació: un usuari ha perdut 80 bitcoins (6,6 milions de dòlars) per tenir-ho tot en un únic Ledger; es recomana repartir la custòdia en diversos llocs.",
+    "Geopolítica: Estats Units planteja confiscar aquesta setmana 1.000 milions de dòlars en criptomonedes vinculades a l'Iran.",
+    "Mercat: Bitcoin cotitza a 82.837 $, just per sobre del suport dels 82.210 $; el tancament de la vela setmanal de demà diumenge determinarà si es trenca aquest nivell.",
+    "Previsió: s'espera que Bitcoin segueixi a la baixa amb alts i baixos fins a un mínim cap al 21 de novembre, per després millorar cap a finals d'any."
+   ]
   }
  },
- "actualitzat": "2026-10-09T10:49:20.384Z",
+ "actualitzat": "2026-10-10T10:45:17.983Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
