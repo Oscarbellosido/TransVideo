@@ -1,6 +1,112 @@
 {
  "videos": [
   {
+   "id": "1wk52eL7NmA",
+   "titol": "Bitcoin. Tranquilidad el fin de semana. El cierre de hoy marcará el inicio de la semana.",
+   "data": "2026-10-11T09:20:53+00:00",
+   "canal": "btcdia",
+   "durada": 698,
+   "idioma": "es",
+   "resum": "Vídeo tranquil de cap de setmana: l'autor critica que el BCE digui que pot actuar contra moviments «injustificats» al mercat de deute (per a ell, cap moviment de mercat és injustificat) i després repassa l'estat de Bitcoin i les altcoins, destacant que el tancament d'avui diumenge marcarà si la setmana comença amb pujades o baixades.",
+   "punts": [
+    {
+     "text": "Critica un comentari de Lagarde al BCE segons el qual l'entitat té eines per actuar contra dinàmiques «injustificades i desordenades» al mercat de deute: per a l'autor, cap moviment de mercat és injustificat, i la única eina real del BCE és imprimir diners.",
+     "t": 36
+    },
+    {
+     "text": "Compara la intervenció dels bancs centrals contra el mercat amb intentar aturar un riu amb sorra: es pot retenir temporalment, però l'aigua (el problema) acaba sortint per un altre costat, com la inflació.",
+     "t": 189
+    },
+    {
+     "text": "Bitcoin cotitza a 83.047 i el nivell clau és 82.210: si el tancament d'avui diumenge queda per sobre, la setmana hauria de començar estable; si queda per sota, són probables caigudes els primers dies.",
+     "t": 335
+    },
+    {
+     "text": "La resistència principal de Bitcoin està als 83.250 i s'ha format un suport a la zona de 82.800 durant el cap de setmana.",
+     "t": 454
+    },
+    {
+     "text": "La dominància de Bitcoin es manté alta, al voltant del 60%, lluny de les prediccions que apuntaven a una caiguda cap al 45% i una «altcoin season» que no ha arribat.",
+     "t": 535
+    },
+    {
+     "text": "Ethereum ha perdut la línia de tendència i, si no la recupera, podria caure fins a 0,02917 (en ràtio BTC); si la recupera, podria pujar fins a 0,0312.",
+     "t": 587
+    }
+   ],
+   "dades": [
+    "Bitcoin: 83.047",
+    "Nivell clau: 82.210",
+    "Resistència: 83.250",
+    "Dominància BTC: ~60%"
+   ],
+   "conclusio": "El tancament del diumenge és determinant per saber com començarà la setmana: per sobre de 82.210, inici estable; per sota, probables caigudes dilluns i dimarts, encara que a partir de dimarts la tendència pot canviar.",
+   "temes": [
+    "bitcoin",
+    "mercat cripto",
+    "bce",
+    "altcoins",
+    "ethereum",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-10-11"
+  },
+  {
+   "id": "68n1MZES-xc",
+   "titol": "Francia puede quebrar: hasta Paul Krugman da la alarma",
+   "data": "2026-10-10T17:30:02+00:00",
+   "canal": "rallo",
+   "durada": 1406,
+   "idioma": "es",
+   "resum": "Paul Krugman, històricament crític amb l'austeritat, ha publicat un article on admet que el risc d'impagament de França és real, en la pitjor setmana per al deute públic francès en 15 anys. Rallo explica per què Krugman ha canviat d'opinió i analitza els tres escenaris possibles per a França: ajust pressupostari, intervenció del BCE o fallida.",
+   "punts": [
+    {
+     "text": "El bo francès a 10 anys s'acosta al 5% i els CDS contra l'impagament de França s'han més que duplicat en un mes, fins a situar la probabilitat de fallida acumulada a 5 anys entre el 6% i el 7%.",
+     "t": 95
+    },
+    {
+     "text": "Krugman, que el 2013 i el 2014 defensava que França no tenia cap problema fiscal real, publica ara un article amb el mateix títol («Què li passa a França?») però amb una conclusió oposada: la senda fiscal francesa és insostenible per l'envelliment i la despesa en pensions.",
+     "t": 272
+    },
+    {
+     "text": "Marine Le Pen ha fet un gir i ha presentat un pla d'ajust de 140.000 milions d'euros nets el 2032, amb una regla d'or constitucional contra l'excés de deute, tot i que el seu partit s'hi havia oposat tradicionalment.",
+     "t": 507
+    },
+    {
+     "text": "Rallo qüestiona l'aritmètica del pla de Le Pen: comptant les rebaixes fiscals i l'augment de despesa que també promet, l'ajust real seria de 185.000 milions (el 6% del PIB), i part de les xifres depenen de mesures d'immigració de constitucionalitat dubtosa i d'una previsió de creixement del 2% molt per sobre del 0,5% que preveu el Banc de França.",
+     "t": 814
+    },
+    {
+     "text": "Si França no ajusta i el BCE no intervé, hi hauria una crisi de deute amb reestructuració i contagi a la resta de l'eurozona; si el BCE compra deute francès per abaixar-ne els tipus, el cost es reparteix entre tots els europeus en forma de més inflació.",
+     "t": 1247
+    },
+    {
+     "text": "Rallo compara el cas amb Itàlia de Meloni, que ha baixat el dèficit del 7% al 3,1% del PIB entre 2023 i 2025 i ara paga 123 punts bàsics menys de prima de risc que França.",
+     "t": 1029
+    },
+    {
+     "text": "El governador del Banc de França, Mulín, ha reiterat que avui no es compleixen les condicions per a una intervenció del BCE, mentre creixen les protestes estudiantils a França en contra dels retalls.",
+     "t": 1150
+    }
+   ],
+   "dades": [
+    "Bo francès a 10 anys a prop del 5%",
+    "Probabilitat de fallida acumulada a 5 anys: 6-7%",
+    "Pla de Le Pen: 140.000 M€ nets (185.000 M€ reals)",
+    "Itàlia: dèficit del 7% al 3,1% del PIB (2023-2025)"
+   ],
+   "conclusio": "Rallo creu que, si no hi ha ajustos interns, l'escenari més probable és que el BCE acabi intervenint per rescatar el deute francès, però això es traduirà en més inflació per a tota la eurozona: l'agulla fiscal francesa l'acabarà pagant algú, siguin els contribuents, els beneficiaris de la despesa pública o els inversors.",
+   "temes": [
+    "frança",
+    "deute públic",
+    "bce",
+    "le pen",
+    "krugman",
+    "pressupost"
+   ],
+   "lot": "2026-10-11"
+  },
+  {
    "id": "vIvVPdBYMNI",
    "titol": "Bitcoin. Nuevo robo en billeteras frias (Ledger) EE.UU dice que incautará Criptomonedas.",
    "data": "2026-10-10T08:30:13+00:00",
@@ -3715,9 +3821,18 @@
     "Mercat: Bitcoin cotitza a 82.837 $, just per sobre del suport dels 82.210 $; el tancament de la vela setmanal de demà diumenge determinarà si es trenca aquest nivell.",
     "Previsió: s'espera que Bitcoin segueixi a la baixa amb alts i baixos fins a un mínim cap al 21 de novembre, per després millorar cap a finals d'any."
    ]
+  },
+  "2026-10-11": {
+   "titular": "Krugman alerta sobre una possible fallida de França mentre Bitcoin espera el tancament del diumenge per decidir el rumb de la setmana",
+   "punts": [
+    "Deute francès. Juan Ramón Rallo explica que Paul Krugman, tradicionalment crític amb l'austeritat, ha admès que el risc d'impagament de França és real, en la pitjor setmana per al deute francès en 15 anys; els CDS situen la probabilitat de fallida a 5 anys entre el 6% i el 7%.",
+    "França. Marine Le Pen proposa un ajust de 140.000 milions d'euros, però Rallo en qüestiona l'aritmètica i creu que, si no hi ha ajustos, el més probable és una intervenció del BCE que acabaria pagant tota la eurozona amb més inflació.",
+    "Bitcoin. Bitcoin al día situa el nivell clau en 82.210: si el tancament del diumenge queda per sobre, la setmana començaria estable; si queda per sota, són probables caigudes dilluns i dimarts.",
+    "Bancs centrals. Tant Rallo (sobre el BCE) com Bitcoin al día (criticant Lagarde) coincideixen en assenyalar que els bancs centrals no poden aturar les forces del mercat sense generar problemes en altres llocs, com més inflació."
+   ]
   }
  },
- "actualitzat": "2026-10-10T10:45:17.983Z",
+ "actualitzat": "2026-10-11T10:48:34.952Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
@@ -3797,6 +3912,31 @@
     "L'evolució de la prima de risc francesa i si el BCE acaba intervenint per rescatar el deute de França, tot i negar-ho de moment.",
     "Si el govern francès aconsegueix aprovar els pressupostos de 2027 a l'Assemblea Nacional, amb eleccions presidencials en 6 mesos de fons.",
     "La reacció política a Espanya després que el Congrés tombés els decrets Maricarmen el 2 d'octubre."
+   ]
+  },
+  "2026-10-11": {
+   "des_de": "2026-10-05",
+   "titular": "Eleccions del 29-N i habitatge dominen la setmana a Espanya, mentre el deute públic europeu (França, Bèlgica, Regne Unit) encén les alarmes i Bitcoin es manté estancat entre 82.210 i 87.000 dòlars",
+   "punts": [
+    "Eleccions 29-N. Sánchez convoca eleccions després de perdre dos decrets d'habitatge al Congrés i intenta tornar-los a aprovar per la Diputación Permanente, enmig d'una vaga general de CCOO/UGT i d'un augment polèmic del cens CERA a l'estranger (Rallo, Vidal).",
+    "Habitatge. El tema central de la campanya: Pablo Gil i Rallo denuncien que les mesures del govern subvencionen la demanda sense augmentar l'oferta, mentre esclata políticament el cas de la mort de Maricarmen i el seu desnonament (Rallo, Pablo Gil).",
+    "Deute públic europeu. Vidal alerta que els bons de França, Regne Unit i Bèlgica toquen màxims de dècades i que la factura l'acabaran pagant els ciutadans; la setmana es tanca amb Rallo explicant que fins Paul Krugman admet que França podria fer fallida.",
+    "Bèlgica i Itàlia. Vidal estén l'anàlisi fiscal més enllà de França i mostra que el deteriorament del dèficit i les protestes socials també avancen a Bèlgica i Itàlia.",
+    "Bitcoin. Bitcoin al día manté tota la setmana el preu movent-se entre els 82.210 i els 87.000 dòlars, amb liquidacions de posicions llargues i una previsió de correcció més profunda cap al 21 de novembre.",
+    "Universitats. Rallo celebra que el Tribunal Suprem anul·li el decret d'universitats del PSOE, tot i alertar que el govern podria intentar tornar-lo a aprovar per una altra via."
+   ],
+   "coincideixen": [
+    "Habitatge. Rallo i Pablo Gil coincideixen que el problema real és la manca d'oferta d'habitatge, no l'especulació ni els grans propietaris, i que les ajudes i avals del govern només subvencionen la demanda i acaben pujant els preus.",
+    "Deute europeu. Rallo i Vidal coincideixen que l'escalada dels tipus d'interès del deute públic (francès, i també belga i britànic segons Vidal) reflecteix que el mercat ja no es creu que es pugui seguir ajornant l'ajust fiscal, i que la factura final la pagaran els ciutadans via inflació, impostos o retallades."
+   ],
+   "discrepen": [
+    "Gravetat de la crisi de deute francesa. Vidal (dies 7-8) parla d'«alguna cosa que s'ha trencat» al mercat de bons de manera gairebé irreversible, mentre que Rallo, citant Krugman, encara situa la probabilitat de fallida de França en només un 6-7% a 5 anys i creu més probable que el BCE acabi intervenint abans que es produeixi un impagament real."
+   ],
+   "a_vigilar": [
+    "El tancament de la vela setmanal de Bitcoin del diumenge 11 d'octubre al nivell dels 82.210 $, que marcarà si la setmana comença alcista o baixista (Bitcoin al día).",
+    "Una possible correcció més profunda de Bitcoin cap al 21 de novembre, amb suport clau entorn dels 75.000 $ (Bitcoin al día).",
+    "Si el govern espanyol intenta tornar a aprovar els decrets d'habitatge o d'universitats per reial decret llei aprofitant la Diputación Permanente de les Corts dissoltes (Rallo, Vidal).",
+    "L'evolució de la campanya electoral fins al 29 de novembre i si Le Pen manté el seu gir cap a l'austeritat fiscal a França (Rallo)."
    ]
   }
  }
