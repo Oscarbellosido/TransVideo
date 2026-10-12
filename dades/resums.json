@@ -1,6 +1,114 @@
 {
  "videos": [
   {
+   "id": "Wth2Hzj5BvU",
+   "titol": "Bitcoin. El cierre semanal salvó el soporte, pero el mercado sigue en modo cauteloso.",
+   "data": "2026-10-12T09:27:47+00:00",
+   "canal": "btcdia",
+   "durada": 735,
+   "idioma": "es",
+   "resum": "El canal repassa l'atac a dispositius Ledger manipulats i una fallada greu de seguretat a XRP, ja pedaçada. Sobre Bitcoin, destaca que el tancament setmanal es va mantenir per sobre del suport dels 82.210$ gràcies a liquidacions de llargs i curts més que a una recuperació real, i que el mercat segueix cautelós de cara a l'IPC de dimecres.",
+   "punts": [
+    {
+     "text": "Ledger: s'han trobat dispositius manipulats, també a la Unió Europea; no és un fallo de fabricació sinó de revenedors que els van manipular abans de vendre'ls.",
+     "t": 5
+    },
+    {
+     "text": "XRP: l'empresa de seguretat Veria ha rebut 250.000$ de recompensa per descobrir una fallada oculta des de 2015 al codi d'encunyació que hauria permès crear fins a 184 vegades el subministrament total en una sola transacció; ja s'ha pedaçat, amb polèmica perquè es va saltar la votació de descentralització habitual.",
+     "t": 66
+    },
+    {
+     "text": "Saylor torna a insinuar que ha comprat més Bitcoin aquesta setmana; s'espera l'anunci oficial avui a la tarda.",
+     "t": 157
+    },
+    {
+     "text": "Dada clau de la setmana: l'IPC dels EUA de dimecres 14. El mercat no espera que la Fed mogui tipus fins després de les eleccions de mig mandat, per això un dato dolent no hauria de provocar un enfonsament.",
+     "t": 188
+    },
+    {
+     "text": "Bitcoin va tancar la setmana per sobre del suport dels 82.210$, però la recuperació és feble; si es perd aquest nivell (sobretot amb l'IPC de dimecres) podria caure cap als 80.393$ i després cap a la zona de 77.000-78.000$.",
+     "t": 280
+    },
+    {
+     "text": "El rebot de diumenge s'explica per liquidacions: primer més de 1.000 milions de dòlars en llargs quan es va trencar el suport, i després els curts oberts en el rebot posterior; un cop net el mercat, tendeix a tornar cap als 82.210$.",
+     "t": 402
+    },
+    {
+     "text": "Altcoins: Ethereum puja un 0,84% i recupera la línia de tendència, XRP rebota només un 0,06% malgrat la fallada, i la resta (ADA, BGB, BNB, SOL, TRON) es mou sense un impuls clar.",
+     "t": 524
+    }
+   ],
+   "dades": [
+    "Suport clau de Bitcoin: 82.210$",
+    "Bitcoin a 83.594$ (-0,21% en el dia)",
+    "Fallada a XRP: fins a 184 vegades el subministrament total en una transacció",
+    "Recompensa de 250.000$ per detectar la fallada d'XRP"
+   ],
+   "conclusio": "El canal recomana prudència: vigilar el suport dels 82.210$ i l'IPC de dimecres, perquè el rebot actual sembla fruit de liquidacions més que d'una recuperació sòlida del mercat.",
+   "temes": [
+    "bitcoin",
+    "mercat cripto",
+    "xrp",
+    "anàlisi tècnica",
+    "ipc"
+   ],
+   "lot": "2026-10-12"
+  },
+  {
+   "id": "LnJqaCiE0aQ",
+   "titol": "Por qué deberían suspenderse las elecciones del 29-N",
+   "data": "2026-10-11T18:00:39+00:00",
+   "canal": "rallo",
+   "durada": 1363,
+   "idioma": "es",
+   "resum": "Rallo defensa que caldria suspendre les eleccions del 29 de novembre perquè l'Estat admet que no pot garantir qui té dret a vot al CERA, després que una instrucció de 2022 ampliés indegudament la Llei de Nietos a emigrants econòmics. Com que la Constitució no permet ajornar-les prou dies, conclou que es votarà amb un cens corromput i atribueix tota la responsabilitat de l'embolic al govern del PSOE.",
+   "punts": [
+    {
+     "text": "Cens electoral: l'Advocacia de l'Estat reconeix al Tribunal Suprem que és materialment impossible depurar a temps els almenys 170.000 inscrits al CERA (cens de residents a l'estranger) sobre els quals plana un dubte de dret a vot.",
+     "t": 32
+    },
+    {
+     "text": "Llei de Nietos: una instrucció de 2022 de la Direcció General de Seguretat Jurídica i Fe Pública (dirigida per Sofía Puente, germana del ministre Óscar Puente) va presumir exiliats tots els espanyols que van emigrar entre 1936 i 1955, convertint una llei pensada per a descendents d'exiliats en una via de nacionalitat per a descendents d'emigrants econòmics.",
+     "t": 65
+    },
+    {
+     "text": "Xifres: més d'1,2 milions de sol·licituds de nacionalitat i mig milió de noves nacionalitats concedides han disparat el CERA de 2,3 milions d'inscrits el 2023 a més de 2,7 milions ara.",
+     "t": 230
+    },
+    {
+     "text": "El Tribunal Suprem va suspendre cautelarment, el 10 de setembre, els efectes electorals de les inscripcions al CERA obtingudes per la via de la presumpció (no per exili acreditat), sense anul·lar cap nacionalitat.",
+     "t": 281
+    },
+    {
+     "text": "Pedro Sánchez va convocar eleccions pel 29-N el 5 d'octubre sabent que la cautelar estava pendent d'executar; l'Advocacia de l'Estat diu ara que no pot revisar a mà els expedients a temps.",
+     "t": 373
+    },
+    {
+     "text": "La Constitució (art. 68.6) només permet ajornar les eleccions com a molt fins al 5 de desembre, per la qual cosa suspendre el 29-N només guanyaria una setmana i no resoldria el problema del cens.",
+     "t": 710
+    },
+    {
+     "text": "El risc real: si el resultat depèn d'uns pocs escons que poden decidir-se pels vots del CERA, qualsevol dels dos blocs polítics pot rebutjar la legitimitat del resultat, tant si vota tothom com si se suspèn el vot en bloc.",
+     "t": 1159
+    }
+   ],
+   "dades": [
+    "170.000 inscrits al CERA amb el dret a vot en dubte",
+    "Més d'1,2 milions de sol·licituds de nacionalitat per la Llei de Nietos",
+    "CERA: de 2,3 a 2,7 milions d'inscrits en 3 anys",
+    "Límit constitucional: eleccions com a molt fins al 5 de desembre"
+   ],
+   "conclusio": "Rallo conclou que, passi el que passi, el resultat del 29-N quedarà sota sospita de legitimitat si uns pocs escons decisius depenen del vot CERA, i que la responsabilitat és íntegrament del PSOE per la instrucció de 2022 i pel calendari electoral triat.",
+   "temes": [
+    "eleccions",
+    "censo electoral",
+    "llei de nietos",
+    "cera",
+    "tribunal suprem"
+   ],
+   "lot": "2026-10-12"
+  },
+  {
    "id": "1wk52eL7NmA",
    "titol": "Bitcoin. Tranquilidad el fin de semana. El cierre de hoy marcará el inicio de la semana.",
    "data": "2026-10-11T09:20:53+00:00",
@@ -3830,9 +3938,17 @@
     "Bitcoin. Bitcoin al día situa el nivell clau en 82.210: si el tancament del diumenge queda per sobre, la setmana començaria estable; si queda per sota, són probables caigudes dilluns i dimarts.",
     "Bancs centrals. Tant Rallo (sobre el BCE) com Bitcoin al día (criticant Lagarde) coincideixen en assenyalar que els bancs centrals no poden aturar les forces del mercat sense generar problemes en altres llocs, com més inflació."
    ]
+  },
+  "2026-10-12": {
+   "titular": "Rallo alerta d'un cens electoral corromput de cara al 29-N mentre Bitcoin es manté cautelós abans de l'IPC de dimecres.",
+   "punts": [
+    "Eleccions 29-N: Juan Ramón Rallo denuncia que l'Advocacia de l'Estat admet no poder depurar a temps els 170.000 inscrits al CERA amb el dret a vot en dubte, arran d'una instrucció de 2022 que va ampliar la Llei de Nietos més enllà dels exiliats; atribueix tota la responsabilitat al PSOE.",
+    "Bitcoin: el mercat va salvar el suport dels 82.210$ en el tancament setmanal, però la recuperació sembla fruit de liquidacions més que d'una pujada sòlida; el canal recomana vigilar l'IPC dels EUA de dimecres.",
+    "Seguretat cripto: una fallada des de 2015 a XRP (ja pedaçada) hauria pogut multiplicar per 184 el subministrament total; també s'han trobat més dispositius Ledger manipulats per revenedors."
+   ]
   }
  },
- "actualitzat": "2026-10-11T10:48:34.952Z",
+ "actualitzat": "2026-10-12T10:47:10.351Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
