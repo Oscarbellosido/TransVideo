@@ -1,6 +1,166 @@
 {
  "videos": [
   {
+   "id": "tRHK7gpvihY",
+   "titol": "Bitcoin. Recupera lo que perdió ayer después de liquidar de madrugada a los largos bajando a 81.000.",
+   "data": "2026-10-13T07:50:22+00:00",
+   "canal": "btcdia",
+   "durada": 703,
+   "idioma": "es",
+   "resum": "Bitcoin recupera avui el que va perdre ahir després d'unes liquidacions de matinada que el van portar fins als 81.000. El mercat espera demà el dato d'inflació com a clau per saber si es trenca o no el suport dels 82.210.",
+   "punts": [
+    {
+     "text": "MicroStrategy va comprar només 250 bitcoins la setmana passada, però continua recomprant deute STRC (192 milions de dòlars), entre 150 i 190 milions cada setmana des de fa temps.",
+     "t": 5
+    },
+    {
+     "text": "Ledger confirma la implantació de maquinari no autoritzat per part d'un distribuïdor, amb pèrdues que podrien superar els 86 milions de dòlars.",
+     "t": 158
+    },
+    {
+     "text": "Bitcoin ha recuperat avui un 2,43% després de la caiguda d'ahir, que de matinada va arribar a tocar un mínim prop dels 81.000 abans de rebotar.",
+     "t": 191
+    },
+    {
+     "text": "El nivell clau a vigilar és el suport dels 82.210: s'espera que avui s'aguanti per sobre, però serà demà, amb el dato d'inflació, quan es jugui de debò.",
+     "t": 282
+    },
+    {
+     "text": "Bitcoin cotitza a 83.725, amb possible màxim del dia ja tocat als 83.913; si el dato d'inflació és bo podria anar cap a la zona de 85.000-86.000, si és dolent podria trencar els 82.210.",
+     "t": 649
+    },
+    {
+     "text": "Altcoins majoritàriament a la baixa: AVAX acostant-se als 18,40, Cardano va caure fins al suport de 280, Solana als 0,000179, XRP acostant-se al suport d'1,611.",
+     "t": 525
+    }
+   ],
+   "dades": [
+    "Bitcoin: 83.725$ (mínim ahir ~81.000, suport clau 82.210)",
+    "Petroli: 105,31$ (-1,27%)",
+    "Pèrdues Ledger: >86 milions de dòlars"
+   ],
+   "conclusio": "El mercat de criptomonedes està en una fase de volatilitat buscant estabilitat; el dato d'inflació de demà marcarà si Bitcoin trenca a la baixa el suport dels 82.210 o s'allunya cap amunt.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "microstrategy",
+    "ledger",
+    "altcoins",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-10-13"
+  },
+  {
+   "id": "m00AZJX6dvU",
+   "titol": "Nobel de Economía 2026: por qué debemos subir los tipos contra la inflación",
+   "data": "2026-10-12T19:30:21+00:00",
+   "canal": "rallo",
+   "durada": 1507,
+   "idioma": "es",
+   "resum": "El Nobel d'Economia 2026 premia Robert Hall i Michael Woodford pels microfonaments dels models que fan servir els bancs centrals. Rallo explica el model neokeynesià de Woodford i per què, segons ell, no explica del tot què va passar després de la pandèmia.",
+   "punts": [
+    {
+     "text": "El model de Woodford (tres equacions: demanda, inflació, regla del banc central) diu que cal pujar tipus quan la producció real supera la 'natural', encara que l'economia estigui en recessió per un xoc d'oferta negatiu.",
+     "t": 304
+    },
+    {
+     "text": "Als anys posteriors a la pandèmia els bancs centrals van diagnosticar erròniament la inflació com a 'transitòria' (Powell, Lagarde) i només van pujar tipus quan la inflació ja rondava el 8%.",
+     "t": 549
+    },
+    {
+     "text": "El problema és epistèmic: la 'producció natural' no és observable, es calcula amb models que es revisen anys després, per això els bancs centrals no van saber en temps real que calia pujar tipus.",
+     "t": 768
+    },
+    {
+     "text": "Rallo introdueix la teoria fiscal del nivell de preus (que el propi Woodford va ajudar a fundar): la inflació també ve de l'enorme deute públic sense pla creïble de retorn (xecs de rescat nord-americans finançats amb deute a la Fed).",
+     "t": 1045
+    },
+    {
+     "text": "Robert Hall va estimar que l'elasticitat del consum als tipus d'interès és gairebé zero, cosa que qüestiona que la pujada de tipus de 2022-23 expliqués per si sola la baixada d'inflació.",
+     "t": 1199
+    },
+    {
+     "text": "El mecanisme real seria el 'joc de la gallina' entre banc central i govern (Sargent i Wallace, 1981): si el govern no cedeix amb els seus dèficits, acaba manant la dominància fiscal i la inflació és inevitable.",
+     "t": 1260
+    },
+    {
+     "text": "Rallo avisa que la inflació que torna ara es deu en bona part als dèficits públics massius i no només a la guerra a l'Iran, i que la pujada actual de tipus busca sobretot disciplinar els governs, no només refredar l'economia.",
+     "t": 1473
+    }
+   ],
+   "dades": [
+    "Inflació EUA anys 70: >5% durant 9 anys, pic 14,6% (1980)",
+    "Inflació postpandèmia: pic 9% (juny 2022), >5% menys de 2 anys",
+    "Estímuls fiscals EUA 2020-21: ~5 bilions de dòlars",
+    "BCE: 10 pujades, de -0,5% a 4% en poc més d'un any"
+   ],
+   "conclusio": "Rallo conclou que la raó de fons per pujar tipus avui no és només refredar l'economia, sinó mostrar als governs que no es poden endeutar sense límit, perquè sense dominància monetària la inflació es torna estructural.",
+   "temes": [
+    "nobel economia",
+    "inflació",
+    "bancs centrals",
+    "tipus d'interès",
+    "dèficit públic",
+    "woodford"
+   ],
+   "lot": "2026-10-13"
+  },
+  {
+   "id": "wuX00bgLfoE",
+   "titol": "Estamos a semanas del mayor cambio social de la historia y nadie está hablando de esto",
+   "data": "2026-10-12T17:19:59+00:00",
+   "canal": "vidal",
+   "durada": 1714,
+   "idioma": "es",
+   "resum": "Marc Vidal analitza la cartera digital europea (EUDI Wallet), que cada estat membre ha d'oferir a finals de 2026. Avisa que, sota la comoditat de dur el DNI al mòbil, s'hi amaga un canvi profund en la relació entre ciutadà i administració, amb connexions a la sanitat i a l'euro digital.",
+   "punts": [
+    {
+     "text": "El marc eIDAS ve de 2014, es va ampliar el 2021 i la reforma europea es va aprovar el 2024; cada estat ha d'oferir almenys una cartera d'identitat digital a finals del 2026.",
+     "t": 212
+    },
+    {
+     "text": "A Espanya el tràmit d'audiència del Reial Decret sobre l'ecosistema d'identitat digital s'ha tramitat de forma urgent, amb només 7 dies hàbils d'al·legacions i sense consulta pública prèvia.",
+     "t": 241
+    },
+    {
+     "text": "El risc principal no és el que es demana ara, sinó l'expansió futura de les verificacions: com és fàcil i barat demanar una acreditació, cada vegada es demanarà per a més coses.",
+     "t": 363
+    },
+    {
+     "text": "Precedent de l'Índia: l'Aadhaar (2009) es va presentar com a voluntari per a ajudes socials, però aviat es va exigir per obrir comptes bancaris o donar d'alta un mòbil, fins que el Tribunal Suprem el 2018 ho va limitar.",
+     "t": 517
+    },
+    {
+     "text": "La cartera europea es connecta amb la sanitat (Targeta Sanitària Europea i l'Espai Europeu de Dades de Salut, en vigor des de març de 2025) i amb els diners: l'article 25 de la proposta de l'euro digital preveu interoperabilitat amb la cartera d'identitat.",
+     "t": 724
+    },
+    {
+     "text": "El BCE preveu un pilot de 12 mesos a partir del segon semestre de 2027 i una possible emissió de l'euro digital el 2028-29, condicionada a l'avanç legislatiu.",
+     "t": 862
+    },
+    {
+     "text": "L'AEPD (agència espanyola de protecció de dades) adverteix que els dissenys que eliminen fricció per demanar dades excessives són 'dissenys manipuladors', i demana avisos i pauses abans de compartir dades.",
+     "t": 1380
+    }
+   ],
+   "dades": [
+    "Tràmit d'audiència a Espanya: 2-13 d'octubre (7 dies hàbils)",
+    "Enquesta de la Comissió (gener 2026): 2.800 participants de 27 països",
+    "Pilot euro digital del BCE: 12 mesos des del 2n semestre de 2027",
+    "Eudi Wallet obligatòria a cada estat: finals de 2026"
+   ],
+   "conclusio": "Vidal demana exigir ara, mentre encara és un projecte, alternatives reals a la cartera digital, auditories independents i responsables identificables, perquè la comoditat no es converteixi en una dependència que acabi fent impossible dir que no.",
+   "temes": [
+    "cartera digital europea",
+    "eidas",
+    "euro digital",
+    "privacitat",
+    "identitat digital",
+    "unió europea"
+   ],
+   "lot": "2026-10-13"
+  },
+  {
    "id": "Wth2Hzj5BvU",
    "titol": "Bitcoin. El cierre semanal salvó el soporte, pero el mercado sigue en modo cauteloso.",
    "data": "2026-10-12T09:27:47+00:00",
@@ -3946,9 +4106,19 @@
     "Bitcoin: el mercat va salvar el suport dels 82.210$ en el tancament setmanal, però la recuperació sembla fruit de liquidacions més que d'una pujada sòlida; el canal recomana vigilar l'IPC dels EUA de dimecres.",
     "Seguretat cripto: una fallada des de 2015 a XRP (ja pedaçada) hauria pogut multiplicar per 184 el subministrament total; també s'han trobat més dispositius Ledger manipulats per revenedors."
    ]
+  },
+  "2026-10-13": {
+   "titular": "El Nobel d'Economia valida pujar tipus contra la inflació mentre torna el debat sobre el deute públic, Bitcoin busca estabilitat abans del dato d'inflació i Marc Vidal alerta sobre la cartera digital europea",
+   "punts": [
+    "Nobel d'economia: Rallo explica que el premi a Hall i Woodford avala pujar tipus contra la inflació, però que el risc real ve dels dèficits públics sense control, no només del recalentament de l'economia.",
+    "Dèficit públic: tant Rallo com l'actualitat de mercats apunten als dèficits governamentals com a font d'inflació estructural si els bancs centrals no mantenen la dominància monetària.",
+    "Mercats: Bitcoin recupera avui la caiguda d'ahir fins als 81.000 i espera demà el dato d'inflació per saber si trenca el suport dels 82.210 o rebota cap als 85.000-86.000.",
+    "Identitat digital: Marc Vidal denuncia la tramitació urgent a Espanya (7 dies d'al·legacions) del decret d'identitat digital, dins el calendari europeu que obliga a tenir la cartera EUDI a finals de 2026.",
+    "Vigilància i control: Vidal connecta la cartera digital amb la sanitat i l'euro digital, i adverteix que la voluntarietat d'avui es pot convertir en obligació de facto, com va passar amb l'Aadhaar a l'Índia."
+   ]
   }
  },
- "actualitzat": "2026-10-12T10:47:10.351Z",
+ "actualitzat": "2026-10-13T10:46:59.270Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
