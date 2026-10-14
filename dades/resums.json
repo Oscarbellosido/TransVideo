@@ -1,6 +1,116 @@
 {
  "videos": [
   {
+   "id": "GI8m4bQ6Af0",
+   "titol": "Ley de Nietos: la maniobra de Sánchez para saltarse al Supremo",
+   "data": "2026-10-13T19:00:00+00:00",
+   "canal": "rallo",
+   "durada": 1460,
+   "idioma": "es",
+   "resum": "Rallo desmunta el relat del govern sobre la suspensió cautelar del vot de la llei de néts: el Suprem no ha tocat el vot dels néts d'exiliats, sinó el dels descendents d'emigrants econòmics nacionalitzats per una instrucció ministerial irregular. Explica per què el govern té poques vies legals per recórrer al Constitucional i per què podria acabar incomplint els autos del Suprem.",
+   "punts": [
+    {
+     "text": "El Suprem no ha suspès el vot dels néts d'exiliats, sinó el dels descendents d'emigrants econòmics que es van poder nacionalitzar gràcies a una instrucció ministerial de Sofía Puente, germana d'Óscar Puente, que ampliava la llei de memòria democràtica.",
+     "t": 66
+    },
+    {
+     "text": "Diferència de magnitud: els exiliats republicans es compten per desenes de milers, mentre que només entre 1951 i 1955 gairebé 300.000 espanyols van emigrar per motius econòmics a l'Argentina i Veneçuela, amb passaport del règim franquista.",
+     "t": 160
+    },
+    {
+     "text": "L'advocacia de l'Estat ha conclòs que el govern no està legitimat per recórrer al Tribunal Constitucional contra les cautelars del Suprem; només ho podrien fer els afectats, un per un, i el Suprem ha obert un termini de 5 dies que fa inviable l'empara abans de les eleccions.",
+     "t": 723
+    },
+    {
+     "text": "Rallo descarta que el govern actuï de bona fe: el Suprem li va oferir al setembre certificar consulat per consulat els exiliats reals, però el grau de compliment del govern és, segons el propi Suprem, \"inexistent\".",
+     "t": 878
+    },
+    {
+     "text": "Apunta a un possible frau electoral: el consolat de l'Havana, amb més de 350.000 sol·licituds, té un contracte des de gener de 2025 amb l'empresa estatal cubana Palco perquè li proporcioni prop de 90 auxiliars per tramitar les nacionalitzacions.",
+     "t": 1096
+    },
+    {
+     "text": "Com els consolats diuen que no tenen mitjans per distingir qui s'ha nacionalitzat per aquesta via concreta, acabaran enviant la documentació electoral a tots els inscrits al CERA, de manera que la suspensió del Suprem podria quedar en paper mullat.",
+     "t": 1310
+    },
+    {
+     "text": "Calendari clau: el 24 d'octubre comença l'enviament de documentació electoral, les paperetes surten entre el 4 i el 8 de novembre i el vot per correu s'ha de remetre com a màxim el 24 de novembre.",
+     "t": 1370
+    }
+   ],
+   "dades": [
+    "+160.000 persones afectades per la suspensió cautelar",
+    "+300.000 emigrants econòmics entre 1951 i 1955",
+    "350.000 sol·licituds de nacionalitat al consolat de l'Havana",
+    "90 auxiliars de l'empresa estatal cubana Palco"
+   ],
+   "conclusio": "Rallo conclou que el govern menteix quan diu que el Suprem impedeix votar als néts d'exiliats i quan diu que recorrerà al Constitucional, i que probablement opti per no complir els autos del Suprem deixant passar els dies fins que la documentació electoral s'enviï a tots els inscrits al CERA.",
+   "temes": [
+    "llei de néts",
+    "tribunal suprem",
+    "psoe",
+    "eleccions",
+    "memòria democràtica",
+    "espanya"
+   ],
+   "lot": "2026-10-14"
+  },
+  {
+   "id": "-_fWLSHFLko",
+   "titol": "¿Por qué Estados Unidos acaba de encarecer el dinero de todo el mundo?",
+   "data": "2026-10-13T17:00:32+00:00",
+   "canal": "vidal",
+   "durada": 1288,
+   "idioma": "es",
+   "resum": "El tresor dels EUA ha col·locat deute a 10 anys al tipus més car des de l'any 2000, i això encareix el preu del diner a tot el món, Europa inclosa. Marc Vidal explica per què passa i com afecta les hipoteques, les empreses i el deute públic espanyol.",
+   "punts": [
+    {
+     "text": "El tresor dels EUA va pagar el 5,30% pel bo a 10 anys el 7 d'octubre, el tipus més alt en una subhasta d'aquest termini des de novembre del 2000.",
+     "t": 158
+    },
+    {
+     "text": "La subhasta va ser un èxit de demanda (gairebé el triple de l'oferta) i els compradors estrangers i bancs centrals es van quedar amb més del 80% del paper, senyal que el món encara confia en el dòlar però exigeix molt a canvi.",
+     "t": 190
+    },
+    {
+     "text": "Causes de la pujada: la guerra amb l'Iran i el petroli car reactiven la inflació, mentre el dèficit dels EUA ronda el 8% del PIB i el deute el 129%.",
+     "t": 251
+    },
+    {
+     "text": "El bo dels EUA a 10 anys funciona com el \"metre\" amb què es mesura el preu del diner a tot el planeta: quan puja, obliga a recalcular el cost del deute a tot arreu.",
+     "t": 465
+    },
+    {
+     "text": "Els bons europeus també estan en màxims: Alemanya per sobre del 3,6% (nivells de 2009), França a prop del 5% (de 2008), Itàlia al 4,7% i Espanya va arribar al 4,13% el 5 d'octubre, el més alt des de finals de 2013.",
+     "t": 495
+    },
+    {
+     "text": "Espanya va pagar 40.314 milions d'euros en interessos el 2025 (primer any per sobre dels 40.000M), amb previsions de fins a 48.400M el 2027 i 60.000M el 2030: 260.000 milions acumulats entre 2026 i 2030 només en interessos.",
+     "t": 619
+    },
+    {
+     "text": "A diferència del 2012, quan el BCE va poder intervenir amb el \"whatever it takes\" de Draghi, ara no pot comprar deute per abaratir-lo perquè està pujant tipus per frenar la inflació (3,3% a la zona euro, 4,3% a Espanya).",
+     "t": 806
+    }
+   ],
+   "dades": [
+    "5,30% al bo dels EUA a 10 anys (7 d'octubre)",
+    "Bo espanyol fins al 4,13%, màxim des de 2013",
+    "40.314 milions € en interessos el 2025 a Espanya",
+    "260.000 milions € en interessos previstos 2026-2030"
+   ],
+   "conclusio": "Recomana a l'espectador conèixer la seva exposició al tipus variable, no deixar l'estalvi en comptes sense remunerar mentre la inflació se'l menja, ser prudent amb el deute de consum nou i invertir en formació pròpia per dependre menys d'un entorn de diner car.",
+   "temes": [
+    "tipus d'interès",
+    "deute públic",
+    "bons sobirans",
+    "banc central europeu",
+    "espanya",
+    "economia"
+   ],
+   "lot": "2026-10-14"
+  },
+  {
    "id": "tRHK7gpvihY",
    "titol": "Bitcoin. Recupera lo que perdió ayer después de liquidar de madrugada a los largos bajando a 81.000.",
    "data": "2026-10-13T07:50:22+00:00",
@@ -4116,9 +4226,18 @@
     "Identitat digital: Marc Vidal denuncia la tramitació urgent a Espanya (7 dies d'al·legacions) del decret d'identitat digital, dins el calendari europeu que obliga a tenir la cartera EUDI a finals de 2026.",
     "Vigilància i control: Vidal connecta la cartera digital amb la sanitat i l'euro digital, i adverteix que la voluntarietat d'avui es pot convertir en obligació de facto, com va passar amb l'Aadhaar a l'Índia."
    ]
+  },
+  "2026-10-14": {
+   "titular": "El preu del diner es dispara al món i la llei de néts torna a sota sospita",
+   "punts": [
+    "Tipus d'interès: Marc Vidal explica que el bo dels EUA al 5,30% ha disparat el preu del diner a tot el món, amb el bo espanyol tocant el 4,13% i Espanya pagant ja més de 40.000 milions d'euros en interessos.",
+    "Llei de néts: Juan Ramón Rallo denuncia que el govern menteix en dir que el Suprem impedeix votar als néts d'exiliats, quan en realitat ha suspès només el vot dels descendents d'emigrants econòmics nacionalitzats per una instrucció ministerial irregular.",
+    "Sospites de frau: Rallo alerta que el consolat de l'Havana ha subcontractat a una empresa estatal cubana la tramitació de més de 350.000 sol·licituds de nacionalitat.",
+    "Calendari electoral: els consolats podrien acabar enviant la documentació de vot a tots els inscrits al CERA perquè diuen no poder distingir els afectats per la suspensió del Suprem."
+   ]
   }
  },
- "actualitzat": "2026-10-13T10:46:59.270Z",
+ "actualitzat": "2026-10-14T10:50:36.418Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
