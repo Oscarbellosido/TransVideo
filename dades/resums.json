@@ -1,6 +1,201 @@
 {
  "videos": [
   {
+   "id": "1b8jRQgw1YM",
+   "titol": "Bitcoin. Caída fuerte del mercado por mal dato de inflación. El $ y el petróleo aflojan un poco hoy.",
+   "data": "2026-10-15T08:03:19+00:00",
+   "canal": "btcdia",
+   "durada": 1092,
+   "idioma": "es",
+   "resum": "Un mal dato de inflación en EUA ha fet caure amb força els índexs borsaris i els asiàtics, però Bitcoin ha aguantat força bé i no s'ha desplomat. L'autor espera que la correcció de fons es confirmi si el Nasdaq trenca definitivament la seva línia de tendència.",
+   "punts": [
+    {
+     "text": "La inflació dels EUA ha sortit per sobre de l'esperat (3,7% vs 3,6%, core 0,3% vs 0,2%), i el mercat ha reaccionat a la baixa després de setmanes ignorant la pujada de tipus d'interès.",
+     "t": 67
+    },
+    {
+     "text": "El Nasdaq ha tancat per sota de la seva línia de tendència, cosa que podria marcar l'inici d'una correcció més important; les borses asiàtiques han caigut amb força (Corea fins a -8%, Japó -5%).",
+     "t": 129
+    },
+    {
+     "text": "Bitcoin ha perdut el suport dels 82.210$ però no s'ha desplomat; l'euro rebota una mica i el petroli baixa de 107 a 104, cosa que alleuja una mica la sessió.",
+     "t": 160
+    },
+    {
+     "text": "Si el Nasdaq confirma la ruptura, l'escenari més probable porta Bitcoin a la zona de 77.000-75.000$; només en un escenari de desplomament molt brutal es parlaria de 71.000$, cosa que l'autor no veu probable.",
+     "t": 374
+    },
+    {
+     "text": "Hi ha hagut gairebé 1.000 milions de dòlars en liquidacions de posicions llargues apalancades amb una caiguda de només un 5%, cosa que l'autor critica com a jugar al casino, no fer trading.",
+     "t": 468
+    },
+    {
+     "text": "Bitcoin es comporta millor que fa sis mesos davant caigudes similars de borsa (abans hauria caigut un 10%, ara només un 2-3%), senyal positiu a mitjà i llarg termini, tot i que segueix molt per sota del seu màxim històric de 126.000$.",
+     "t": 962
+    }
+   ],
+   "dades": [
+    "Inflació EUA 3,7% (esperat 3,6%)",
+    "Corea -8%, Japó -5%",
+    "Suport Bitcoin trencat: 82.210$",
+    "~1.000 M$ en liquidacions apalancades"
+   ],
+   "conclusio": "Bitcoin aguanta relativament bé la sacsejada dels mercats borsaris, però l'autor espera una correcció a curt termini si el Nasdaq confirma la ruptura de la seva línia de tendència, mentre que a mitjà i llarg termini el comportament li sembla positiu.",
+   "temes": [
+    "bitcoin",
+    "inflació",
+    "mercats",
+    "nasdaq",
+    "apalancament"
+   ],
+   "lot": "2026-10-15"
+  },
+  {
+   "id": "f6bYLYlcGNM",
+   "titol": "Si España va como un cohete… ¿por qué los españoles viven peor?",
+   "data": "2026-10-14T19:30:25+00:00",
+   "canal": "rallo",
+   "durada": 1393,
+   "idioma": "es",
+   "resum": "El PIB espanyol creix molt més que el de la resta de l'eurozona, però bona part d'aquest creixement ve de l'augment de població, no de la productivitat. El consum real de les famílies treballadores ha caigut des de 2019, sobretot entre els joves per la pujada dels lloguers, mentre els pensionistes mantenen el seu nivell de vida.",
+   "punts": [
+    {
+     "text": "El FMI ha elevat la previsió de creixement d'Espanya per al 2026 fins al 2,5%, molt per sobre de l'eurozona (1,1%), Alemanya (1,3%), Itàlia (0,8%) i França (0,4%); des de 2019 el PIB espanyol ha crescut un 10% real, davant el 6,6% de l'eurozona.",
+     "t": 93
+    },
+    {
+     "text": "Gran part d'aquest creixement s'explica perquè la població resident ha augmentat 2,3 milions de persones (quasi un 5%) per immigració, ja que el creixement vegetatiu és negatiu cada any des de 2019.",
+     "t": 185
+    },
+    {
+     "text": "Quan es mesura el PIB per càpita, el creixement acumulat 2019-2025 queda en només un 5%, pràcticament igual que l'eurozona (4,5%); Itàlia, amb població decreixent, ha pujat un 8,8%. El PIB per treballador fins i tot ha caigut un 0,8%, senyal que la productivitat mitjana s'ha reduït.",
+     "t": 215
+    },
+    {
+     "text": "El consum privat per càpita només ha pujat un 1,8% acumulat segons la comptabilitat nacional, i segons l'enquesta de pressupostos familiars de l'INE ha caigut un 5% des de 2019.",
+     "t": 458
+    },
+    {
+     "text": "Desagregant per tipus de llar: el consum de les llars encapçalades per treballadors ha caigut més d'un 7% des de 2019, mentre que el de les llars de pensionistes s'ha mantingut igual, perquè les pensions es revaloritzen amb l'IPC i els salaris no.",
+     "t": 803
+    },
+    {
+     "text": "L'IPC infravalora la pujada real dels lloguers (oficialment només un 10% des de 2019) perquè mesura tots els contractes vigents, no els nous; els joves que han de llogar ara pateixen pujades molt més grans, i molts ni tan sols poden emancipar-se.",
+     "t": 1084
+    }
+   ],
+   "dades": [
+    "PIB Espanya 2026: +2,5% (FMI) vs eurozona +1,1%",
+    "PIB per càpita 2019-2025: +5%",
+    "PIB per treballador: -0,8%",
+    "Consum llars treballadores: -7% des de 2019",
+    "Lloguers segons l'IPC: +10% des de 2019"
+   ],
+   "conclusio": "El creixement del PIB espanyol es deu sobretot a l'augment de població per immigració, no a més productivitat; el consum real de les famílies treballadores ha caigut, especialment entre els joves per l'encariment dels lloguers, mentre els pensionistes mantenen el seu nivell de vida.",
+   "temes": [
+    "pib",
+    "immigració",
+    "consum",
+    "lloguer",
+    "pensions",
+    "espanya"
+   ],
+   "lot": "2026-10-15"
+  },
+  {
+   "id": "f6DXfK269QY",
+   "titol": "El caos salta de Francia a Bélgica y a Italia: algo está pasando en 3 países a la vez",
+   "data": "2026-10-14T17:00:29+00:00",
+   "canal": "vidal",
+   "durada": 1171,
+   "idioma": "es",
+   "resum": "Protestes i disturbis esclaten alhora a Bèlgica, Itàlia i França, arran de dècades de deute acumulat que ara obliga a retallar. L'autor assegura que encara no és el caos de tot Europa, però marca tres senyals a vigilar aquesta setmana perquè el contagi financer podria acabar encarint també les hipoteques a Espanya.",
+   "punts": [
+    {
+     "text": "Disturbis simultanis a Brussel·les i Lieja (crema de bicicletes, gas lacrimogen, centenars de detinguts, majoria menors), vagues de trens i serveis públics, instituts ocupats a Torí, Roma i Nàpols, i setmanes de bloquejos a França.",
+     "t": 0
+    },
+    {
+     "text": "El 15 d'octubre venç el termini perquè Bèlgica enviï a la Comissió Europea un pla pressupostari que encara no té; el dèficit belga pujarà del 5,2% al 5,7% del PIB el 2028 i el deute del 107,9% al 114%, amb 20.000 milions d'euros l'any només en interessos.",
+     "t": 273
+    },
+    {
+     "text": "La reforma de pensions del govern De Wever (manté la jubilació als 67 anys el 2030, penalitza la jubilació anticipada, limita la indexació salarial per sobre de 4.000€ i crea un impost del 10% sobre plusvàlues) ha provocat almenys deu grans jornades de protesta.",
+     "t": 552
+    },
+    {
+     "text": "Només el 58,5% dels nascuts fora de la UE que viuen a Bèlgica tenen feina (front al 70% dels nadius i la mitjana europea del 66%), i entre les dones nascudes fora de la UE només el 49%; un estudi del Banc Nacional del 2020 xifra que formació, edat i experiència només expliquen un 18% d'aquesta bretxa.",
+     "t": 707
+    },
+    {
+     "text": "Tres senyals a vigilar aquesta setmana: si Bèlgica no presenta un pla pressupostari sòlid el 15 d'octubre, les vagues estudiantils a Itàlia (16/10) i la protesta pel cost de la vida a França (17/10), i si els diferencials de deute de Bèlgica, França i Itàlia respecte Alemanya s'eixamplen alhora.",
+     "t": 954
+    },
+    {
+     "text": "Si el contagi arriba a la prima de risc espanyola, es notarà en l'encariment de les hipoteques a tipus fix i el crèdit a les empreses, encara que aquí no cremi res al carrer.",
+     "t": 1049
+    }
+   ],
+   "dades": [
+    "Dèficit belga: 5,2% → 5,7% del PIB el 2028",
+    "Deute belga: 107,9% → 114% del PIB",
+    "Interessos del deute belga: 20.000 M€/any",
+    "Ocupació immigrants extracomunitaris a Bèlgica: 58,5% (dones: 49%)"
+   ],
+   "conclusio": "L'autor avisa que encara no és el caos de tot Europa, però demana vigilar tres senyals aquesta setmana: el pla pressupostari belga, les protestes a Itàlia i França, i els diferencials de deute, perquè un contagi financer podria acabar encarint també les hipoteques i el crèdit a Espanya.",
+   "temes": [
+    "bèlgica",
+    "deute públic",
+    "protestes",
+    "pensions",
+    "immigració",
+    "prima de risc"
+   ],
+   "lot": "2026-10-15"
+  },
+  {
+   "id": "wt-5bkcLkSg",
+   "titol": "Bitcoin. IPC marcará la jornada. La ideología te aleja de la realidad, el sentido común te acerca.",
+   "data": "2026-10-14T11:38:30+00:00",
+   "canal": "btcdia",
+   "durada": 749,
+   "idioma": "es",
+   "resum": "El mercat espera la dada d'IPC dels EUA a la tarda, que marcarà si la setmana tanca a l'alça o a la baixa. L'autor també critica els economistes i premis Nobel que van donar Bitcoin per mort en diferents moments del passat i es van equivocar per deixar que la ideologia s'imposés al sentit comú.",
+   "punts": [
+    {
+     "text": "Avui es publica l'IPC dels EUA, esperat en el 3,6%; una dada pitjor provocaria vendes a Bitcoin i als mercats, mentre que una dada en línia o millor podria donar una sorpresa positiva, ja que és poc probable que es pugin tipus abans de les eleccions.",
+     "t": 6
+    },
+    {
+     "text": "Stripe ha comprat 3.311 bitcoins durant la setmana fins al 9 d'octubre a un preu mitjà de 84.500$, i ja té 32.773 BTC en total; és ara la font de demanda corporativa més forta a curt termini, mentre MicroStrategy (845.250 BTC) està en fase de consolidar la seva cartera, no de comprar més.",
+     "t": 96
+    },
+    {
+     "text": "L'autor recorda que diversos doctors en economia i premis Nobel van declarar Bitcoin malvat, inútil, mort o destructiu quan cotitzava a 730, 6.300, 99.900 i 10.200$, i es van equivocar per anteposar la seva ideologia al sentit comú.",
+     "t": 190
+    },
+    {
+     "text": "En el gràfic horari, la resistència clau és als 84.200$ (si se supera, aniria cap a 85.000-86.000$); el suport es troba als 82.210$ i, si es perd, el següent és als 81.442$.",
+     "t": 504
+    }
+   ],
+   "dades": [
+    "IPC esperat: 3,6%",
+    "Stripe: +3.311 BTC (mitjana 84.500$, total 32.773 BTC)",
+    "MicroStrategy: 845.250 BTC",
+    "Resistència 84.200$ / Suport 82.210$"
+   ],
+   "conclusio": "El mercat queda a l'espera de la dada d'IPC, que marcarà la resta de la setmana; mentrestant Stripe s'ha convertit en la font de demanda corporativa més forta a curt termini.",
+   "temes": [
+    "bitcoin",
+    "ipc",
+    "inflació",
+    "stripe",
+    "microstrategy"
+   ],
+   "lot": "2026-10-15"
+  },
+  {
    "id": "GI8m4bQ6Af0",
    "titol": "Ley de Nietos: la maniobra de Sánchez para saltarse al Supremo",
    "data": "2026-10-13T19:00:00+00:00",
@@ -4235,9 +4430,18 @@
     "Sospites de frau: Rallo alerta que el consolat de l'Havana ha subcontractat a una empresa estatal cubana la tramitació de més de 350.000 sol·licituds de nacionalitat.",
     "Calendari electoral: els consolats podrien acabar enviant la documentació de vot a tots els inscrits al CERA perquè diuen no poder distingir els afectats per la suspensió del Suprem."
    ]
+  },
+  "2026-10-15": {
+   "titular": "Inflació i deute sacsegen mercats i economies a banda i banda d'Europa",
+   "punts": [
+    "Inflació i mercats: una dada d'IPC pitjor de l'esperat als EUA (3,7% vs 3,6%) ha fet caure amb força les borses, sobretot a Àsia, i el Nasdaq ha trencat la seva línia de tendència; Bitcoin ha resistit millor, perdent el suport dels 82.210$ però sense desplomar-se.",
+    "Deute europeu: Marc Vidal alerta que Bèlgica, Itàlia i França viuen protestes simultànies pel deute acumulat i les retallades que exigeix; si el contagi arriba a la prima de risc espanyola, encarirà també les hipoteques i el crèdit a les empreses d'aquí.",
+    "Creixement espanyol: Juan Ramón Rallo mostra que el PIB espanyol creix sobretot per l'augment de població (immigració), no per productivitat, i que el consum real de les famílies treballadores ha caigut un 7% des de 2019, mentre els pensionistes mantenen el seu nivell de vida.",
+    "Bitcoin a mitjà termini: tot i la correcció a curt termini, l'autor de Bitcoin al día destaca que l'actiu es comporta molt millor davant les caigudes borsàries que fa sis mesos, un senyal positiu de cara al futur."
+   ]
   }
  },
- "actualitzat": "2026-10-14T10:50:36.418Z",
+ "actualitzat": "2026-10-15T10:47:54.667Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
