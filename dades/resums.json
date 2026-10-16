@@ -1,6 +1,65 @@
 {
  "videos": [
   {
+   "id": "u0wwI58oSYc",
+   "titol": "Bitcoin. Tocó la linea de tendencia y rebotó de nuevo a los 82.210. STRC puede salir del MSCI.",
+   "data": "2026-10-16T08:29:58+00:00",
+   "canal": "btcdia",
+   "durada": 909,
+   "idioma": "es",
+   "resum": "Bitcoin va tocar la línia de tendència als 82.210 i va rebotar amb força fins als 82.300. L'autor també comenta el risc que l'MSCI exclogui dels seus índexs les empreses de tresoreria de Bitcoin com Strategy i Metaplanet.",
+   "punts": [
+    {
+     "text": "L'MSCI estudia noves regles d'exclusió que podrien deixar fora dels seus índexs Strategy, Metaplanet i altres empreses que només tenen tresoreria en Bitcoin.",
+     "t": 72
+    },
+    {
+     "text": "Si Microstrategy surt de l'índex, els fons que el repliquen hauran de vendre les seves accions, afegint pressió venedora a la que ja fa la pròpia empresa per finançar-se.",
+     "t": 102
+    },
+    {
+     "text": "L'impacte sobre el preu de Bitcoin seria limitat perquè Microstrategy i Metaplanet ja tenen posicions grosses; seria pitjor per a empreses que encara estan comprant fort, com Strive.",
+     "t": 194
+    },
+    {
+     "text": "Bitcoin va tocar la línia de tendència (82.210) i va rebotar amb força en només dues hores fins als 82.300-82.500.",
+     "t": 224
+    },
+    {
+     "text": "Si el suport es perd i hi ha debilitat als mercats, l'autor veu possible una caiguda cap a la zona de 74.000-77.000, que marcaria el final de la correcció.",
+     "t": 287
+    },
+    {
+     "text": "El mercat aguanta perquè descompta que la Fed no pujarà els tipus a la reunió de finals d'octubre per no interferir amb les eleccions de mig mandat de novembre; després d'això, si segueixen dades dolentes d'inflació, espera pujades de tipus.",
+     "t": 317
+    },
+    {
+     "text": "Nivells per vigilar en Bitcoin: per sota de 82.000, baixada cap a 81.550 i després 79.950; per sobre de 82.500, pujada cap a la zona de 83.100.",
+     "t": 564
+    },
+    {
+     "text": "L'autor manté el 21 de novembre com la data clau que espera per comprar a bon preu, abans que el mercat es mogui cap a una possible pujada de tipus.",
+     "t": 845
+    }
+   ],
+   "dades": [
+    "82.210 (línia de tendència)",
+    "82.300 (preu actual)",
+    "zona 74.000-77.000 si perd el suport",
+    "21 de novembre, data clau que espera l'autor"
+   ],
+   "conclusio": "L'autor recomana vigilar si la línia de tendència dels 82.210 aguanta en properes setmanes i preveu que el millor moment per comprar serà cap al 21 de novembre, abans de la propera reunió de tipus.",
+   "temes": [
+    "bitcoin",
+    "microstrategy",
+    "msci",
+    "anàlisi tècnica",
+    "fed",
+    "altcoins"
+   ],
+   "lot": "2026-10-16"
+  },
+  {
    "id": "1b8jRQgw1YM",
    "titol": "Bitcoin. Caída fuerte del mercado por mal dato de inflación. El $ y el petróleo aflojan un poco hoy.",
    "data": "2026-10-15T08:03:19+00:00",
@@ -4439,9 +4498,16 @@
     "Creixement espanyol: Juan Ramón Rallo mostra que el PIB espanyol creix sobretot per l'augment de població (immigració), no per productivitat, i que el consum real de les famílies treballadores ha caigut un 7% des de 2019, mentre els pensionistes mantenen el seu nivell de vida.",
     "Bitcoin a mitjà termini: tot i la correcció a curt termini, l'autor de Bitcoin al día destaca que l'actiu es comporta molt millor davant les caigudes borsàries que fa sis mesos, un senyal positiu de cara al futur."
    ]
+  },
+  "2026-10-16": {
+   "titular": "Bitcoin rebota amb força a la línia de tendència dels 82.210 mentre l'MSCI amenaça d'excloure les empreses de tresoreria de Bitcoin",
+   "punts": [
+    "Bitcoin: va tocar la línia de tendència als 82.210 i va rebotar en dues hores fins als 82.300-82.500; per sota de 82.000 l'autor veu risc de caiguda cap a 74.000-77.000, i manté el 21 de novembre com la data clau per comprar.",
+    "MSCI: estudia excloure dels seus índexs les empreses que només tenen tresoreria en Bitcoin (Strategy, Metaplanet), el que forçaria vendes per part dels fons que repliquen l'índex, encara que l'impacte directe sobre el preu de Bitcoin seria limitat."
+   ]
   }
  },
- "actualitzat": "2026-10-15T10:47:54.667Z",
+ "actualitzat": "2026-10-16T10:46:30.419Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
