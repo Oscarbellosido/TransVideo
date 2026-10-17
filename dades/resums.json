@@ -1,6 +1,176 @@
 {
  "videos": [
   {
+   "id": "mfm7i4fP7wI",
+   "titol": "Bitcoin. Está fuerte, pero el peligro viene de las bolsas, que pueden entrar en fuerte corrección.",
+   "data": "2026-10-17T08:38:06+00:00",
+   "canal": "btcdia",
+   "durada": 750,
+   "idioma": "es",
+   "resum": "Bitcoin es manté fort tot i el deteriorament de les borses, però l'autor avisa que si el SP500 perd nivells clau la setmana vinent, Bitcoin podria no aguantar i caure cap a la zona dels 74.000-76.000 dòlars, on marca una possible oportunitat de compra cap al 21 de novembre.",
+   "punts": [
+    {
+     "text": "MSCI prepara treure Strategy (Michael Saylor) dels seus índexs per no ser una empresa operativa, el que reduirà la demanda automàtica dels fons que repliquen índexs.",
+     "t": 6
+    },
+    {
+     "text": "Saylor minimitza l'impacte i acusa MSCI d'actuar com un assessor financer no registrat imposant valors perjudicials als actius digitals.",
+     "t": 68
+    },
+    {
+     "text": "L'autor creu que sí que perjudica Strategy, encara que menys que si hagués passat quan només tenia 100.000-130.000 bitcoins acumulats.",
+     "t": 99
+    },
+    {
+     "text": "El SP500 i el Nasdaq han trencat línies de tendència amb caigudes fortes; si el SP500 tanca per sota de 7.580 s'obriria una correcció cap a 7.350.",
+     "t": 194
+    },
+    {
+     "text": "Bitcoin cotitza a 81.730 dòlars; si les borses segueixen caient, l'autor dubta que Bitcoin aguanti i marca objectius de suport a 74.000-76.000.",
+     "t": 254
+    },
+    {
+     "text": "La zona òptima per tornar a comprar seria cap al 21 de novembre, aproximadament un mes a partir d'avui.",
+     "t": 254
+    },
+    {
+     "text": "Altcoins com Cardano, XRP, Solana i BGB continuen febles i podrien caure més si Bitcoin cedeix; Tron i Ethereum mostren una mica més de resistència.",
+     "t": 436
+    }
+   ],
+   "dades": [
+    "Bitcoin: 81.730-81.749 $",
+    "Suport clau SP500: 7.580",
+    "Objectiu de Bitcoin a la baixa: 74.000-76.000 $",
+    "Zona òptima de compra: ~21 de novembre"
+   ],
+   "conclusio": "Cal vigilar les borses la setmana vinent: si el SP500 trenca suports, Bitcoin probablement els acompanyarà a la baixa, però aquesta caiguda es veuria com una oportunitat de compra abans del rebot posterior.",
+   "temes": [
+    "bitcoin",
+    "borses",
+    "microstrategy",
+    "msci",
+    "altcoins",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-10-17"
+  },
+  {
+   "id": "Oy8-heXfSqQ",
+   "titol": "\"Es urgente\": el FMI reclama ajustes inmediatos en el déficit",
+   "data": "2026-10-16T18:00:34+00:00",
+   "canal": "rallo",
+   "durada": 1247,
+   "idioma": "es",
+   "resum": "El FMI ha endurit el seu discurs i ja exigeix als estats que ajustin de seguida els seus dèficits públics, en lloc de fer-ho gradualment com fins ara. Rallo explica, a través de la desigualtat entre el tipus d'interès (R) i el creixement nominal (G), per què mantenir dèficits elevats s'ha tornat perillós ara que els tipus d'interès pugen i el creixement ja no compensa el cost del deute.",
+   "punts": [
+    {
+     "text": "El FMI alerta que les grans economies, inclosa la Xina, es dirigeixen als majors dèficits des de la pandèmia, però aquesta vegada sense recessió ni confinaments que ho justifiquin.",
+     "t": 0
+    },
+    {
+     "text": "El dèficit de les economies avançades tancarà 2026 al 5,2% del PIB, el més alt des de 2021; el dels Estats Units arribarà al 8,5% i el de la Xina al 8% o més.",
+     "t": 94
+    },
+    {
+     "text": "El FMI ha passat de demanar consolidació fiscal gradual a exigir ajustos immediats, perquè com més es triguin a fer, més dur serà l'ajust.",
+     "t": 185
+    },
+    {
+     "text": "Explica la desigualtat R>G: si el tipus d'interès mitjà del deute (R) supera el creixement nominal de l'economia (G), el deute públic creix sol per interès compost, encara que hi hagi dèficit primari zero.",
+     "t": 247
+    },
+    {
+     "text": "Durant anys G ha estat més gran que R arreu del món (cas extrem: Japó, que va reduir deute del 258% al 228% del PIB entre 2020 i 2025 malgrat tenir dèficit primari), però això s'està acabant perquè els tipus a llarg termini són els més alts des de 2007 als EUA i des de 1996 al Japó.",
+     "t": 592
+    },
+    {
+     "text": "Simulació per als EUA amb R=5%, deute 125% del PIB, dèficit primari del 5% i creixement nominal del 4,75%: el deute superaria el 150% del PIB el 2031, el 200% el 2040 i el 300% el 2058.",
+     "t": 934
+    },
+    {
+     "text": "Per estabilitzar el deute amb aquests paràmetres caldria un superàvit primari del 0,3% del PIB, no un dèficit del 5%; les úniques sortides reals són superàvit, més creixement, inflació/repressió financera o reestructuració del deute, i totes impliquen dolor.",
+     "t": 964
+    }
+   ],
+   "dades": [
+    "Dèficit economies avançades 2026: 5,2% del PIB",
+    "Dèficit EUA: 8,5% del PIB",
+    "Dèficit Xina: ≥8% del PIB",
+    "Deute EUA simulat: 150% (2031), 200% (2040), 300% (2058)"
+   ],
+   "conclusio": "Com més triguin els governs a ajustar els seus pressupostos, més dolorós serà l'ajust futur, ja sigui amb retallades, inflació, repressió financera o reestructuració del deute; però, en lloc de frenar, els governs estan accelerant l'endeutament.",
+   "temes": [
+    "dèficit públic",
+    "deute públic",
+    "fmi",
+    "tipus d'interès",
+    "inflació",
+    "economia"
+   ],
+   "lot": "2026-10-17"
+  },
+  {
+   "id": "Xlx51wu_XEE",
+   "titol": "Saltan las alarmas por el diésel: la crisis puede no ser un crash, sino algo más largo",
+   "data": "2026-10-16T17:00:19+00:00",
+   "canal": "vidal",
+   "durada": 1213,
+   "idioma": "es",
+   "resum": "L'informe mensual de l'Agència Internacional de l'Energia avisa que faltarà combustible refinat, sobretot dièsel, fins ben entrat el 2027, mentre Àsia (Corea del Sud, Japó) ja ha patit desplomades borsàries i Wall Street encara no ho ha reflectit als preus. Marc Vidal argumenta que, més que un crac sobtat, pot tractar-se d'una crisi llarga i silenciosa que s'anirà transmetent via inflació, pujades de tipus i deute.",
+   "punts": [
+    {
+     "text": "El Kospi i el Kosdaq coreans van caure un 8% i es va suspendre la negociació 20 minuts; el Nikkei japonès va tancar amb una caiguda del 5,4%.",
+     "t": 0
+    },
+    {
+     "text": "Als EUA els preus de producció de setembre van pujar un 6,3% interanual, amb la gasolina disparant-se un 20% i el dièsel per a demanda intermèdia un 21%, el major salt mensual des de març de 2022.",
+     "t": 30
+    },
+    {
+     "text": "L'Agència Internacional de l'Energia diu que el combustible refinat seguirà faltant fins ben entrat 2027 i que el preu del Brent que es veu a pantalla ja no és el que paguen les refineries.",
+     "t": 183
+    },
+    {
+     "text": "El petroli té dos preus: el futur del Brent (~107 $) i el físic North Sea Dated (~134 $, +43% des de setembre per 13% del Brent), per la guerra (atac amb drons a l'oleoducte saudita, bloqueig houthi) i el flete (més d'1 milió $/dia per superpetrolier).",
+     "t": 367
+    },
+    {
+     "text": "El dièsel és el combustible més castigat: va superar els 200 $/barril a Singapur i va tocar els 220 $ a Europa i EUA; les reserves de l'OCDE són les més baixes des de 2023.",
+     "t": 488
+    },
+    {
+     "text": "La demanda cau 2,6 milions de barrils/dia però l'oferta cau 5,8 milions; els governs allarguen la demanda amb subsidis pagats amb deute, cosa que retarda l'ajust de preus.",
+     "t": 700
+    },
+    {
+     "text": "Cadena de transmissió cap a la borsa: inflació (eurozona al 3,8% al setembre), pujades de tipus (BCE al 2,5%, Fed pujant per primer cop des de 2023), caiguda de marges a les refineries europees i bons a 10 anys dels EUA al nivell més alt des de 2000.",
+     "t": 822
+    },
+    {
+     "text": "El FMI adverteix que el deute públic mundial s'acosta als màxims de la Segona Guerra Mundial (gairebé el 100% del PIB global) i que el mercat de bons és susceptible d'una pujada brusca i desordenada de tipus.",
+     "t": 937
+    }
+   ],
+   "dades": [
+    "Dièsel: fins 220 $/barril a Europa i EUA",
+    "North Sea Dated: ~134 $ (+43% des de setembre)",
+    "Demanda -2,6 Mbd vs oferta -5,8 Mbd",
+    "Bons EUA a 10 anys: màxim des de 2000",
+    "Deute públic mundial: gairebé 100% del PIB"
+   ],
+   "conclusio": "No és (encara) un col·lapse confirmat, sinó un desajust entre el \"barril de paper\" que cotitza Wall Street i el \"barril de veritat\" que ja ha fet caure les borses asiàtiques; si no es recupera el subministrament d'Orient Mitjà, l'ajust es farà via menys consum, menys producció i hipoteques més cares, de manera lenta i poc visible.",
+   "temes": [
+    "petroli",
+    "dièsel",
+    "inflació",
+    "tipus d'interès",
+    "deute públic",
+    "borses asiàtiques"
+   ],
+   "lot": "2026-10-17"
+  },
+  {
    "id": "u0wwI58oSYc",
    "titol": "Bitcoin. Tocó la linea de tendencia y rebotó de nuevo a los 82.210. STRC puede salir del MSCI.",
    "data": "2026-10-16T08:29:58+00:00",
@@ -4505,9 +4675,19 @@
     "Bitcoin: va tocar la línia de tendència als 82.210 i va rebotar en dues hores fins als 82.300-82.500; per sota de 82.000 l'autor veu risc de caiguda cap a 74.000-77.000, i manté el 21 de novembre com la data clau per comprar.",
     "MSCI: estudia excloure dels seus índexs les empreses que només tenen tresoreria en Bitcoin (Strategy, Metaplanet), el que forçaria vendes per part dels fons que repliquen l'índex, encara que l'impacte directe sobre el preu de Bitcoin seria limitat."
    ]
+  },
+  "2026-10-17": {
+   "titular": "El FMI exigeix ajustos fiscals urgents mentre el dièsel i les borses asiàtiques encenen els avisos de crisi",
+   "punts": [
+    "Dèficit públic: el FMI reclama ajustos immediats als estats, ja no graduals; el dèficit dels EUA arribarà al 8,5% del PIB i el de la Xina al 8%.",
+    "Interès vs creixement: Rallo avisa que el deute es torna explosiu quan el tipus d'interès (R) supera el creixement nominal (G), com comença a passar als EUA.",
+    "Energia i borses: Marc Vidal explica que la falta de dièsel i combustible refinat, no de crudo, és el risc real; Corea i Japó ja n'han patit les conseqüències a les seves borses.",
+    "Bitcoin: es manté fort (81.700 $) però podria arrossegar-se si el SP500 trenca suports clau la setmana vinent, amb objectiu a la baixa de 74.000-76.000 $.",
+    "Punt en comú: els tres canals assenyalen el mateix mecanisme de fons —tipus d'interès alts i deute creixent— com la font de risc per a borses, economia i criptomonedes."
+   ]
   }
  },
- "actualitzat": "2026-10-16T10:46:30.419Z",
+ "actualitzat": "2026-10-17T10:47:03.442Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
