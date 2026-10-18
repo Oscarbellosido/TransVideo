@@ -1,6 +1,111 @@
 {
  "videos": [
   {
+   "id": "fUZimBW7DOU",
+   "titol": "Bitcoin. El soporte está en juego en cierre semanal. Resultados empresas importantes esta semana.",
+   "data": "2026-10-18T09:13:42+00:00",
+   "canal": "btcdia",
+   "durada": 676,
+   "idioma": "es",
+   "resum": "Bitcoin es manté sobre els 81.700 $ a l'espera del tancament de la vela setmanal d'aquesta tarda, amb el suport clau als 82.210 $ en joc. Si no es recupera a l'inici de setmana, el mercat podria seguir caient, mentre les altcoins repeteixen la tendència baixista.",
+   "punts": [
+    {
+     "text": "Bitcoin ronda els 81.700 $, estabilitzat després d'una petita caiguda ahir a la nit; cal esperar el tancament de la vela setmanal aquesta tarda per saber si el suport dels 82.210 $ es trenca de debò.",
+     "t": 35
+    },
+    {
+     "text": "En diari, el suport ja s'ha trencat de forma lleu des del dia 12, sense enfonsament fort; si dilluns i dimarts no es recupera el nivell dels 82.210 $, el més probable és anar cap a la zona dels 79.800 $ o més avall.",
+     "t": 348
+    },
+    {
+     "text": "Setmana amb pocs indicadors macro (dades d'ocupació dijous, poc rellevants) però amb resultats empresarials importants: SpaceX i Netflix dimarts, Meta, Tesla, Philip Morris, SAP i IBM dimecres, Lockheed Martin dijous i American Express divendres.",
+     "t": 130
+    },
+    {
+     "text": "Adverteix que l'impuls als beneficis empresarials gràcies a la intel·ligència artificial podria començar a moderar-se, ja que les estimacions dels analistes s'acaben ajustant a l'alça de productivitat.",
+     "t": 194
+    },
+    {
+     "text": "Les altcoins segueixen la tendència baixista de Bitcoin: Cardano, Ethereum i Solana continuen caient, BGB i BNB van perdent posicions; si Bitcoin segueix baixant, la resta d'actius hi arrossegaran.",
+     "t": 448
+    },
+    {
+     "text": "XRP és al suport dels 1.580 $ i previsiblement baixarà cap als 1.546 $; Zcash amenaça el suport dels 0,0137 BTC i, si el perd, podria caure ràpid cap als 0,0192 BTC.",
+     "t": 561
+    }
+   ],
+   "dades": [
+    "Bitcoin als 81.730 $",
+    "suport setmanal clau als 82.210 $",
+    "possible zona de suport següent als 79.800 $",
+    "XRP al suport dels 1.580 $"
+   ],
+   "conclusio": "El missatge és de precaució: tot depèn del tancament de la vela setmanal d'aquesta tarda; si Bitcoin no recupera el suport dilluns o dimarts, el mercat podria seguir baixant i arrossegar la resta d'altcoins.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "mercats",
+    "anàlisi tècnica",
+    "altcoins"
+   ],
+   "lot": "2026-10-18"
+  },
+  {
+   "id": "30HdjJ3UwI8",
+   "titol": "La batalla por el Senado: ¿victoria de Sánchez contra PP-Vox?",
+   "data": "2026-10-17T17:20:30+00:00",
+   "canal": "rallo",
+   "durada": 1221,
+   "idioma": "es",
+   "resum": "Rallo explica per què el pacte del Frente Amplio amb el PSOE per presentar-se junts al Senat de cara al 29-N és més important del que sembla: no és per aprovar lleis, sinó per decidir qui controla el Tribunal Constitucional i el Consell General del Poder Judicial. Tot i la jugada, encara hi ha marge perquè la dreta hi reaccioni.",
+   "punts": [
+    {
+     "text": "El Frente Amplio i Podemos no tanquen coalició pel Congrés, però el Frente Amplio sí pacta amb el PSOE una coalició només pel Senat, «Senado de Progreso» (amb IU, Sumar, Més Madrid, Compromís, Chunta Aragonesista i Batzarre), en 47 circumscripcions.",
+     "t": 128
+    },
+    {
+     "text": "El sistema electoral del Senat (vot limitat, cada elector marca fins a tres noms, el més votat s'emporta tres escons) fa que ajuntar llistes pugui capgirar el repartiment sense canviar els vots totals; un informe intern del PSOE calculava fins a 40 senadors més amb candidatura unitària.",
+     "t": 342
+    },
+    {
+     "text": "La clau real no és aprovar lleis, ja que el Congrés pot aixecar el vet del Senat: el que importa és la majoria qualificada de 3/5 (160 senadors) per triar magistrats del Tribunal Constitucional i vocals del Consell General del Poder Judicial.",
+     "t": 497
+    },
+    {
+     "text": "Si la dreta aconseguís els 3/5 podria triar quatre magistrats del Constitucional i capgirar l'actual majoria progressista; si no ho aconsegueix, haurà de pactar amb el PSOE o quedar bloquejada, i la majoria progressista es mantindria.",
+     "t": 527
+    },
+    {
+     "text": "El control del Constitucional és decisiu perquè hi acabaran les lleis clau de la pròxima legislatura: política migratòria, prioritat nacional de Vox, educació o política lingüística.",
+     "t": 712
+    },
+    {
+     "text": "Rallo adverteix que «1+1 no sempre sumen 2»: votants moderats poden no marcar els tres noms de la coalició. Ja va passar l'any 2000, quan el pacte PSOE-IU al Senat va acabar amb majoria absoluta d'Aznar.",
+     "t": 804
+    },
+    {
+     "text": "La dreta encara té marge: no necessita una coalició formal, només coordinar candidatures (p. ex. PP presenta dos senadors i Vox un) sense marca conjunta, evitant l'etiqueta «PP és el mateix que Vox»; Santiago Abascal ja ha insinuat aquesta coordinació.",
+     "t": 865
+    }
+   ],
+   "dades": [
+    "47 circumscripcions amb coalició d'esquerres",
+    "fins a 40 senadors més estimats pel PSOE",
+    "208 senadors en joc",
+    "majoria qualificada de 160 senadors (3/5) per triar el Constitucional"
+   ],
+   "conclusio": "El 29-N hi ha dues eleccions en una: el Congrés decideix qui governa i el Senat decideix amb quin marge. Rallo conclou que, tot i la jugada de Sánchez, la dreta encara té la millor mà si actua bé.",
+   "temes": [
+    "política espanyola",
+    "senat",
+    "psoe",
+    "pp",
+    "vox",
+    "tribunal constitucional"
+   ],
+   "lot": "2026-10-18"
+  },
+  {
    "id": "mfm7i4fP7wI",
    "titol": "Bitcoin. Está fuerte, pero el peligro viene de las bolsas, que pueden entrar en fuerte corrección.",
    "data": "2026-10-17T08:38:06+00:00",
@@ -228,6 +333,44 @@
     "altcoins"
    ],
    "lot": "2026-10-16"
+  },
+  {
+   "id": "2BIlBxYWLwY",
+   "titol": "Los cinco bulos del PSOE sobre las pensiones públicas",
+   "data": "2026-10-15T17:45:06+00:00",
+   "canal": "rallo",
+   "durada": 1442,
+   "resum": "Rallo respon a cinc arguments habituals del PSOE sobre la sostenibilitat de les pensions públiques i explica per què no es sostenen. Sense transcripció disponible; resum fet a partir del títol i la descripció del vídeo.",
+   "punts": [
+    {
+     "text": "Hucha de les pensions: el fons de reserva no demostra que el sistema sigui sostenible, perquè l'agujero financer real és molt més gran."
+    },
+    {
+     "text": "Advertències de l'AIReF: l'organisme fiscal independent ha avisat del desequilibri del sistema, no del contrari."
+    },
+    {
+     "text": "Nombre de cotitzants: que hi hagi més gent cotitzant ara no garanteix que les pensions futures estiguin cobertes."
+    },
+    {
+     "text": "Estabilitat de l'ocupació: els contractes indefinits actuals no asseguren per si sols la viabilitat del sistema."
+    },
+    {
+     "text": "Salaris i cost laboral: explica per què puja el cost laboral de l'empresa sense que el salari net del treballador augmenti al mateix ritme."
+    },
+    {
+     "text": "Conseqüències: mantenir les prestacions actuals pot implicar més impostos, més cotitzacions i menys recursos per a altres serveis públics."
+    }
+   ],
+   "dades": [],
+   "conclusio": "Rallo conclou que els cinc arguments que fa servir el PSOE per defensar la sostenibilitat de les pensions no es sostenen, i que ajustar un sistema de pensions insostenible acaba passant factura via impostos, cotitzacions o altres serveis públics.",
+   "temes": [
+    "pensions",
+    "seguretat social",
+    "psoe",
+    "fiscalitat",
+    "mercat laboral"
+   ],
+   "lot": "2026-10-18"
   },
   {
    "id": "1b8jRQgw1YM",
@@ -4685,9 +4828,18 @@
     "Bitcoin: es manté fort (81.700 $) però podria arrossegar-se si el SP500 trenca suports clau la setmana vinent, amb objectiu a la baixa de 74.000-76.000 $.",
     "Punt en comú: els tres canals assenyalen el mateix mecanisme de fons —tipus d'interès alts i deute creixent— com la font de risc per a borses, economia i criptomonedes."
    ]
+  },
+  "2026-10-18": {
+   "titular": "Rallo rebat els arguments del PSOE sobre les pensions i analitza la jugada del Senat, mentre Bitcoin al día alerta que el suport clau dels 82.210 $ és en joc.",
+   "punts": [
+    "Pensions: Rallo rebat els cinc arguments del PSOE sobre la seva sostenibilitat (hucha de la Seguretat Social, advertències de l'AIReF, nombre de cotitzants, ocupació i salaris) i adverteix que mantenir les prestacions actuals pot implicar més impostos o cotitzacions.",
+    "Senat: el pacte del Frente Amplio amb el PSOE per presentar-se junts al Senat no busca aprovar lleis, sinó controlar la majoria de 3/5 que tria el Tribunal Constitucional i el Consell General del Poder Judicial.",
+    "Bitcoin: el preu es manté als 81.700 $ amb el suport dels 82.210 $ en joc de cara al tancament de la vela setmanal; si no es recupera dilluns o dimarts, podria baixar cap als 79.800 $.",
+    "Mercats: aquesta setmana presenten resultats grans empreses com SpaceX, Netflix, Meta, Tesla o IBM, que poden marcar el to dels mercats i, per extensió, de les criptomonedes."
+   ]
   }
  },
- "actualitzat": "2026-10-17T10:47:03.442Z",
+ "actualitzat": "2026-10-18T10:48:30.731Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
@@ -4792,6 +4944,30 @@
     "Una possible correcció més profunda de Bitcoin cap al 21 de novembre, amb suport clau entorn dels 75.000 $ (Bitcoin al día).",
     "Si el govern espanyol intenta tornar a aprovar els decrets d'habitatge o d'universitats per reial decret llei aprofitant la Diputación Permanente de les Corts dissoltes (Rallo, Vidal).",
     "L'evolució de la campanya electoral fins al 29 de novembre i si Le Pen manté el seu gir cap a l'austeritat fiscal a França (Rallo)."
+   ]
+  },
+  "2026-10-18": {
+   "des_de": "2026-10-12",
+   "titular": "Una setmana marcada pel deute i els tipus d'interès cars arreu d'Europa, els primers senyals de correcció a les borses i la carrera cap al 29-N a Espanya.",
+   "punts": [
+    "Deute i tipus d'interès: Vidal explica que el bo dels EUA a 10 anys s'ha col·locat al tipus més car des de l'any 2000, encarint el preu del diner a tot el món (bo espanyol fins al 4,13%, màxim des de 2013); Rallo, a partir de l'informe del FMI, avisa que els grans dèficits (EUA 8,5%, Xina ≥8% del PIB) es tornen perillosos ara que els tipus (R) superen el creixement (G).",
+    "Crisi a Europa: Vidal detalla disturbis i vagues simultànies a Bèlgica, Itàlia i França arran del deute acumulat, i una crisi silenciosa de dièsel i petroli que pot allargar-se fins al 2027.",
+    "Bitcoin: tota la setmana girant al voltant del suport dels 82.210 $, amb rebots i trencaments successius; el divendres l'autor ja alerta que si les borses (SP500) trenquen suports clau, Bitcoin podria caure cap als 74.000-76.000 $, amb el 21 de novembre com a possible zona de compra.",
+    "Política espanyola: Rallo repassa la polèmica llei de néts i la suspensió cautelar del vot CERA, el creixement del PIB espanyol inflat per la immigració mentre el consum de les llars treballadores cau, i acaba la setmana amb els bulos sobre pensions i la jugada del PSOE al Senat de cara al 29-N.",
+    "Identitat digital: Vidal alerta sobre la cartera digital europea (EUDI Wallet), obligatòria a finals de 2026, i el seu possible encaix amb la sanitat i l'euro digital."
+   ],
+   "coincideixen": [
+    "Deute públic: Rallo (FMI, dèficits d'EUA i Xina) i Vidal (Bèlgica, bons europeus en màxims) alerten tots dos que l'endeutament massiu es torna insostenible ara que pujen els tipus d'interès.",
+    "Risc de contagi a les borses: Bitcoin al día i Vidal apunten en paral·lel que la inestabilitat macro (bons, petroli, dièsel) pot acabar traslladant-se als mercats i encarint el crèdit."
+   ],
+   "discrepen": [
+    "To davant la crisi: Vidal parla d'un possible «caos» que ja esclata a tres països (Bèlgica, Itàlia, França), mentre que Bitcoin al día manté un to més calmat, veient encara possible una recuperació si les borses aguanten."
+   ],
+   "a_vigilar": [
+    "Resultats empresarials clau aquesta setmana (SpaceX, Netflix, Meta, Tesla, IBM i d'altres), que poden marcar el to dels mercats i de les criptomonedes (Bitcoin al día).",
+    "Si el SP500 trenca el suport dels 7.580 punts, Bitcoin podria anar cap a la zona de 74.000-76.000 $, amb el 21 de novembre com a possible zona de compra (Bitcoin al día).",
+    "Presentació de candidatures al Senat entre el 21 i el 26 d'octubre, i si PP i Vox acaben coordinant-se per contrarestar la coalició d'esquerres (Rallo).",
+    "Calendari electoral del 29-N: enviament de documentació CERA des del 24 d'octubre i vot per correu fins al 24 de novembre, clau per la polèmica llei de néts (Rallo)."
    ]
   }
  }
