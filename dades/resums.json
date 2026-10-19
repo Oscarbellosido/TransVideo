@@ -1,6 +1,221 @@
 {
  "videos": [
   {
+   "id": "LjDtOUfesLU",
+   "titol": "Bitcoin. Salva el cierre semanal en las últimas horas del Domingo. Las bolsas rebotan fuerte.",
+   "data": "2026-10-19T06:23:05+00:00",
+   "canal": "btcdia",
+   "durada": 522,
+   "idioma": "es",
+   "resum": "Bitcoin va salvar in extremis el suport del tancament setmanal als 82.210 $ gràcies a un rebot de les borses, però l'autor avisa que les altcoins no es creuen el moviment i que la correcció encara no ha acabat.",
+   "punts": [
+    {
+     "text": "Bitcoin va arribar a caure fins a 80.684 $ però va pujar de forma vertical a última hora per tancar el dia i la setmana just als 82.210 $, salvant el suport setmanal.",
+     "t": 37
+    },
+    {
+     "text": "El gràfic mensual segueix lleugerament negatiu després de 3 mesos de pujada: es considera una consolidació normal, podria caure una mica més sense trencar la tendència.",
+     "t": 130
+    },
+    {
+     "text": "Zona de resistència als 82.650 $: si consolida per sobre aniria cap a 83.440 $; si no, tornaria als 82.210 $ o fins i tot 81.950 $.",
+     "t": 224
+    },
+    {
+     "text": "Si el SP500 perd la línia de tendència on ha rebotat, podria iniciar-se una correcció més forta que l'arrossegaria a perdre els 80.000 $ i caure cap a la zona de 76.000-77.000 $, el suport de la correcció.",
+     "t": 254
+    },
+    {
+     "text": "Les altcoins no es creuen el rebot: Cardano, BNB i BGB es mantenen als mínims, Ethereum tot just puja un 0,04%; Solana (+0,69%) és la que millor es comporta.",
+     "t": 316
+    },
+    {
+     "text": "Setmana amb pocs indicadors macroeconòmics però amb molts resultats empresarials; més endavant, les eleccions als Estats Units podrien generar inestabilitat al mercat.",
+     "t": 499
+    }
+   ],
+   "dades": [
+    "Suport setmanal: 82.210 $",
+    "Mínim intradia: 80.684 $",
+    "Resistència objectiu: 83.440 $",
+    "Suport de correcció: 76.000-77.000 $"
+   ],
+   "conclusio": "El rebot depèn que les borses mantinguin la recuperació; les altcoins no s'ho creuen i l'autor adverteix que no es pot donar la correcció per acabada.",
+   "temes": [
+    "bitcoin",
+    "mercats",
+    "altcoins",
+    "anàlisi tècnica",
+    "sp500"
+   ],
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "Ozk2V828FvQ",
+   "titol": "🚨 ÚLTIMA HORA | Europa al límite: se acaba el dinero para la paz social ¿esto acaba de empezar?",
+   "data": "2026-10-18T18:00:07+00:00",
+   "canal": "vidal",
+   "durada": 2580,
+   "idioma": "es",
+   "resum": "Marc Vidal analitza la nit de disturbis a França (ajuntaments cremats, saquejos, centenars de detinguts) i sosté que és un \"assaig general\": Europa ha esgotat el crèdit amb què comprava pau social i els retalls que venen toparan amb una resposta social organitzada.",
+   "punts": [
+    {
+     "text": "A Limoges el sostre i el campanar de l'ajuntament es van ensorrar després de calar-hi foc amb gent a dins (sense ferits, segons el prefecte); a Marsella un grup va entrar al vestíbul de l'ajuntament; a Grenoble van saquejar un banc i botigues mentre cremaven cotxes; París va comptabilitzar 855 detencions, xifra rècord.",
+     "t": 6
+    },
+    {
+     "text": "La participació es calcula entre 550.000 i 800.000 persones a tot França; el primer ministre Sébastien Le Cornu va parlar de 1.200 detencions i 150 policies i gendarmes ferits abans de mitjanit (xifra que l'autor creu que ja ha quedat curta).",
+     "t": 277
+    },
+    {
+     "text": "Jean-Luc Mélenchon va desfilar amb els grups de protesta i només va condemnar els saquejos tard i de forma tèbia; l'autor l'acusa de tenir un incentiu electoral en que el carrer s'escalfi, recordant que el 2023 es va negar a demanar calma després de la mort de Nahel.",
+     "t": 551
+    },
+    {
+     "text": "El deute públic francès era de 3,59 bilions d'euros (119% del PIB) a finals de juny; el dèficit del 2025 va tancar en el 5,1% del PIB amb una despesa pública al voltant del 57,3%: l'Estat ja no té diners per \"comprar\" pau social.",
+     "t": 1288
+    },
+    {
+     "text": "El mateix patró es repeteix a Brussel·les (protestes pel cost de l'educació), Milà (saquejos en una marxa pel cost de la vida) i Albània (protestes per corrupció contra Edi Rama): motius diferents però la mateixa resposta violenta davant els ajustos que venen a tot Europa.",
+     "t": 1501
+    },
+    {
+     "text": "Segons l'INSEE, el 2025 vivien a França 8 milions d'immigrants (11,6% de la població), amb un atur del 12-13% enfront del 7% dels no immigrants; l'Interior xifra els estrangers en el 17% dels implicats en delictes analitzats el 2024, però d'una mostra de 513 menors jutjats pels disturbis del 2023, el 90% tenia nacionalitat francesa.",
+     "t": 1802
+    },
+    {
+     "text": "L'autor alerta que la crisi es pot fer servir per justificar més control: Macron ja va plantejar tallar les xarxes socials el 2023, es va bloquejar TikTok a Nova Caledònia el 2024, i a Bèlgica hi ha una proposta perquè els jutges puguin prohibir manifestar-se com a pena.",
+     "t": 2167
+    }
+   ],
+   "dades": [
+    "550.000-800.000 manifestants a França",
+    "855 detencions a París (rècord)",
+    "Deute públic francès: 3,59 bilions € (119% del PIB)",
+    "Dèficit 2025: 5,1% del PIB"
+   ],
+   "conclusio": "Per a l'autor, la nit de disturbis és un \"assaig general\": els governs europeus ja no tenen diners per comprar pau social amb deute, i els retalls que vénen es trobaran amb una resposta organitzada; adverteix que la resposta dels poders públics tendirà cap a més vigilància i control en lloc de resoldre el problema de fons.",
+   "temes": [
+    "frança",
+    "disturbis",
+    "deute públic",
+    "immigració",
+    "política europea",
+    "ordre públic"
+   ],
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "VSdgZkBua_Q",
+   "titol": "Por qué arde Francia: la gran mentira de la izquierda",
+   "data": "2026-10-18T17:30:32+00:00",
+   "canal": "rallo",
+   "durada": 1433,
+   "idioma": "es",
+   "resum": "Juan Ramón Rallo rebat el relat que els disturbis a França es deuen a retallades neoliberals: les dades mostren que l'Estat francès no para de créixer, i atribueix la violència a un estat del benestar gegantí i disfuncional que no integra els seus guetos i a una extrema esquerra que atia el conflicte per càlcul electoral.",
+   "punts": [
+    {
+     "text": "Des de finals de setembre hi ha hagut més de 1.000 instituts bloquejats, desenes cremats i uns 8.000 detinguts (85% menors); el 17 d'octubre més de mig milió de persones van protestar contra el cost de la vida i va cremar l'ajuntament de Limoges i l'oficina de turisme de Lió.",
+     "t": 0
+    },
+    {
+     "text": "La despesa pública francesa va ser del 57,2% del PIB el 2025 (de les més altes del món, enfront del 49,5% de mitjana europea) i va seguir pujant; el dèficit supera el 5% del PIB i el deute s'acosta al 120%, i l'ajust fet fins ara s'ha basat en pujar impostos (pressió fiscal del 42,8% al 43,6% en un any), no en retallar despesa; els 54.000 milions de retallades anunciats per Macron encara no s'han aprovat.",
+     "t": 338
+    },
+    {
+     "text": "A educació, el problema no és la manca de recursos sinó la mala gestió: el govern va enviar 3.000 professors que ja estaven contractats però sense cap classe assignada per problemes administratius, i en una setmana els instituts en situació crítica per falta de docents van baixar de 114 a 41.",
+     "t": 679
+    },
+    {
+     "text": "L'estat del benestar francès no ha integrat la població immigrant: als barris prioritaris, un de cada quatre joves actius està a l'atur i més d'un de cada cinc ni estudia ni treballa.",
+     "t": 832
+    },
+    {
+     "text": "Segons l'informe oficial sobre els disturbis de 2023 (mort de Nahel), els condemnats eren gairebé sempre homes joves sense estudis, el 75% nascuts a França però majoritàriament de segona o tercera generació immigrant; menys del 8% van esmentar la mort de Nahel com a motiu.",
+     "t": 892
+    },
+    {
+     "text": "L'extrema esquerra atia la violència: un alcalde de França Insubmisa va dir a la televisió que la violència pot ser legítima, un exassistent parlamentari va ser gravat anunciant que calaria foc a l'Elisi, i Mélenchon va qualificar els estudiants d'\"inofensius\" i va atribuir un rerefons racista a l'actuació policial.",
+     "t": 1043
+    },
+    {
+     "text": "El 44% dels joves de 18 a 24 anys votarien Mélenchon (enfront del 16% del conjunt de francesos), però la jugada li surt malament: segons el mercat de prediccions PolyMarket, la probabilitat de victòria de Le Pen ha pujat del 38% (27 de setembre) al 48% actual, mentre Mélenchon ha caigut a prop del 10%.",
+     "t": 1135
+    }
+   ],
+   "dades": [
+    "Despesa pública francesa 2025: 57,2% del PIB",
+    "Dèficit >5% del PIB, deute ~120%",
+    "~8.000 detinguts, 85% menors",
+    "Probabilitat de victòria de Le Pen (PolyMarket): del 38% al 48%"
+   ],
+   "conclusio": "Per Rallo, França no crema per l'austeritat, sinó perquè un estat del benestar gegantí i mal gestionat genera expectatives impossibles de complir i guetos exclosos, i l'extrema esquerra n'aprofita la frustració per càlcul electoral; de moment la jugada li surt malament perquè qui en surt reforçada és Le Pen.",
+   "temes": [
+    "frança",
+    "estat del benestar",
+    "disturbis",
+    "immigració",
+    "política francesa",
+    "esquerra radical"
+   ],
+   "lot": "2026-10-19"
+  },
+  {
+   "id": "UQP7DvE1Oro",
+   "titol": "¿Puede España mantener sus pensiones y bajar impuestos? La advertencia de FRANCIA",
+   "data": "2026-10-18T16:00:36+00:00",
+   "canal": "pablogil",
+   "durada": 1840,
+   "idioma": "es",
+   "resum": "Pablo Gil explica, amb xifres de França i Espanya, que no es pot mantenir i ampliar l'estat del benestar, baixar impostos i retardar reformes alhora: França mostra fins on porta aquesta contradicció i Espanya, tot i partir en millor posició, s'hi acosta si no millora la productivitat.",
+   "punts": [
+    {
+     "text": "França va tancar el 2025 amb una despesa pública del 57,3% del PIB i ingressos del 52,2%, un dèficit del 5,1% del PIB (152.500 milions d'euros) i un deute públic del 115,7% del PIB.",
+     "t": 93
+    },
+    {
+     "text": "La despesa pública sobre el PIB és molt més alta a França (57,2%) que a Espanya (45,3%), Alemanya (50,5%) o la mitjana de la UE (49,5%).",
+     "t": 306
+    },
+    {
+     "text": "El patrimoni net negatiu de la Seguretat Social espanyola va arribar a 116.100 milions d'euros el 2025 (107.375 milions el 2024, segons El Mundo); el sistema no s'autofinança amb les cotitzacions i necessita transferències de l'Estat.",
+     "t": 734
+    },
+    {
+     "text": "La nòmina mensual de pensions ha passat de 9.327 milions d'euros el desembre de 2018 a 13.750 milions el desembre de 2025, i ja són 14.498 milions el setembre de 2026, un augment que no s'explica només per la inflació.",
+     "t": 830
+    },
+    {
+     "text": "Segons l'AIReF, si es manté la regla de despesa de pensions sense mesures addicionals, el deute públic espanyol podria arribar al 123% del PIB el 2050.",
+     "t": 890
+    },
+    {
+     "text": "El Banc d'Espanya preveu un creixement del PIB del 2,6% (2026) i 2,2% (2027), però la productivitat per ocupat només creixerà un 0,5% anual: bona part del creixement ve de més gent treballant, no de produir més per persona.",
+     "t": 1107
+    },
+    {
+     "text": "El deute públic espanyol ha passat d'1,17 bilions d'euros el 2018 a més de 1,76 bilions a mitjans de 2026 (uns 590.000 milions més), tot i que la ràtio sobre el PIB baixa (98,5% previst el 2026).",
+     "t": 1479
+    }
+   ],
+   "dades": [
+    "Dèficit francès 2025: 5,1% del PIB (152.500 M€)",
+    "Deute francès: 115,7% del PIB",
+    "Patrimoni net negatiu de la SS espanyola: 116.100 M€",
+    "Deute públic espanyol: més d'1,76 bilions € el 2026"
+   ],
+   "conclusio": "Espanya encara no és França: creix més, té menys dèficit i menys deute relatiu. Però si no millora la productivitat ni prioritza la despesa, l'autor avisa que pot acabar en una situació semblant; davant de qualsevol promesa de més prestacions cal preguntar sempre qui ho pagarà.",
+   "temes": [
+    "pensions",
+    "deute públic",
+    "frança",
+    "espanya",
+    "fiscalitat",
+    "productivitat"
+   ],
+   "lot": "2026-10-19"
+  },
+  {
    "id": "fUZimBW7DOU",
    "titol": "Bitcoin. El soporte está en juego en cierre semanal. Resultados empresas importantes esta semana.",
    "data": "2026-10-18T09:13:42+00:00",
@@ -4837,9 +5052,18 @@
     "Bitcoin: el preu es manté als 81.700 $ amb el suport dels 82.210 $ en joc de cara al tancament de la vela setmanal; si no es recupera dilluns o dimarts, podria baixar cap als 79.800 $.",
     "Mercats: aquesta setmana presenten resultats grans empreses com SpaceX, Netflix, Meta, Tesla o IBM, que poden marcar el to dels mercats i, per extensió, de les criptomonedes."
    ]
+  },
+  "2026-10-19": {
+   "titular": "Rallo i Pablo Gil coincideixen que els disturbis francesos no es deuen a l'austeritat sinó a un estat del benestar sobredimensionat i insostenible, mentre Marc Vidal hi veu un \"assaig general\" per a tota Europa",
+   "punts": [
+    "Disturbis a França: Juan Ramón Rallo i Marc Vidal analitzen la mateixa nit de disturbis (ajuntament de Limoges cremat, saquejos a diverses ciutats, milers de detinguts) però amb lectures diferents: Rallo atribueix la violència a un estat del benestar gegantí i disfuncional, mal gestionat i incapaç d'integrar els guetos immigrants, atiat per una extrema esquerra amb càlcul electoral; Vidal hi veu un \"assaig general\" europeu davant l'esgotament del crèdit amb què els governs compraven pau social.",
+    "Comptes públiques: tots dos coincideixen en les xifres clau de França: despesa pública al voltant del 57% del PIB, dèficit superior al 5% i deute proper al 120%, i que els pocs ajustos fets fins ara han vingut de pujar impostos, no de retallar despesa.",
+    "Espanya i pensions: Pablo Gil compara la situació francesa amb l'espanyola (deute públic, patrimoni net negatiu de la Seguretat Social, previsions de l'AIReF) i conclou que Espanya encara no és França, però que sense millorar la productivitat podria acostar-s'hi.",
+    "Mercats: Bitcoin al día destaca que Bitcoin va salvar in extremis el suport del tancament setmanal gràcies a un rebot de les borses, però que les altcoins no es creuen el moviment i la correcció no es dona per acabada."
+   ]
   }
  },
- "actualitzat": "2026-10-18T10:48:30.731Z",
+ "actualitzat": "2026-10-19T10:48:18.316Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
