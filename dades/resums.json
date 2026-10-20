@@ -1,6 +1,167 @@
 {
  "videos": [
   {
+   "id": "ty-AMFgPAic",
+   "titol": "Bitcoin. La volatilidad disminuye y las entradas de dinero futuras serán más moderadas.",
+   "data": "2026-10-20T08:42:57+00:00",
+   "canal": "btcdia",
+   "durada": 1232,
+   "idioma": "es",
+   "resum": "Un article confirma el que el canal ja deia a principis d'any: el mercat de bitcoin entra en una fase més moderada, amb menys compres corporatives indiscriminades i menys volatilitat que en cicles anteriors. A curt termini, bitcoin amenaça un suport clau i podria corregir cap a mitjans de novembre abans de recuperar-se cap a finals d'any.",
+   "punts": [
+    {
+     "text": "Un article de Coin Telegraph diu que els dies de diner fàcil per a les tresoreries corporatives de bitcoin (Strategy, Metaplanet...) s'han acabat: Strategy només va afegir 1.666 bitcoin nets al tercer trimestre, davant dels 83.901 del segon.",
+     "t": 130
+    },
+    {
+     "text": "Segons els analistes citats, els inversors s'han tornat més selectius des que les primes entre la cotització d'aquestes empreses i el valor dels seus bitcoin en cartera es van enfonsar el 2025; no s'espera que tornin les captacions de capital indiscriminades de l'any passat.",
+     "t": 192
+    },
+    {
+     "text": "Els ETF de bitcoin al comptat van tenir entrades netes al tercer trimestre, però bona part del volum és trading ràpid de minoristes (al voltant del 80%) que entra i surt en pocs dies, a diferència dels bitcoin que compren les tresoreres corporatives, que es queden invertits.",
+     "t": 439
+    },
+    {
+     "text": "Segons Grey Scale, bitcoin és ara menys volàtil que el 57% de les empreses de l'S&P 500, el que confirma que les futures pujades de preu seran més moderades i esglaonades que en el passat.",
+     "t": 563
+    },
+    {
+     "text": "A curt termini, bitcoin amenaça el suport dels 82.210 $; si el perd, podria caure cap als 78.300 $ i fins a la zona de 75.500-76.000 $ al voltant del 21 de novembre, abans de recuperar-se cap a finals d'any cap als 87.500 $, el preu d'obertura de l'any.",
+     "t": 657
+    },
+    {
+     "text": "El petroli es manté alt (110,51 $) i si supera resistència podria anar cap als 120 $, el que alimentaria la inflació; després de les eleccions de novembre als EUA és molt probable una pujada de tipus de la Reserva Federal si els preus del petroli i la inflació continuen així.",
+     "t": 908
+    }
+   ],
+   "dades": [
+    "Strategy: +1.666 BTC nets al tercer trimestre vs +83.901 al segon",
+    "Bitcoin per sota de 82.210 $, amb suport següent a 78.300 $",
+    "Objectiu de final d'any: uns 87.500 $",
+    "Petroli a 110,51 $, amb resistència a 120 $"
+   ],
+   "conclusio": "El mercat de bitcoin entra en una fase més moderada i menys volàtil que en cicles anteriors; cal esperar correccions a curt termini però amb recuperació cap a final d'any.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "mercats",
+    "anàlisi tècnica",
+    "tipus d'interès",
+    "petroli"
+   ],
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "QT3XmrXPnmY",
+   "titol": "Europa estalla: por qué está fracasando su modelo económico",
+   "data": "2026-10-19T18:45:16+00:00",
+   "canal": "rallo",
+   "durada": 1260,
+   "idioma": "es",
+   "resum": "Les protestes que van començar a França s'estenen per Bèlgica, Itàlia, Portugal i altres països europeus, amb vagues generals convocades al novembre. Rallo defensa que la causa de fons és que el model europeu ha incomplert la seva promesa: ni creix com els EUA ni, per tant, pot redistribuir com prometia, mentre l'Estat social queda cada cop més atrapat pel pes de les pensions.",
+   "punts": [
+    {
+     "text": "Aquest cap de setmana hi ha hagut càrregues policials a Brussel·les i Lieja, barricades a Milà, Torí i Bolonya, i desenes de milers de persones al carrer a Lisboa; al novembre hi ha vagues generals convocades en diversos països, entre ells Espanya.",
+     "t": 0
+    },
+    {
+     "text": "Entre 1995 i 2008 el PIB per capita va créixer gairebé igual a la zona euro (27%) que als EUA (29%), però entre 2008 i 2025 la zona euro només ha crescut un 13% enfront del 26% dels EUA; a aquest ritme, els EUA duplicarien la seva renda en 50 anys i la zona euro en necessitaria un segle.",
+     "t": 127
+    },
+    {
+     "text": "La remuneració mitjana per assalariat a la zona euro (sou més cotitzacions socials) ha crescut només un 4% en termes reals en 10 anys, i des de 2021 el creixement real és del 0%: el treballador mitjà cobra avui, descomptada la inflació, el mateix que fa 4 anys.",
+     "t": 220
+    },
+    {
+     "text": "Els béns que no es poden deixar de comprar són els que més han pujat des de 2021: els aliments un 33%, l'electricitat, el gas i els combustibles de la llar un 63% i el combustible per al cotxe també un 63%.",
+     "t": 344
+    },
+    {
+     "text": "L'habitatge ha pujat un 61% a la zona euro des de 2015, gairebé el doble que els salaris (34%); a Espanya s'ha més que duplicat (107%) i a Portugal s'ha triplicat (211%).",
+     "t": 436
+    },
+    {
+     "text": "La despesa pública de la zona euro és el 49,8% del PIB, però les pensions —gairebé la meitat de totes les prestacions socials— creixen automàticament amb l'envelliment i deixen cada cop menys marge per a la resta, mentre l'endeutament i la pujada de tipus d'interès limiten poder-se endeutar més.",
+     "t": 655
+    },
+    {
+     "text": "A curt termini l'única via per redistribuir més seria retallar les pensions, cosa que cap govern vol tocar; a mitjà i llarg termini, la solució no és redistribuir la pobresa sinó fer créixer l'economia amb estats més petits, tant en pressupost com en regulació.",
+     "t": 1208
+    }
+   ],
+   "dades": [
+    "PIB per capita 2008-2025: +13% zona euro vs +26% EUA",
+    "Remuneració real per assalariat: +4% en 10 anys, 0% des de 2021",
+    "Habitatge a la zona euro: +61% des de 2015 (Espanya +107%, Portugal +211%)",
+    "Despesa pública: 49,8% del PIB de la zona euro"
+   ],
+   "conclusio": "Rallo conclou que el contracte social europeu (créixer molt i redistribuir molt) ha fallat per la banda del creixement, i que per això l'Estat social ja no pot sostenir el nivell de vida; demana menys Estat i més creixement en lloc de més redistribució.",
+   "temes": [
+    "unió europea",
+    "protestes",
+    "inflació",
+    "salaris",
+    "pensions",
+    "política fiscal"
+   ],
+   "lot": "2026-10-20"
+  },
+  {
+   "id": "i9j7Rk-GPQI",
+   "titol": "Todos cuentan los minutos de pantalla de sus hijos, pero el problema está en lo que no se mide",
+   "data": "2026-10-19T18:00:18+00:00",
+   "canal": "vidal",
+   "durada": 1210,
+   "idioma": "es",
+   "resum": "Diversos estudis sobre pantalles i infants arriben a conclusions oposades perquè tots mesuren hores, no què fa el nen amb la pantalla. L'autor repassa un estudi finlandès que troba una relació positiva amb la cognició i altres, a Nova Zelanda, els EUA i Singapur, que troben el contrari, i conclou que la xifra d'hores amaga variables com l'edat, el contingut i si es crea o es consumeix.",
+   "punts": [
+    {
+     "text": "Un estudi finlandès (PANIC, Universitat de Jyväskylä) va seguir 260 adolescents durant 8 anys: més temps de pantalla acumulat des de la infància es va associar amb millor processament cognitiu i temps de reacció més ràpids als 16 anys.",
+     "t": 129
+    },
+    {
+     "text": "El sensor corporal que mesurava moviment i temps assegut no va trobar cap relació amb la cognició; només els qüestionaris sobre quin tipus d'activitat feien els adolescents sí.",
+     "t": 222
+    },
+    {
+     "text": "A Nova Zelanda (Growing Up in New Zealand, 6.281 nens) els que més pantalla havien vist entre els 2 i els 4,5 anys tenien pitjor vocabulari, escriptura i càlcul als 4 i als 8 anys.",
+     "t": 343
+    },
+    {
+     "text": "A l'estudi ABCD dels EUA (7.043 adolescents) menys temps de pantalla passiva es va associar amb millora de les puntuacions cognitives en 2 anys.",
+     "t": 405
+    },
+    {
+     "text": "A Singapur (502 nens seguits des del primer any) més pantalla a l'any i als 6 anys es va associar amb pitjor memòria de treball als 10 anys i mig.",
+     "t": 435
+    },
+    {
+     "text": "A França, la cohort ELFE havia relacionat la pantalla entre els 2 i els 3,5 anys amb pitjor capacitat de dibuix, però l'associació va desaparèixer en controlar el nivell socioeconòmic de les famílies.",
+     "t": 527
+    },
+    {
+     "text": "En lloc de comptar minuts, l'autor proposa fer-se quatre preguntes: quina edat té el nen, què desplaça aquella hora (son, joc, conversa), si crea o consumeix, i si està sol o acompanyat.",
+     "t": 1113
+    }
+   ],
+   "dades": [
+    "260 adolescents finlandesos (124 noies, 136 nois) amb una mitjana de 16 anys",
+    "6.281 nens al Growing Up in New Zealand",
+    "7.043 adolescents a l'estudi ABCD dels EUA",
+    "502 nens al seguiment de Singapur des del primer any"
+   ],
+   "conclusio": "No hi ha una resposta única sobre si les pantalles fan bé o mal: el que importa no és quantes hores sinó què fa el nen amb la pantalla, a quina edat, i si li lleva son, joc o conversa amb adults.",
+   "temes": [
+    "pantalles",
+    "infància",
+    "cognició",
+    "estudis científics",
+    "criança",
+    "educació digital"
+   ],
+   "lot": "2026-10-20"
+  },
+  {
    "id": "LjDtOUfesLU",
    "titol": "Bitcoin. Salva el cierre semanal en las últimas horas del Domingo. Las bolsas rebotan fuerte.",
    "data": "2026-10-19T06:23:05+00:00",
@@ -5061,9 +5222,18 @@
     "Espanya i pensions: Pablo Gil compara la situació francesa amb l'espanyola (deute públic, patrimoni net negatiu de la Seguretat Social, previsions de l'AIReF) i conclou que Espanya encara no és França, però que sense millorar la productivitat podria acostar-s'hi.",
     "Mercats: Bitcoin al día destaca que Bitcoin va salvar in extremis el suport del tancament setmanal gràcies a un rebot de les borses, però que les altcoins no es creuen el moviment i la correcció no es dona per acabada."
    ]
+  },
+  "2026-10-20": {
+   "titular": "Rallo lliga les protestes que s'estenen per Europa amb l'estancament econòmic, mentre Marc Vidal qüestiona com mesurem l'efecte de les pantalles en els nens i Bitcoin al día preveu un mercat cripto més moderat i menys volàtil.",
+   "punts": [
+    "Protestes a Europa: Rallo relaciona les mobilitzacions de França, Bèlgica, Itàlia i Portugal amb el fet que la zona euro creix molt menys que els EUA des de 2008 i que el salari real porta estancat des de 2021, mentre l'habitatge i els béns bàsics s'han encarit molt més.",
+    "Pantalles i infants: Marc Vidal mostra que els estudis sobre pantalles i cognició es contradiuen entre països perquè tots compten hores i no el que fa realment el nen amb la pantalla.",
+    "Inflació i tipus d'interès: tant Rallo (a Europa, per l'endeutament i el BCE) com Bitcoin al día (als EUA, pel preu del petroli i la Fed) assenyalen que la pressió inflacionista limita el marge dels bancs centrals per abaixar tipus.",
+    "Mercat de bitcoin: el canal Bitcoin al día preveu una fase més moderada i menys volàtil que en cicles anteriors, amb un possible suport clau als 82.210 $ i una recuperació cap als 87.500 $ a final d'any."
+   ]
   }
  },
- "actualitzat": "2026-10-19T10:48:18.316Z",
+ "actualitzat": "2026-10-20T10:48:19.039Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
