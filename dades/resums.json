@@ -1,6 +1,175 @@
 {
  "videos": [
   {
+   "id": "wm-xXn0sBz8",
+   "titol": "Bitcoin. JP Morgan le da como el activo con más potencial para la siguiente década.",
+   "data": "2026-10-21T08:29:37+00:00",
+   "canal": "btcdia",
+   "durada": 1221,
+   "idioma": "es",
+   "resum": "L'analista de Bitcoin al día comenta un informe de JP Morgan que situa Bitcoin com l'actiu amb millor rendiment previst per a la pròxima dècada i repassa l'estat del mercat: els resultats empresarials (impulsats per la IA) sostenen els índexs amb cautela abans de les eleccions dels EUA, mentre Bitcoin i les altcoins es mantenen en una zona de suport clau.",
+   "punts": [
+    {
+     "text": "Els resultats empresarials, com els de SpaceX (un 66% millor del que s'esperava, gràcies als ingressos d'IA), sostenen els índexs, però l'IA no reduirà costos eternament i l'autor espera una correcció després de les eleccions dels EUA.",
+     "t": 35
+    },
+    {
+     "text": "JP Morgan preveu que Bitcoin serà l'actiu amb millor rendiment de la pròxima dècada en el seu escenari base, per davant dels immobles, la borsa, els bons, l'or i l'efectiu.",
+     "t": 126
+    },
+    {
+     "text": "Rendiment anualitzat a 10 anys segons JP Morgan: Bitcoin 10%, fons immobiliaris 8,2%, borsa dels EUA 7,5%, bons dels EUA 5,6%, or 5,5% i efectiu 3,2%.",
+     "t": 188
+    },
+    {
+     "text": "JP Morgan dona tres escenaris per a Bitcoin (base +10%, baixista -11,2%, alcista +16,6% anualitzat) però el manté fora de les seves carteres per la volatilitat i el classifica com una inversió especulativa, útil només com a cobertura davant la flexibilització monetària.",
+     "t": 248
+    },
+    {
+     "text": "Amb l'escenari base, Bitcoin passaria dels 83.000$ actuals a 215.281$ el 2036; amb l'escenari optimista, a 385.535$, un escenari que l'autor considera més realista que el que JP Morgan anomena «base».",
+     "t": 436
+    },
+    {
+     "text": "Bitcoin tanca per sobre dels 82.210$ i es manté en una zona còmoda entre 82.210$ i 85.000$, a prop d'una línia de tendència que el posaria en problemes si l'S&P 500 entra en correcció.",
+     "t": 720
+    },
+    {
+     "text": "Les altcoins (Ethereum, Solana, XRP, Cardano) reboten lleugerament seguint Bitcoin, però amb nivells de suport fràgils que trencarien si Bitcoin torna a perdre els 82.210$.",
+     "t": 1184
+    }
+   ],
+   "dades": [
+    "Rendiment anualitzat previst a 10 anys (JP Morgan, escenari base): Bitcoin 10%, immobles 8,2%, borsa EUA 7,5%, bons EUA 5,6%, or 5,5%, efectiu 3,2%",
+    "Escenaris JP Morgan per a Bitcoin: baixista -11,2%, alcista +16,6% anualitzat",
+    "Preu de Bitcoin: 83.000$ actuals; projecció a 2036 de 215.281$ (base) o 385.535$ (optimista)",
+    "Suport clau de Bitcoin: 82.210$"
+   ],
+   "conclusio": "L'autor creu que JP Morgan infravalora la futura impressió de diners dels bancs centrals i que l'escenari «optimista» del 16,6% és en realitat més realista com a base, apuntant a uns 170.000$ en 4 anys; a curt termini, Bitcoin i les altcoins seguiran lligats als moviments de l'S&P 500, amb els 82.210$ com a suport clau a vigilar.",
+   "temes": [
+    "bitcoin",
+    "jp morgan",
+    "mercats",
+    "altcoins",
+    "anàlisi tècnica",
+    "macroeconomia"
+   ],
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "y5uaJtjax10",
+   "titol": "Europa, ¿al límite? | Entrevista en Neura",
+   "data": "2026-10-20T17:00:39+00:00",
+   "canal": "rallo",
+   "durada": 1162,
+   "idioma": "es",
+   "resum": "Juan Ramón Rallo analitza en una entrevista argentina les protestes a Europa, l'estancament econòmic del continent, la crisi de l'habitatge a Espanya i les polítiques migratòries massives. Defensa que el malestar social és comprensible però que l'esquerra l'instrumentalitza amb polítiques que agreugen els problemes de fons.",
+   "punts": [
+    {
+     "text": "França: els aldarulls reflecteixen la frustració d'una economia estancada des de fa 10-15 anys, amb inflació i estats hipertrofiats que ja no poden seguir endeutant-se.",
+     "t": 31
+    },
+    {
+     "text": "L'estancament europeu és conseqüència de la hiperregulació impulsada pels estats i la Comissió Europea; França té un gasto públic del 57% del PIB i segueix pujant.",
+     "t": 185
+    },
+    {
+     "text": "El descontentament és compartit a tot el continent per la inflació (en part importada per dèficits dels EUA, la guerra d'Ucraïna i la pèrdua d'energia russa barata) i la desindustrialització davant la Xina, i l'esquerra l'instrumentalitza localment sense que hi hagi un pla coordinat.",
+     "t": 339
+    },
+    {
+     "text": "Habitatge a Espanya: en 5 anys s'han format 1,3 milions de noves llars però només s'han construït 500.000 habitatges (només 15.000 de públics), un dèficit que no para de créixer i que es concentra a les grans ciutats.",
+     "t": 583
+    },
+    {
+     "text": "Els fons voltor tenen només el 8% del parc de lloguer i aquest percentatge no ha pujat: no es poden responsabilitzar de la pujada de preus; el que sí encareix el lloguer és la llei d'habitatge del 2023, que redueix la seguretat jurídica dels arrendadors.",
+     "t": 735
+    },
+    {
+     "text": "La immigració massiva agreuja el problema si l'estat no permet construir més habitatge: el govern preveu l'entrada de més de 10 milions de persones per sostenir les pensions.",
+     "t": 891
+    },
+    {
+     "text": "El valor present de molts immigrants és negatiu un cop es resten les pensions i la sanitat que consumiran, de manera que a llarg termini agreuja el desequilibri de les finances públiques en lloc d'alleugerir-lo.",
+     "t": 1015
+    }
+   ],
+   "dades": [
+    "Gasto públic a França: 57% del PIB",
+    "Espanya: +1,3 milions de llars noves en 5 anys enfront de només 500.000 habitatges nous (15.000 públics)",
+    "Fons i societats empresarials: 8% del parc de lloguer a Espanya (percentatge estable)",
+    "Previsió del govern espanyol: més de 10 milions de persones immigrades en els pròxims anys per sostenir les pensions"
+   ],
+   "conclusio": "Rallo conclou que el malestar social a Europa és comprensible però que les polítiques d'esquerres (més gasto, lleis d'habitatge intervencionistes, immigració massiva sense habitatge ni serveis) agreugen els problemes estructurals en lloc de resoldre'ls.",
+   "temes": [
+    "unió europea",
+    "espanya",
+    "habitatge",
+    "immigració",
+    "inflació",
+    "estancament econòmic"
+   ],
+   "lot": "2026-10-21"
+  },
+  {
+   "id": "ndzc08EMzRs",
+   "titol": "El dinero está dejando de pasar por Europa: la última vez que ocurrió acabó con los más ricos",
+   "data": "2026-10-20T17:00:24+00:00",
+   "canal": "vidal",
+   "durada": 1127,
+   "idioma": "es",
+   "resum": "Marc Vidal explica com la Lliga Hanseàtica, un club de ciutats mercaders sense rei ni exèrcit, va dominar el comerç del nord d'Europa durant segles i es va apagar lentament quan el comerç va canviar de ruta i ningú tenia poder per reaccionar. Traça el paral·lelisme amb la Unió Europea actual: un bloc ric i sense estructura de decisió ràpida que va perdent pes mundial mentre defensa privilegis en lloc d'adaptar-se.",
+   "punts": [
+    {
+     "text": "Hansa: aliança de ciutats mercaders alemanyes sense rei, sense exèrcit permanent i sense tresor comú que va arribar a dominar el comerç del Bàltic i del Mar del Nord.",
+     "t": 273
+    },
+    {
+     "text": "Stralsund (1370): la Hansa va derrotar militarment Dinamarca i va imposar llibertat de comerç al Bàltic, el moment àlgid del seu poder.",
+     "t": 398
+    },
+    {
+     "text": "El seu disseny sense govern central era barat i flexible en temps bons, però sense capacitat de decidir quan el món canviava de rumb.",
+     "t": 429
+    },
+    {
+     "text": "Caiguda: els holandesos es van quedar amb el comerç bàltic baixant preus i obrint-se a l'Atlàntic, cosa que la Hansa mai va voler fer.",
+     "t": 552
+    },
+    {
+     "text": "«Portazos»: Rússia va tancar la seu de Novgorod el 1494 i Anglaterra va expulsar els mercaders de Londres el 1598; a l'última dieta hanseàtica (1669) només hi van anar 9 ciutats.",
+     "t": 673
+    },
+    {
+     "text": "Paral·lelisme amb la UE: el seu pes al PIB mundial ha caigut del 27,7% (1980) al 14% (2024), i Draghi alerta que la bretxa de PIB amb els EUA és del 30%.",
+     "t": 733
+    },
+    {
+     "text": "La unanimitat bloqueja la UE en fiscalitat i política exterior; el 2018 vuit països del nord es van autobatejar com la «nova Lliga Hanseàtica» per frenar transferències fiscals.",
+     "t": 887
+    },
+    {
+     "text": "Conclusió: la Hansa no la va tombar un exèrcit sinó la comoditat de dirigents que van confondre privilegi amb poder; Vidal diu que Europa fa el mateix i que el cost el pagaran els ciutadans.",
+     "t": 1041
+    }
+   ],
+   "dades": [
+    "PIB de la UE: 27,7% del mundial el 1980 → 14% el 2024, previst 13,4% el 2029 (FMI)",
+    "Bretxa de PIB amb els EUA: del 15% (2002) al 30% (2023), segons Draghi",
+    "Tonelatge pel Canal de Suez un 57-64% per sota del nivell de 2023 durant el 2025 (Bimco)",
+    "Última dieta hanseàtica (1669): només 9 ciutats hi van assistir"
+   ],
+   "conclusio": "Vidal conclou que la UE repeteix l'error de la Hansa: un club sense capacitat de decisió ràpida (unanimitat, vets nacionals) que prefereix defensar privilegis i publicar plans abans que adaptar-se al món que canvia, i que el cost el pagaran els ciutadans en salaris, indústria i talent jove que marxa.",
+   "temes": [
+    "unió europea",
+    "hansa",
+    "productivitat",
+    "draghi",
+    "geopolítica",
+    "comerç"
+   ],
+   "lot": "2026-10-21"
+  },
+  {
    "id": "ty-AMFgPAic",
    "titol": "Bitcoin. La volatilidad disminuye y las entradas de dinero futuras serán más moderadas.",
    "data": "2026-10-20T08:42:57+00:00",
@@ -5231,9 +5400,19 @@
     "Inflació i tipus d'interès: tant Rallo (a Europa, per l'endeutament i el BCE) com Bitcoin al día (als EUA, pel preu del petroli i la Fed) assenyalen que la pressió inflacionista limita el marge dels bancs centrals per abaixar tipus.",
     "Mercat de bitcoin: el canal Bitcoin al día preveu una fase més moderada i menys volàtil que en cicles anteriors, amb un possible suport clau als 82.210 $ i una recuperació cap als 87.500 $ a final d'any."
    ]
+  },
+  "2026-10-21": {
+   "titular": "Marc Vidal i Juan Ramón Rallo coincideixen en el declivi estructural d'Europa, mentre JP Morgan dona Bitcoin com el millor actiu de la dècada.",
+   "punts": [
+    "Europa en declivi: Marc Vidal compara la Unió Europea amb la Lliga Hanseàtica, un club sense capacitat de decisió ràpida que es va enfonsar per no adaptar-se; el pes de la UE al PIB mundial ha caigut del 27,7% (1980) al 14% (2024).",
+    "Estancament i hiperregulació: Rallo atribueix l'estancament europeu i el malestar social (protestes a França) a estats hipertrofiats i hiperregulació, amb un gasto públic francès del 57% del PIB; tots dos coincideixen que Europa prefereix defensar privilegis en lloc d'adaptar-se.",
+    "Habitatge a Espanya: Rallo denuncia un dèficit de 800.000 habitatges en 5 anys i culpa la llei d'habitatge del 2023, no els fons voltor, de l'empitjorament del lloguer.",
+    "Immigració i pensions: segons Rallo, el valor present de molts immigrants és negatiu per a les finances públiques si l'estat no amplia habitatge i serveis en paral·lel.",
+    "Bitcoin: JP Morgan el situa com l'actiu amb millor rendiment previst de la dècada (10% anual en l'escenari base), per davant de l'or, els bons i la borsa, encara que el manté fora de les seves carteres per volatilitat."
+   ]
   }
  },
- "actualitzat": "2026-10-20T10:48:19.039Z",
+ "actualitzat": "2026-10-21T10:48:03.913Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
