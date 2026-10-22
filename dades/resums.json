@@ -1,6 +1,116 @@
 {
  "videos": [
   {
+   "id": "SU6iJAIsJFQ",
+   "titol": "Desplome del mercado que está en situación crítica. Bitcoin no se salva, sigue a la bolsa.",
+   "data": "2026-10-22T08:52:17+00:00",
+   "canal": "btcdia",
+   "durada": 871,
+   "idioma": "es",
+   "resum": "El mercat cau amb força (SP500, DAX, Bitcoin) enmig de pors d'una bombolla d'intel·ligència artificial, un petroli a l'alça i el risc de pujades de tipus després de les eleccions dels EUA. L'autor avisa que Bitcoin, a diferència de correccions anteriors, no s'escaparà aquesta vegada de la caiguda de les borses.",
+   "punts": [
+    {
+     "text": "Caiguda generalitzada: Bitcoin baixa un 2,38%, el DAX un 0,7% i els futurs de l'SP500 un 1,01%, després de fortes pèrdues a Àsia (sobretot Corea).",
+     "t": 6
+    },
+    {
+     "text": "El petroli supera els 112 dòlars per atacs a Aràbia Saudita i tensió a l'estret d'Ormuz, cosa que pressiona la inflació i apropa una pujada de tipus de la Reserva Federal un cop passin les eleccions dels EUA.",
+     "t": 73
+    },
+    {
+     "text": "L'SP500 es recolza en una línia de tendència clau; si la trenca, la correcció podria portar-lo fins a la zona de 7.330, segons l'autor.",
+     "t": 169
+    },
+    {
+     "text": "Bitcoin segueix les borses però mostra més resistència que a l'inici del COVID, quan va aguantar diversos dies abans de desplomar-se un 50% en una sola sessió; adverteix que no se sap si aquesta vegada aguantarà igual.",
+     "t": 253
+    },
+    {
+     "text": "Nivells clau de Bitcoin: suport a 81.400, línia de tendència a 80.800 (si es perd, caiguda ràpida cap a 78.100) i, en setmanal, risc de trencar 82.210 cap a 76.900.",
+     "t": 490
+    },
+    {
+     "text": "Altcoins mixtes: BNB i Ethereum aguanten millor, Tron puja a contracorrent un 2,54%, mentre Cardano i Solana segueixen febles.",
+     "t": 562
+    },
+    {
+     "text": "L'autor compara l'actual especulació amb la intel·ligència artificial amb la bombolla punt.com i conclou que, a diferència d'altres cicles, Bitcoin no se salvarà d'aquesta correcció de les borses.",
+     "t": 766
+    }
+   ],
+   "dades": [
+    "Bitcoin: -2,38%",
+    "Petroli: 112 $/barril",
+    "SP500 futurs: -1,01%",
+    "Suport clau Bitcoin: 80.800"
+   ],
+   "conclusio": "El mercat entra en una fase de correcció generalitzada que, a diferència de cicles anteriors, també arrossegarà Bitcoin, segons l'autor.",
+   "temes": [
+    "bitcoin",
+    "mercats",
+    "borsa",
+    "petroli",
+    "tipus d'interès",
+    "intel·ligència artificial"
+   ],
+   "lot": "2026-10-22"
+  },
+  {
+   "id": "nww5-Hw0Wv0",
+   "titol": "Francia, al límite: los disturbios la llevan a su peor momento",
+   "data": "2026-10-21T19:03:37+00:00",
+   "canal": "rallo",
+   "durada": 1170,
+   "idioma": "es",
+   "resum": "Rallo explica com les revoltes a França s'estan sumant a un deteriorament fiscal ja greu: el tipus d'interès del deute a 10 anys ha arribat al 5%, el nivell més alt en 25 anys, i la prima de risc amb Alemanya s'ha triplicat en un any.",
+   "punts": [
+    {
+     "text": "El tipus d'interès del deute francès a 10 anys ha passat del 3,2% al 5% en vuit mesos, el pitjor trimestre des de 1987; la prima de risc amb Alemanya supera els 150 punts bàsics, el triple que fa un any.",
+     "t": 0
+    },
+    {
+     "text": "Quatre causes prèvies a les revoltes: molt deute (120% del PIB), dèficit superior al 5% del PIB, tipus d'interès globals a l'alça i immobilisme polític per reformar-ho.",
+     "t": 180
+    },
+    {
+     "text": "Les revoltes hi afegeixen un cinquè factor pel seu impacte en la recaptació: Carrefour ja ha avisat de menys vendes i toc de queda, i analistes de Jefferies preveuen una caiguda del 5% de les vendes al quart trimestre (fins a 200 milions d'euros de cost).",
+     "t": 345
+    },
+    {
+     "text": "El bloqueig polític s'agreuja: el pressupost de 2027 del govern Lecornu (ajust de 54.000 milions) ja estava encallat a l'Assemblea abans de les revoltes, i els estudiants reclamen 10.000 milions més per a educació en comptes de retallades.",
+     "t": 465
+    },
+    {
+     "text": "La factura d'interessos de l'Estat francès passarà de 66.600 milions (2025) a prop de 91.000 milions el 2027, calculats amb un tipus del 4,3%; amb el 5% actual, podria superar els 100.000 milions a finals de dècada.",
+     "t": 741
+    },
+    {
+     "text": "Per estabilitzar el deute sobre el PIB amb un cost del 5% caldria un superàvit del 2,5% del PIB, quan avui hi ha un dèficit primari del 2,1%: un ajust equivalent al que va fer Milei a l'Argentina, impensable per a Macron a sis mesos de les presidencials.",
+     "t": 893
+    },
+    {
+     "text": "Rallo conclou que la sortida més probable no és la reforma fiscal francesa, sinó que el BCE acabi intervenint comprant deute francès perquè els tipus no es disparin més.",
+     "t": 1138
+    }
+   ],
+   "dades": [
+    "Deute a 10 anys: del 3,2% al 5%",
+    "Prima de risc amb Alemanya: +150 punts bàsics",
+    "Deute públic: 120% del PIB",
+    "Interessos previstos 2027: 91.000 milions €"
+   ],
+   "conclusio": "França s'acosta a una espiral de tipus d'interès i dèficit creixents que només sembla evitable amb una intervenció del BCE, ja que un ajust fiscal real és políticament inviable amb el país mobilitzat i eleccions properes.",
+   "temes": [
+    "frança",
+    "deute públic",
+    "tipus d'interès",
+    "dèficit fiscal",
+    "bce",
+    "disturbis"
+   ],
+   "lot": "2026-10-22"
+  },
+  {
    "id": "wm-xXn0sBz8",
    "titol": "Bitcoin. JP Morgan le da como el activo con más potencial para la siguiente década.",
    "data": "2026-10-21T08:29:37+00:00",
@@ -5410,9 +5520,17 @@
     "Immigració i pensions: segons Rallo, el valor present de molts immigrants és negatiu per a les finances públiques si l'estat no amplia habitatge i serveis en paral·lel.",
     "Bitcoin: JP Morgan el situa com l'actiu amb millor rendiment previst de la dècada (10% anual en l'escenari base), per davant de l'or, els bons i la borsa, encara que el manté fora de les seves carteres per volatilitat."
    ]
+  },
+  "2026-10-22": {
+   "titular": "El deute francès es dispara al 5% mentre els mercats globals, Bitcoin inclòs, entren en una correcció que amenaça de generalitzar-se.",
+   "punts": [
+    "Deute francès.: Rallo alerta que el tipus a 10 anys ha pujat al 5% (màxim en 25 anys) per l'efecte combinat d'un deute elevat, dèficit alt, tipus globals a l'alça i, ara, les revoltes socials, que ja afecten la recaptació (Carrefour) i bloquegen l'ajust pressupostari.",
+    "Mercats i Bitcoin.: Bitcoin al día descriu una caiguda generalitzada (Bitcoin, SP500, DAX) per pors d'una bombolla d'IA i un petroli a l'alça, i avisa que, a diferència de cicles anteriors, Bitcoin no s'escaparà aquesta vegada de la correcció borsària.",
+    "Fons comú.: els dos canals apunten en la mateixa direcció: tipus d'interès a l'alça arreu del món (per deute públic rècord i la inversió en IA) com a rerefons que fragilitza tant el deute sobirà com els mercats de risc."
+   ]
   }
  },
- "actualitzat": "2026-10-21T10:48:03.913Z",
+ "actualitzat": "2026-10-22T10:45:50.704Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
