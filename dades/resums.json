@@ -1,6 +1,229 @@
 {
  "videos": [
   {
+   "id": "8iIk8W6Bmq0",
+   "titol": "Bitcoin. Aguanta por encima de la linea de tendencia, pero todo apunta a corrección.",
+   "data": "2026-10-23T06:35:08+00:00",
+   "canal": "btcdia",
+   "durada": 580,
+   "idioma": "es",
+   "resum": "Bitcoin es manté per sobre d'una línia de tendència clau tot i l'ensurt dels mercats d'ahir, però el risc de correcció segueix alt mentre el mercat espera les eleccions dels EUA i vigila una possible bombolla de la IA a borsa.",
+   "punts": [
+    {
+     "text": "Bitcoin Core canvia la seva política de seguretat perquè la IA facilita trobar vulnerabilitats en el programari, una amenaça nova a sumar a la dels ordinadors quàntics.",
+     "t": 37
+    },
+    {
+     "text": "Els mercats van tenir un dia molt negatiu ahir malgrat resultats empresarials positius; l'S&P 500 segueix per sota de la línia de tendència i el petroli a 114 amenaça amb IPC alt i més pujades de tipus.",
+     "t": 131
+    },
+    {
+     "text": "Preocupa una possible bombolla a la IA als mercats: si esclata, podria arrossegar tots els actius, Bitcoin inclòs.",
+     "t": 162
+    },
+    {
+     "text": "Bitcoin es comporta millor que l'S&P 500, rebotant un 0,65% i aguantant el suport setmanal dels 82.210, però perdre els mínims d'ahir (81.200) obriria una caiguda cap als 78.250.",
+     "t": 192
+    },
+    {
+     "text": "Entre les altcoins, els tokens d'exchanges (BGB, BNB) són els que millor es comporten; Ethereum i Solana van pitjor i Solana perilla el suport dels 0,00168 (en BTC).",
+     "t": 317
+    },
+    {
+     "text": "L'autor espera que les correccions importants arribin després de les eleccions dels EUA, amb una bona oportunitat d'entrada que situa al voltant del 21 de novembre.",
+     "t": 471
+    }
+   ],
+   "dades": [
+    "Bitcoin a 81.839 $",
+    "Suport setmanal: 82.210",
+    "Suport diari en risc: 81.200 → objectiu 78.250",
+    "Petroli a 114"
+   ],
+   "conclusio": "Cal vigilar si Bitcoin trenca la línia de tendència i segueix comportant-se millor que la borsa; si ho fa, el rebot posterior serà més prometedor.",
+   "temes": [
+    "bitcoin",
+    "mercats",
+    "correcció",
+    "ia",
+    "eleccions eua",
+    "altcoins"
+   ],
+   "lot": "2026-10-23"
+  },
+  {
+   "id": "U2oCO8fgF8s",
+   "titol": "La tormenta perfecta: cómo podrían PP y Vox perder las elecciones",
+   "data": "2026-10-22T19:00:28+00:00",
+   "canal": "rallo",
+   "durada": 1334,
+   "idioma": "es",
+   "resum": "Juan Ramón Rallo analitza com els pactes de coalició que es tanquen el 26 d'octubre i la llei de nets poden moure escons a les generals del 29 de novembre sense canviar un sol vot. Amb simulacions a partir de les eleccions de 2023 i les enquestes actuals, mostra que la dreta parteix amb avantatge clar, però dibuixa un escenari extrem de «tempesta perfecta» on l'esquerra encara podria tornar a governar.",
+   "punts": [
+    {
+     "text": "El 26 d'octubre es tanca el termini per presentar candidatures: l'esquerra ja va junta al Senat (Senat de Progrés, PSOE i Front Ampli en 47 circumscripcions) i es negocia que el Front Ampli es retiri de províncies petites a canvi d'entrar a les llistes del PSOE.",
+     "t": 62
+    },
+    {
+     "text": "A la dreta es negocia que Vox no es presenti al Senat a canvi que el PP demani el vot a Vox; Abascal ja va oferir un enteniment el 19 d'octubre perquè l'esquerra no es quedi amb el Senat.",
+     "t": 186
+    },
+    {
+     "text": "Amb els vots de 2023, la simple separació de Sumar i Podem (que ara van per separat) hauria donat a PP, Vox i UPN la majoria absoluta (176 diputats), encara que cap vot de l'extrema esquerra passi a la dreta.",
+     "t": 487
+    },
+    {
+     "text": "Amb les enquestes actuals, PP+Vox+UPN sumarien uns 205 diputats (188 amb dades brutes del CIS), molt per sobre de la majoria absoluta; la retirada del Front Ampli de províncies petites només pujaria el bloc d'investidura de 140 a 144 diputats.",
+     "t": 876
+    },
+    {
+     "text": "Al Senat, si PP i Vox concorren junts la majoria absoluta de la dreta queda garantida i arribarien als 3/5 de la cambra (160 senadors) en el 95% dels escenaris amb les enquestes; si van per separat, la dreta gairebé no pot arribar als 3/5.",
+     "t": 1005
+    },
+    {
+     "text": "La llei de nets podria afegir vots des de l'exterior: 14.000 vots repartits estratègicament farien perdre 4-5 diputats a la dreta i 37.000 vots entre 7-8, baixant la probabilitat de majoria absoluta del 92% al 68% amb dades del CIS.",
+     "t": 1178
+    },
+    {
+     "text": "L'escenari de «tempesta perfecta» (dades brutes del CIS, unió de l'esquerra al Congrés i 37.000 vots extra del cens exterior) deixaria PP+Vox+UPN en uns 175 diputats i la probabilitat de govern de dreta cauria al 47%, amb Junts tornant a ser decisiu.",
+     "t": 1238
+    }
+   ],
+   "dades": [
+    "Majoria absoluta: 176 diputats",
+    "Enquestes: PP+Vox+UPN ~205 diputats",
+    "CIS brut: PP+Vox+UPN ~188 diputats",
+    "Escenari extrem: PP+Vox+UPN baixarien a ~175 diputats (47% de probabilitat de govern de dreta)"
+   ],
+   "conclusio": "La dreta parteix clarament avantatjada segons enquestes i CIS, però un escenari extrem combinant unió de l'esquerra, dades del CIS i vot exterior via llei de nets podria tornar a fer decisiu Junts i obrir la porta a un altre govern d'esquerres.",
+   "temes": [
+    "eleccions generals",
+    "pp",
+    "vox",
+    "psoe",
+    "llei de nets",
+    "senat",
+    "congrés"
+   ],
+   "lot": "2026-10-23"
+  },
+  {
+   "id": "OWDo9B_YzuM",
+   "titol": "Anatomía del caos: algo está pasando en las calles de España y lo que viene es más control",
+   "data": "2026-10-22T18:00:10+00:00",
+   "canal": "vidal",
+   "durada": 2276,
+   "idioma": "es",
+   "resum": "Marc Vidal analitza els aldarulls d'A Coruña i Avilés durant la gira d'Abascal i defensa que són un assaig de com respondrà el carrer al gir cap a la dreta i als retalls que venen. Explica la tàctica del «black bloc» i avisa que el caos d'avui s'utilitzarà per justificar més control i censura demà.",
+   "punts": [
+    {
+     "text": "A A Coruña hi va haver dues concentracions seguides a la plaça de María Pita contra l'acte d'Abascal: cadires i pedres volant, una periodista ferida a la cama i càrregues policials fins a les 3 de la tarda; sindicats policials i la CIG van demanar tots dos la dimissió del delegat del govern, per motius contraris.",
+     "t": 60
+    },
+    {
+     "text": "A la nit hi va haver una segona ronda de protestes a A Coruña, aquesta vegada contra l'actuació policial del matí, amb petardos, gas lacrimogen i contenidors cremats; l'autor diu que aquesta segona ronda el preocupa més perquè el perfil de qui hi acudeix canvia de nit.",
+     "t": 420
+    },
+    {
+     "text": "A Avilés la policia va separar amb un cordó les dues concentracions i no hi ha confirmació oficial de càrregues ni detinguts, a diferència d'A Coruña.",
+     "t": 605
+    },
+    {
+     "text": "Explica la tàctica del «black bloc»: no és una organització sinó un mètode (vestir-se de negre, infiltrar-se en manifestacions pacífiques, provocar càrregues policials indiscriminades) nascut a Alemanya als 80 i vist a Seattle 1999, Gènova 2001 i ara a Limoges, Roma i Torí.",
+     "t": 1140
+    },
+    {
+     "text": "Segons el llindar de Granovetter, un petit nucli decidit pot arrossegar a la violència a gent moderada quan la policia carrega contra tothom per igual; Europol xifra en uns 5.000 el nucli dur d'ultraesquerra a França i detecta fronteres ideològiques cada vegada més difuses.",
+     "t": 2075
+    },
+    {
+     "text": "A tots dos costats (Vox i part de l'esquerra) els convé que el carrer estigui calent abans de les eleccions del 29 de novembre: a Abascal li confirma el seu relat de víctima i a part de l'esquerra li permet mobilitzar un electorat desmobilitzat sense parlar de la gestió del govern.",
+     "t": 1556
+    },
+    {
+     "text": "L'autor posa El Salvador com a exemple del preu de l'«ordre»: la taxa d'homicidis va baixar de 103 a 1,3 per cada 100.000 habitants des de 2015, però amb règim d'excepció des de 2022, més de 92.000 detinguts i almenys 554 morts a les presons segons una ONG.",
+     "t": 1982
+    },
+    {
+     "text": "Avisa que després del caos sol venir més control: a França, Bardella vol ficar el black bloc i l'Antifa a la llista europea d'organitzacions terroristes, i preveu lleis d'ordre públic i restriccions de xarxes que acabaran aplicant-se a qualsevol que protesti.",
+     "t": 2072
+    }
+   ],
+   "dades": [
+    "4.000-5.000 persones a María Pita (A Coruña)",
+    "Homicidis a El Salvador: de 103 a 1,3 per 100.000 hab.",
+    "+92.000 detinguts a El Salvador per règim d'excepció",
+    "Nucli dur ultraesquerra a França: ~5.000 persones (Europol)"
+   ],
+   "conclusio": "Cal vigilar si es repeteix el patró als propers actes d'Abascal, la vaga general del 11 de novembre, les convocatòries no comunicades i si el debat polític passa de l'habitatge a l'ordre públic: per a l'autor, qui ha de pagar els excessos és la llibertat de protesta de tots.",
+   "temes": [
+    "espanya",
+    "vox",
+    "protestes",
+    "black bloc",
+    "ordre públic",
+    "habitatge",
+    "eleccions"
+   ],
+   "lot": "2026-10-23"
+  },
+  {
+   "id": "YiTb7V4yQ1w",
+   "titol": "La IA acaba de cambiar las reglas del juego: ¿está nuestro dinero en peligro?",
+   "data": "2026-10-22T16:00:11+00:00",
+   "canal": "pablogil",
+   "durada": 1735,
+   "idioma": "es",
+   "resum": "Pablo Gil alerta que la IA està canviant l'economia del cibercrim: redueix dràsticament el cost i la barrera tècnica dels atacs informàtics alhora que accelera la detecció de vulnerabilitats. Avisa que un incident greu de ciberseguretat podria ser el detonant que obligui a frenar el desenvolupament de la IA i fer caure les valoracions borsàtils de les grans tecnològiques.",
+   "punts": [
+    {
+     "text": "El 21 d'octubre es van descobrir fallades greus de més de 10 anys a PHP, el llenguatge que fa funcionar al voltant del 70% de les pàgines web del món (WordPress, Wikipedia); permetien controlar un servidor sense contrasenya. La NSA va emetre un avís i Alemanya, França, Bèlgica i Països Baixos van desconnectar temporalment serveis oficials.",
+     "t": 185
+    },
+    {
+     "text": "Les fallades de PHP es van descobrir amb models d'IA de Google i OpenAI: una sola persona va fer en una setmana el que abans requeria mesos d'un equip d'especialistes.",
+     "t": 308
+    },
+    {
+     "text": "El 17 d'octubre es va descobrir que vuit certificats digitals d'Emudra (empresa índia de certificació) es van generar amb claus tan febles que només tenien 256 combinacions possibles, el que podria permetre falsificar certificats de pàgines com la d'un banc; les accions d'Emudra van caure un 20% en una sessió.",
+     "t": 495
+    },
+    {
+     "text": "A finals de setembre, un atacant va usar agents d'IA per comprometre un centenar d'empreses (entre elles John Deere) per només 5.000 $ en total, uns 50 $ per empresa, mostrant com la IA abarateix dràsticament els atacs.",
+     "t": 675
+    },
+    {
+     "text": "També hi ha hagut atacs amb IA contra entitats financeres de Corea del Sud que van afectar dades d'unes 68.000 persones, i un atac automatitzat de 48 hores contra una plataforma de programació.",
+     "t": 766
+    },
+    {
+     "text": "Preocupa l'enorme concentració borsària en poques empreses lligades a la IA: si un incident greu de ciberseguretat forcés més regulació o alentís el desenvolupament de la IA, les expectatives de beneficis futurs ja descomptades a cotització podrien revisar-se a la baixa, amb impacte en tot el mercat.",
+     "t": 952
+    },
+    {
+     "text": "Recomana mesures bàsiques: mantenir actualitzats els dispositius, no ignorar avisos de connexió insegura, contrasenyes diferents amb doble verificació, i desconfiar de missatges que exigeixen una reacció immediata (possible pesca/phishing amb IA).",
+     "t": 1537
+    }
+   ],
+   "dades": [
+    "PHP: ~70% de les pàgines web mundials",
+    "Claus d'Emudra: només 256 combinacions possibles",
+    "Cost de l'atac a ~100 empreses: 5.000 $ (~50 $/empresa)",
+    "Dades afectades a Corea del Sud: ~68.000 persones",
+    "Caiguda d'accions d'Emudra: ~20% en una sessió"
+   ],
+   "conclusio": "La IA multiplica tant la capacitat de defensa com la d'atac; l'autor creu que el gran risc no és si la IA és bona o dolenta, sinó si la nostra capacitat de protegir-nos avançarà al mateix ritme que la de desenvolupar-la, i que un ensurt de ciberseguretat podria ser el detonant d'una correcció borsària en les tecnològiques d'IA.",
+   "temes": [
+    "ia",
+    "ciberseguretat",
+    "mercats",
+    "borsa",
+    "php",
+    "certificats digitals"
+   ],
+   "lot": "2026-10-23"
+  },
+  {
    "id": "SU6iJAIsJFQ",
    "titol": "Desplome del mercado que está en situación crítica. Bitcoin no se salva, sigue a la bolsa.",
    "data": "2026-10-22T08:52:17+00:00",
@@ -109,6 +332,61 @@
     "disturbis"
    ],
    "lot": "2026-10-22"
+  },
+  {
+   "id": "sS_H8aMW2Ow",
+   "titol": "Algo está pasando con el primer empleo: la IA puede cerrar la puerta sin despedir a nadie",
+   "data": "2026-10-21T18:00:09+00:00",
+   "canal": "vidal",
+   "durada": 1095,
+   "idioma": "es",
+   "resum": "Marc Vidal explica com la IA està tancant la porta d'entrada al mercat laboral als joves sense que aparegui com a acomiadaments: les empreses simplement deixen d'obrir vacants perquè la IA ja fa la feina que abans feia un junior. Denuncia que govern, Brussel·les, universitats i empreses miren cap a un altre costat.",
+   "punts": [
+    {
+     "text": "Un estudi de Stanford amb nòmines reals d'ADP mostra que l'ocupació dels treballadors de 22 a 25 anys en ocupacions més exposades a la IA és un 19% inferior a la tendència esperada, una bretxa que fa un any era del 15% i que no ve de despeditments sinó de menys contractació.",
+     "t": 405
+    },
+    {
+     "text": "Anthropic, en un altre anàlisi, no veu augment sistemàtic de l'atur en professions exposades però sí indicis de menys contractació de joves.",
+     "t": 465
+    },
+    {
+     "text": "A Espanya la porta ja estava mig tancada abans de la IA: la taxa d'atur juvenil (menors de 25 anys) va ser del 23,77% al segon trimestre de 2026, amb 460.000 joves buscant feina (19.600 més que el trimestre anterior), davant d'una mitjana europea del 15%.",
+     "t": 496
+    },
+    {
+     "text": "L'autor compara la situació amb el gremi d'aprenents de l'Anglaterra de 1563, on estava clar qui pagava la formació; avui ningú vol ser l'empresa on el jove aprèn, i les empreses demanen experiència que es neguen a fabricar.",
+     "t": 563
+    },
+    {
+     "text": "A Espanya, l'estatut del becari porta 5 anys encallat: el decret del 2021 va ser anul·lat pel Constitucional el maig i el text segueix al Congrés sense majoria.",
+     "t": 751
+    },
+    {
+     "text": "La llei de la IA europea classifica com a alt risc els algoritmes de selecció de personal, però Brussel·les va ajornar aquestes obligacions d'agost del 2026 a desembre del 2027, mentre no diu res sobre la vacant que mai es publica.",
+     "t": 873
+    },
+    {
+     "text": "Per a l'autor, la IA no treu la feina sinó l'excusa a qui mai va voler formar ningú; proposa dissenyar incorporacions on el jove dediqui el temps estalviat a comparar versions, buscar errors i aprendre criteri, no a eliminar el seu lloc.",
+     "t": 1138
+    }
+   ],
+   "dades": [
+    "Atur juvenil a Espanya: 23,77% (2T 2026)",
+    "460.000 joves aturats, +19.600 respecte al trimestre anterior",
+    "Mitjana UE d'atur juvenil: ~15%",
+    "Bretxa d'ocupació 22-25 anys en ocupacions exposades a IA: -19% (abans -15%)"
+   ],
+   "conclusio": "La IA pot tancar la porta del primer empleu, però ben utilitzada també la pot eixamplar; cal que empreses, govern i universitats dissenyin com formar als joves amb IA en lloc de limitar-se a estalviar costos.",
+   "temes": [
+    "ia",
+    "ocupació juvenil",
+    "mercat laboral",
+    "espanya",
+    "regulació",
+    "formació"
+   ],
+   "lot": "2026-10-23"
   },
   {
    "id": "wm-xXn0sBz8",
@@ -5528,9 +5806,18 @@
     "Mercats i Bitcoin.: Bitcoin al día descriu una caiguda generalitzada (Bitcoin, SP500, DAX) per pors d'una bombolla d'IA i un petroli a l'alça, i avisa que, a diferència de cicles anteriors, Bitcoin no s'escaparà aquesta vegada de la correcció borsària.",
     "Fons comú.: els dos canals apunten en la mateixa direcció: tipus d'interès a l'alça arreu del món (per deute públic rècord i la inversió en IA) com a rerefons que fragilitza tant el deute sobirà com els mercats de risc."
    ]
+  },
+  "2026-10-23": {
+   "titular": "La IA, entre l'amenaça laboral i de ciberseguretat, mentre el mercat tremola i la política espanyola es decideix als despatxos",
+   "punts": [
+    "Intel·ligència artificial. Marc Vidal denuncia que la IA tanca la porta del primer ocupació als joves sense que aparegui com a acomiadament (l'atur juvenil espanyol és del 23,77%), mentre Pablo Gil alerta que la mateixa tecnologia abarateix dràsticament els ciberatacs (uns 50 $ per empresa compromesa) i podria desencadenar una correcció borsària si un incident greu obliga a frenar-ne el desenvolupament.",
+    "Mercats. Pablo Gil i Bitcoin al día coincideixen en la fragilitat actual: l'S&P 500 ronda la línia de tendència després d'un dia molt negatiu i Bitcoin (81.839 $) es manté per sobre del seu suport setmanal, però ambdós alerten que una bombolla d'IA que esclati podria arrossegar tots els actius.",
+    "Protestes a Espanya. Marc Vidal analitza els aldarulls d'A Coruña i Avilés durant la gira d'Abascal com un assaig de la resposta del carrer al gir cap a la dreta, i avisa que el caos d'avui s'usarà per justificar més control i censura demà.",
+    "Eleccions del 29 de novembre. Juan Ramón Rallo mostra com els pactes de coalició que es tanquen el 26 d'octubre i la llei de nets poden moure escons sense canviar un sol vot: la dreta parteix clarament avantatjada, però un escenari extrem combinat podria tornar a fer decisiu Junts."
+   ]
   }
  },
- "actualitzat": "2026-10-22T10:45:50.704Z",
+ "actualitzat": "2026-10-23T10:48:46.261Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
