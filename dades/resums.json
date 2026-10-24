@@ -1,6 +1,104 @@
 {
  "videos": [
   {
+   "id": "0DV7BsDGBh8",
+   "titol": "Bitcoin. Atentos al patrón del Domingo que puede avisarnos de fuertes caídas durante la semana.",
+   "data": "2026-10-24T09:10:44+00:00",
+   "canal": "btcdia",
+   "durada": 911,
+   "idioma": "es",
+   "resum": "L'autor explica que els ETF de bitcoin han tingut sortides molt fortes (635 M$ dijous, 137 M$ l'endemà), senyal del nerviosisme dels inversors a curt termini, mentre les borses i el petroli empitjoren el panorama general. Avisa que si diumenge es repeteix un patró concret (recuperació al matí i una vela molt baixista a la tarda), la setmana vinent serà molt dolenta, amb un mínim de la correcció previst cap al 21 de novembre.",
+   "punts": [
+    {
+     "text": "ETFs: sortida rècord de 635 milions de dòlars el dijous i 137 milions més l'endemà; octubre torna a quedar en negatiu. Els ETF reflecteixen sobretot trading a curt termini, no entrades institucionals.",
+     "t": 35
+    },
+    {
+     "text": "Mercats: les borses van empitjorant; l'S&P 500 ha trencat una línia de tendència important però encara no el suport clau dels 7.580 punts.",
+     "t": 159
+    },
+    {
+     "text": "Petroli: puja de manera constant des dels 90$ fins a prop de 117$, sense pics especulatius, el que és negatiu per a la inflació i els mercats.",
+     "t": 250
+    },
+    {
+     "text": "Patró del diumenge: si demà hi ha una recuperació al matí i després una vela baixista molt forta a la tarda que torna el preu a mínims de la setmana, sol anunciar una setmana vinent molt negativa.",
+     "t": 313
+    },
+    {
+     "text": "Previsió: si es compleix el patró baixista, espera una caiguda, un rebot intermedi i una nova caiguda fins marcar mínim cap al 21 de novembre, per després recuperar fins als 87.500$ a final d'any.",
+     "t": 468
+    },
+    {
+     "text": "Altcoins: la majoria cauen (Cardano, Ethereum, Solana, XRP, AVAX), mentre BNB i Tron aguanten millor; Bitcoin cotitza a 80.724$.",
+     "t": 805
+    }
+   ],
+   "dades": [
+    "Sortida de 635 M$ dels ETF el dijous",
+    "Petroli a prop de 117$",
+    "Bitcoin a 80.724$",
+    "Objectiu de 87.500$ a final d'any"
+   ],
+   "conclusio": "Cal vigilar la vela del diumenge a la tarda: si es repeteix el patró baixista descrit, la setmana vinent serà molt negativa, amb el mínim de la correcció previst cap al 21 de novembre.",
+   "temes": [
+    "bitcoin",
+    "etf",
+    "mercats",
+    "sp500",
+    "petroli",
+    "altcoins"
+   ],
+   "lot": "2026-10-24"
+  },
+  {
+   "id": "dVmlaKKDhEY",
+   "titol": "Sánchez con Brocano: sus cinco momentos más surrealistas",
+   "data": "2026-10-23T18:30:18+00:00",
+   "canal": "rallo",
+   "durada": 1288,
+   "idioma": "es",
+   "resum": "Juan Ramón Rallo analitza l'entrevista de Pedro Sánchez a David Broncano a La Revuelta i en destaca cinc moments que considera surrealistas: el control de TVE, la corrupció d'Ávalos, la gestió de Ceuta, les xifres d'habitatge i les joies de Zapatero. Argumenta que en tots ells Sánchez menteix o manipula dades sense cap problema.",
+   "punts": [
+    {
+     "text": "Control de TVE: Sánchez es burla de qui diu que la televisió pública és seva i tot seguit promet a Broncano 4 anys més de programa si ell segueix al govern, el que demostra que el sou dels presentadors depèn de que Sánchez guanyi les eleccions.",
+     "t": 91
+    },
+    {
+     "text": "Corrupció d'Ávalos: Sánchez parla de «la corrupció que jo he sofert» referint-se al cas d'Ávalos, el seu número dos de confiança, en lloc d'assumir responsabilitat política pel fet d'haver-lo col·locat al govern.",
+     "t": 366
+    },
+    {
+     "text": "Gestió de Ceuta: Sánchez afirma que «ho estem gestionant bé» tres mesos després de la invasió de la ciutat per més de 70.000 persones, tot i no haver-la anticipat ni normalitzat la situació.",
+     "t": 552
+    },
+    {
+     "text": "Habitatge: Sánchez diu que s'ha construït un milió d'habitatges, però la xifra real durant el seu mandat és de 725.000 (no un milió, que surt de sumar acumulativament des de 2013); també infla el percentatge d'habitatge protegit (12%, no 13%) i confon habitatge protegit amb habitatge públic: només 21.500 habitatges han sigut construïts per administracions públiques en 8 anys.",
+     "t": 677
+    },
+    {
+     "text": "Joies de Zapatero: Sánchez justifica que Zapatero es quedés unes joies suposadament rebudes com a regal institucional dient que els presidents no són conscients de tots els regals que reben, tot i que Zapatero les hauria guardat amb cura a la seva caixa forta personal.",
+     "t": 1111
+    }
+   ],
+   "dades": [
+    "725.000 habitatges construïts en 8 anys (no un milió)",
+    "12% d'habitatge protegit (no 13%)",
+    "21.500 habitatges públics construïts en 8 anys",
+    "Més de 70.000 persones van envair Ceuta"
+   ],
+   "conclusio": "Rallo conclou que Sánchez menteix o manipula dades amb total naturalitat en temes tan evidents que fins i tot Broncano n'és conscient, el que fa pensar que també ho fa en assumptes menys visibles.",
+   "temes": [
+    "política",
+    "pedro sánchez",
+    "tve",
+    "corrupció",
+    "habitatge",
+    "ceuta"
+   ],
+   "lot": "2026-10-24"
+  },
+  {
    "id": "8iIk8W6Bmq0",
    "titol": "Bitcoin. Aguanta por encima de la linea de tendencia, pero todo apunta a corrección.",
    "data": "2026-10-23T06:35:08+00:00",
@@ -5815,9 +5913,17 @@
     "Protestes a Espanya. Marc Vidal analitza els aldarulls d'A Coruña i Avilés durant la gira d'Abascal com un assaig de la resposta del carrer al gir cap a la dreta, i avisa que el caos d'avui s'usarà per justificar més control i censura demà.",
     "Eleccions del 29 de novembre. Juan Ramón Rallo mostra com els pactes de coalició que es tanquen el 26 d'octubre i la llei de nets poden moure escons sense canviar un sol vot: la dreta parteix clarament avantatjada, però un escenari extrem combinat podria tornar a fer decisiu Junts."
    ]
+  },
+  "2026-10-24": {
+   "titular": "Rallo acusa Sánchez de mentir sense complexos en l'entrevista a Broncano, mentre Bitcoin al día avisa d'una possible setmana molt negativa als mercats.",
+   "punts": [
+    "Política: Juan Ramón Rallo repassa cinc moments de l'entrevista de Pedro Sánchez a La Revuelta on, segons ell, menteix o manipula dades sobre TVE, la corrupció d'Ávalos, Ceuta, l'habitatge i les joies de Zapatero.",
+    "Mercats: Bitcoin al día alerta que si diumenge es repeteix un patró de recuperació matinal seguida de caiguda forta a la tarda, la setmana vinent serà molt baixista, amb un mínim previst cap al 21 de novembre.",
+    "Macro: les sortides fortes dels ETF de bitcoin (635 M$ en un dia) i la pujada constant del petroli fins prop dels 117$ reflecteixen un deteriorament general dels mercats, no només de les criptomonedes."
+   ]
   }
  },
- "actualitzat": "2026-10-23T10:48:46.261Z",
+ "actualitzat": "2026-10-24T10:46:30.077Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
