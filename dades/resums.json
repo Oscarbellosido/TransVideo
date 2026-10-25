@@ -1,6 +1,119 @@
 {
  "videos": [
   {
+   "id": "AfjcNenoNQY",
+   "titol": "Bitcoin. Ayer tuvimos primer aviso serio. Probando la temperatura en los 79.220",
+   "data": "2026-10-25T08:57:36+00:00",
+   "canal": "btcdia",
+   "durada": 1600,
+   "idioma": "es",
+   "resum": "Bitcoin ha tocat amb una precisió gairebé exacta un suport antic als 79.220 dòlars i hi ha rebotat, però l'autor creu que la correcció de fons encara no ha acabat i que arrossegarà bitcoin mentre l'SP500 i el Nasdaq també estiguin a punt de corregir. Situa el 21 de novembre com la data en què espera marcar el mínim d'aquesta correcció.",
+   "punts": [
+    {
+     "text": "El mínim d'ahir va tocar els 79.220,74 $, pràcticament idèntic a un suport marcat al gràfic horari des de setembre (79.220,72 $); per a l'autor és una prova de que l'anàlisi tècnic funciona.",
+     "t": 35
+    },
+    {
+     "text": "Si es perd aquest suport, el preu pot caure cap als 76.000-77.000 $; la correcció de fons a les borses (SP500, Nasdaq) encara no s'ha desencadenat però està molt a prop.",
+     "t": 129
+    },
+    {
+     "text": "Marca el 21 de novembre com la data en què espera que es toqui el mínim de la correcció actual i a partir d'aquí comenci una recuperació, tot i que lenta i difícil.",
+     "t": 249
+    },
+    {
+     "text": "Abans de tancar el mes preveu tocar la zona de 78.450 $, amb possibilitat de mitja fins a 75.900-76.000 $, per acabar el mes a prop de 76.400 $.",
+     "t": 466
+    },
+    {
+     "text": "Per aquest any de tancament preveu bitcoin cap als 87.000-87.500 $; per l'any vinent, puntualment es podria acostar als 93.000-100.000 $ si milloren petroli, inflació i tipus d'interès, però creu que tornarà a tancar per sota dels 100.000 $.",
+     "t": 556
+    },
+    {
+     "text": "Explica que superar els màxims anteriors serà més difícil que abans perquè el diner retail ja no es concentra en bitcoin com el 2018-2021: ara l'interès especulatiu està en la intel·ligència artificial.",
+     "t": 741
+    },
+    {
+     "text": "Davant la previsió de JP Morgan d'un 10% de revalorització anual de mitjana en l'escenari base, l'autor diu que ell signaria un 14-16% a 5-8 anys, però descarta els pronòstics de 25-30% anual.",
+     "t": 956
+    },
+    {
+     "text": "Repàs d'altcoins: Ethereum i Solana continuen baixant, Cardano i AVAX perdent suports, mentre BNB puja malgrat la caiguda general i XRP rebota al suport d'1,58 $.",
+     "t": 1545
+    }
+   ],
+   "dades": [
+    "Suport tocat a 79.220,74 $ (marcat des de setembre a 79.220,72 $)",
+    "Bitcoin tanca el repàs a 80.496 $",
+    "21 de novembre: data prevista pel mínim de la correcció",
+    "JP Morgan preveu un 10% anual de mitjana en l'escenari base"
+   ],
+   "conclusio": "Recomana paciència i no prendre posicions prematurament: espera dues oportunitats de compra, la primera en el curt termini i la definitiva al voltant del 21 de novembre, quan creu que es marcarà el mínim de la correcció.",
+   "temes": [
+    "bitcoin",
+    "anàlisi tècnic",
+    "mercats",
+    "correcció",
+    "criptomonedes"
+   ],
+   "lot": "2026-10-25"
+  },
+  {
+   "id": "K7yPl_6HKyo",
+   "titol": "El Gobierno se lucra con el salario mínimo: ¿tiene razón Feijóo?",
+   "data": "2026-10-24T18:05:43+00:00",
+   "canal": "rallo",
+   "durada": 1347,
+   "idioma": "es",
+   "resum": "Feijóo va dir que el govern fa negoci pujant el salari mínim i Yolanda Díaz i el ministre d'Hisenda el van acusar de mentir. Rallo analitza les xifres i conclou que Feijóo s'equivoca en el mecanisme (és via cotitzacions, no IRPF) però no en el fons: l'Estat sí es queda prop del 30% de l'increment, i a més qui supera lleugerament el salari mínim pateix tipus marginals d'IRPF brutals.",
+   "punts": [
+    {
+     "text": "Feijóo va afirmar a la SER que el govern fa negoci pujant el salari mínim perquè es queda via impostos i cotitzacions una part del que cobren els treballadors; Yolanda Díaz i el ministre d'Hisenda ho van desmentir en hores.",
+     "t": 0
+    },
+    {
+     "text": "Càlcul de Rallo: una empresa paga 22.590 €/any pel salari mínim (17.094 € bruts + 32% de cotitzacions); el treballador rep 15.983 € nets, és a dir, l'Estat es queda un 29%, la xifra que Feijóo va donar com a 30%.",
+     "t": 342
+    },
+    {
+     "text": "El treballador amb salari mínim paga 0 € d'IRPF, no perquè sempre hagi estat exempt, sinó perquè cada pujada del mínim obliga Hisenda a ajustar el mínim exempt; el 2025 Hisenda va intentar que tributés i PP, Vox i Sumar van forçar la marxa enrere.",
+     "t": 434
+    },
+    {
+     "text": "Yolanda Díaz també s'equivoca quan diu que cap renda salarial per sota de 21.000 € tributa: a 21.000 € bruts anuals ja es paguen 2.525 € d'IRPF.",
+     "t": 588
+    },
+    {
+     "text": "Just per sobre del salari mínim el tipus marginal de l'IRPF salta de cop del 0% al 69% (i fins al 82-90% en el tram 18.570-18.900 €) perquè es retiren de cop dues reduccions fiscals (per rendiments del treball i la deducció del salari mínim).",
+     "t": 680
+    },
+    {
+     "text": "Aquest tipus marginal extrem desincentiva fer hores extres o pujar de categoria just per sobre del mínim: d'uns ingressos addicionals de 400 €, només en quedarien 40 al treballador.",
+     "t": 958
+    },
+    {
+     "text": "Conclusió de Rallo: el govern vol tres coses incompatibles (pujar molt el mínim en termes nominals, que no pagui IRPF i no perdre recaptació) i ho resol accelerant la retirada de beneficis fiscals just després del llindar del salari mínim.",
+     "t": 1266
+    }
+   ],
+   "dades": [
+    "Salari mínim brut 2026: 17.094 €/any",
+    "Cost total per a l'empresa: 22.590 €/any",
+    "El treballador es queda 15.983 € nets (l'Estat un 29%)",
+    "Tipus marginal del 69-90% just per sobre del salari mínim"
+   ],
+   "conclusio": "El salari mínim en si no paga IRPF, però enfilar-se per sobre seu sí es penalitza molt fiscalment: aquí hi ha el veritable problema, que cap dels dos bàndols polítics vol reconèixer.",
+   "temes": [
+    "salari mínim",
+    "irpf",
+    "fiscalitat",
+    "feijóo",
+    "govern",
+    "economia espanyola"
+   ],
+   "lot": "2026-10-25"
+  },
+  {
    "id": "0DV7BsDGBh8",
    "titol": "Bitcoin. Atentos al patrón del Domingo que puede avisarnos de fuertes caídas durante la semana.",
    "data": "2026-10-24T09:10:44+00:00",
@@ -5921,9 +6034,16 @@
     "Mercats: Bitcoin al día alerta que si diumenge es repeteix un patró de recuperació matinal seguida de caiguda forta a la tarda, la setmana vinent serà molt baixista, amb un mínim previst cap al 21 de novembre.",
     "Macro: les sortides fortes dels ETF de bitcoin (635 M$ en un dia) i la pujada constant del petroli fins prop dels 117$ reflecteixen un deteriorament general dels mercats, no només de les criptomonedes."
    ]
+  },
+  "2026-10-25": {
+   "titular": "Rallo destapa el 69% d'IRPF marginal just per sobre del salari mínim i Bitcoin al día situa el 21 de novembre com la data clau de la correcció",
+   "punts": [
+    "Salari mínim. Rallo analitza la polèmica entre Feijóo i el govern: l'Estat es queda un 29% del cost del salari mínim via cotitzacions, i qui el supera lleugerament pateix un tipus marginal d'IRPF del 69%, que arriba al 90% en un tram concret.",
+    "Bitcoin. Bitcoin al día veu un rebot exacte al suport dels 79.220 $ i preveu que la correcció a borsa i cripto s'allargui fins al 21 de novembre, data en què situa el mínim de la caiguda abans d'una recuperació lenta."
+   ]
   }
  },
- "actualitzat": "2026-10-24T10:46:30.077Z",
+ "actualitzat": "2026-10-25T11:48:34.783Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
@@ -6052,6 +6172,31 @@
     "Si el SP500 trenca el suport dels 7.580 punts, Bitcoin podria anar cap a la zona de 74.000-76.000 $, amb el 21 de novembre com a possible zona de compra (Bitcoin al día).",
     "Presentació de candidatures al Senat entre el 21 i el 26 d'octubre, i si PP i Vox acaben coordinant-se per contrarestar la coalició d'esquerres (Rallo).",
     "Calendari electoral del 29-N: enviament de documentació CERA des del 24 d'octubre i vot per correu fins al 24 de novembre, clau per la polèmica llei de néts (Rallo)."
+   ]
+  },
+  "2026-10-25": {
+   "des_de": "2026-10-19",
+   "titular": "Europa es mobilitza al carrer i als mercats mentre Bitcoin i les borses situen el 21 de novembre com la data clau de la correcció",
+   "punts": [
+    "Europa en flames. Rallo i Vidal: les protestes s'estenen de França a Bèlgica, Itàlia, Portugal i Espanya; Rallo ho vincula a un estancament estructural (la zona euro només ha crescut un 13% des de 2008, davant el 26% dels EUA) i Vidal el compara amb la decadència de la Lliga Hanseàtica.",
+    "Deute francès sota pressió. Rallo: el tipus a 10 anys arriba al 5%, el pitjor en 25 anys, i la sortida més probable és que el BCE acabi comprant deute francès.",
+    "Eleccions generals del 29 de novembre. Rallo: les simulacions donen avantatge clar a PP+Vox+UPN, encara que un escenari extrem amb unió de l'esquerra i vot exterior podria tornar a fer decisiu Junts.",
+    "Correcció dels mercats i bitcoin. Bitcoin al día: borses i bitcoin cauen per la por a una bombolla d'IA i la pujada del petroli; situa el mínim de la correcció cap al 21 de novembre, abans de les eleccions nord-americanes.",
+    "Risc de la IA. Pablo Gil i Vidal: Pablo Gil alerta que la IA abarateix dràsticament els ciberatacs i podria detonar una correcció borsària de les tecnològiques; Vidal mostra com la IA tanca la porta del primer empleo als joves sense acomiadar ningú.",
+    "Fiscalitat del salari mínim. Rallo: analitza la polèmica entre Feijóo i el govern i mostra que just per sobre del salari mínim el tipus marginal d'IRPF arriba al 69-90%."
+   ],
+   "coincideixen": [
+    "Mercats i IA. Bitcoin al día i Pablo Gil coincideixen que una bombolla d'intel·ligència artificial a borsa podria desencadenar la correcció que tots dos esperen.",
+    "Estancament europeu. Rallo i Vidal coincideixen que la Unió Europea arrossega un estancament estructural (hiperregulació, manca de capacitat de decisió ràpida) que alimenta el malestar al carrer."
+   ],
+   "discrepen": [
+    "Lectura de les protestes. Vidal se centra en la tàctica del black bloc i com el caos s'utilitzarà per justificar més control i censura, mentre Rallo posa l'accent en les causes econòmiques de fons (creixement feble, pensions, habitatge) sense parlar de la violència al carrer."
+   ],
+   "a_vigilar": [
+    "21 de novembre: Bitcoin al día situa en aquesta data el mínim de la correcció de bitcoin i els mercats.",
+    "26 d'octubre: tancament de candidatures per a les generals espanyoles del 29 de novembre, que segons Rallo pot moure escons sense canviar un vot.",
+    "11 de novembre: vaga general convocada a Espanya, en el marc de les protestes que s'estenen per Europa.",
+    "Eleccions dels EUA: Bitcoin al día espera una pujada de tipus de la Reserva Federal després, si el petroli i la inflació segueixen alts."
    ]
   }
  }
