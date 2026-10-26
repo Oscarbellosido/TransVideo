@@ -1,6 +1,222 @@
 {
  "videos": [
   {
+   "id": "Y-Dk5RtAcfs",
+   "titol": "Bitcoin. Semana importante. Cierre de mes, resultados empresas, decisión de tipos. 79.220 en juego.",
+   "data": "2026-10-26T08:05:07+00:00",
+   "canal": "btcdia",
+   "durada": 898,
+   "idioma": "es",
+   "resum": "L'analista de Bitcoin al día explica que el bitcoin ha trencat el suport dels 82.210 $ i s'acosta de nou als 79.220 $, nivell clau en una setmana marcada pel tancament del mes, resultats empresarials i la decisió de tipus de la Fed. Preveu que la correcció pugui allargar-se fins al 21 de novembre abans de recuperar-se.",
+   "punts": [
+    {
+     "text": "El hash rate de Bitcoin es recupera però acaba de passar el període d'estancament més llarg de la seva història, senyal de maduració de l'actiu que suggereix un creixement més moderat en els propers anys, fins i tot amb part de la potència de càlcul desviada cap a la intel·ligència artificial.",
+     "t": 37
+    },
+    {
+     "text": "Setmana carregada de resultats empresarials (Visa, Coca-Cola, Novartis, Google, Microsoft, Exxon, Chevron) i la decisió de tipus de la Fed el dimecres: no s'espera que els pugin per les eleccions, però el discurs posterior pot moure el mercat.",
+     "t": 222
+    },
+    {
+     "text": "El preu ha arribat a caure fins a 79.368 $, molt a prop del mínim de 79.220 $ marcat dissabte; si es perd aquest nivell, la caiguda podria accelerar-se cap a 78.240 $ i fins a 77.215 $.",
+     "t": 284
+    },
+    {
+     "text": "Previsió: el tancament mensual (dissabte) podria quedar prop de 78.500 $, envolupant el cos de la vela del mes anterior; l'analista espera una possible entrada propera a principis de la setmana vinent i un mínim de la correcció cap al 21 de novembre, a partir del qual esperaria la recuperació.",
+     "t": 505
+    },
+    {
+     "text": "Nivells a vigilar al gràfic horari: una tercera aproximació als 79.220 $ és probable que trenqui el suport (cada toc l'esgota més); si en canvi trenca a l'alça els 80.950 $, podria pujar cap a 81.900 $.",
+     "t": 562
+    },
+    {
+     "text": "Entre les altcoins, Ethereum i Solana es desmarquen a la baixa del comportament de Bitcoin apropant-se als seus suports, mentre que BNB mostra fortalesa pujant en contra de la tendència general del mercat.",
+     "t": 784
+    }
+   ],
+   "dades": [
+    "Bitcoin al voltant de 80.100 $",
+    "Suport clau a 79.220 $",
+    "Possible tancament mensual prop de 78.500 $",
+    "Petroli prop de 110 $ el barril"
+   ],
+   "conclusio": "La setmana és decisiva per a Bitcoin: si es perd el suport dels 79.220 $, la caiguda es pot accelerar, però l'analista espera que la correcció toqui fons cap al 21 de novembre i llavors comenci la recuperació.",
+   "temes": [
+    "bitcoin",
+    "anàlisi tècnica",
+    "criptomonedes",
+    "fed",
+    "altcoins",
+    "mercats"
+   ],
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "Ij9VZzbNYU4",
+   "titol": "¿Por qué se desploma el oro justo cuando vuelve la inflación?",
+   "data": "2026-10-25T18:30:16+00:00",
+   "canal": "rallo",
+   "durada": 1194,
+   "idioma": "es",
+   "resum": "Juan Ramón Rallo explica per què l'or ha caigut per sota dels 4.000 $ l'unça tot i que la inflació i el petroli repunten: la pujada dels tipus d'interès reals, un canvi de percepció sobre la independència de la Fed, i la por recent a una recessió que empeny els inversors cap al deute públic en lloc de l'or.",
+   "punts": [
+    {
+     "text": "L'or ha perdut una quarta part del seu valor des dels màxims de gener (gairebé 5.500 $), tot i que la inflació als EUA ja frega el 4% anual i el petroli supera els 100 $.",
+     "t": 0
+    },
+    {
+     "text": "Causa estructural: els tipus d'interès reals han pujat uns 100 punts bàsics des de gener per la forta demanda de finançament de la indústria de la intel·ligència artificial; segons PIMCO, cada punt de pujada del tipus real a 10 anys resta un 22% al preu de l'or.",
+     "t": 69
+    },
+    {
+     "text": "Canvi de règim monetari: el nomenament de Kevin Warsh (crític amb l'expansió monetària) per presidir la Fed va fer caure l'or entre un 9 i un 11% en un sol dia, perquè el mercat va deixar de témer que la Fed acomodés els dèficits del Tresor com en els anys 70.",
+     "t": 456
+    },
+    {
+     "text": "L'or protegeix sobretot contra bancs centrals que no volen o no poden controlar la inflació, no contra la inflació en si: als anys 70 es va multiplicar per 20 amb tipus reals negatius, però va perdre dos terços del seu valor quan Paul Volcker va pujar els tipus reals.",
+     "t": 311
+    },
+    {
+     "text": "Durant l'última setmana, la por a una desacceleració lligada a la IA (bons de Corwave rendint més d'un 15%, l'índex de semiconductors de Filadèlfia caient un 16% en vuit sessions) ha fet que els tipus reals i l'or caiguin junts: els inversors liquiden or per obtenir liquiditat i refugiar-se en deute públic.",
+     "t": 894
+    },
+    {
+     "text": "Qui no ven és qui compra per motius estructurals: els fons cotitzats d'or estan al seu nivell més alt des de juliol de 2022 i el Banc Central de la Xina va comprar 21 tones d'or al setembre, la seva major compra mensual en tres anys.",
+     "t": 960
+    },
+    {
+     "text": "Si el cicle inversor de la IA acaba esclatant i porta a una recessió amb bancs centrals retallant tipus mentre els governs segueixen endeutant-se, es podria entrar en un escenari d'estanflació, el context en el qual l'or es comporta millor.",
+     "t": 1104
+    }
+   ],
+   "dades": [
+    "Or per sota de 4.000 $/unça, -25% des dels 5.500 $ de gener",
+    "Inflació als EUA prop del 4%",
+    "Tipus real a 10 anys EUA pujat ~100 pb des de gener",
+    "Xina va comprar 21 tones d'or al setembre"
+   ],
+   "conclusio": "La caiguda de l'or no és una anomalia: respon a tipus reals més alts, a una Fed percebuda com més independent del Tresor, i a una recerca puntual de liquiditat per por a una desacceleració lligada a la IA. Si aquesta por es confirma i deriva en estanflació, l'or tornaria a brillar.",
+   "temes": [
+    "or",
+    "inflació",
+    "tipus d'interès",
+    "reserva federal",
+    "intel·ligència artificial",
+    "recessió"
+   ],
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "VmVnNELpXd4",
+   "titol": "El FIN de la CLASE MEDIA: ganar más YA NO ES SUFICIENTE",
+   "data": "2026-10-25T17:00:08+00:00",
+   "canal": "pablogil",
+   "durada": 1445,
+   "idioma": "es",
+   "resum": "Pablo Gil argumenta que la classe mitjana ja no es defineix només pels ingressos, sinó per quant marge queda després de pagar l'imprescindible. Amb un exemple numèric mostra com una família amb 3.500 € nets al mes pot quedar-se amb només 120 € d'estalvi, el que fa gairebé impossible comprar un habitatge o construir patrimoni.",
+   "punts": [
+    {
+     "text": "Segons el criteri de l'OCDE, es considera renda mitjana la que va del 75% al 200% de la mediana; a Espanya el llindar inferior per a una família de dos adults i dos fills ronda els 32.080 € nets anuals (uns 2.673 € al mes), però això no diu res sobre si la família pot estalviar.",
+     "t": 185
+    },
+    {
+     "text": "Exemple il·lustratiu: una família amb 3.500 € nets al mes (lloguer 1.360 €, alimentació 650 €, subministraments 250 €, altres despeses 1.120 €) acaba el mes amb només 120 € d'estalvi, sense comptar imprevistos com avaries o despeses dentals.",
+     "t": 275
+    },
+    {
+     "text": "Amb 120 €/mes d'estalvi, reunir els 75.000 € necessaris (entrada del 20% més 10% d'impostos i despeses) per a un pis de 250.000 € trigaria uns 52 anys, encara que el preu no pugés.",
+     "t": 397
+    },
+    {
+     "text": "El preu de l'habitatge a Espanya va pujar un 12,9% interanual en el quart trimestre de 2025 (INE), i qui ja té un habitatge pagat viu una realitat molt diferent de qui ha de llogar a preu de mercat avui.",
+     "t": 562
+    },
+    {
+     "text": "Qui pot estalviar 200 €/mes durant 10 anys (24.000 € aportats) i obtenir una rendibilitat mitjana del 5% anual podria acostar-se als 31.000 €; però per invertir primer cal poder estalviar, i moltes famílies no tenen aquest marge.",
+     "t": 733
+    },
+    {
+     "text": "Pressions estructurals sobre els costos que dificulten recuperar el marge perdut: desglobalització i diversificació de proveïdors, més despesa en defensa per les tensions geopolítiques, i inversions en adaptació climàtica i xarxes energètiques.",
+     "t": 935
+    },
+    {
+     "text": "L'Estat té recursos limitats per compensar la pèrdua de poder adquisitiu amb ajudes: si gasta més del que ingressa ha d'emetre deute, i si els inversors exigeixen interessos més alts, una part creixent del pressupost es destina a pagar aquest deute en lloc d'altres prioritats.",
+     "t": 1161
+    }
+   ],
+   "dades": [
+    "Família exemple: 3.500 €/mes d'ingressos, 120 € d'estalvi final",
+    "Preu de l'habitatge a Espanya +12,9% interanual (4T 2025, INE)",
+    "Llindar de renda mitjana per a família de 4: ~32.080 €/any (INE 2025)",
+    "52 anys per reunir l'entrada d'un pis de 250.000 € estalviant 120 €/mes"
+   ],
+   "conclusio": "El problema de fons no és només redefinir qui és classe mitjana, sinó que cada cop més famílies no tenen marge per estalviar ni invertir. Sense ingressos suficients, habitatge accessible i capacitat d'estalvi real, l'educació financera o les ajudes públiques no basten per resoldre-ho.",
+   "temes": [
+    "classe mitjana",
+    "habitatge",
+    "estalvi",
+    "inflació",
+    "desigualtat",
+    "deute públic"
+   ],
+   "lot": "2026-10-26"
+  },
+  {
+   "id": "3c68PL-Z52U",
+   "titol": "Renta fija: la oportunidad y los riesgos que muchos inversores ignoran",
+   "data": "2026-10-25T11:00:06+00:00",
+   "canal": "rallo",
+   "durada": 4182,
+   "idioma": "es",
+   "resum": "Juan Ramón Rallo parla amb Agustín Bircher (Santa Lucía Asset Management) sobre per què els tipus d'interès reals han pujat a màxims de dues dècades i per què, a diferència de la borsa, en renda fixa la gestió activa sol batre els índexs. Expliquen els riscos de tipus d'interès i de crèdit, i per què invertir-se en deute públic indexat pot ser contraproduent.",
+   "punts": [
+    {
+     "text": "La pujada dels tipus reals (no només nominals) s'explica per tres factors: més necessitat de finançament (centres de dades d'IA, dèficits públics d'EUA, Japó, França, Regne Unit), la confiança en els bancs centrals per controlar la inflació, i una prima de termini més alta per la incertesa (pandèmia, guerres, aranzels).",
+     "t": 465
+    },
+    {
+     "text": "Les asseguradores inverteixen en renda fixa per casar els seus compromisos a llarg termini amb els clients; quan pugen els tipus, els seus marges milloren i els bons antics que venicen es reinverteixen a rendiments més alts.",
+     "t": 185
+    },
+    {
+     "text": "Risc de dominància fiscal: si un govern molt endeutat (EUA, França) no s'ajusta, el mercat dona per fet que el banc central acabarà rescatant-lo, el que erosiona la seva independència i porta a repressió financera per a l'estalviador.",
+     "t": 780
+    },
+    {
+     "text": "A diferència de la borsa (on pocs valors expliquen gairebé tota la rendibilitat de l'índex i indexar-se té sentit), en renda fixa qui més emet deute és qui més pesa en l'índex: els països i empreses més endeutats, no els millors. Per això indexar-se en bons surt perjudicial per a l'inversor.",
+     "t": 2545
+    },
+    {
+     "text": "En renda fixa dos terços de les gestores actives bateixen el seu índex de referència (segons un estudi que corregeix els biaixos del famós informe SPIVA), mentre que en borsa només ho fa entre un 10% i un 50% segons la metodologia.",
+     "t": 3868
+    },
+    {
+     "text": "Amb els tipus actuals, un inversor advers al risc pot tancar rendibilitats netes de comissions al voltant del 4%, enfront de dècades de repressió financera on calia lluitar per 20-30 punts bàsics per sobre de l'índex.",
+     "t": 3238
+    },
+    {
+     "text": "Recomanació per al petit estalviador: lletres del Tresor per a terminis curts amb risc gairebé nul, i fons (no bons individuals, que exigeixen tiquets mínims de 100.000 euros i molta anàlisi) per accedir a crèdit corporatiu o deute a llarg termini.",
+     "t": 2069
+    }
+   ],
+   "dades": [
+    "Inflació a Espanya al 4,3%",
+    "Rendibilitat neta actual en renda fixa ~4%",
+    "Alemanya, Holanda i Àustria pesen un 39% del PIB de l'eurozona però menys en els índexs de deute",
+    "Dos terços de les gestores de renda fixa activa bateixen el seu índex (segons l'estudi de Cremers)"
+   ],
+   "conclusio": "La renda fixa no és un actiu senzill ni homogeni: la gestió passiva hi té sentit a la inversa que en borsa, perquè premia els emissors més endeutats. Per a qui necessiti el capital en una data certa (comprar un pis, jubilar-se) o tingui estalvis sense remunerar, val la pena considerar-la, preferiblement a través de fons de gestió activa i amb comissions baixes.",
+   "temes": [
+    "renda fixa",
+    "tipus d'interès",
+    "bons",
+    "gestió activa",
+    "inflació",
+    "dèficit públic"
+   ],
+   "lot": "2026-10-26"
+  },
+  {
    "id": "AfjcNenoNQY",
    "titol": "Bitcoin. Ayer tuvimos primer aviso serio. Probando la temperatura en los 79.220",
    "data": "2026-10-25T08:57:36+00:00",
@@ -6041,9 +6257,19 @@
     "Salari mínim. Rallo analitza la polèmica entre Feijóo i el govern: l'Estat es queda un 29% del cost del salari mínim via cotitzacions, i qui el supera lleugerament pateix un tipus marginal d'IRPF del 69%, que arriba al 90% en un tram concret.",
     "Bitcoin. Bitcoin al día veu un rebot exacte al suport dels 79.220 $ i preveu que la correcció a borsa i cripto s'allargui fins al 21 de novembre, data en què situa el mínim de la caiguda abans d'una recuperació lenta."
    ]
+  },
+  "2026-10-26": {
+   "titular": "Tipus d'interès reals a l'alça: l'or es desploma, la renda fixa torna a tenir sentit i la classe mitjana es queda sense marge per estalviar",
+   "punts": [
+    "Tipus reals. Juan Ramón Rallo explica que la forta demanda de finançament de la IA i els dèficits públics han disparat els tipus d'interès reals, i això és la causa principal tant de la caiguda de l'or com de l'oportunitat que torna a representar la renda fixa (entorn al 4% net).",
+    "Or. L'or ha perdut una quarta part del seu valor des de gener malgrat la inflació, perquè protegeix sobretot contra bancs centrals que no controlen la inflació, no contra la inflació en si: el mercat percep ara una Fed més independent del Tresor.",
+    "Renda fixa. A diferència de la borsa, en bons la indexació perjudica l'inversor (qui més deute emet és qui més pesa en l'índex) i la gestió activa sol batre'l; les asseguradores i gestores recomanen fons davant dels tiquets mínims i la complexitat de l'anàlisi de crèdit.",
+    "Classe mitjana. Pablo Gil mostra amb un exemple numèric com una família amb 3.500 € nets al mes pot acabar amb només 120 € d'estalvi al mes, el que fa gairebé impossible comprar un habitatge o construir patrimoni invertint.",
+    "Bitcoin. S'acosta de nou al suport clau dels 79.220 $ en una setmana de tancament mensual, resultats empresarials i decisió de tipus de la Fed; l'analista preveu que la correcció pugui tocar fons cap al 21 de novembre."
+   ]
   }
  },
- "actualitzat": "2026-10-25T11:48:34.783Z",
+ "actualitzat": "2026-10-26T11:48:27.686Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
