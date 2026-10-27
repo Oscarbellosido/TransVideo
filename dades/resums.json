@@ -1,6 +1,167 @@
 {
  "videos": [
   {
+   "id": "TlkCGODU4uQ",
+   "titol": "Bitcoin. Sigue en un proceso correctivo bastante ordenado. El discurso de la FED será clave mañana.",
+   "data": "2026-10-27T08:32:27+00:00",
+   "canal": "btcdia",
+   "durada": 1178,
+   "idioma": "es",
+   "resum": "L'analista de Bitcoin al día explica que els diners que abans podien anar cap a Bitcoin ara es concentren en la inversió massiva en intel·ligència artificial, i que per això cal esperar revaloritzacions més moderades que en el passat. A curt termini, Bitcoin segueix en una correcció ordenada que dependrà molt del discurs de la Reserva Federal de demà.",
+   "punts": [
+    {
+     "text": "Més de 200 plataformes de núvol d'IA s'enfronten a una mort prematura per l'enduriment del crèdit, i Microsoft llança un pla de baixes voluntàries per a 60.000 empleats, senyals de com la IA està absorbint la inversió i reduint ocupació.",
+     "t": 37
+    },
+    {
+     "text": "La gran liquiditat que fa uns anys les grans empreses no sabien on invertir (i per això recompraven accions pròpies) ara es dirigeix a la IA en lloc d'anar cap a Bitcoin, i seguirà així mentre duri la competència entre empreses d'IA per fer-se amb el mercat.",
+     "t": 163
+    },
+    {
+     "text": "Per la seva alta capitalització, l'autor ja no espera per a Bitcoin revaloritzacions mitjanes del 30% anual com en el passat, sinó un creixement mitjà més realista d'entorn el 15% anual durant els pròxims 5-8 anys.",
+     "t": 437
+    },
+    {
+     "text": "A curt termini Bitcoin ha trencat una línia de tendència i es va deslliscant a la baixa en una correcció que considera ordenada; el nivell clau per rebotar és la zona dels 82.000, i si el discurs de la Fed de demà és negatiu podria baixar fins als 76.000-77.300.",
+     "t": 592
+    },
+    {
+     "text": "Marca el 21 de novembre com a data clau on es podria fer el mínim del moviment, amb un preu similar al que es pugui veure a principis de mes; qualsevol dels dos punts d'entrada li sembla raonable.",
+     "t": 745
+    },
+    {
+     "text": "En el gràfic setmanal, el nivell clau a vigilar és els 79.220 dòlars: si es trenca amb contundència, el següent suport seria la zona de 76.850.",
+     "t": 839
+    },
+    {
+     "text": "Altres mercats: l'euro es deteriora, el petroli es manté alt i podria anar cap a 117-120 si trenca màxims, i els metalls preciosos (plata, platí, or) estan corregint amb força després d'una pujada que l'autor considera una bombolla.",
+     "t": 1022
+    }
+   ],
+   "dades": [
+    "Microsoft: 60.000 baixes voluntàries",
+    "+200 plataformes de núvol d'IA en risc",
+    "Creixement anual esperat per Bitcoin: ~15%",
+    "Suport clau: 79.220 $; resistència: 82.000 $"
+   ],
+   "conclusio": "L'autor recomana no esperar pujades espectaculars com les del passat i vigilar el discurs de la Fed de demà, que considera l'element que decidirà si Bitcoin rebota cap als 82.000 o continua baixant cap als 76.000-77.000 en els pròxims dies.",
+   "temes": [
+    "bitcoin",
+    "intel·ligència artificial",
+    "fed",
+    "mercats",
+    "or",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-10-27"
+  },
+  {
+   "id": "lC4oxmK97Jc",
+   "titol": "Tres lecciones para PP y Vox de la victoria de Lula en Brasil",
+   "data": "2026-10-26T19:45:02+00:00",
+   "canal": "rallo",
+   "durada": 1198,
+   "idioma": "es",
+   "resum": "Juan Ramón Rallo analitza la remuntada de Lula a Brasil, que va guanyar la segona volta tot i haver perdut la primera i anar per darrere a totes les enquestes, i n'extreu tres lliçons per a la dreta espanyola de cara al 29 de novembre: no cantar victòria abans d'hora, combatre les irregularitats electorals abans de votar, i preparar-se per una esquerra més radicalitzada si perd per poc.",
+   "punts": [
+    {
+     "text": "Les enquestes van fallar dues vegades a Brasil: van donar Lula per davant abans de la primera volta (la va guanyar Flavio Bolsonaro) i Flavio per davant abans de la segona (la va guanyar Lula amb el 52%).",
+     "t": 91
+    },
+    {
+     "text": "A la segona volta van votar 3,2 milions de brasilers més que a la primera; Lula va sumar 10,4 milions de vots nous i Flavio només 3,7 milions, un gir que cap model de participació podia anticipar.",
+     "t": 183
+    },
+    {
+     "text": "Primera lliçó: Flavio es va comportar com a president electe (repartint ministeris, convidant mandataris) i va deixar de parlar als votants, mentre Lula va exigir el debat, va marcar l'agenda (el cas de la nena Ana Clara) i va definir el programa de Flavio abans que ell mateix ho fes.",
+     "t": 395
+    },
+    {
+     "text": "Segona lliçó: hi va haver una irregularitat electoral (el jutge Cristiano Zanin, exadvocat de Lula, va ordenar allargar 2 hores la votació sense base legal), que probablement no va canviar el resultat però ha donat a Flavio l'excusa per no reconèixer la derrota i demanar l'anul·lació.",
+     "t": 616
+    },
+    {
+     "text": "Rallo ho connecta amb la Llei de Nets a Espanya: el Suprem ha suspès el vot dels nacionalitzats per aquesta via però el govern no en garanteix el compliment, i uns resultats ajustats el 29 de novembre podrien obrir un conflicte semblant sobre els vots de l'exterior.",
+     "t": 871
+    },
+    {
+     "text": "Tercera lliçó: quan l'esquerra s'ha vist a prop de perdre el poder, no es modera sinó que es radicalitza; Lula ja ha anunciat que vol regular més les xarxes socials, amb l'antecedent del bloqueig d'X el 2024 i la retirada de propaganda electoral.",
+     "t": 1015
+    }
+   ],
+   "dades": [
+    "Flavio va guanyar la 1a volta amb 47% davant el 45% de Lula",
+    "Lula va guanyar la 2a volta amb ~52%",
+    "Lula va passar de perdre per 2,2 milions de vots a guanyar per 4,4 milions",
+    "Enquestes a Espanya: PP+Vox ronden els 200 escons, 24 per sobre de la majoria absoluta"
+   ],
+   "conclusio": "Rallo recomana a PP i Vox no donar les eleccions del 29 de novembre per guanyades, defensar el seu propi programa en lloc de deixar que el rival el defineixi, resoldre la batalla del cens al Suprem abans de votar, i preparar-se per una esquerra més radical si acaba perdent per marges estrets.",
+   "temes": [
+    "brasil",
+    "lula",
+    "eleccions",
+    "pp",
+    "vox",
+    "enquestes"
+   ],
+   "lot": "2026-10-27"
+  },
+  {
+   "id": "3Knn5wuEjNg",
+   "titol": "Algo está pasando a la vez con el acero, los coches y la IA: y empezó con un barco de hielo",
+   "data": "2026-10-26T18:58:47+00:00",
+   "canal": "vidal",
+   "durada": 1146,
+   "idioma": "es",
+   "resum": "Marc Vidal explica la història de Frederic Tudor, que al segle XIX va convertir el gel de Boston en un negoci global fins que va perdre contra la màquina de fer fred de John Gorrie. En paral·lel, hi veu el mateix patró en l'acer, els cotxes i la IA d'Europa d'avui: quan un sector deixa de competir i demana protecció legal, ja ha començat a enfonsar-se.",
+   "punts": [
+    {
+     "text": "Frederic Tudor va tenir la idea de vendre gel de Nova Anglaterra al Carib, on el 1806 un bloc valia més del que pesava, però els dos primers viatges van fracassar i el van portar a la presó de deutors.",
+     "t": 187
+    },
+    {
+     "text": "Amb Nathaniel Wyeth va millorar la logística (cases de gel aïllades, talladores de bloc uniforme): les pèrdues per fosa van baixar del 66% a menys del 8%.",
+     "t": 310
+    },
+    {
+     "text": "El 1833 Tudor va portar 180 tones de gel a Calcuta creuant l'equador per primera vegada i va desplaçar el proveïdor local; després va demanar al governador britànic el monopoli del comerç del gel a la ciutat.",
+     "t": 401
+    },
+    {
+     "text": "El metge John Gorrie va patentar el 1851 la primera màquina de fer gel artificial als EUA; va ser rebut amb burles i va morir endeutat, sospitant (sense proves) que Tudor havia promogut la mala premsa.",
+     "t": 582
+    },
+    {
+     "text": "El gel fabricat va acabar guanyant: una fàbrica a Calcuta el 1878 va acabar amb el negoci de Tudor a l'Índia i el 1914 el gel artificial ja superava el natural als EUA.",
+     "t": 674
+    },
+    {
+     "text": "Vidal hi veu el mateix patró a Europa: l'informe Draghi (bretxa de productivitat del 30% amb els EUA) s'ha aplicat només un 15% en dos anys, mentre es dupliquen aranzels a l'acer, es vol pujar del 70% al 75% el contingut europeu obligatori als cotxes i s'ha ajornat la llei d'IA perquè les empreses no saben com complir-la.",
+     "t": 735
+    },
+    {
+     "text": "Conclusió de l'autor: quan un negoci deixa de millorar i demana a la llei que li guardi el lloc, la factura la paguen els altres (consumidors, fabricants); cal preguntar-se si una mesura protectora millora el producte o només limita qui pot entrar.",
+     "t": 1009
+    }
+   ],
+   "dades": [
+    "Bretxa de productivitat UE-EUA: ~30% (abans 15%)",
+    "Aranzel a l'acer per sobre de quota: 50%",
+    "Contingut europeu obligatori als cotxes: 70% actual, 75% proposat",
+    "Aplicació de l'informe Draghi en 2 anys: 15%"
+   ],
+   "conclusio": "Vidal recomana mirar amb sospita qualsevol protecció que un sector demani a la llei: només val quan millora el producte, no quan simplement tanca la porta al nouvingut, perquè al final la diferència de preu la paga tothom.",
+   "temes": [
+    "unió europea",
+    "proteccionisme",
+    "acer",
+    "automoció",
+    "intel·ligència artificial",
+    "arqueologia econòmica"
+   ],
+   "lot": "2026-10-27"
+  },
+  {
    "id": "Y-Dk5RtAcfs",
    "titol": "Bitcoin. Semana importante. Cierre de mes, resultados empresas, decisión de tipos. 79.220 en juego.",
    "data": "2026-10-26T08:05:07+00:00",
@@ -6267,9 +6428,17 @@
     "Classe mitjana. Pablo Gil mostra amb un exemple numèric com una família amb 3.500 € nets al mes pot acabar amb només 120 € d'estalvi al mes, el que fa gairebé impossible comprar un habitatge o construir patrimoni invertint.",
     "Bitcoin. S'acosta de nou al suport clau dels 79.220 $ en una setmana de tancament mensual, resultats empresarials i decisió de tipus de la Fed; l'analista preveu que la correcció pugui tocar fons cap al 21 de novembre."
    ]
+  },
+  "2026-10-27": {
+   "titular": "Marc Vidal compara el proteccionisme europeu amb el negoci del gel del segle XIX, Rallo analitza les lliçons de la derrota de la dreta a Brasil, i Bitcoin al día espera el discurs de la Fed de demà per saber si rebota o segueix caient.",
+   "punts": [
+    "Proteccionisme.: Marc Vidal recupera la història de Frederic Tudor, que va fer fortuna venent gel i va acabar perdent contra la màquina de fer fred, com a metàfora de l'Europa d'avui: aranzels a l'acer, quotes de contingut europeu als cotxes i una llei d'IA ajornada, mentre la bretxa de productivitat amb els EUA ja és del 30%.",
+    "Eleccions a Brasil.: Juan Ramón Rallo extreu tres lliçons per a PP i Vox de la remuntada de Lula: no cantar victòria abans d'hora, resoldre les irregularitats electorals (la Llei de Nets) abans de votar, i preparar-se per una esquerra més radicalitzada si acaba perdent per poc.",
+    "Mercats.: Bitcoin al día constata que la inversió massiva en intel·ligència artificial (amb avisos de fallides de plataformes al núvol i 60.000 baixes a Microsoft) ha desviat la liquiditat que abans hauria pogut anar cap a Bitcoin, i situa el discurs de la Fed de demà com la clau per saber si rebota cap als 82.000 o cau cap als 76.000-77.000."
+   ]
   }
  },
- "actualitzat": "2026-10-26T11:48:27.686Z",
+ "actualitzat": "2026-10-27T11:47:20.410Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
