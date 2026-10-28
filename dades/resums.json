@@ -1,6 +1,170 @@
 {
  "videos": [
   {
+   "id": "AtM-jUVZxNg",
+   "titol": "Bitcoin. Rebota a la resistencia siguiendo el rebote del Sp500. ¿Afecta la cuántica a la inversión?",
+   "data": "2026-10-28T09:03:40+00:00",
+   "canal": "btcdia",
+   "durada": 1194,
+   "idioma": "es",
+   "resum": "Bitcoin rebota a l'uníson amb l'S&P 500 just abans del discurs de la Fed, però l'autor creu que probablement no són els mínims definitius i que hi pot haver noves caigudes després de les eleccions del 3 de novembre. També analitza com la incertesa sobre la computació quàntica frena la inversió institucional en Bitcoin.",
+   "punts": [
+    {
+     "text": "Dia de reunió de la Fed: no s'esperen canvis de tipus, però el to del discurs posterior pot moure el mercat de cara a les properes reunions.",
+     "t": 6
+    },
+    {
+     "text": "Bitcoin rebota seguint l'S&P 500, sense notícies pròpies que el moguin, cap a la zona de resistència dels 82.210 $ abans de la reunió de la Fed.",
+     "t": 66
+    },
+    {
+     "text": "El fundador de Stacks diu que la por als ordinadors quàntics ja frena la inversió institucional en Bitcoin: no hi ha un pla clar de protecció per als uns 4 milions de bitcoins 'perduts' que podrien tornar a circulació.",
+     "t": 158
+    },
+    {
+     "text": "Fins que no hi hagi un consens clar sobre com protegir Bitcoin dels ordinadors quàntics (l'autor citat parla d'abans de 2030), els inversors institucionals seguiran retraient-se; l'autor creu que el problema es resoldrà igualment, bifurcant la xarxa si cal.",
+     "t": 529
+    },
+    {
+     "text": "Han entrat 176 M$ en un dia (286 M$ en dos dies) als ETF de Bitcoin just en la zona de mínims (~80.000 $), un comportament atípic: normalment els ETF venen en mínims, així que probablement aquests no siguin els mínims definitius.",
+     "t": 715
+    },
+    {
+     "text": "Previsió tècnica: possible suport a 78.500 $ aquest mes, rebot cap a 82.000-84.000 $ abans de les eleccions del 3 de novembre, i noves caigudes després d'aquesta data fins cap al dia 21.",
+     "t": 808
+    },
+    {
+     "text": "La majoria d'altcoins (AVE, BNB, Ethereum, Solana) només reboten lleument seguint Bitcoin, sense força pròpia; si Bitcoin torna a caure, les altcoins cauran també.",
+     "t": 933
+    }
+   ],
+   "dades": [
+    "176 M$ d'entrades als ETF de Bitcoin en un dia",
+    "Bitcoin a la zona de 81.500-82.210 $",
+    "4 milions de bitcoins 'perduts' sobre 21 milions totals",
+    "Possible suport a 78.500 $"
+   ],
+   "conclusio": "L'autor creu que el rebot actual és més tècnic que un canvi de tendència i espera noves caigudes després de les eleccions del 3 de novembre; sobre la quàntica, demana un pla clar de protecció per treure la incertesa que ara frena els inversors institucionals.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "fed",
+    "computació quàntica",
+    "etf",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-10-28"
+  },
+  {
+   "id": "1SIC8SrvUFE",
+   "titol": "Anthropic sale a bolsa: ¿oportunidad histórica o burbuja?",
+   "data": "2026-10-27T19:17:39+00:00",
+   "canal": "rallo",
+   "durada": 1672,
+   "idioma": "es",
+   "resum": "Anthropic ha presentat el full de sortida a borsa al Nasdaq (símbol ANT) buscant captar uns 100.000 milions de dòlars amb una valoració d'uns 2 bilions. Rallo repassa els comptes auditats per desmuntar la idea que els laboratoris d'IA només cremen diners: el negoci d'inferència ja és molt rentable, però l'entrenament continu i els grans compromisos de lloguer de còmput són els riscos principals.",
+   "punts": [
+    {
+     "text": "Anthropic vol sortir a borsa al Nasdaq (ANT) captant uns 100.000 M$, superant els rècords de Saudi Aramco i SpaceX; la valoració prevista és d'uns 2 bilions, el doble que fa 5 mesos.",
+     "t": 62
+    },
+    {
+     "text": "Els ingressos han passat de 41 M$ el 2023 a 4.585 M$ el 2025 i 16.300 M$ només en el primer semestre de 2026 (14 vegades més que un any abans); els clients empresarials gasten cada cop més, amb una retenció neta d'ingressos del 900%.",
+     "t": 184
+    },
+    {
+     "text": "Les pèrdues de 80.000 M$ del primer semestre són gairebé totes un apunt comptable pels bons convertibles d'Amazon, no una sortida real de caixa; el negoci operatiu ja va tenir benefici al segon trimestre de 2026.",
+     "t": 400
+    },
+    {
+     "text": "La inferència (el servei de Claude) té un marge del 85%, però la R+D per entrenar la següent generació de models es menja el 60% dels ingressos: cap de les dues línies de negoci és sostenible sense l'altra.",
+     "t": 522
+    },
+    {
+     "text": "Anthropic s'ha compromès a pagar 637.000 M$ (sobretot entre 2026 i 2036) a Broadcom, SpaceX, Google, Amazon i Microsoft per capacitat de còmput, amb clàusules de pagament rígides; té uns 200.000-250.000 M$ de liquiditat, equivalent a 2 anys de pagaments.",
+     "t": 1012
+    },
+    {
+     "text": "Si un rival com OpenAI o Google treu un model millor, o apareixen models oberts competitius, els marges es podrien estrènyer; a més hi ha riscos regulatoris (restriccions d'exportació dels EUA) i de responsabilitat civil per danys causats pels models.",
+     "t": 1448
+    },
+    {
+     "text": "Rallo conclou que Anthropic no és ni un pou sense fons ni una mina d'or sense riscos: la seva rendibilitat és una «renda de frontera» que només es manté si segueix entrenant models millors que la competència.",
+     "t": 1600
+    }
+   ],
+   "dades": [
+    "100.000 M$ a captar, valoració ~2 bilions",
+    "16.300 M$ d'ingressos el 1r semestre de 2026 (x14 interanual)",
+    "Marge d'inferència del 85%",
+    "637.000 M$ compromesos en lloguers de còmput fins al 2036"
+   ],
+   "conclusio": "El negoci d'inferència d'Anthropic ja és molt rentable, però la seva supervivència depèn de seguir al capdavant de la carrera de models; si deixa d'estar a la frontera, el negoci es podria enfonsar pels seus grans compromisos de pagament fixos.",
+   "temes": [
+    "anthropic",
+    "sortida a borsa",
+    "intel·ligència artificial",
+    "inversió",
+    "resultats financers"
+   ],
+   "lot": "2026-10-28"
+  },
+  {
+   "id": "Jl-3I5FeBPk",
+   "titol": "Algo está pasando con los adolescentes en España y nadie quiere mirarlo | Análisis",
+   "data": "2026-10-27T19:00:22+00:00",
+   "canal": "vidal",
+   "durada": 1404,
+   "idioma": "es",
+   "resum": "Marc Vidal analitza els aldarulls de joves a Barcelona (24 d'octubre) i els compara amb els de Milà i Bilbao: creu que darrere els saqueigs de Barcelona i Milà no hi havia cap reivindicació real, sinó un fenomen de xarxes socials i una societat que mesura les persones pel que tenen. Alerta que la resposta política previsible serà augmentar el control de les xarxes i la identitat digital, no abordar el problema de fons.",
+   "punts": [
+    {
+     "text": "Balanç dels Mossos a Barcelona: 128 detinguts (72 menors, majoria de 16-17 anys), 23 comerços vandalitzats (electrònica, roba i joieria, cap supermercat ni seu política) i 14 mossos ferits.",
+     "t": 153
+    },
+    {
+     "text": "La convocatòria va néixer a TikTok (etiqueta 'Blocu') els dies 18-19 d'octubre i es va traslladar a grups de WhatsApp i Telegram; la policia no ha donat les nacionalitats dels detinguts, però fonts policials filtrades parlen de molts d'origen magribí amb DNI espanyol.",
+     "t": 184
+    },
+    {
+     "text": "Compara amb Milà (17-18 d'octubre): un 80% dels detinguts eren menors i venien de províncies riques (Bèrgam, Como, Monza), no de barris marginals; el mateix patró que Barcelona, sense bandera política ni reivindicacions.",
+     "t": 305
+    },
+    {
+     "text": "Explica el fenomen amb el 'model de llindars' del sociòleg Mark Granovetter (1978): les xarxes socials no donen ordres, però mostren a cadascú que ja hi ha prou gent fent-ho, i això dispara l'efecte cascada sense cap líder identificable.",
+     "t": 456
+    },
+    {
+     "text": "Contrast amb Bilbao: allà sí hi havia una causa real (protesta contra un acte a la Universitat de Deusto) i organització, a diferència de Barcelona i Milà.",
+     "t": 578
+    },
+    {
+     "text": "Cita Erich Fromm ('Tenir o ser', 1976): les societats orientades a tenir fan sentir inexistents els qui no posseeixen. L'edat mitjana d'emancipació a Espanya supera ja els 30 anys, només el 14,5% dels joves de 16-29 anys viu fora de casa, i llogar un pis sol se'n menjaria el 98,7% del sou.",
+     "t": 700
+    },
+    {
+     "text": "Preveu que la resposta política serà augmentar el control de les xarxes i la identitat digital (esments a Itàlia, Grècia i la UE) en lloc d'abordar la manca d'autoritat i de sentit de pertinença; avisa que serà la mateixa societat qui demanarà aquest control.",
+     "t": 943
+    }
+   ],
+   "dades": [
+    "128 detinguts a Barcelona, 72 menors",
+    "23 comerços vandalitzats",
+    "14,5% dels joves de 16-29 anys viu fora de casa a Espanya",
+    "Llogar un pis sol = 98,7% del sou"
+   ],
+   "conclusio": "Vidal conclou que el problema de fons és una generació sense autoritat ni sentit de pertinença en una societat que mesura les persones pel que tenen, i que la resposta fàcil (controlar xarxes i identitat) no solucionarà res, només retallarà llibertats.",
+   "temes": [
+    "aldarulls",
+    "joventut",
+    "xarxes socials",
+    "barcelona",
+    "societat",
+    "política"
+   ],
+   "lot": "2026-10-28"
+  },
+  {
    "id": "TlkCGODU4uQ",
    "titol": "Bitcoin. Sigue en un proceso correctivo bastante ordenado. El discurso de la FED será clave mañana.",
    "data": "2026-10-27T08:32:27+00:00",
@@ -6436,9 +6600,17 @@
     "Eleccions a Brasil.: Juan Ramón Rallo extreu tres lliçons per a PP i Vox de la remuntada de Lula: no cantar victòria abans d'hora, resoldre les irregularitats electorals (la Llei de Nets) abans de votar, i preparar-se per una esquerra més radicalitzada si acaba perdent per poc.",
     "Mercats.: Bitcoin al día constata que la inversió massiva en intel·ligència artificial (amb avisos de fallides de plataformes al núvol i 60.000 baixes a Microsoft) ha desviat la liquiditat que abans hauria pogut anar cap a Bitcoin, i situa el discurs de la Fed de demà com la clau per saber si rebota cap als 82.000 o cau cap als 76.000-77.000."
    ]
+  },
+  "2026-10-28": {
+   "titular": "Anthropic surt a borsa amb marges rècord, els aldarulls juvenils de Barcelona i un Bitcoin que rebota pendent de la Fed",
+   "punts": [
+    "Anthropic. Juan Ramón Rallo diu que el full de sortida a borsa d'Anthropic (Nasdaq, ANT) desmonta la idea que és una 'màquina de cremar diners': el negoci d'inferència té un marge del 85%, però els 637.000 M$ compromesos en lloguers de còmput i la pressió competitiva són els grans riscos.",
+    "Aldarulls juvenils. Marc Vidal compara els saqueigs de Barcelona i Milà (joves sense antecedents, sense reivindicacions, organitzats via TikTok) i alerta que la resposta política previsible serà controlar les xarxes i la identitat digital en lloc d'abordar la manca d'autoritat i d'emancipació juvenil.",
+    "Bitcoin. L'analista de Bitcoin al día veu el rebot actual (cap als 82.000 $) com a tècnic i no com un canvi de tendència, i espera noves caigudes després de les eleccions del 3 de novembre; també explica com la incertesa sobre la computació quàntica frena la inversió institucional en Bitcoin."
+   ]
   }
  },
- "actualitzat": "2026-10-27T11:47:20.410Z",
+ "actualitzat": "2026-10-28T11:48:00.209Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
