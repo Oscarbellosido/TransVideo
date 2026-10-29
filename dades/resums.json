@@ -1,6 +1,169 @@
 {
  "videos": [
   {
+   "id": "n5giJ2lfdJM",
+   "titol": "Bitcoin. Sigue la fase correctiva ordenada. Muchos datos macros hoy que moverán el mercado.",
+   "data": "2026-10-29T09:33:28+00:00",
+   "canal": "btcdia",
+   "durada": 949,
+   "idioma": "es",
+   "resum": "L'analista de Bitcoin al día explica que el mercat segueix en fase correctiva ordenada, amb Bitcoin rebutjat a la línia de tendència mentre espera dades macro clau. Manté el 21 de novembre com a horitzó per tancar la correcció i revisa com es comporten les principals altcoins.",
+   "punts": [
+    {
+     "text": "Dades macro clau avui: el PCE (previst 3,1%) i el PIB del trimestre passat (previst 3,2%), les xifres que la Reserva Federal mira abans de decidir sobre els tipus d'interès.",
+     "t": 65
+    },
+    {
+     "text": "La Fed no va apujar els tipus ahir: amb eleccions el 3 de novembre als EUA, prefereix esperar al mes vinent per no interferir-hi.",
+     "t": 97
+    },
+    {
+     "text": "Els ETF de Bitcoin van sumar 137 milions de dòlars ahir; l'analista els considera un indicador de sentiment contrari, no un senyal fiable, perquè sol ser el petit inversor qui compra als mínims.",
+     "t": 127
+    },
+    {
+     "text": "Strategy aprova dividends diaris per a accions preferents: les STRC començaran a pagar al novembre i tres més al gener de 2027.",
+     "t": 187
+    },
+    {
+     "text": "Bitcoin ha tocat la línia de tendència i ha rebotat a la baixa sense recuperar-la, a diferència de l'SP500; mentre no perdi el suport dels 79.200 dòlars, la correcció es manté ordenada.",
+     "t": 250
+    },
+    {
+     "text": "L'analista manté el 21 de novembre com la data en què espera que acabi la correcció, basant-se en una anàlisi que no vol detallar, amb possibles caigudes just després de les eleccions i una recuperació posterior limitada per la pujada dels tipus.",
+     "t": 313
+    },
+    {
+     "text": "Entre les altcoins: Ethereum (-0,19%) i Solana (-0,71%) es desinflen de manera ordenada, Cardano s'acosta als mínims, BNB puja sense notícies sobre la llicència MiCA, i XRP cau tot i una llicència nova als EUA perquè el benefici és per a Ripple Labs, no pels tenidors del token.",
+     "t": 748
+    }
+   ],
+   "dades": [
+    "PCE previst: 3,1%",
+    "ETFs de Bitcoin: +137M$ ahir",
+    "Suport de Bitcoin: 79.200$",
+    "Data clau de l'analista: 21 de novembre"
+   ],
+   "conclusio": "El mercat segueix en una correcció ordenada; l'analista no es refiarà del tot fins passar les eleccions del 3 de novembre i, sobretot, el 21 de novembre.",
+   "temes": [
+    "bitcoin",
+    "fed",
+    "macro",
+    "altcoins",
+    "eleccions eua"
+   ],
+   "lot": "2026-10-29"
+  },
+  {
+   "id": "rZ3w07hUugU",
+   "titol": "Accidente de Urda: un tren a 200 por hora donde el límite era 40 | Análisis",
+   "data": "2026-10-28T19:11:28+00:00",
+   "canal": "vidal",
+   "durada": 1145,
+   "idioma": "es",
+   "resum": "Marc Vidal analitza l'accident de dos trens a Urda: el sistema de seguretat LZB va fallar i, en el mode manual de reserva amb límit de 40 km/h, un AVE va recórrer 25 km fins xocar amb un Iryo possiblement a 200 km/h. Qüestiona que es parli només d'error humà quan la línia encara no tenia instal·lat l'ERTMS previst des de fa anys, i compara la inversió ferroviària espanyola amb la d'Alemanya i França.",
+   "punts": [
+    {
+     "text": "Fa 9 mesos, el 18 de gener, un tren Iryo va descarrilar a Adamuz i va envair la via contrària, on va xocar amb un Alvia de Renfe: 46 morts i 292 ferits. La investigació segueix oberta sense conclusions.",
+     "t": 153
+    },
+    {
+     "text": "El sistema de seguretat LZB (alemany), que frena automàticament el tren si cal, va fallar aquest matí; quan això passa, els trens s'aturen i es passa a circulació manual (\"marxa a la vista\") amb el sistema de reserva ASFA, amb límit de 40 km/h.",
+     "t": 183
+    },
+    {
+     "text": "Segons la cronologia donada pel ministre de Transports, a les 8:36 es va autoritzar l'AVE que venia de Madrid a reprendre la marxa; va recórrer uns 25 km fins l'impacte, possiblement a 200 km/h, quan el màxim permès eren 40.",
+     "t": 246
+    },
+    {
+     "text": "El ministre parla d'un error humà al centre de control; un dels maquinistes havia avisat que la marxa no es podia reprendre amb normalitat.",
+     "t": 278
+    },
+    {
+     "text": "La línia Madrid-Sevilla (inaugurada el 1992) és l'única de la xarxa espanyola que encara funciona amb LZB; la substitució per ERTMS es va contractar el 2021 (93,8 milions d'euros, adjudicat a Thales, termini de 52 mesos) i encara no estava operativa aquest matí.",
+     "t": 649
+    },
+    {
+     "text": "Espanya inverteix molt menys en ferrocarril que Alemanya o França (4.800 M€ el 2024 davant 12.700 M€ i 12.400 M€, respectivament); el manteniment de l'alta velocitat ha caigut a 8,50 € per passatger, el nivell més baix en una dècada.",
+     "t": 831
+    },
+    {
+     "text": "Vidal reclama quatre coses immediates: publicar l'estat real del contracte de l'ERTMS, si la comissió va emetre recomanacions urgents després d'Adamuz i si s'aplicaven, el protocol de circulació en mode degradat, i que la investigació la faci un organisme independent del Ministeri.",
+     "t": 925
+    }
+   ],
+   "dades": [
+    "46 morts a Adamuz",
+    "~25 km recorreguts possiblement a 200 km/h (límit: 40 km/h)",
+    "Contracte ERTMS: 93,8 M€, Thales, adjudicat el 2021",
+    "Espanya: 4.800 M€ invertits en ferrocarril el 2024, davant 12.700 M€ d'Alemanya"
+   ],
+   "conclusio": "Vidal demana transparència immediata sobre el contracte de l'ERTMS, el protocol de circulació degradada i una investigació independent del Ministeri, en lloc de quedar-se en l'etiqueta d'\"error humà\".",
+   "temes": [
+    "accident ferroviari",
+    "adif",
+    "lzb",
+    "ertms",
+    "infraestructures",
+    "espanya"
+   ],
+   "lot": "2026-10-29"
+  },
+  {
+   "id": "pxt7nnMnTkE",
+   "titol": "De Adamuz a Urda: ¿hasta cuándo lo vamos a tolerar?",
+   "data": "2026-10-28T14:36:59+00:00",
+   "canal": "rallo",
+   "durada": 588,
+   "idioma": "es",
+   "resum": "Rallo denuncia que l'accident mortal de trens a Urda es repeteix deu mesos després del d'Adamuz sense que s'hagin aclarit causes ni responsabilitats. Acusa el govern de prioritzar la propaganda electoral abans d'assumir que el fallo és de la infraestructura ferroviària pública, no un error humà ni la liberalització del sector.",
+   "punts": [
+    {
+     "text": "Accident: deu mesos després de l'accident d'Adamuz, encara no se'n saben les causes, no s'ha depurat cap responsabilitat i no s'ha pres cap mesura preventiva; avui s'ha repetit a Urda.",
+     "t": 32
+    },
+    {
+     "text": "Govern: Rallo l'acusa de frenar la investigació del primer accident per càlcul electoral, confiant que l'opinió pública se n'oblidés.",
+     "t": 63
+    },
+    {
+     "text": "Narrativa oficial: el govern parla de \"fallo humano\" d'un operari d'ADIF, igual que Óscar Puente va dir \"yo no he soldado el rail\" sobre Adamuz.",
+     "t": 248
+    },
+    {
+     "text": "Infraestructura: els sistemes de frenada automàtica que evitarien el xoc de dos trens són automàtics; si han fallat, el problema és de la infraestructura gestionada per ADIF i pel Ministeri de Transports, no un error humà.",
+     "t": 278
+    },
+    {
+     "text": "El sistema de seguretat LZB de l'alta velocitat va fallar aquest dimecres al matí, aturant uns sis trens a la zona; caldrà investigar per què ADIF va ordenar seguir circulant després del fallo.",
+     "t": 371
+    },
+    {
+     "text": "Rallo rebutja l'argument de culpar la liberalització del sector: ADIF és una empresa 100% pública controlada pel Ministeri de Transports.",
+     "t": 462
+    },
+    {
+     "text": "La subinversió en la xarxa ferroviària s'ha produït durant 8 anys de rècords de recaptació tributària i amb desenes de milers de milions dels fons Next Generation de la UE.",
+     "t": 524
+    }
+   ],
+   "dades": [
+    "2 accidents mortals en menys d'1 any",
+    "10 mesos sense conclusions sobre Adamuz",
+    "~6 trens aturats a la zona de l'accident",
+    "8 anys de rècords de recaptació sense resoldre la subinversió"
+   ],
+   "conclusio": "Rallo exigeix que s'assumeixin responsabilitats i es reformi el sistema ferroviari, en lloc de repartir propaganda i buscar culpables externs com la liberalització.",
+   "temes": [
+    "accident ferroviari",
+    "adif",
+    "govern",
+    "espanya",
+    "infraestructures"
+   ],
+   "lot": "2026-10-29"
+  },
+  {
    "id": "AtM-jUVZxNg",
    "titol": "Bitcoin. Rebota a la resistencia siguiendo el rebote del Sp500. ¿Afecta la cuántica a la inversión?",
    "data": "2026-10-28T09:03:40+00:00",
@@ -6608,9 +6771,19 @@
     "Aldarulls juvenils. Marc Vidal compara els saqueigs de Barcelona i Milà (joves sense antecedents, sense reivindicacions, organitzats via TikTok) i alerta que la resposta política previsible serà controlar les xarxes i la identitat digital en lloc d'abordar la manca d'autoritat i d'emancipació juvenil.",
     "Bitcoin. L'analista de Bitcoin al día veu el rebot actual (cap als 82.000 $) com a tècnic i no com un canvi de tendència, i espera noves caigudes després de les eleccions del 3 de novembre; també explica com la incertesa sobre la computació quàntica frena la inversió institucional en Bitcoin."
    ]
+  },
+  "2026-10-29": {
+   "titular": "Rallo i Marc Vidal coincideixen a culpar la infraestructura pública i el Ministeri de Transports de l'accident de trens a Urda, mentre Bitcoin al día manté el mercat cripto en correcció ordenada.",
+   "punts": [
+    "Accident de Urda: Rallo i Marc Vidal coincideixen que la causa de fons és la infraestructura ferroviària pública gestionada per ADIF i el Ministeri de Transports, no un simple \"error humà\" com diu el govern.",
+    "Adamuz sense conclusions: tots dos recorden que l'accident de gener a Adamuz (46 morts) encara no té causes ni responsables aclarits, i hi veuen un patró de manca de rendició de comptes que ha permès repetir-se el succés.",
+    "Sistema de seguretat: Marc Vidal explica que el sistema LZB va fallar aquest matí i que el protocol de reserva (\"marxa a la vista\", límit de 40 km/h) depenia només d'una autorització humana sense segona barrera; l'AVE hauria circulat a uns 200 km/h.",
+    "ERTMS pendent: la línia Madrid-Sevilla encara no tenia instal·lat el sistema modern previst des de fa anys, tot i un contracte de 93,8 milions d'euros adjudicat el 2021.",
+    "Mercats: Bitcoin al día manté que el mercat cripto segueix en una correcció ordenada, amb la mirada posada en les dades macro d'avui (PCE, PIB) i en el 21 de novembre com a horitzó per tancar-la."
+   ]
   }
  },
- "actualitzat": "2026-10-28T11:48:00.209Z",
+ "actualitzat": "2026-10-29T11:47:03.663Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
