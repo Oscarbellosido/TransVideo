@@ -1,6 +1,175 @@
 {
  "videos": [
   {
+   "id": "6dHJgF3WymA",
+   "titol": "Bitcoin. Hackeo de Binance. Mercado sigue correctivo independientemente del hackeo.",
+   "data": "2026-10-30T09:00:16+00:00",
+   "canal": "btcdia",
+   "durada": 2145,
+   "idioma": "es",
+   "resum": "Binance ha patit el major hackeig de la història de les criptomonedes, però l'impacte és assumible per l'exchange. El mercat ja cotitzava a la baixa abans del hackeig i Bitcoin es manté en fase correctiva.",
+   "punts": [
+    {
+     "text": "Hackeig a Binance: 6.300 M$ robats, dels quals 3.000 M ja recuperats (fons congelats); Binance cobrirà els 3.300 M restants amb el fons SAFU i beneficis propis.",
+     "t": 37
+    },
+    {
+     "text": "L'origen hauria sigut un portàtil compromès d'un enginyer; les retirades estan suspeses i es reprendran en 48 hores.",
+     "t": 99
+    },
+    {
+     "text": "El hackeig equival al 41% dels beneficis anuals de Binance (uns 8.000 M$) i només al 2,55% dels seus actius totals (129.400 M$), per això l'exchange pot absorbir-lo.",
+     "t": 255
+    },
+    {
+     "text": "Demana controls més estrictes a les retirades grans (validació manual) i defensa l'autocustòdia per a qui vulgui moure grans quantitats sense restriccions.",
+     "t": 1196
+    },
+    {
+     "text": "Bitcoin va caure fins a 76.500 $, exactament on l'autor tenia dibuixada una línia de suport des del dia anterior, i hi ha rebotat.",
+     "t": 1220
+    },
+    {
+     "text": "Part de la caiguda també ve del mercat en general: el SP500 cau, el petroli puja i la plata i el platí es desplomen, mentre l'or aguanta el suport.",
+     "t": 1366
+    },
+    {
+     "text": "Manté la previsió de correcció fins al 21 de novembre, però considera que als 76.500-77.000 $ el preu ja torna a ser atractiu per acumular.",
+     "t": 2040
+    }
+   ],
+   "dades": [
+    "6.300 M$ robats a Binance",
+    "3.300 M$ a cobrir (41% dels beneficis anuals)",
+    "Bitcoin a 76.500 $ (mínim) / 78.000 $ (actual)",
+    "Actius totals de Binance: 129.400 M$"
+   ],
+   "conclusio": "El hackeig és greu però assumible per Binance i ja està descomptat pel mercat; la pressió baixista ve sobretot de la borsa i del petroli, i l'autor ja veu preus d'entrada atractius per a Bitcoin.",
+   "temes": [
+    "bitcoin",
+    "binance",
+    "hackeig",
+    "criptomonedes",
+    "mercats",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "dO_XI0u6vLA",
+   "titol": "Óscar Puente miente: así oculta el deterioro del AVE",
+   "data": "2026-10-29T20:00:23+00:00",
+   "canal": "rallo",
+   "durada": 1386,
+   "idioma": "es",
+   "resum": "Rallo desmunta el gràfic del govern que diu que el manteniment de l'AV espanyola és rècord històric: corregit per inflació, longitud de la xarxa, ús i antiguitat, el gasto real per tren-km ha caigut, el que explica els accidents ferroviaris.",
+   "punts": [
+    {
+     "text": "El govern afirma que el 2025 s'han gastat 437 M€ en manteniment de l'AV, un rècord, enfront dels 212 M€ del 2011.",
+     "t": 94
+    },
+    {
+     "text": "Deflactant per l'índex de costos d'enginyeria civil (no l'IPC), l'augment real és del 57%, no del 107% en termes nominals.",
+     "t": 310
+    },
+    {
+     "text": "Però la xarxa ha crescut un 80% des de 2011 (de 2.200 a gairebé 4.000 km): per km de xarxa es gasta un 13% menys que el 2011.",
+     "t": 436
+    },
+    {
+     "text": "Ajustant també per intensitat d'ús (viatgers-km, que s'ha triplicat), el gasto real per viatger-km ha caigut un 53% des de 2011.",
+     "t": 647
+    },
+    {
+     "text": "Amb dades de tren-km (2016-2025), el gasto en manteniment per tren-km ha caigut un 34%, de 9,7 € a 6,4 €.",
+     "t": 741
+    },
+    {
+     "text": "Ajustant també per l'envelliment de la xarxa, el gasto real per km cau un 22% i per viatger-km un 58% des de 2011.",
+     "t": 864
+    },
+    {
+     "text": "L'Estat té rècord històric d'ingressos i va rebre fons europeus Next Generation: el dèficit de manteniment és una decisió política, no manca de recursos, perquè es prioritza gastar en pensions i sous públics.",
+     "t": 991
+    }
+   ],
+   "dades": [
+    "437 M€ gastats el 2025 (xifra nominal del govern)",
+    "Gasto real per tren-km: -34% des de 2016",
+    "Xarxa d'AV: +80% des de 2011",
+    "Gasto real per viatger-km: -53% a -58% des de 2011"
+   ],
+   "conclusio": "El relat oficial que el manteniment de l'AV és rècord històric és fals un cop es corregeix per inflació, mida de la xarxa, ús i antiguitat: en realitat és mínim històric, i Rallo demana privatitzar la xarxa o redimensionar-la si l'Estat no vol gastar prou per mantenir-la.",
+   "temes": [
+    "psoe",
+    "adif",
+    "ave",
+    "ferrocarril",
+    "pressupost públic",
+    "política espanyola"
+   ],
+   "lot": "2026-10-30"
+  },
+  {
+   "id": "mChIdlBLsPk",
+   "titol": "El fin del empleo seguro: por qué las tecnológicas están cerrando el primer peldaño",
+   "data": "2026-10-29T19:00:02+00:00",
+   "canal": "vidal",
+   "durada": 1397,
+   "idioma": "es",
+   "resum": "Marc Vidal analitza l'oferta de sortida voluntària de Microsoft a 60.000 empleats i defensa que les tecnològiques no substitueixen treballadors per màquines, sinó que desplacen la despesa de nòmines cap a inversió en centres de dades, tancant sobretot l'entrada als llocs junior.",
+   "punts": [
+    {
+     "text": "Microsoft ofereix una sortida voluntària a 60.000 empleats (27% de la plantilla mundial) dos dies abans de presentar resultats trimestrals; és la segona oferta d'aquest tipus l'any.",
+     "t": 154
+    },
+    {
+     "text": "Una sortida voluntària evita els procediments d'avís previ i negociació d'un expedient de regulació, i es presenta com a disciplina de costos.",
+     "t": 216
+    },
+    {
+     "text": "Amy Hood (CFO de Microsoft) va xifrar la inversió en infraestructura d'IA per al 2026 en 175.000 M$, mentre el flux de caixa lliure va caure un 23% interanual.",
+     "t": 452
+    },
+    {
+     "text": "Segons l'Indeed Hiring Lab, només el 4,5% de les ofertes de desenvolupament de programari als EUA són de nivell d'entrada; el 69,3% són sènior.",
+     "t": 618
+    },
+    {
+     "text": "L'atur dels titulats recents en informàtica és del 7%, davant el 4,2% del conjunt de graduats (Reserva Federal de Nova York); Stanford calcula un 19% menys d'ocupació juvenil en les ocupacions més exposades a la IA.",
+     "t": 649
+    },
+    {
+     "text": "A Espanya hi ha escassetat de paletes, electricistes, lampistes i soldadors: la raó és el 'coneixement tàcit' (Polanyi), el que no es pot escriure en un manual i per tant no és automatitzable.",
+     "t": 771
+    },
+    {
+     "text": "Adverteix que el sistema de pensions depèn de les cotitzacions de les nòmines; si la inversió es desplaça cap a centres de dades (que cotitzen poc i tributen on vulgui l'empresa), es redueix la base fiscal justament quan més despesa social cal.",
+     "t": 1080
+    },
+    {
+     "text": "Conclou que la resposta individual és aprendre a treballar amb la IA com a col·laborador: encarregar, verificar i respondre per allò que fa, perquè la màquina no pot signar per ningú.",
+     "t": 1017
+    }
+   ],
+   "dades": [
+    "60.000 empleats afectats a Microsoft (27% de la plantilla)",
+    "175.000 M$ d'inversió en IA prevista per 2026",
+    "Flux de caixa lliure: -23% interanual",
+    "Ofertes junior de software als EUA: només 4,5%"
+   ],
+   "conclusio": "Vidal recomana prendre's seriosament aprendre a treballar amb eines d'IA (encarregar, verificar, respondre), ja que el mercat ha deixat de pagar pel coneixement acumulat i la porta d'entrada als llocs junior s'està tancant.",
+   "temes": [
+    "microsoft",
+    "ocupació",
+    "intel·ligència artificial",
+    "mercat laboral",
+    "pensions",
+    "tecnologia"
+   ],
+   "lot": "2026-10-30"
+  },
+  {
    "id": "n5giJ2lfdJM",
    "titol": "Bitcoin. Sigue la fase correctiva ordenada. Muchos datos macros hoy que moverán el mercado.",
    "data": "2026-10-29T09:33:28+00:00",
@@ -6781,9 +6950,18 @@
     "ERTMS pendent: la línia Madrid-Sevilla encara no tenia instal·lat el sistema modern previst des de fa anys, tot i un contracte de 93,8 milions d'euros adjudicat el 2021.",
     "Mercats: Bitcoin al día manté que el mercat cripto segueix en una correcció ordenada, amb la mirada posada en les dades macro d'avui (PCE, PIB) i en el 21 de novembre com a horitzó per tancar-la."
    ]
+  },
+  "2026-10-30": {
+   "titular": "Binance pateix el major hackeig cripto de la història mentre Rallo denuncia el dèficit de manteniment de l'AVE i Marc Vidal alerta del tancament de l'entrada laboral junior.",
+   "punts": [
+    "Criptomonedes: Binance ha sofert un hackeig de 6.300 M$ (3.300 M$ nets a cobrir), que absorbirà amb el fons SAFU i beneficis propis; Bitcoin ha caigut fins als 76.500 $ però ja es considera un preu atractiu per acumular.",
+    "Ferrocarril: Rallo demostra que, corregit per inflació, mida de la xarxa, ús i antiguitat, el manteniment real de l'AVE és mínim històric, no rècord com afirma el govern, i vincula això amb els accidents recents.",
+    "Mercat laboral: Marc Vidal explica l'oferta de sortida voluntària de Microsoft a 60.000 empleats i com les tecnològiques desplacen la despesa de nòmines cap a centres de dades d'IA, tancant l'entrada als llocs junior.",
+    "Fons públics: tant Rallo (ADIF prioritza pensions i sous públics abans que manteniment) com Vidal (menys cotitzacions si la inversió es desplaça a centres de dades) assenyalen que la pressió fiscal futura dependrà de decisions polítiques, no de manca de recursos."
+   ]
   }
  },
- "actualitzat": "2026-10-29T11:47:03.663Z",
+ "actualitzat": "2026-10-30T11:48:05.823Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
