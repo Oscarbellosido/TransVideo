@@ -1,6 +1,171 @@
 {
  "videos": [
   {
+   "id": "qmUkuC9KtmI",
+   "titol": "Bitcoin. El cierre mensual podría ser en torno a 78.500. Semana complicada por delante.",
+   "data": "2026-10-31T09:58:26+00:00",
+   "canal": "btcdia",
+   "durada": 1336,
+   "idioma": "es",
+   "resum": "El canal explica que la caiguda de Bitcoin d'ahir ve sobretot del desplom general dels mercats (borsa, or, plata) i només en petita part del hackeig a Binance. Preveu un tancament mensual cap als 78.500 i una setmana volàtil per les eleccions dels EUA del 3 de novembre, amb una correcció que situa com a objectiu el 21 de novembre.",
+   "punts": [
+    {
+     "text": "Tether va gairebé duplicar les seves reserves excedents fins a 8.000 milions de dòlars, amb 1.500 milions de guanys en el tercer trimestre, gràcies a invertir els dòlars rebuts en bons del Tresor dels EUA; en contrasta la solidesa amb el hackeig de Binance.",
+     "t": 6
+    },
+    {
+     "text": "La caiguda de Bitcoin té poc a veure amb el hackeig de Binance: la causa principal és un desplom generalitzat dels mercats (S&P 500, Nasdaq, DAX) i de l'or i la plata, que ja s'anava anunciant des de fa setmanes amb trencaments de línies de tendència.",
+     "t": 168
+    },
+    {
+     "text": "La setmana s'presenta tensa per tres factors que coincideixen: les eleccions dels EUA del 3 de novembre, rumors d'un possible atac dels EUA a l'Iran durant el cap de setmana, i el punxament d'una possible bombolla en el sector de la intel·ligència artificial.",
+     "t": 374
+    },
+    {
+     "text": "Preveu que avui (últim dia del mes) Bitcoin podria tancar prop de 78.500 dòlars; a curt termini la correcció podria arribar fins a la zona de 71.000-74.000 dòlars, amb el 21 de novembre com a data en què creu que acabarà la correcció.",
+     "t": 680
+    },
+    {
+     "text": "La tendència de fons continua sent alcista des de la superació dels 82.000 del maig, tot i que a curt termini hi ha màxims i mínims decreixents; no espera atacar un nou màxim (per sobre de 87.400) fins gener o febrer.",
+     "t": 872
+    },
+    {
+     "text": "Sobre el hackeig de Binance, considera que els 6.300 milions robats (dels quals ja se'n recuperen 3.000) són relativament petits per a la mida de l'exchange, i que el mercat s'ho prendrà amb calma quan es reprenguin les retirades.",
+     "t": 976
+    }
+   ],
+   "dades": [
+    "Tether: 8.000 M$ de reserves excedents, 1.500 M$ de guanys al T3",
+    "Objectiu de tancament mensual de Bitcoin: ~78.500 $",
+    "Possible correcció fins a 71.000-74.000 $",
+    "Data clau per al final de la correcció: 21 de novembre"
+   ],
+   "conclusio": "Cal esperar el cap de setmana sense atacs i, sobretot, els resultats de les eleccions dels EUA del dimarts per preveure cap a on es mourà el mercat, amb força volatilitat en els dies següents.",
+   "temes": [
+    "bitcoin",
+    "mercats",
+    "eleccions eua",
+    "tether",
+    "binance",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "hRvdFrJCcCM",
+   "titol": "Roban 6.300 millones a Binance: ¿están seguras tus criptos?",
+   "data": "2026-10-30T19:07:43+00:00",
+   "canal": "rallo",
+   "durada": 1388,
+   "idioma": "es",
+   "resum": "Juan Ramón Rallo reconstrueix minut a minut el robo de 6.300 milions de dòlars a Binance, el més gran de la història de les criptomonedes, i explica el mecanisme: no es van robar claus privades, sinó que el propi sistema de signatures de l'exchange va validar ordres de retirada falses. En conclou que cap exchange és immune i repassa les defenses possibles, incloent l'autocustòdia.",
+   "punts": [
+    {
+     "text": "El robo es va executar en uns 20 minuts la nit del 29 d'octubre: 10 blockchains diferents (Bitcoin, Ether, XRP, Solana, Tron, Avalanche, Polygon...) van buidar monederos de Binance cap a les mateixes mans, pel valor total de 6.300 milions de dòlars.",
+     "t": 0
+    },
+    {
+     "text": "Binance assegura que els fons dels usuaris estan segurs i que cobrirà totes les pèrdues amb el seu fons d'emergència i recursos propis; n'ha apartat més de 6.300 milions, dels quals 5.000 milions ja són en els mateixos tokens robats.",
+     "t": 155
+    },
+    {
+     "text": "S'han congelat uns 3.000 milions de dòlars, sobretot en stablecoins (Tether 1.770 M$ en USDT, Circle 825 M$ en USDC); el lladre, sabent-ho, va convertir ràpidament part del botí a Ether per evitar el bloqueig.",
+     "t": 186
+    },
+    {
+     "text": "L'atac no va robar claus privades: segons Binance, va començar en el portàtil compromès d'un enginyer, des d'on l'atacant va aconseguir que el propi sistema de signatures de l'empresa validés ordres de retirada no autoritzades en 10 blockchains amb sistemes de clau diferents.",
+     "t": 420
+    },
+    {
+     "text": "Rallo compara el cas amb el robo de 2016 al Banc Central de Bangladesh (951 milions de dòlars via Swift) i apunta que, igual que en aquell cas, darrere de l'atac a Binance sembla estar-hi el grup Lazarus de Corea del Nord.",
+     "t": 480
+    },
+    {
+     "text": "Corea del Nord hauria robat uns 2.000 milions de dòlars en criptoactius el 2025 (el 60% del total robat al món) i uns 6.750 milions acumulats històricament abans de l'atac a Binance; els EUA sostenen que aquests fons financen els seus programes nuclear i balístic.",
+     "t": 668
+    },
+    {
+     "text": "Les tres línies de defensa d'un exchange són: mantenir poc saldo al monedero calent (Binance tenia 6.300 M$ exposats), afegir friccions i segones aprovacions a la signatura de retirades grans, i tenir capital propi suficient per absorbir un robo (DMM Bitcoin va fallir i Mt. Gox va trigar 10 anys a tornar bitcoins).",
+     "t": 1891
+    },
+    {
+     "text": "Com a alternativa, l'autocustòdia amb monedero fred evita dependre de l'exchange, però exigeix fer-la bé: comprar el dispositiu nou, afegir aleatorietat pròpia, guardar la frase llavor en paper o metall i considerar multisignatura; també té riscos (fallades de firmware a Coldcard i Ledger, pèrdua de claus, segrestos a Francia).",
+     "t": 1049
+    }
+   ],
+   "dades": [
+    "6.300 M$ robats a Binance en ~20 minuts",
+    "~3.000 M$ congelats (stablecoins)",
+    "Corea del Nord: ~2.000 M$ robats el 2025, 60% del total mundial",
+    "Mt. Gox: 850.000 bitcoins perduts el 2014"
+   ],
+   "conclusio": "El robo no trenca ni Bitcoin ni la lògica dels exchanges, però deixa clar que cap custòdia és lliure de risc: cal triar amb consciència entre exchange i autocustòdia sabent que totes dues opcions tenen costos i riscos.",
+   "temes": [
+    "binance",
+    "ciberseguretat",
+    "criptomonedes",
+    "corea del nord",
+    "autocustòdia",
+    "bitcoin"
+   ],
+   "lot": "2026-10-31"
+  },
+  {
+   "id": "8JTerpJTfos",
+   "titol": "¿Qué ha pasado en BINANCE? Corea del norte y el RIESGO que nadie ve",
+   "data": "2026-10-30T17:00:27+00:00",
+   "canal": "pablogil",
+   "durada": 820,
+   "idioma": "es",
+   "resum": "Pablo Gil analitza l'atac a Binance, estimat en 6.300 milions de dòlars, i explica per què és clau distingir entre seguretat, liquiditat i solvència. Aprofita el cas per defensar l'autocustòdia de criptomonedes amb wallets fredes davant del risc de contrapart als exchanges.",
+   "punts": [
+    {
+     "text": "Binance ha comunicat un atac amb un impacte estimat de 6.300 milions de dòlars, més de quatre vegades el de Bybit (1.500 milions, febrer 2025), i ha suspès temporalment les retirades.",
+     "t": 27
+    },
+    {
+     "text": "Binance diu haver congelat uns 3.000 milions de dòlars dels fons afectats; queden uns 3.300 milions sense aclarir, i congelar no vol dir recuperar.",
+     "t": 153
+    },
+    {
+     "text": "Segons informació preliminar, els atacants haurien comprès l'ordinador d'un enginyer i interferit en la infraestructura de signatura i autorització de transaccions; Binance diu no tenir proves de filtració de claus privades.",
+     "t": 214
+    },
+    {
+     "text": "Algunes firmes d'anàlisi blockchain apunten a actors vinculats a Corea del Nord, amb el precedent del FBI atribuint-los l'atac a Bybit el 2025, però és una atribució, no una sentència.",
+     "t": 339
+    },
+    {
+     "text": "Binance s'ha compromès a reembossar les pèrdues amb recursos propis (uns 6.340 milions de dòlars disponibles segons Coindesk), sense que estigui confirmat l'ús del fons Safu.",
+     "t": 401
+    },
+    {
+     "text": "Pablo Gil distingeix tres conceptes: seguretat (evitar accessos no autoritzats), liquiditat (poder atendre retirades) i solvència (tenir prou actius); un incident de seguretat no implica insolvència però pot generar una crisi de confiança.",
+     "t": 463
+    },
+    {
+     "text": "Recomana l'autocustòdia amb wallet freda per a inversions a llarg termini, ja que elimina la dependència de l'exchange per autoritzar retirades, tot i advertir que perdre la frase de recuperació suposa perdre els fons per sempre.",
+     "t": 554
+    }
+   ],
+   "dades": [
+    "6.300 M$ d'impacte estimat a Binance",
+    "~3.000 M$ congelats, ~3.300 M$ sense aclarir",
+    "Atac a Bybit (2025): 1.500 M$",
+    "~6.340 M$ disponibles de Binance per compensar"
+   ],
+   "conclusio": "Abans de mirar quant pot pujar Bitcoin, cal entendre on està custodiat, qui controla les claus i quina capacitat es té de recuperar l'accés si la plataforma suspèn les retirades.",
+   "temes": [
+    "binance",
+    "ciberseguretat",
+    "criptomonedes",
+    "autocustòdia",
+    "corea del nord",
+    "bitcoin"
+   ],
+   "lot": "2026-10-31"
+  },
+  {
    "id": "6dHJgF3WymA",
    "titol": "Bitcoin. Hackeo de Binance. Mercado sigue correctivo independientemente del hackeo.",
    "data": "2026-10-30T09:00:16+00:00",
@@ -6959,9 +7124,19 @@
     "Mercat laboral: Marc Vidal explica l'oferta de sortida voluntària de Microsoft a 60.000 empleats i com les tecnològiques desplacen la despesa de nòmines cap a centres de dades d'IA, tancant l'entrada als llocs junior.",
     "Fons públics: tant Rallo (ADIF prioritza pensions i sous públics abans que manteniment) com Vidal (menys cotitzacions si la inversió es desplaça a centres de dades) assenyalen que la pressió fiscal futura dependrà de decisions polítiques, no de manca de recursos."
    ]
+  },
+  "2026-10-31": {
+   "titular": "El hackeig de 6.300 milions a Binance centra el dia, mentre el mercat cripto cau sobretot per un desplom general de borses i matèries primeres davant les eleccions dels EUA.",
+   "punts": [
+    "Binance: Pablo Gil i Juan Ramón Rallo coincideixen que l'atac de 6.300 milions de dòlars no va robar claus privades, sinó que va aconseguir que el propi sistema de signatures de l'exchange validés retirades falses; tots dos apunten al grup Lazarus de Corea del Nord com a sospitós més probable.",
+    "Recuperació: dels 6.300 milions robats, uns 3.000 milions s'han pogut congelar (sobretot en stablecoins com USDT i USDC) i Binance s'ha compromès a cobrir la resta amb recursos propis.",
+    "Autocustòdia: Pablo Gil i Rallo recomanen tots dos valorar les wallets fredes per reduir la dependència dels exchanges, però Rallo matisa que l'autocustòdia també té riscos (fallades de firmware, pèrdua de claus, segrestos) i exigeix fer-la bé.",
+    "Mercats: Bitcoin al día atribueix la caiguda de Bitcoin sobretot a un desplom general dels mercats (borsa, or, plata) i només en petita part al hackeig de Binance, a diferència del to dels altres dos canals centrats en la ciberseguretat.",
+    "Setmana que ve: les eleccions dels EUA del 3 de novembre marcaran la volatilitat dels propers dies, segons Bitcoin al día."
+   ]
   }
  },
- "actualitzat": "2026-10-30T11:48:05.823Z",
+ "actualitzat": "2026-10-31T11:46:58.011Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
