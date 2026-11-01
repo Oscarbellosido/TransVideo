@@ -1,6 +1,127 @@
 {
  "videos": [
   {
+   "id": "AQiBOGUM0Xc",
+   "titol": "Bitcoin. Binance reanuda retiros y no ha habido ataque de EE.UU a Irán. El mercado recupera algo.",
+   "data": "2026-11-01T10:41:36+00:00",
+   "canal": "btcdia",
+   "durada": 814,
+   "idioma": "es",
+   "resum": "El mercat de criptomonedes comença a recuperar-se després del xoc del hackeig a Binance i sense que hi hagi hagut cap atac dels EUA a l'Iran durant el cap de setmana. L'autor espera una recuperació moderada abans de les eleccions dels Estats Units de dimarts, que considera el proper catalitzador de volatilitat.",
+   "punts": [
+    {
+     "text": "Binance reactiva els primers retirades (stablecoins, BNB i Ethereum via Binance SmartChain) després del hackeig, i ja ha reposat el 90% dels actius robats amb fons propis de sobra per cobrir-ho tot.",
+     "t": 36
+    },
+    {
+     "text": "L'FBI confirma que Corea del Nord és responsable del hackeig a Binance, en línia amb els rumors previs.",
+     "t": 96
+    },
+    {
+     "text": "El mercat recupera una mica i Bitcoin se situa als 78.164 $; l'autor espera una lleugera pujada dilluns gràcies a la calma a l'Iran, però preveu noves caigudes cap a les eleccions dels EUA de dimarts.",
+     "t": 157
+    },
+    {
+     "text": "El mercat està en fase de consolidació: espera superar la resistència dels 87.000 $ l'any vinent sense anar molt més enllà dels 93.000-97.000 $, amb pujades anuals properes al 15%.",
+     "t": 250
+    },
+    {
+     "text": "L'entrada d'institucionals s'ha frenat perquè empreses com les que tenien grans reserves de liquiditat han destinat aquests diners a la intel·ligència artificial en lloc d'invertir-los en criptomonedes.",
+     "t": 282
+    },
+    {
+     "text": "L'impacte del hackeig per a Binance és menor: tot i perdre un 40% dels beneficis de l'any, només representa prop del 2% dels seus actius totals; el dany principal és la pèrdua de confiança, no l'econòmic.",
+     "t": 591
+    },
+    {
+     "text": "Després de les eleccions dels EUA es produirà una reestructuració de carteres entre sectors, i l'autor no sap si Bitcoin en sortirà beneficiat o perjudicat.",
+     "t": 743
+    }
+   ],
+   "dades": [
+    "Bitcoin: 78.164 $",
+    "Binance: 90% dels actius robats ja reposats",
+    "Resistència clau: 87.000 $ (objectiu per al 2027, sense superar gaire els 93.000-97.000 $)",
+    "Hackeig Binance: ~40% dels beneficis anuals però <2% dels actius totals"
+   ],
+   "conclusio": "El mercat es va estabilitzant després de l'ensurt del hackeig a Binance, però l'autor recomana prudència: la propera gran font de volatilitat seran les eleccions dels EUA de dimarts, i no espera grans alegries fins a final d'any.",
+   "temes": [
+    "bitcoin",
+    "binance",
+    "criptomonedes",
+    "hackeig",
+    "eleccions eua",
+    "altcoins"
+   ],
+   "lot": "2026-11-01"
+  },
+  {
+   "id": "6M7ZM04FMDI",
+   "titol": "Google, Intel y Reddit se hunden… por culpa de la IA",
+   "data": "2026-10-31T18:15:21+00:00",
+   "canal": "rallo",
+   "durada": 1567,
+   "idioma": "es",
+   "resum": "Rallo explica que les fortes caigudes en borsa d'Alphabet, Intel, Reddit i Service Now no són el símptoma d'una bombolla de la IA que esclata, sinó justament el contrari: la IA està triomfant tant que canibalitza negocis tradicionals (cercador, fòrums, llicències de programari) i encareix recursos escassos (memòria), i això és el que castiga la cotització.",
+   "punts": [
+    {
+     "text": "El Nasdaq cau gairebé un 8% des de màxims d'octubre, amb desplomades històriques d'Alphabet, Service Now, Intel i Reddit, però la demanda real de IA (cerques, xips, memòria) creix amb força: no hi ha senyals de bombolla esclatant.",
+     "t": 62
+    },
+    {
+     "text": "Google Cloud duplica ingressos (+103%, 30.700 M$) amb 560.000 M$ en contractes pendents, i SK Hynix té tota la seva producció de memòria venuda fins al 2029: la demanda de IA és desbordant, no feble.",
+     "t": 153
+    },
+    {
+     "text": "Dos canals expliquen les caigudes: la IA canibalitza negocis rendibles (cercador, fòrums, llicències per usuari) i absorbeix recursos escassos (memòria) que encareixen els costos d'altres sectors.",
+     "t": 246
+    },
+    {
+     "text": "El flux de caixa lliure d'Alphabet és negatiu (-9.000 M$ al tercer trimestre) perquè la inversió en centres de dades (200.000 M$ aquest any) supera la caixa que genera un cercador cada cop menys rendible per culpa del mode IA.",
+     "t": 399
+    },
+    {
+     "text": "Reddit ha perdut més d'1 milió de visites setmanals des d'octubre perquè Google ja no envia trànsit cap als seus fils, sinó que els resumeix directament; la seva resposta és tancar contingut a usuaris registrats.",
+     "t": 552
+    },
+    {
+     "text": "Service Now cau perquè la seva cartera de contractes futurs creix només un 18% en lloc del 20% esperat, confirmant la por de tot el sector: els agents de IA redueixen la necessitat de llicències per empleat.",
+     "t": 675
+    },
+    {
+     "text": "Intel perd 140.000 M$ de valor en borsa perquè les vendes d'ordinadors personals cauen (-20% trimestral) per l'encariment brutal de la memòria HBM, que els fabricants desvien cap a la IA (ja absorbeix el 70% de la memòria d'alta gamma mundial).",
+     "t": 952
+    },
+    {
+     "text": "La memòria arriba a costar deu vegades més que el gener de 2025; a HP ja suposa el 35% del cost d'un portàtil (abans el 15%), i això s'estén a Dell, HP, AMD i Qualcomm, que també cauen en borsa.",
+     "t": 1047
+    },
+    {
+     "text": "El risc real no és que la IA fracassi, sinó que les grans tecnològiques que financen la inversió en centres de dades vegin erosionat el seu negoci tradicional i acabin frenant aquesta inversió.",
+     "t": 1412
+    }
+   ],
+   "dades": [
+    "Nasdaq: -8% des de màxims d'octubre",
+    "Google Cloud: +103% d'ingressos, 560.000 M$ en contractes pendents",
+    "Alphabet: flux de caixa lliure de -9.000 M$ al T3",
+    "Reddit: +1 milió de visites menys per setmana des de cercadors a l'octubre",
+    "Memòria: fins a 10 vegades més cara que el gener de 2025",
+    "Intel: -140.000 M$ de valor en borsa en una sessió"
+   ],
+   "conclusio": "No estem davant d'un esclat de la bombolla de la IA sinó de destrucció creativa: la IA genera molt valor però el reparteix de manera desigual, i el risc dels pròxims trimestres és que les empreses que han de finançar la inversió en centres de dades es vegin asfixiades pel seu propi negoci tradicional i acabin invertint menys.",
+   "temes": [
+    "intel·ligència artificial",
+    "borsa",
+    "alphabet",
+    "intel",
+    "reddit",
+    "memòria",
+    "centres de dades"
+   ],
+   "lot": "2026-11-01"
+  },
+  {
    "id": "qmUkuC9KtmI",
    "titol": "Bitcoin. El cierre mensual podría ser en torno a 78.500. Semana complicada por delante.",
    "data": "2026-10-31T09:58:26+00:00",
@@ -7134,9 +7255,18 @@
     "Mercats: Bitcoin al día atribueix la caiguda de Bitcoin sobretot a un desplom general dels mercats (borsa, or, plata) i només en petita part al hackeig de Binance, a diferència del to dels altres dos canals centrats en la ciberseguretat.",
     "Setmana que ve: les eleccions dels EUA del 3 de novembre marcaran la volatilitat dels propers dies, segons Bitcoin al día."
    ]
+  },
+  "2026-11-01": {
+   "titular": "La IA sembla fer esclatar borses senceres (Google, Intel, Reddit) mentre el mercat cripto es recupera de l'ensurt del hackeig a Binance a l'espera de les eleccions dels EUA",
+   "punts": [
+    "Borsa i IA: Juan Ramón Rallo defensa que les caigudes d'Alphabet, Intel, Reddit i Service Now no són l'esclat d'una bombolla, sinó el resultat d'una IA que triomfa tant que canibalitza negocis tradicionals i encareix la memòria que tots necessiten.",
+    "Risc real: el perill no és que la IA fracassi, sinó que les tecnològiques que financen els centres de dades vegin erosionat el seu negoci tradicional i acabin frenant la inversió.",
+    "Binance: ja s'ha reposat el 90% dels actius robats en el hackeig, que l'FBI atribueix a Corea del Nord; l'impacte econòmic per a l'exchange és petit (menys del 2% dels seus actius).",
+    "Cripto: Bitcoin es recupera fins als 78.164 $ després del xoc del hackeig i sense atac dels EUA a l'Iran, però s'espera més volatilitat de cara a les eleccions dels EUA de dimarts."
+   ]
   }
  },
- "actualitzat": "2026-10-31T11:46:58.011Z",
+ "actualitzat": "2026-11-01T11:48:29.303Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
@@ -7290,6 +7420,33 @@
     "26 d'octubre: tancament de candidatures per a les generals espanyoles del 29 de novembre, que segons Rallo pot moure escons sense canviar un vot.",
     "11 de novembre: vaga general convocada a Espanya, en el marc de les protestes que s'estenen per Europa.",
     "Eleccions dels EUA: Bitcoin al día espera una pujada de tipus de la Reserva Federal després, si el petroli i la inflació segueixen alts."
+   ]
+  },
+  "2026-11-01": {
+   "des_de": "2026-10-26",
+   "titular": "El hackeig més gran de la història de les criptomonedes sacseja Binance mentre la intel·ligència artificial sembla fer trontollar Wall Street i la seguretat ferroviària espanyola torna a qüestionar-se",
+   "punts": [
+    "Hackeig a Binance. Robatori de 6.300 milions de dòlars, el més gran de la història cripto: no es van robar claus privades, sinó que es van falsificar ordres de retirada. L'FBI atribueix l'atac a Corea del Nord i Binance ja ha reposat el 90% dels fons (Bitcoin al día, Rallo, Pablo Gil).",
+    "Bombolla de la IA en qüestió. Setmana de fortes caigudes en borsa d'Alphabet, Intel, Reddit i Service Now que Rallo interpreta no com l'esclat d'una bombolla, sinó com la IA canibalitzant negocis tradicionals i encarint la memòria que tots necessiten.",
+    "Sortida a borsa d'Anthropic. Rallo analitza el full de sortida al Nasdaq amb una valoració d'uns 2 bilions de dòlars: el negoci d'inferència ja és rentable, però la supervivència depèn de seguir al capdavant de la carrera de models.",
+    "IA i ocupació. Marc Vidal explica que l'oferta de sortida voluntària de Microsoft a 60.000 empleats no és substitució per màquines, sinó un desviament de la despesa de nòmines cap a centres de dades que tanca sobretot l'entrada als llocs junior.",
+    "Seguretat ferroviària a Espanya. L'accident de dos trens a Urda (Rallo i Vidal) revela una fallada del sistema LZB i la manca de l'ERTMS previst, repetint deu mesos després l'accident d'Adamuz sense que s'hagin aclarit responsabilitats.",
+    "Bitcoin en correcció. Bitcoin al día manté el 21 de novembre com a horitzó per al mínim de la correcció, amb el mercat pendent de les eleccions dels EUA del 3 de novembre."
+   ],
+   "coincideixen": [
+    "Impacte del hackeig. Bitcoin al día, Rallo i Pablo Gil coincideixen que, tot i ser el robatori més gran de la història cripto, l'impacte és assumible per a Binance: té fons de sobra i la pèrdua no arriba al 2% dels seus actius totals.",
+    "Autocustòdia. Rallo i Pablo Gil aprofiten el hackeig per insistir en els riscos de contrapart dels exchanges centralitzats i en la conveniència de valorar l'autocustòdia de criptomonedes.",
+    "La IA desplaça, no fracassa. Rallo (Google, Intel, Reddit, Service Now) i Vidal (ocupació a les tecnològiques) coincideixen que la IA no està fracassant, sinó desplaçant ingressos i llocs de treball dels negocis tradicionals cap a nous models."
+   ],
+   "discrepen": [
+    "Origen de la caiguda de Bitcoin. Bitcoin al día assenyala el desplom generalitzat dels mercats (borsa, or, plata) com a causa principal de la caiguda, per davant del hackeig de Binance; Pablo Gil i Rallo, en canvi, centren l'anàlisi en la pròpia solvència i liquiditat de l'exchange.",
+    "Responsabilitat de l'accident ferroviari. Rallo centra la culpa en la gestió pública de la infraestructura de l'AVE i el seu manteniment; Vidal posa l'accent en la manca de transparència sobre el contracte de l'ERTMS i demana una investigació independent del Ministeri."
+   ],
+   "a_vigilar": [
+    "Eleccions dels EUA (3 de novembre). Bitcoin al día i Rallo els consideren el proper catalitzador de volatilitat per a la borsa i les criptomonedes.",
+    "21 de novembre. Bitcoin al día manté aquesta data com l'horitzó en què espera que acabi la correcció de Bitcoin.",
+    "Recuperació total dels fons de Binance. Bitcoin al día, Rallo i Pablo Gil vigilen si Binance acaba de reposar el 100% dels actius robats.",
+    "Inversió de les grans tecnològiques en centres de dades. Rallo assenyala que cal vigilar si Alphabet i altres mantenen el ritme d'inversió en IA o el frenen per la pressió sobre els seus negocis tradicionals."
    ]
   }
  }
