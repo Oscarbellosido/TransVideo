@@ -1,6 +1,168 @@
 {
  "videos": [
   {
+   "id": "2zn4YPHzGZQ",
+   "titol": "Bitcoin. Recuperación cautelosa tras vorlar la normalidad a Binance y ausencia de ataques en Irán.",
+   "data": "2026-11-02T08:34:47+00:00",
+   "canal": "btcdia",
+   "durada": 841,
+   "idioma": "es",
+   "resum": "Binance torna a la normalitat després del hackeig i només ha sortit un 3,39% dels fons dels clients, senyal de confiança mantinguda. Bitcoin rebota amb cautela a l'espera de les eleccions dels EUA i després de l'absència d'atacs a l'Iran durant el cap de setmana.",
+   "punts": [
+    {
+     "text": "Binance: les sortides netes arriben a 5.800 milions de dòlars, però només representen un 3,39% dels 171.000 milions en actius de clients; el 96% hi manté la confiança.",
+     "t": 100
+    },
+    {
+     "text": "Bitcoin ha rebotat fins a 78.878 dòlars, prop de la zona de 79.220 que actua com a resistència.",
+     "t": 163
+    },
+    {
+     "text": "Demà hi ha eleccions als EUA i això genera incertesa: s'espera que el mercat corregeixi els primers dies després del resultat.",
+     "t": 193
+    },
+    {
+     "text": "El petroli cau un 3,24% perquè no hi ha hagut l'atac dels EUA a l'Iran que es temia aquest cap de setmana, cosa que alleuja els mercats.",
+     "t": 283
+    },
+    {
+     "text": "En el gràfic mensual, Bitcoin encara està per sota del nivell de suport perdut el mes anterior; si el recupera pot anar cap a 81-83, si no pot caure cap a 73-74.",
+     "t": 406
+    },
+    {
+     "text": "Entre les altcoins, Ethereum puja un 0,86% i es recupera bé, mentre que Solana continua rere en el rebot, com sol passar en aquestes fases.",
+     "t": 719
+    }
+   ],
+   "dades": [
+    "5.800 milions $ de sortides a Binance (3,39% dels actius)",
+    "Bitcoin a 78.143 $",
+    "Petroli -3,24%",
+    "Ethereum +0,86%"
+   ],
+   "conclusio": "El mercat rebota amb cautela després del pànic del cap de setmana, però l'autor espera noves caigudes aquesta setmana per la incertesa electoral als EUA.",
+   "temes": [
+    "bitcoin",
+    "binance",
+    "eleccions eua",
+    "petroli",
+    "altcoins",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "hoCvbazhmJ0",
+   "titol": "Bitcoin no fue hackeado: ¿será el activo más rentable de la próxima década?",
+   "data": "2026-11-01T19:09:03+00:00",
+   "canal": "rallo",
+   "durada": 1200,
+   "idioma": "es",
+   "resum": "Rallo explica que l'atac a Binance va ser un hackeig de l'exchange, no de Bitcoin: el protocol no s'ha trencat, només es va manipular Binance perquè signés transferències. A partir d'aquí analitza l'informe de JP Morgan que preveu que Bitcoin serà més rendible que la borsa i l'or la propera dècada.",
+   "punts": [
+    {
+     "text": "El hacker no va trencar cap regla de Bitcoin ni va falsificar firmes: va aconseguir que Binance, com a custodi, signés les transferències per ell.",
+     "t": 216
+    },
+    {
+     "text": "Hackejar Bitcoin de debò només seria possible de tres maneres: trencar la criptografia de les claus privades, fer un atac del 51% (costaria desenes de milers de milions de dòlars), o explotar un error de codi; cap de les tres ha passat.",
+     "t": 310
+    },
+    {
+     "text": "Dels fons robats a Binance, uns 3.000 milions en stablecoins com USDT s'han pogut congelar, però els 1.400 milions en Bitcoin repartits en 19 carteres no els ha pogut bloquejar ningú: prova que Bitcoin és inconfiscable.",
+     "t": 431
+    },
+    {
+     "text": "L'informe Long Term Capital Market Assumptions de JP Morgan preveu una rendibilitat anual mitjana del 10% per a Bitcoin, davant del 7,5% de la borsa dels EUA i el 5,5% de l'or.",
+     "t": 685
+    },
+    {
+     "text": "Bitcoin té una volatilitat anual del 55% (triple que la borsa o l'or), però el ràtio de Sharpe que calcula JP Morgan és de 0,32, igual que la borsa i millor que l'or (0,21).",
+     "t": 767
+    },
+    {
+     "text": "JP Morgan dona tres escenaris: central (10% anual, Bitcoin a 215.000 $ el 2036), optimista (16,6%, 385.000 $) i pessimista (-11,2% anual, 25.000 $).",
+     "t": 858
+    },
+    {
+     "text": "El model de JP Morgan es basa en comparar el ritme fix de creació de Bitcoin amb el creixement de la massa monetària fiat (65% de pes), en Bitcoin com a substitut de l'or (30%) i en l'ús transaccional de la xarxa (5%).",
+     "t": 949
+    }
+   ],
+   "dades": [
+    "Bitcoin a JP Morgan: 10% rendibilitat anual esperada",
+    "Volatilitat Bitcoin 55% vs 18% borsa i 17% or",
+    "1.400 milions $ en Bitcoin robat a Binance no s'han pogut congelar"
+   ],
+   "conclusio": "L'autor conclou que Bitcoin no ha estat hackejat, el que ha fallat és la custòdia de Binance, i que la tesi de JP Morgan sobre la seva rendibilitat futura depèn implícitament de que Bitcoin mantingui la seva propietat d'ser inconfiscable i escàs.",
+   "temes": [
+    "bitcoin",
+    "binance",
+    "jp morgan",
+    "seguretat criptogràfica",
+    "inversió",
+    "stablecoins"
+   ],
+   "lot": "2026-11-02"
+  },
+  {
+   "id": "XKlP88giYKo",
+   "titol": "¿Puede la IA CONTROLAR tu dinero? Anthropic advierte de 7 GRANDES RIESGOS",
+   "data": "2026-11-01T17:00:29+00:00",
+   "canal": "pablogil",
+   "durada": 2244,
+   "idioma": "es",
+   "resum": "Pablo Gil repassa els set riscos que Anthropic reconeix al fullet de la seva sortida a borsa i els connecta amb la pregunta de fins a quin punt hauríem de deixar que agents autònoms gestionin els nostres diners. També analitza les xifres financeres d'Anthropic i l'impacte de la IA i la robòtica en l'ocupació.",
+   "punts": [
+    {
+     "text": "Anthropic reconeix set riscos al seu fullet de sortida a borsa: pèrdua de control, resistència a ser apagats, manipulació i xantatge, autonomia excessiva, usos maliciosos, vigilància massiva i risc existencial.",
+     "t": 250
+    },
+    {
+     "text": "Alguns dels grans bancs dels EUA ja estan limitant l'accés dels agents autònoms a les seves plataformes per por del que puguin fer amb els diners dels clients.",
+     "t": 739
+    },
+    {
+     "text": "L'autor distingeix entre consultar un compte, preparar una operació i executar-la: creu que els agents haurien de necessitar confirmació humana per sobre d'un import determinat.",
+     "t": 801
+    },
+    {
+     "text": "Cotxes autònoms (Waymo) i robots humanoides (Unitree, Figure) avancen cap a tasques que fins ara necessitaven una persona, el que planteja dubtes sobre el futur de molts llocs de treball.",
+     "t": 1074
+    },
+    {
+     "text": "Anthropic va ingressar 16.300 milions de dòlars el primer semestre de 2026, 13 vegades més que fa un any, però es va gastar 8.900 milions només en computació.",
+     "t": 1534
+    },
+    {
+     "text": "Anthropic té compromisos contractuals de computació per 417.000 milions de dòlars a llarg termini i va declarar una pèrdua neta comptable de 80.700 milions, en bona part per ajustos de deute convertible, no per sortida real de caixa.",
+     "t": 1655
+    },
+    {
+     "text": "Alguns inversors valoren Anthropic entre 1,4 i 2 bilions de dòlars; l'autor avisa que una tecnologia pot ser transformadora i, tot i així, una mala inversió si el preu ja incorpora massa expectatives.",
+     "t": 1900
+    }
+   ],
+   "dades": [
+    "7 riscos reconeguts per Anthropic",
+    "Ingressos Anthropic 1S 2026: 16.300 M$ (vs 1.200 M$ fa un any)",
+    "Compromisos de computació: 417.000 M$",
+    "Pèrdua neta comptable: 80.700 M$",
+    "Valoració estimada: 1,4-2 bilions $"
+   ],
+   "conclusio": "Gil conclou que delegar diners i decisions en agents de IA pot ser útil però cal establir límits clars de control, i que l'entusiasme financer per Anthropic no hauria de confondre's amb la certesa de la seva rendibilitat futura.",
+   "temes": [
+    "intel·ligència artificial",
+    "anthropic",
+    "agents autònoms",
+    "banca",
+    "robòtica",
+    "ocupació",
+    "mercats financers"
+   ],
+   "lot": "2026-11-02"
+  },
+  {
    "id": "AQiBOGUM0Xc",
    "titol": "Bitcoin. Binance reanuda retiros y no ha habido ataque de EE.UU a Irán. El mercado recupera algo.",
    "data": "2026-11-01T10:41:36+00:00",
@@ -7264,9 +7426,19 @@
     "Binance: ja s'ha reposat el 90% dels actius robats en el hackeig, que l'FBI atribueix a Corea del Nord; l'impacte econòmic per a l'exchange és petit (menys del 2% dels seus actius).",
     "Cripto: Bitcoin es recupera fins als 78.164 $ després del xoc del hackeig i sense atac dels EUA a l'Iran, però s'espera més volatilitat de cara a les eleccions dels EUA de dimarts."
    ]
+  },
+  "2026-11-02": {
+   "titular": "Els mercats respiren amb cautela a hores de les eleccions dels EUA i Rallo defensa que l'atac a Binance no va trencar Bitcoin",
+   "punts": [
+    "Bitcoin. Bitcoin al día destaca que de Binance només ha sortit un 3,39% dels fons de clients tot i el hackeig, i que el mercat rebota amb cautela a l'espera de les eleccions dels EUA de demà.",
+    "Seguretat. Juan Ramón Rallo insisteix en la mateixa línia: l'atac va ser a Binance com a custodi, no a Bitcoin, i el fet que els 1.400 milions en Bitcoin robats no s'hagin pogut congelar demostra que la xarxa és inconfiscable.",
+    "Inversió. Rallo repassa l'informe de JP Morgan, que preveu per a Bitcoin una rendibilitat del 10% anual la propera dècada, per sobre de la borsa i l'or, encara que amb una volatilitat tres vegades superior.",
+    "Intel·ligència artificial. Pablo Gil analitza els set riscos que Anthropic reconeix al fullet de sortida a borsa (pèrdua de control, xantatge, risc existencial, entre altres) i com això es tradueix en bancs dels EUA limitant l'accés d'agents autònoms als comptes dels clients.",
+    "Finances d'Anthropic. Gil subratlla que Anthropic va ingressar 16.300 milions de dòlars el primer semestre de 2026 però es va gastar 8.900 milions en computació, amb compromisos futurs de 417.000 milions."
+   ]
   }
  },
- "actualitzat": "2026-11-01T11:48:29.303Z",
+ "actualitzat": "2026-11-02T11:47:38.299Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
