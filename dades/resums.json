@@ -1,6 +1,160 @@
 {
  "videos": [
   {
+   "id": "Xqdc_HmecA8",
+   "titol": "Bitcoin sigue en corrección. Los mercados siguen complicados a la espera de las elecciones.",
+   "data": "2026-11-03T10:01:15+00:00",
+   "canal": "btcdia",
+   "durada": 833,
+   "idioma": "es",
+   "resum": "El canal analitza la correcció de Bitcoin, que ha passat de la zona dels 87.000$ a per sota dels 77.000$, i la cautela que mostra Strategy (MicroStrategy) en les seves compres. Repassa també la caiguda dels índexs borsistes i de les altcoins, tot a l'espera de la reacció del mercat al resultat de les eleccions als Estats Units.",
+   "punts": [
+    {
+     "text": "Strategy va vendre accions per uns 370 milions de dòlars i va destinar 208 milions a recomprar accions preferents STRC, 65,5 milions a comprar Bitcoin i 98,5 milions els va guardar en efectiu.",
+     "t": 37
+    },
+    {
+     "text": "Aquesta prudència (reduir deute en lloc de comprar més Bitcoin malgrat la correcció) suggereix, segons el presentador, que Strategy no té tanta confiança com diu en una pujada ràpida del preu.",
+     "t": 98
+    },
+    {
+     "text": "El petroli es va enfonsar en no confirmar-se cap atac dels EUA a l'Iran, i l'S&P 500 ha trencat el suport que tenia a la zona dels 7.580 punts; el Nasdaq també segueix caient amb força.",
+     "t": 223
+    },
+    {
+     "text": "Bitcoin es manté prop d'una zona de suport i, si l'aguanta, el presentador no espera que torni a atacar els 87.000$ fins a finals de gener o principis de febrer, encara que podria acostar-s'hi a final d'any.",
+     "t": 377
+    },
+    {
+     "text": "Entre les altcoins, Ethereum recupera, possiblement perquè els hackers del cas Binance estan movent els fons robats cap a Ethereum; Cardano segueix als mínims i Backpack continua en correcció amb un nivell clau als 0,7649.",
+     "t": 641
+    },
+    {
+     "text": "El dia queda marcat per les eleccions als Estats Units: la reacció del mercat al resultat determinarà la direcció a curt termini de Bitcoin i dels índexs borsistes.",
+     "t": 749
+    }
+   ],
+   "dades": [
+    "Bitcoin cau de ~87.000$ a per sota de 77.000$",
+    "Strategy: 208M$ en recompra d'accions preferents, 65,5M$ en Bitcoin i 98,5M$ en efectiu",
+    "Suport de l'S&P 500 trencat a la zona dels 7.580 punts",
+    "Possible zona de mínims de Bitcoin cap al 17-21 de novembre"
+   ],
+   "conclusio": "El presentador recomana prudència: el mercat espera el resultat de les eleccions als Estats Units per decidir direcció, i no espera que Bitcoin torni a atacar els 87.000$ fins a finals de gener o principis de febrer.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "microstrategy",
+    "mercats",
+    "eleccions eua",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "-S4nNNh52dg",
+   "titol": "La IA golpea al Estado: menos funcionarios y millones de reclamaciones",
+   "data": "2026-11-02T19:51:15+00:00",
+   "canal": "rallo",
+   "durada": 1168,
+   "idioma": "es",
+   "resum": "Rallo explica com la intel·ligència artificial pot servir per aprimar l'Estat, tant perquè els governs la fan servir per necessitar menys funcionaris com perquè els ciutadans l'usen per saturar l'administració de reclamacions. Posa com a exemples el pla holandès de retallar la funció pública i la «inundació agèntica» de recursos al Regne Unit.",
+   "punts": [
+    {
+     "text": "Holanda anuncia un pla per tenir 25.000 funcionaris menys (16% de la plantilla) de cara a 2035, amb un estalvi de 900 milions d'euros el 2027 que ha d'arribar als 3.500 milions anuals des de 2035.",
+     "t": 91
+    },
+    {
+     "text": "La plantilla pública holandesa ha crescut un 41% des de 2018, sobretot en funcionaris dedicats a fer normativa (+56%) més que a executar-la (+28%); el pla es basa en estandarditzar, simplificar normes, podar òrgans consultius i aplicar IA.",
+     "t": 122
+    },
+    {
+     "text": "Al Regne Unit ha aparegut la «inundació agèntica»: cada cop més ciutadans fan servir chatbots per presentar recursos i queixes contra l'administració, desbordant burocràcies pensades per al correu postal.",
+     "t": 580
+    },
+    {
+     "text": "A Escòcia els recursos davant el comissionat d'informació pública han passat de 593 a 1.084 en un any (+83%), i una de cada vuit sol·licituds d'informació recents s'ha generat amb IA.",
+     "t": 736
+    },
+    {
+     "text": "A Alemanya i altres estats federats els tribunals de prestacions socials reben cada cop més demandes redactades amb IA; a Rin del Nord-Westfàlia els procediments urgents van créixer un 55% el 2025.",
+     "t": 800
+    },
+    {
+     "text": "Rallo planteja tres sortides per a l'Estat davant d'aquesta pressió: fer esperar més els ciutadans, créixer encara més contractant funcionaris, o aprofitar l'ocasió per retallar normes i promeses no prioritàries.",
+     "t": 1015
+    }
+   ],
+   "dades": [
+    "25.000 llocs menys a Holanda per 2035 (-16%)",
+    "Estalvi de 900 M€ (2027) a 3.500 M€/any (des de 2035)",
+    "Recursos de transparència a Escòcia: +83% en un any",
+    "1 de cada 8 sol·licituds d'informació al Regne Unit generades per IA",
+    "+55% de procediments urgents als tribunals socials de Rin del Nord-Westfàlia el 2025"
+   ],
+   "conclusio": "Rallo conclou que la IA pot aprimar l'Estat si els ciutadans l'usen per reclamar els drets que els tràmits feien massa cars de reclamar, però adverteix que l'Estat també pot aprofitar la pressió per créixer encara més; segons ell, caldria que serveixi per simplificar normes i reduir la burocràcia, no per fer-la més gran.",
+   "temes": [
+    "intel·ligència artificial",
+    "funció pública",
+    "burocràcia",
+    "holanda",
+    "regne unit",
+    "estat del benestar"
+   ],
+   "lot": "2026-11-03"
+  },
+  {
+   "id": "ub7-DQbrBnk",
+   "titol": "¿Por qué Lagarde abandona el BCE? 3 razones y lo que está en juego con el euro digital",
+   "data": "2026-11-02T19:00:29+00:00",
+   "canal": "vidal",
+   "durada": 1148,
+   "idioma": "es",
+   "resum": "Marc Vidal analitza l'anunci de Christine Lagarde de deixar la presidència del BCE el 7 de febrer de 2027, 8 mesos abans del que tocava, i planteja tres explicacions possibles: la seva pròpia (poder parlar amb llibertat), la de la premsa (que Macron triï el successor abans de les eleccions franceses) i la del calendari (un relleu pactat al Fòrum de Davos). Lliga aquest relleu amb la pressa per tancar el reglament de l'euro digital abans de marxar.",
+   "punts": [
+    {
+     "text": "El 29 d'octubre Lagarde anuncia que deixa el BCE el 7 de febrer de 2027, 8 mesos abans del que li tocava, sense que el BCE doni cap motiu oficial.",
+     "t": 0
+    },
+    {
+     "text": "Lagarde diu que marxa abans per poder parlar amb llibertat, ja que el càrrec l'obligava a una neutralitat que ella anomena «el preu» de ser independent.",
+     "t": 154
+    },
+    {
+     "text": "La versió de la premsa: avançar la sortida permet que Macron tanqui el nomenament del successor abans de les presidencials franceses de primavera de 2027, per evitar que l'extrema dreta hi tingui veu.",
+     "t": 277
+    },
+    {
+     "text": "El calendari de Lagarde coincideix amb el del Fòrum Econòmic Mundial de Davos, on podria succeir Klaus Schwab com a presidenta; la junta que ho decidirà la copresideixen André Hoffman i Larry Fink (BlackRock), i Lagarde n'és membre.",
+     "t": 369
+    },
+    {
+     "text": "Es juguen alhora 4 dels 6 seients del comitè executiu del BCE (Schnabel, Lane i ara Lagarde), repartits entre França, Alemanya, els Països Baixos i Espanya; sonen Klaas Knot, Joachim Nagel i Pablo Hernández de Cos.",
+     "t": 709
+    },
+    {
+     "text": "Dotze dies abans d'anunciar la sortida, Lagarde va demanar a Bangkok que s'aprovi el reglament de l'euro digital abans que acabi 2026; el pilot amb 36 bancs arribaria la segona meitat de 2027 i la decisió d'emetre'l de debò és de 2029.",
+     "t": 831
+    }
+   ],
+   "dades": [
+    "Surt el 7 de febrer de 2027, 8 mesos abans del previst",
+    "4 de 6 seients del comitè executiu del BCE canviaran de mans abans que acabi 2027",
+    "Reglament de l'euro digital: s'ha de tancar abans que acabi 2026",
+    "Pilot de l'euro digital amb 36 bancs la segona meitat de 2027, emissió definitiva el 2029"
+   ],
+   "conclusio": "Vidal conclou que el relleu a la presidència del BCE és, per damunt de tot, un repartiment de poder entre governs i institucions, no un simple canvi tècnic, i que el disseny de l'euro digital —qui decideix què podràs tenir i gastar— es resoldrà en el mateix repartiment, sense que els ciutadans hi puguin votar.",
+   "temes": [
+    "bce",
+    "lagarde",
+    "euro digital",
+    "política monetària",
+    "unió europea",
+    "banca central"
+   ],
+   "lot": "2026-11-03"
+  },
+  {
    "id": "2zn4YPHzGZQ",
    "titol": "Bitcoin. Recuperación cautelosa tras vorlar la normalidad a Binance y ausencia de ataques en Irán.",
    "data": "2026-11-02T08:34:47+00:00",
@@ -7436,9 +7590,17 @@
     "Intel·ligència artificial. Pablo Gil analitza els set riscos que Anthropic reconeix al fullet de sortida a borsa (pèrdua de control, xantatge, risc existencial, entre altres) i com això es tradueix en bancs dels EUA limitant l'accés d'agents autònoms als comptes dels clients.",
     "Finances d'Anthropic. Gil subratlla que Anthropic va ingressar 16.300 milions de dòlars el primer semestre de 2026 però es va gastar 8.900 milions en computació, amb compromisos futurs de 417.000 milions."
    ]
+  },
+  "2026-11-03": {
+   "titular": "Rallo veu en la IA una eina per aprimar l'Estat, Vidal destapa el repartiment de poder darrere la sortida de Lagarde del BCE i Bitcoin cau per sota dels 77.000$ a l'espera de les eleccions als EUA.",
+   "punts": [
+    "IA i funció pública: Rallo explica com Holanda planeja retallar 25.000 llocs de funcionari per 2035 amb ajuda de la IA, mentre al Regne Unit els ciutadans ja l'usen per saturar l'administració de reclamacions (la «inundació agèntica»).",
+    "Relleu al BCE: Vidal analitza per què Lagarde deixa la presidència 8 mesos abans del previst, i ho lliga amb el relleu al Fòrum de Davos i amb la pressa per tancar el reglament de l'euro digital abans de marxar.",
+    "Mercats: Bitcoin ha caigut de la zona dels 87.000$ a per sota dels 77.000$ i Strategy mostra prudència en les seves compres; els índexs borsistes també cauen a l'espera del resultat de les eleccions als Estats Units."
+   ]
   }
  },
- "actualitzat": "2026-11-02T11:47:38.299Z",
+ "actualitzat": "2026-11-03T11:47:02.679Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
