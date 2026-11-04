@@ -1,6 +1,167 @@
 {
  "videos": [
   {
+   "id": "VDICwzbCsyY",
+   "titol": "Bitcoin. Toca suelo en zona de soporte e inicia rebote importante. siguen los incidentes de hackeos.",
+   "data": "2026-11-04T08:58:41+00:00",
+   "canal": "btcdia",
+   "durada": 1172,
+   "idioma": "es",
+   "resum": "Bitcoin ha tocat mínim a la zona de suport marcada (uns 75.700 $) coincidint amb el resultat de les eleccions dels EUA i ha iniciat un rebot important, tot i que es preveu una nova correcció cap al 21 de novembre lligada als tipus d'interès. El vídeo també compara la opacitat d'un robo de criptomonedes a la UE amb la transparència que va mostrar Binance en el seu propi hackeig.",
+   "punts": [
+    {
+     "text": "Suport i rebot: Bitcoin ha tocat mínim a 75.736 $, just a la línia de suport marcada al gràfic diari, i hi ha iniciat un rebot important.",
+     "t": 6
+    },
+    {
+     "text": "Eleccions als EUA: Els demòcrates han guanyat la Cambra de Representants, dividint el poder amb Trump a la presidència; aquesta inestabilitat ja estava descomptada pel mercat i ha marcat el mínim tant de Bitcoin com de l'S&P 500.",
+     "t": 38
+    },
+    {
+     "text": "Pròxima correcció: Preveu una nova caiguda cap al 21 de novembre, quan tornarà el focus als tipus d'interès de la Reserva Federal, que podrien pujar si la inflació (impulsada pel preu alt del petroli) continua.",
+     "t": 161
+    },
+    {
+     "text": "Robo opac a la UE: Kraken i altres exchanges han bloquejat comptes vinculades a un robo de 133 milions de dòlars a la Unió Europea la víctima del qual s'amaga (possiblement una entitat financera), en contrast amb la transparència total que va mostrar Binance en el seu propi hackeig recent.",
+     "t": 251
+    },
+    {
+     "text": "Sortides de l'IBIT: L'ETF de Bitcoin de BlackRock va registrar 405 milions de dòlars de sortides el dilluns, les majors des de juny, senyal que els petits inversors venen per por, cosa que sol coincidir amb els mínims de mercat.",
+     "t": 590
+    },
+    {
+     "text": "Altcoins: Ethereum puja perquè sembla que els autors del robo europeu hi estan movent els fons per evitar bloquejos, mentre altres actius com Solana es queden enrere.",
+     "t": 1063
+    }
+   ],
+   "dades": [
+    "Mínim tocat: 75.736 $",
+    "Preu al tancament del vídeo: 78.422 $",
+    "Robo a la UE: 133 milions de dòlars",
+    "Sortides de l'ETF IBIT de BlackRock: 405 milions de dòlars (les majors des de juny)"
+   ],
+   "conclusio": "L'autor espera que el rebot continuï a curt termini però que arribi una nova correcció cap al 21 de novembre per la qüestió dels tipus d'interès, i aprofita el cas del robo opac a la UE per argumentar que els bancs tradicionals són menys transparents i potencialment més arriscats que els exchanges de criptomonedes.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "anàlisi tècnica",
+    "hackejos",
+    "tipus d'interès",
+    "eleccions eua"
+   ],
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "OdhFDqewnJM",
+   "titol": "Tragedia de Urda: por qué hay que castigar al PSOE aunque el PP hubiera hecho lo mismo",
+   "data": "2026-11-03T19:13:14+00:00",
+   "canal": "rallo",
+   "durada": 1316,
+   "idioma": "es",
+   "resum": "El PSOE argumenta que l'accident ferroviari d'Urda hauria passat igual amb qualsevol altre govern, i per tant no mereix un vot de càstig. Rallo rebat que aquesta premissa és indemostrable i que, encara que fos certa, el vot de càstig segueix sent racional: és l'únic mecanisme que obliga qualsevol govern a no descuidar el manteniment de les infraestructures.",
+   "punts": [
+    {
+     "text": "L'accident: Va originar-se per una avaria del sistema LZB, que porta des de 1992 supervisant la línia Madrid-Sevilla i que s'ha caigut 170 vegades aquest any (13 en el tram de l'accident, una fa només dues setmanes).",
+     "t": 211
+    },
+    {
+     "text": "Retard en la renovació: ADIF va adjudicar el 2021 a Thales el canvi al nou estàndard ERTMS per 94 milions d'euros de fons europeus, amb termini per a inicis de 2026, però el juny de 2026 ADIF va ajornar la posada en marxa fins al 2027.",
+     "t": 246
+    },
+    {
+     "text": "Premissa indemostrable: Que un govern del PP i Vox hauria actuat exactament igual és una conjectura que no es pot refutar ni confirmar, perquè no es pot rebobinar la història.",
+     "t": 400
+    },
+    {
+     "text": "Incentius polítics perversos: Les pensions i sous públics (més de 400.000 milions d'euros, més de la meitat de la despesa pública) donen vots perquè es noten; el manteniment de vies no dona rèdit electoral perquè ningú vota per un accident que no ha passat.",
+     "t": 586
+    },
+    {
+     "text": "Evidència empírica: Els economistes Healy i Malhotra van mostrar que als EUA es premia més electoralment ajudar després d'una catàstrofe que invertir a prevenir-la; el gasto en ajudes es va multiplicar per 13 des de 1988 mentre el de prevenció es va mantenir pla.",
+     "t": 646
+    },
+    {
+     "text": "Model de Ferejohn: Si tots els partits són iguals i el votant només veu resultats, el vot de càstig és l'únic mecanisme que disciplina qualsevol govern, cosa que inverteix l'argument del PSOE.",
+     "t": 798
+    },
+    {
+     "text": "Càstig esperat (Becker): Com que el mal manteniment només es fa visible quan hi ha un accident, el càstig esperat és gairebé zero si s'accepta l'excusa que \"amb qualsevol govern hauria passat igual\"; per això el càstig electoral ha de ser contundent, proporcional a anys de deixadesa.",
+     "t": 1016
+    }
+   ],
+   "dades": [
+    "El sistema LZB s'ha caigut 170 vegades aquest any, 13 al tram de l'accident",
+    "Contracte ERTMS adjudicat per 94 milions d'euros el 2021, ajornat del 2026 al 2027",
+    "Despesa en pensions: uns 230.000 milions d'euros (~13% del PIB)",
+    "Pensions + sous públics superen els 400.000 milions d'euros, més de la meitat de la despesa pública"
+   ],
+   "conclusio": "Encara que fos cert que el PP hauria gestionat igual de malament, això no exculpa el PSOE: el vot de càstig és l'únic mecanisme per disciplinar qualsevol govern que prioritzi partides electoralment rendibles (pensions, sous) en detriment del manteniment d'infraestructures, i ha de ser contundent perquè el risc real només es fa visible quan ja hi ha hagut un accident.",
+   "temes": [
+    "política espanyola",
+    "psoe",
+    "infraestructures",
+    "incentius públics",
+    "elecciones",
+    "ferrocarril"
+   ],
+   "lot": "2026-11-04"
+  },
+  {
+   "id": "BUOWTuRPTBg",
+   "titol": "Algo no cuadra en el ciberataque a los supermercados (y no es solo el hacker)",
+   "data": "2026-11-03T19:00:38+00:00",
+   "canal": "vidal",
+   "durada": 1075,
+   "idioma": "es",
+   "resum": "Un ciberatac va apagar congeladors i vitrines de supermercats a set països europeus aprofitant un controlador remot de la danesa Danfoss que portava anys sense pedaços de seguretat. L'autor defensa que la culpa real no és només del hacker anònim, sinó de qui va deixar el sistema sense mantenir, i que la resposta política previsible serà més burocràcia que recaurà sobre els petits comerciants.",
+   "punts": [
+    {
+     "text": "Ciberatac: Va apagar el fred de congeladors i vitrines a botigues de set països europeus, des de grans cadenes fins a carnisseries de barri; una carnisseria d'Amberes va perdre 15.000 € de carn.",
+     "t": 0
+    },
+    {
+     "text": "Controlador comú: Totes les botigues comparteixen un controlador remot (danès, de Danfoss) que gestiona tot el fred del local; permet gestió a distància, però qui en troba la porta pot entrar-hi igual que el tècnic autoritzat.",
+     "t": 153
+    },
+    {
+     "text": "Avisos previs: Danfoss ja havia alertat des de 2022 d'atacs similars a Rússia, Israel i bases militars dels EUA; el model AK-SM 800 va deixar de rebre pedaços de seguretat des de maig de 2021.",
+     "t": 276
+    },
+    {
+     "text": "Reacció per por: A França, després de l'atac d'octubre, els controladors Danfoss accessibles des d'internet van baixar un 71% en 3 dies (de 1.825 a 537), majoritàriament desconnectats per por, no reparats.",
+     "t": 370
+    },
+    {
+     "text": "Assegurances: Les pòlisses ciber habituals no cobreixen la mercaderia malmesa (cas Intermarché) i, si es demostra un atac d'estat, la clàusula de guerra exclou el pagament.",
+     "t": 524
+    },
+    {
+     "text": "Regulació tardana: La futura llei europea de ciberresiliència, que obligaria els fabricants a mantenir la seguretat, no s'aplicarà fins desembre de 2027; la normativa NIS2 actual deixa fora el comerç minorista.",
+     "t": 614
+    },
+    {
+     "text": "Amèrica Llatina: El mateix tipus de controlador Danfoss s'utilitza a Brasil i Mèxic, amb centenars d'unitats exposades a internet també a Sud-àfrica i als EUA; allà la cadena de fred és encara més fràgil.",
+     "t": 796
+    }
+   ],
+   "dades": [
+    "15.000 € de carn perduda en una carnisseria d'Amberes",
+    "Controladors Danfoss exposats a internet a França: de 1.825 a 537 en 3 dies (-71%)",
+    "El model AK-SM 800 no rep pedaços de seguretat des de maig de 2021",
+    "La llei europea de ciberresiliència no s'aplicarà fins desembre de 2027"
+   ],
+   "conclusio": "L'autor conclou que el problema real és l'abandonament del manteniment dels sistemes i la manca de regulació adequada, no un hacker anònim, i avisa que la resposta política acabarà carregant més burocràcia sobre els petits comerciants en lloc de corregir qui tenia la responsabilitat de mantenir els equips.",
+   "temes": [
+    "ciberseguretat",
+    "supermercats",
+    "unió europea",
+    "regulació",
+    "tecnologia operativa",
+    "danfoss"
+   ],
+   "lot": "2026-11-04"
+  },
+  {
    "id": "Xqdc_HmecA8",
    "titol": "Bitcoin sigue en corrección. Los mercados siguen complicados a la espera de las elecciones.",
    "data": "2026-11-03T10:01:15+00:00",
@@ -7598,9 +7759,18 @@
     "Relleu al BCE: Vidal analitza per què Lagarde deixa la presidència 8 mesos abans del previst, i ho lliga amb el relleu al Fòrum de Davos i amb la pressa per tancar el reglament de l'euro digital abans de marxar.",
     "Mercats: Bitcoin ha caigut de la zona dels 87.000$ a per sota dels 77.000$ i Strategy mostra prudència en les seves compres; els índexs borsistes també cauen a l'espera del resultat de les eleccions als Estats Units."
    ]
+  },
+  "2026-11-04": {
+   "titular": "Ciberseguretat negligent als supermercats i a la banca, el cas Urda i Bitcoin rebota després de les eleccions dels EUA",
+   "punts": [
+    "Ciberseguretat negligida: Marc Vidal analitza l'atac als congeladors de supermercats europeus, causat per controladors Danfoss sense pedaços des de 2021, i Bitcoin al día denuncia l'opacitat d'un robo de 133 milions de dòlars a la UE, en contrast amb la transparència que va mostrar Binance en el seu propi hackeig.",
+    "Qui paga els riscos: en tots dos casos es qüestiona qui assumeix de debò les conseqüències de la deixadesa en seguretat: els petits comerciants que rebran més burocràcia, o els bancs opacs enfront dels exchanges que publiquen proves de reserves.",
+    "Cas Urda: Juan Ramón Rallo defensa que el vot de càstig al PSOE per l'accident ferroviari és racional encara que el PP hagués gestionat igual de malament el manteniment del sistema LZB, perquè és l'únic mecanisme que disciplina qualsevol govern.",
+    "Mercats: Bitcoin toca mínim a 75.736 $ coincidint amb les eleccions als EUA i inicia un rebot important, amb una nova correcció prevista cap al 21 de novembre lligada als tipus d'interès."
+   ]
   }
  },
- "actualitzat": "2026-11-03T11:47:02.679Z",
+ "actualitzat": "2026-11-04T11:47:14.554Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
