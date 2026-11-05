@@ -1,6 +1,200 @@
 {
  "videos": [
   {
+   "id": "bfJWyBybzBI",
+   "titol": "Bitcoin. Subida fuerte generalizada de todos los activos ayer. En breve volverá a estabilizarse.",
+   "data": "2026-11-05T09:23:33+00:00",
+   "canal": "btcdia",
+   "durada": 776,
+   "idioma": "es",
+   "resum": "El vídeo repassa el rebot generalitzat d'actius de dilluns (Bitcoin, borses, metalls) arran dels resultats electorals, i avisa que el potencial del rebot ja s'ha consumit gairebé del tot en un sol dia.",
+   "punts": [
+    {
+     "text": "Quebra: el banc Ueno Bank de Paraguai, un dels més grans del país, va ser intervingut per falta de liquiditat i deixa congelats els fons de milions de clients.",
+     "t": 101
+    },
+    {
+     "text": "Hackeig: un banc francès va ser atacat i els lladres van intentar convertir els diners robats en criptomonedes, però la majoria d'exchanges van congelar els fons.",
+     "t": 225
+    },
+    {
+     "text": "Bitcoin va rebotar amb força des del suport dels ~75.750 fins prop dels 82.210, consumint gairebé tot el potencial del rebot en un dia; espera un nou retrocés cap al 21 de novembre.",
+     "t": 349
+    },
+    {
+     "text": "El rebot va ser generalitzat: S&P 500, Nasdaq, Dow Jones i DAX (màxim històric) van pujar amb força, mentre el petroli i el dòlar baixaven.",
+     "t": 529
+    },
+    {
+     "text": "Entre les altcoins, Ethereum rebota per demanda de hackers que hi busquen refugi, Solana puja un 130% i la majoria d'altres altcoins segueixen a la baixa.",
+     "t": 686
+    }
+   ],
+   "dades": [
+    "Bitcoin a 80.420 $ al tancament",
+    "Suport al voltant dels 75.750-76.000 $",
+    "Resistència cap als 82.210 $",
+    "S&P 500 va passar de ~7.460 a 7.695"
+   ],
+   "conclusio": "L'autor pensa que el mercat tornarà a retrocedir cap al voltant del 21 de novembre abans de reprendre la pujada, i que el rebot d'ahir ja ha consumit gran part del seu potencial a curt termini.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "mercats",
+    "bancs",
+    "hackeigs",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-11-05"
+  },
+  {
+   "id": "bTSdNSYSLQg",
+   "titol": "Elecciones en Estados Unidos: Trump pierde el Congreso y el bloqueo lo pagaremos todos",
+   "data": "2026-11-04T19:00:02+00:00",
+   "canal": "vidal",
+   "durada": 1145,
+   "idioma": "es",
+   "resum": "Marc Vidal analitza per què els demòcrates han recuperat el Senat i la Cambra de Representants malgrat el creixement econòmic dels EUA, i explica que el bloqueig resultant entre Trump i el nou Congrés el pagaran els ciutadans.",
+   "punts": [
+    {
+     "text": "L'economia dels EUA va créixer un 3,4% anualitzat al tercer trimestre, però un terç d'aquest creixement ve de la inversió en intel·ligència artificial finançada amb deute, no pas de l'ocupació.",
+     "t": 184
+    },
+    {
+     "text": "El bo a 10 anys va arribar al 5,34% (el més alt des de 2002) i les hipoteques a 30 anys al 7,4%, perquè l'endeutament de les tecnològiques competeix amb el Tresor pel mateix estalvi.",
+     "t": 304
+    },
+    {
+     "text": "L'IPC de setembre va pujar un 3,7% i l'energia un 20,4%, arrossegada per la guerra amb l'Iran; el 56% dels consumidors deia que els preus danyaven les seves finances.",
+     "t": 426
+    },
+    {
+     "text": "Els demòcrates han arrabassat set escons al Senat (Texas, Kansas, Ohio, Maine, Iowa, Carolina del Nord i Carolina del Sud) i la majoria a la Cambra, però Trump conserva el veto presidencial fins al 2029 i els demòcrates no tenen els dos terços per tombar-lo.",
+     "t": 578
+    },
+    {
+     "text": "Vidal avisa que per a Europa i Hispanoamèrica el canal de contagi és el dòlar i l'energia, i proposa vigilar tres senyals: si baixen els preus de l'energia i la compra, si hi ha acord de pressupost o tancament del govern, i si els aranzels es queden en paper o es mouen de veritat.",
+     "t": 998
+    }
+   ],
+   "dades": [
+    "Creixement del 3,4% anualitzat al 3r trimestre",
+    "Bo a 10 anys al 5,34%, el més alt des de 2002",
+    "Hipoteca a 30 anys al 7,4%",
+    "IPC al 3,7% i energia al +20,4%",
+    "7 escons de Senat guanyats pels demòcrates"
+   ],
+   "conclusio": "Vidal conclou que el vot ha sigut més un càstig per l'encariment de la vida que un suport al pla demòcrata, i que els dos anys de govern dividit beneficiaran als dos partits políticament mentre la factura la paguen els ciutadans.",
+   "temes": [
+    "eleccions eua",
+    "trump",
+    "congrés",
+    "inflació",
+    "economia",
+    "aranzels"
+   ],
+   "lot": "2026-11-05"
+  },
+  {
+   "id": "SZDj59sl6P0",
+   "titol": "TRUMP pierde el CONGRESO: ¿Qué pasará ahora con la ECONOMÍA?",
+   "data": "2026-11-04T17:05:34+00:00",
+   "canal": "pablogil",
+   "durada": 1982,
+   "idioma": "es",
+   "resum": "Pablo Gil analitza com la pèrdua del Congrés per part de Trump afecta tres fronts (guerra comercial, immigració i conflicte amb l'Iran) i què pot significar per a borsa, bons, dòlar i tipus d'interès, en un context de creixement fort però amb inflació persistent.",
+   "punts": [
+    {
+     "text": "Els demòcrates recuperen el Senat (54 escons davant 44) i la Cambra (232 davant 139); Trump conserva el veto però els dos terços per tombar-lo són inassolibles pels demòcrates.",
+     "t": 191
+    },
+    {
+     "text": "El deute federal supera el 120% del PIB i els interessos nets ja absorbeixen 1,05 bilions de dòlars (14,2% del gasto federal), gairebé tant com Medicare.",
+     "t": 253
+    },
+    {
+     "text": "L'11 de desembre de 2026 venç la pròrroga pressupostària de la llei 119/103; si no hi ha acord, hi pot haver un tancament parcial del govern des del 12 de desembre.",
+     "t": 335
+    },
+    {
+     "text": "En comerç i immigració el Congrés pot investigar, bloquejar pressupostos i condicionar nomenaments, però Trump conserva àmplies competències executives; en la guerra amb l'Iran el marge presidencial és encara més gran perquè és comandant en cap.",
+     "t": 964
+    },
+    {
+     "text": "Si Trump escala l'ofensiva contra l'Iran podria disparar el preu del petroli (l'estret d'Ormuz és clau) i agreujar la mateixa inflació que ha costat les eleccions; si busca una desescalada, reduiria la prima de risc geopolític.",
+     "t": 1156
+    },
+    {
+     "text": "La inflació (3,7%) ja torna a superar el creixement salarial (3%), i la morositat greu de targetes de crèdit arriba al 12,9% dels saldos; la riquesa generada per la borsa es concentra sobretot en el 0,1% més ric.",
+     "t": 1465
+    }
+   ],
+   "dades": [
+    "Deute públic al 120% del PIB",
+    "Interessos del deute: 1,05 bilions $ (14,2% del gasto federal)",
+    "Inflació al 3,7% vs. salaris al 3%",
+    "Morositat greu de targetes al 12,9%",
+    "PIB creixent al 3,4% anualitzat"
+   ],
+   "conclusio": "Gil recomana no invertir només pel canvi de color polític al Congrés, sinó vigilar com responen Trump i la Fed: les properes decisions sobre comerç, pressupost i l'Iran poden portar a estabilització o a una nova etapa de confrontació i inflació.",
+   "temes": [
+    "eleccions eua",
+    "trump",
+    "congrés",
+    "inflació",
+    "geopolítica",
+    "iran",
+    "política monetària"
+   ],
+   "lot": "2026-11-05"
+  },
+  {
+   "id": "3PRjqLI8Mys",
+   "titol": "Por qué la dimisión de Óscar Puente es peor que la de Carlos Mazón",
+   "data": "2026-11-04T14:38:27+00:00",
+   "canal": "rallo",
+   "durada": 949,
+   "idioma": "es",
+   "resum": "Rallo compara la dimissió d'Óscar Puente com a ministre de Transports amb la de Carlos Mazón arran de la Dana i conclou que, malgrat la narrativa dominant a l'esquerra, el comportament de Puente ha sigut pitjor en diversos aspectes.",
+   "punts": [
+    {
+     "text": "El càrrec equivalent a Mazón no és Puente sinó Pedro Sánchez; l'equivalent institucional de Puente a la Generalitat, Salomé Pradas, va dimitir en menys d'un mes.",
+     "t": 247
+    },
+    {
+     "text": "Puente dimiteix amb deu mesos de retard des de l'accident d'Adamuz, un retard similar als dotze mesos que va tardar Mazón.",
+     "t": 340
+    },
+    {
+     "text": "Mazón no va necessitar una segona tragèdia per dimitir; Puente sí ha necessitat un segon accident mortal (Urda) després d'Adamuz.",
+     "t": 371
+    },
+    {
+     "text": "Mentre Mazón va ser negligent per omissió, Puente ho va ser per acció: va assegurar deliberadament als espanyols que l'alta velocitat era segura quan no ho era.",
+     "t": 555
+    },
+    {
+     "text": "Mazón és avui un polític estigmatitzat fins i tot a la dreta, mentre que sectors de l'esquerra, com Gabriel Rufián, lloen la gestió de Puente i consideren injusta la seva dimissió.",
+     "t": 749
+    }
+   ],
+   "dades": [
+    "10 mesos de retard en la dimissió de Puente des d'Adamuz",
+    "12 mesos de retard de Mazón des de la Dana",
+    "2 accidents ferroviaris mortals: Adamuz i Urda"
+   ],
+   "conclusio": "Rallo conclou que, encara que Mazón va actuar malament, Puente ho ha fet encara pitjor, i que qui aplaudeix la seva gestió es posa al seu nivell.",
+   "temes": [
+    "política espanyola",
+    "psoe",
+    "dimissions",
+    "accidents ferroviaris",
+    "óscar puente",
+    "carlos mazón"
+   ],
+   "lot": "2026-11-05"
+  },
+  {
    "id": "VDICwzbCsyY",
    "titol": "Bitcoin. Toca suelo en zona de soporte e inicia rebote importante. siguen los incidentes de hackeos.",
    "data": "2026-11-04T08:58:41+00:00",
@@ -211,6 +405,31 @@
     "anàlisi tècnica"
    ],
    "lot": "2026-11-03"
+  },
+  {
+   "id": "7wJ-kzhRF-8",
+   "titol": "🔴 DIRECTO - Cómo tomar decisiones en los mercados en momentos de incertidumbre",
+   "data": "2026-11-03T09:23:23+00:00",
+   "canal": "pablogil",
+   "durada": 0,
+   "resum": "Vídeo sense subtítols: és l'anunci d'una classe gratuïta en directe de Pablo Gil el 9 de novembre sobre quan actuar, esperar o canviar d'opinió en els mercats, resumit a partir del títol i la descripció.",
+   "punts": [
+    {
+     "text": "Anunci: classe gratuïta en directe el 9 de novembre a les 19:07 (Madrid) sobre presa de decisions en moments d'incertesa als mercats."
+    },
+    {
+     "text": "Avís: Pablo Gil adverteix que no té cap canal de xarxes socials on faci recomanacions d'inversió ni demani diners, i denuncia suplantacions d'identitat que fan servir el seu nom."
+    }
+   ],
+   "dades": [],
+   "conclusio": "No és un vídeo de contingut sinó la promoció d'un seminari gratuït.",
+   "temes": [
+    "mercats",
+    "anunci",
+    "seminari",
+    "pablo gil"
+   ],
+   "lot": "2026-11-05"
   },
   {
    "id": "-S4nNNh52dg",
@@ -7768,9 +7987,18 @@
     "Cas Urda: Juan Ramón Rallo defensa que el vot de càstig al PSOE per l'accident ferroviari és racional encara que el PP hagués gestionat igual de malament el manteniment del sistema LZB, perquè és l'únic mecanisme que disciplina qualsevol govern.",
     "Mercats: Bitcoin toca mínim a 75.736 $ coincidint amb les eleccions als EUA i inicia un rebot important, amb una nova correcció prevista cap al 21 de novembre lligada als tipus d'interès."
    ]
+  },
+  "2026-11-05": {
+   "titular": "Els demòcrates prenen el Congrés a Trump i Rallo qüestiona la dimissió d'Óscar Puente",
+   "punts": [
+    "EUA: Trump perd el Congrés. Els demòcrates recuperen el Senat i la Cambra de Representants. Marc Vidal i Pablo Gil coincideixen que el vot ha sigut sobretot un càstig per l'encariment de la vida més que un suport al pla demòcrata, i que Trump conserva el veto presidencial fins al 2029.",
+    "Iran i petroli, la incògnita. Pablo Gil avisa que una escalada de Trump contra l'Iran podria disparar el preu del petroli i agreujar la mateixa inflació que ha costat les eleccions; Marc Vidal també assenyala l'energia com el principal canal pel qual aquest bloqueig afectarà Europa i Hispanoamèrica.",
+    "Política espanyola. Juan Ramón Rallo argumenta que la dimissió d'Óscar Puente, arran dels accidents d'Adamuz i Urda, és fins i tot pitjor que la de Carlos Mazón per la gestió de la Dana.",
+    "Criptomonedes i mercats. Bitcoin al día explica el rebot generalitzat d'actius (Bitcoin fins als 80.420 $, borses i metalls) arran de les eleccions nord-americanes, però avisa que el potencial d'aquest rebot ja s'ha consumit gairebé del tot en un sol dia."
+   ]
   }
  },
- "actualitzat": "2026-11-04T11:47:14.554Z",
+ "actualitzat": "2026-11-05T11:47:57.936Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
