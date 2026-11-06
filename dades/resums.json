@@ -1,6 +1,226 @@
 {
  "videos": [
   {
+   "id": "sWBmsMHhf0A",
+   "titol": "Bitcoin. Nuevamente en el soporte. Aprovecho para comprar algo. La volatilidad seguirá.",
+   "data": "2026-11-06T09:55:52+00:00",
+   "canal": "btcdia",
+   "durada": 1753,
+   "idioma": "es",
+   "resum": "Bitcoin ha tornat a la zona de suport cap als 76.000 dòlars arran del desplom generalitzat dels mercats, i l'autor ha aprofitat per comprar-ne una part. Explica per què els ritmes de pujada ja no seran tan espectaculars com abans i per què Bitcoin seguirà movent-se en línia amb la borsa.",
+   "punts": [
+    {
+     "text": "Les sortides dels ETFs de Bitcoin van ser de 530 milions de dòlars ahir; quan els ETFs surten sol indicar venda del retail i acostuma a marcar zones properes a un sòl.",
+     "t": 169
+    },
+    {
+     "text": "Core Scientific deixarà de minar Bitcoin a finals d'any per centrar-se en centres de dades d'intel·ligència artificial, ja que la mineria només representa el 7,5% dels seus ingressos trimestrals; el hash rate de Bitcoin viu l'estancament més llarg de la seva història.",
+     "t": 226
+    },
+    {
+     "text": "L'autor considera que Bitcoin ha entrat en una fase més madura: les pujades ja no seran del 300% en pocs mesos sinó més moderades (potser un 12-16% anual enfront d'un 8-10% del S&P 500), i els cicles ja no estan lligats al halving perquè gairebé tot el subministrament (més de 20 milions de bitcoins) ja està en circulació.",
+     "t": 450
+    },
+    {
+     "text": "Bitcoin es mou cada cop més en línia amb els mercats tradicionals: ahir va replicar el desplom del S&P 500 provocat per les eleccions dels EUA, i seguirà vulnerable a noves pujades de tipus d'interès de la Reserva Federal fins al 21 de novembre.",
+     "t": 563
+    },
+    {
+     "text": "Considera que la zona actual de 75.600-76.200 dòlars és bona per acumular, amb un potencial de caiguda limitat (uns 2.000-3.000 dòlars més) i un nivell de suport important si es perd als 74.200; de cara a finals d'any veu difícil però possible tornar als 87.000.",
+     "t": 1187
+    },
+    {
+     "text": "Alerta que molts analistes que predicaven una caiguda del cicle fins a 35.000-40.000 dòlars a l'octubre no van arribar a comprar als 60.000 i després s'atribueixen compres que no van fer.",
+     "t": 715
+    },
+    {
+     "text": "Repàs d'altcoins: la majoria segueixen la correcció (Cardano gairebé en mínims de l'any, Solana per sota de la seva línia de tendència baixista, Ethereum tornant a caure), mentre BNB, BGB i Tron han rebotat.",
+     "t": 1547
+    }
+   ],
+   "dades": [
+    "Bitcoin a 76.206 dòlars al tancament",
+    "Sortides d'ETFs: 530 milions de dòlars en un dia",
+    "Suport clau als 74.200 dòlars",
+    "Mineria de Bitcoin: només el 7,5% dels ingressos de Core Scientific"
+   ],
+   "conclusio": "L'autor ha comprat part de la posició que havia venut a 85.980 dòlars, aprofitant la zona de suport, i espera molta volatilitat fins al 21 de novembre abans d'un possible repunt cap a finals d'any.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "mercats",
+    "altcoins",
+    "tipus d'interès",
+    "mineria"
+   ],
+   "lot": "2026-11-06"
+  },
+  {
+   "id": "OiNQ5HqB2I8",
+   "titol": "La bolsa se desploma: ¿está en peligro la revolución de la IA?",
+   "data": "2026-11-06T07:44:10+00:00",
+   "canal": "rallo",
+   "durada": 1109,
+   "idioma": "es",
+   "resum": "El Nasdaq 100 va patir la pitjor sessió des de la pandèmia, arrossegat pel sector de semiconductors davant la por a que els nous governadors demòcrates frenin la construcció de centres de dades. Rallo explica el detonant polític i financer de la caiguda i si realment perilla la inversió en IA.",
+   "punts": [
+    {
+     "text": "El Nasdaq 100 es va desplomar un 6,4% en una sola sessió, esborrant 2,3 bilions de dòlars, la pitjor caiguda des de març de 2020; l'índex ja entra en zona de correcció, un 12% per sota del màxim del 6 d'octubre.",
+     "t": 31
+    },
+    {
+     "text": "La caiguda no va ser generalitzada: la borsa sense tecnològiques només va caure un 2,5%, mentre l'índex de semiconductors de Filadèlfia es va desplomar més d'un 10%; Nvidia va caure gairebé un 10% i AMD un 14%.",
+     "t": 128
+    },
+    {
+     "text": "El detonant és la victòria demòcrata a Texas, Ohio i Geòrgia, amb governadors que prometen frenar o condicionar nous centres de dades; Texas concentra el 30% de la capacitat d'IA planificada als EUA (72 dels 236 GW).",
+     "t": 224
+    },
+    {
+     "text": "La por es va disparar dimecres a la nit amb un missatge viral de la congressista demòcrata (citada com Yasami Nansari a la transcripció) demanant aturar el desenvolupament de la superintel·ligència artificial, i es va amplificar per l'apalancament dels fons cotitzats en semiconductors.",
+     "t": 348
+    },
+    {
+     "text": "La moratòria que proposa la governadora electa de Texas només afecta nous centres de dades futurs, no els que ja tenen permís, i deixa la porta oberta a nous permisos a partir de 2028 si paguen impostos i no apugen el preu de l'electricitat.",
+     "t": 503
+    },
+    {
+     "text": "El risc real no és tant la prohibició política com un cercle viciós financer: Amazon, Alphabet, Meta i Microsoft van invertir 200.000 milions de dòlars en un trimestre i el seu flux de caixa lliure conjunt es va enfonsar a 26.000 milions, un mínim històric, cosa que les obliga a endeutar-se molt.",
+     "t": 723
+    },
+    {
+     "text": "La sortida a borsa d'Anthropic, prevista per la setmana del 16 de novembre amb una valoració de fins a 2 bilions de dòlars, podria ajornar-se o rebre molts menys fons (alguns inversors ja la valoren en 1 bilió) tot i que el seu model de negoci no ha canviat gens.",
+     "t": 845
+    }
+   ],
+   "dades": [
+    "Nasdaq 100: -6,4% en una sessió",
+    "Semiconductors de Filadèlfia: -10%",
+    "Inversió trimestral de les 4 grans tecnològiques: 200.000 milions de dòlars",
+    "Deute emès el 2026 per empreses d'IA: uns 570.000 milions de dòlars"
+   ],
+   "conclusio": "La caiguda sembla una sobrereacció del mercat més que una amenaça política real, però el perill de debò és que la por actual talli el finançament (deute i sortides a borsa) necessari per mantenir el ritme d'inversió en centres de dades.",
+   "temes": [
+    "borsa",
+    "intel·ligència artificial",
+    "semiconductors",
+    "centres de dades",
+    "eleccions eua",
+    "anthropic"
+   ],
+   "lot": "2026-11-06"
+  },
+  {
+   "id": "DSnJv5ewWO8",
+   "titol": "Debacle republicana: ¿ha muerto el trumpismo?",
+   "data": "2026-11-05T20:29:38+00:00",
+   "canal": "rallo",
+   "durada": 1207,
+   "idioma": "es",
+   "resum": "Els republicans han patit una derrota històrica a les eleccions de mig mandat, perdent el Congrés, el Senat i cinc governs estatals. Rallo analitza els quatre motius del càstig electoral (inflació, guerra amb l'Iran, aranzels i corrupció) i debat si el trumpisme ha mort de cara a 2028.",
+   "punts": [
+    {
+     "text": "Els republicans passen de 218 a una projecció de 176 escons al Congrés i els demòcrates arriben a 259; en vot popular la diferència demòcrata és d'uns 13-14 punts, més del doble que el 2018.",
+     "t": 61
+    },
+    {
+     "text": "Els demòcrates arrabassen governadors a Texas, Geòrgia, Nevada, Iowa i Ohio, i senadors a Carolina del Nord, Ohio, Maine, Iowa, Kansas, Carolina del Sud i Texas.",
+     "t": 122
+    },
+    {
+     "text": "Trump arriba a aquestes eleccions amb la popularitat més baixa d'un president en gairebé dues dècades: un 60% desaprova la seva gestió.",
+     "t": 211
+    },
+    {
+     "text": "La inflació ha pujat del 2,4% al febrer al 3,7% al setembre, amb l'energia disparant-se un 20% interanual; gairebé 9 de cada 10 votants estan preocupats pel cost de vida.",
+     "t": 272
+    },
+    {
+     "text": "La guerra amb l'Iran (iniciada el 28 de febrer) ha encarit la benzina un 44% i el gasoil un 68%; el 60% dels votants creu que atacar l'Iran va ser un error.",
+     "t": 335
+    },
+    {
+     "text": "El 65% dels votants creu que els aranzels han perjudicat l'economia, i la corrupció ha estat tan decisiva com la pujada de preus: el 60% creu que Trump prioritza els seus interessos personals.",
+     "t": 425
+    },
+    {
+     "text": "Els republicans debaten tres diagnòstics: Trump (no canviar res), Vance (tornar a l'America First acabant la guerra i l'aranzels) i l'ala lliurecanvista (culpar els aranzels); Rallo conclou que el trumpisme, tal com es va definir, ja ha mort perquè Trump ha trepitjat la pau i l'equilibri pressupostari que prometia.",
+     "t": 1105
+    }
+   ],
+   "dades": [
+    "176 vs 259 escons projectats al Congrés",
+    "Inflació del 2,4% al 3,7%",
+    "Benzina +44%, gasoil +68% des de la guerra amb l'Iran",
+    "93% dels votants republicans es mantenen fidels al partit"
+   ],
+   "conclusio": "La derrota ha estat tan àmplia que afecta també el Tribunal Suprem a llarg termini; per recuperar-se el 2028 els republicans haurien de renunciar a la guerra, els aranzels i el dèficit, és a dir, al propi trumpisme actual.",
+   "temes": [
+    "eleccions eua",
+    "trumpisme",
+    "inflació",
+    "aranzels",
+    "corrupció",
+    "irán"
+   ],
+   "lot": "2026-11-06"
+  },
+  {
+   "id": "yBMuTt9OxxU",
+   "titol": "Así están construyendo la mayor red de control social de la historia para vigilarnos a todos",
+   "data": "2026-11-05T19:00:38+00:00",
+   "canal": "vidal",
+   "durada": 1125,
+   "idioma": "es",
+   "resum": "Marc Vidal explica com Palantir i altres sistemes de reconeixement biomètric, alimentats amb dades administratives (sanitat, Hisenda, remeses), s'estan utilitzant per localitzar persones, primer immigrants als EUA i cada cop més també a Europa i Llatinoamèrica. Adverteix que el problema no és la marca del programari sinó el que la llei permet fer-hi.",
+   "punts": [
+    {
+     "text": "L'eina Elite de l'ICE funciona com un Google Maps de persones deportables, assignant una puntuació de confiança sobre on viu cadascú; per sota corre Immigration OS, venuda per Palantir a l'ICE per 30 milions de dòlars.",
+     "t": 306
+    },
+    {
+     "text": "Palantir va presentar resultats el 2 de novembre: 2.310 milions de dòlars en un trimestre, un 96% més que fa un any; 953 milions van venir del govern dels EUA i, per primera vegada, les empreses privades li van pagar més (984 milions, un 148% més) que el propi govern.",
+     "t": 150
+    },
+    {
+     "text": "A Alemanya, policies estatals (Baviera, Renània del Nord-Westfàlia, Baden-Württemberg) ja usaven Gotham de Palantir abans que la llei ho autoritzés; el 25 de setembre el Bundestag va aprovar permetre el reconeixement facial en temps real a estacions i aeroports.",
+     "t": 184
+    },
+    {
+     "text": "Les dades que alimenten aquests sistemes provenen d'activitats administratives quotidianes: formularis del Medicaid, matrícules llegides per càmeres, registres fiscals compartits amb l'agència migratòria i fins i tot remeses de diners enviades a la família.",
+     "t": 399
+    },
+    {
+     "text": "A Europa, el sistema Eurodac (reformat des del 12 de juny) ja guarda imatges facials i ha rebaixat de 14 a 6 anys l'edat mínima per registrar dades biomètriques; des del 10 d'abril el sistema d'entrades i sortides pren la cara i les empremtes de tots els viatgers de fora de la UE.",
+     "t": 493
+    },
+    {
+     "text": "A Mèxic i El Salvador també avancen sistemes similars (CURP biomètrica, reconeixement facial a 21.500 ordinadors de la policia), i a Minneapolis almenys set ciutadans nord-americans sense relació amb immigració van ser gravats sense consentiment.",
+     "t": 553
+    },
+    {
+     "text": "El Tribunal Constitucional alemany va tombar el 2023 l'ús policial d'aquest tipus de programari per perfilar persones sense sospita, i a Espanya l'Agència de Protecció de Dades va multar Mercadona amb 2,5 milions d'euros per instal·lar reconeixement facial a les seves botigues.",
+     "t": 949
+    }
+   ],
+   "dades": [
+    "2.310 milions de dòlars de facturació de Palantir en un trimestre (+96%)",
+    "67 milions de fotos al registre espanyol de DNI i passaport",
+    "92% dels militants verds de Baden-Württemberg van votar apagar Palantir, sense poder-ho fer fins al 2030",
+    "83 milions d'euros d'impostos espanyols per adaptar les fronteres al nou sistema europeu"
+   ],
+   "conclusio": "L'autor sosté que l'única protecció real no és la higiene digital individual sinó frenar aquests sistemes abans de signar els contractes, amb auditories independents i clàusules de sortida, perquè un cop instal·lats i pagats ningú els desmuntarà i només faltarà una nova categoria de sospitós a qui aplicar-los.",
+   "temes": [
+    "vigilància",
+    "palantir",
+    "immigració",
+    "dades personals",
+    "reconeixement facial",
+    "unió europea"
+   ],
+   "lot": "2026-11-06"
+  },
+  {
    "id": "bfJWyBybzBI",
    "titol": "Bitcoin. Subida fuerte generalizada de todos los activos ayer. En breve volverá a estabilizarse.",
    "data": "2026-11-05T09:23:33+00:00",
@@ -7996,9 +8216,18 @@
     "Política espanyola. Juan Ramón Rallo argumenta que la dimissió d'Óscar Puente, arran dels accidents d'Adamuz i Urda, és fins i tot pitjor que la de Carlos Mazón per la gestió de la Dana.",
     "Criptomonedes i mercats. Bitcoin al día explica el rebot generalitzat d'actius (Bitcoin fins als 80.420 $, borses i metalls) arran de les eleccions nord-americanes, però avisa que el potencial d'aquest rebot ja s'ha consumit gairebé del tot en un sol dia."
    ]
+  },
+  "2026-11-06": {
+   "titular": "El desplom borsari de l'IA i la derrota republicana marquen el dia, mentre Bitcoin busca suport i la vigilància biomètrica avança",
+   "punts": [
+    "Eleccions EUA.: Rallo desgrana els quatre motius de la debacle republicana a les eleccions de mig mandat (inflació, guerra amb l'Iran, aranzels i corrupció) i conclou que el trumpisme, tal com es va definir, ja ha mort.",
+    "Mercats i IA.: El mateix resultat electoral, amb governadors demòcrates que amenacen de frenar nous centres de dades a Texas, Ohio i Geòrgia, ha enfonsat el Nasdaq i els semiconductors (Rallo); la por pot convertir-se en una profecia autocomplerta si talla el finançament del sector.",
+    "Bitcoin.: Torna a la zona de suport dels 76.000 dòlars arran del mateix desplom borsari; l'autor de Bitcoin al día hi compra, però avisa que les pujades futures seran més moderades perquè l'actiu ja es mou en línia amb la borsa.",
+    "Vigilància.: Marc Vidal denuncia com Palantir i sistemes similars, alimentats amb dades sanitàries, fiscals i de remeses, ja vigilen immigrants als EUA i avancen també a Alemanya i la resta d'Europa amb Eurodac i el nou sistema d'entrades i sortides."
+   ]
   }
  },
- "actualitzat": "2026-11-05T11:47:57.936Z",
+ "actualitzat": "2026-11-06T11:47:41.160Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
