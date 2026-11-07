@@ -1,6 +1,176 @@
 {
  "videos": [
   {
+   "id": "YMJ6G0SeuFs",
+   "titol": "Ueno: cómo un banco quebrado ha acabado con el presidente de Paraguay",
+   "data": "2026-11-07T11:00:38+00:00",
+   "canal": "rallo",
+   "durada": 1274,
+   "idioma": "es",
+   "resum": "La fallida del banc paraguaià Ueno, considerat sistèmic pel Banc Central, ha arrossegat el president Santiago Peña, destituït pel Senat sense cap vot en contra. Rallo explica com un banc amb morositat gairebé nul·la va amagar un frau: préstecs a societats testimonials per tapar els números vermells d'empreses del seu propi grup propietari, amb centenars de milions de diner públic pel mig.",
+   "punts": [
+    {
+     "text": "Ueno tenia gairebé 3 milions de clients (6 de cada 10 adults de Paraguai), emetia el 43% de les targetes de crèdit del país i el Banc Central el considerava un dels quatre bancs sistèmics.",
+     "t": 33
+    },
+    {
+     "text": "Un cop ajustat el balanç, la solvència real d'Ueno no arribava a la meitat del mínim legal: declarava un 15% de capital i el supervisor va trobar menys del 6%, llindar que obre la resolució bancària.",
+     "t": 216
+    },
+    {
+     "text": "La morositat declarada era sospitosament baixa (0,5% davant el 2,3% del sistema) perquè Ueno va concedir uns 150 milions de dòlars en préstecs ocults, sense garanties, a tres societats testimonials controlades per antics empleats del Grup Vázquez, propietari del banc, per tapar els números vermells d'altres empreses del mateix grup.",
+     "t": 331
+    },
+    {
+     "text": "Santiago Peña havia sigut accionista d'una societat del Grup Vázquez des de 2019 fins a finals de 2025; el seu germà va comprar accions de la matriu luxemburguesa del banc, i els contractes de la tecnològica del grup amb l'Estat es van triplicar durant el seu mandat.",
+     "t": 647
+    },
+    {
+     "text": "Carlos Carballo, expresident de l'entitat que va originar Ueno, va ser nomenat president del Banc Central per Peña tres setmanes després de prendre possessió, i dos mesos i mig més tard el Banc Central va concedir a Ueno la llicència bancària.",
+     "t": 741
+    },
+    {
+     "text": "Amb Peña president, el diner públic dipositat a Ueno va passar de gairebé zero el 2023 a més de 800 milions de dòlars (quasi un 30% dels dipòsits del banc), 400 milions dels quals de l'Institut de Previsió Social, la seguretat social paraguaiana, no pensions privades.",
+     "t": 871
+    },
+    {
+     "text": "A diferència d'Espanya, Paraguai no rescata el banc: accionistes i bonistes ho perden tot, i el fons de garantia de dipòsits, finançat pel sistema financer i no pels contribuents, cobreix fins a 38.000 dòlars per persona, suficient per al 97% dels dipositants.",
+     "t": 988
+    },
+    {
+     "text": "La fiscalia ha detingut vuit directius, entre ells el president del Grup Vázquez, i ja hi ha 27 persones imputades; s'han embargat béns, incloent un iot i un avió.",
+     "t": 1113
+    }
+   ],
+   "dades": [
+    "~3 milions de clients d'Ueno",
+    "solvència declarada 15% vs real <6%",
+    "150 milions $ en préstecs ocults",
+    "800 milions $ de diner públic dipositat",
+    "27 persones imputades"
+   ],
+   "conclusio": "Rallo conclou que els mecanismes de resolució bancària han funcionat: paguen els propietaris i bonistes, no els contribuents, i la justícia ja actua; per això diu que, vist així, potser l'estat bananer no és Paraguai, sinó Espanya.",
+   "temes": [
+    "banca",
+    "paraguai",
+    "corrupció",
+    "resolució bancària",
+    "política",
+    "grup vázquez"
+   ],
+   "lot": "2026-11-07"
+  },
+  {
+   "id": "QNbdZGbEqvo",
+   "titol": "Bitcoin. Soporte sólido. La semana que viene puede ser positiva. Strive compra 15.124 BTC en octubre",
+   "data": "2026-11-07T10:07:45+00:00",
+   "canal": "btcdia",
+   "durada": 658,
+   "idioma": "es",
+   "resum": "Bitcoin es manté sobre els 75.000 dòlars malgrat els temors per la regulació de la intel·ligència artificial que han sacsejat els mercats aquesta setmana. L'anàlisi tècnic apunta a un possible rebot la setmana vinent, mentre Strive continua acumulant bitcoins i el Tresor dels EUA exclou l'exchange MEX Global per transaccions il·lícites.",
+   "punts": [
+    {
+     "text": "Els temors per la regulació de la intel·ligència artificial, arran del canvi de govern als Estats Units, han provocat caigudes fortes als mercats: l'índex coreà KOSPI va caure un 8% i va haver de suspendre la cotització.",
+     "t": 5
+    },
+    {
+     "text": "Bitcoin es manté sobre els 75.000 dòlars malgrat aquests temors de mercat.",
+     "t": 38
+    },
+    {
+     "text": "L'empresa de tresoreria Strive va comprar 15.124 bitcoins a l'octubre, elevant el seu total a 43.124 BTC; ara mateix seria el comprador més fort del mercat, ja que MicroStrategy pràcticament ha deixat de comprar.",
+     "t": 70
+    },
+    {
+     "text": "El Tresor dels Estats Units (FinCEN) ha exclòs l'exchange MEX Global del sistema financer nord-americà, acusat de facilitar transaccions il·lícites per almenys 16.000 milions de dòlars vinculades a evasió de sancions i cibercrim.",
+     "t": 100
+    },
+    {
+     "text": "El suport tècnic de Bitcoin aguanta; la vela mensual és negativa però molt a prop de tornar-se positiva, i la setmanal està en zona de suport, amb possibilitat de pujar cap als 78.500-79.000 dòlars la setmana vinent.",
+     "t": 222
+    },
+    {
+     "text": "Resistències properes: 76.400, 77.900, 78.200, 78.650 i 79.220 dòlars; entre les altcoins, Cardano als mínims, BGB i BNB es recuperen, Solana encara per sota de la línia de tendència i XRP perd el suport dels 1.539.",
+     "t": 376
+    },
+    {
+     "text": "Bitcoin cotitza a 76.078 dòlars; preveu un possible rebot si no surten dades dolentes d'inflació o ocupació, i situa el final de la correcció cap al 17 de novembre, amb un suport mínim a la zona dels 73.700 dòlars.",
+     "t": 589
+    }
+   ],
+   "dades": [
+    "Bitcoin als 75.000-76.078 $",
+    "KOSPI va caure un 8%",
+    "Strive: 15.124 BTC comprats a l'octubre (total 43.124 BTC)",
+    "MEX Global exclòs per 16.000 milions $ en transaccions il·lícites"
+   ],
+   "conclusio": "L'anàlisi preveu que la setmana vinent podria ser positiva per a Bitcoin si no hi ha males dades macroeconòmiques, i situa el final de la correcció actual cap al 17 de novembre.",
+   "temes": [
+    "bitcoin",
+    "mercats cripto",
+    "anàlisi tècnic",
+    "altcoins",
+    "regulació",
+    "strive"
+   ],
+   "lot": "2026-11-07"
+  },
+  {
+   "id": "DYjBeIwKq9A",
+   "titol": "Caos aéreo en Europa: ¿quién está detrás de las amenazas de bomba y quién gana con el miedo?",
+   "data": "2026-11-06T16:02:54+00:00",
+   "canal": "vidal",
+   "durada": 1177,
+   "idioma": "es",
+   "resum": "Una onada d'amenaces de bomba anònimes ha paralitzat desenes de vols a Europa aquesta setmana, amb caces militars escortant avions per correus que no costen res d'escriure. Marc Vidal explica per què és tan barat generar aquest caos, qui pot estar-hi al darrere i per què parlar de \"guerra híbrida\" de qualsevol incident acaba buidant el terme de sentit.",
+   "punts": [
+    {
+     "text": "Un Airbus d'Aer Lingus va ser interceptat per caces francesos i obligat a aterrar a la base militar d'Évreux per una amenaça de bomba anònima; els artificiers no hi van trobar res.",
+     "t": 0
+    },
+    {
+     "text": "El mateix dia, a Espanya la Guàrdia Civil va rebre tres correus en menys de 20 minuts que van afectar sis vols a Madrid; a tot Europa hi va haver almenys 27 vols amenaçats, amb caces italians, francesos i búlgars enlairats (Reuters).",
+     "t": 122
+    },
+    {
+     "text": "A l'Índia, durant l'octubre de 2024 hi va haver gairebé 1.000 amenaces de bomba falses, cap real; el cost estimat de cada incident en un vol internacional rondava els 500.000 dòlars, segons una consultora del sector.",
+     "t": 244
+    },
+    {
+     "text": "La resposta europea: la Comissió ha obert un mecanisme d'intercanvi d'informació entre estats, però el comissari de Transports, Tzitzikostas, diu que és massa aviat per saber si les amenaces estan relacionades; cada país respon pel seu compte sense gaire coordinació.",
+     "t": 400
+    },
+    {
+     "text": "Dinamarca, Polònia i Romania ja havien acusat Rússia en episodis anteriors; diversos dirigents europeus assenyalen Rússia i l'Iran, que ho neguen tot.",
+     "t": 556
+    },
+    {
+     "text": "L'analista Mark Galeotti recorda que sovint no hi ha cap pla mestre darrere aquestes campanyes, sinó actors oportunistes que actuen soles i s'aprofiten de l'efecte imitació quan una tàctica surt als telediaris.",
+     "t": 681
+    },
+    {
+     "text": "Un informe de l'Institut d'Estudis de Seguretat de la UE situa un atac híbrid contra infraestructures crítiques com el principal risc per a Europa el 2026, per davant d'una agressió militar russa, i alerta que la UE no pot substituir a curt termini les garanties de seguretat dels Estats Units.",
+     "t": 988
+    }
+   ],
+   "dades": [
+    "27 vols amenaçats en un sol dia a tot Europa (Reuters)",
+    "3 correus en 20 minuts van afectar 6 vols a Madrid",
+    "~500.000 $ de cost estimat per incident internacional a l'Índia",
+    "gairebé 1.000 amenaces de bomba falses a l'Índia el 2024"
+   ],
+   "conclusio": "Vidal avisa que anomenar \"guerra híbrida\" qualsevol incident banalitza el terme i amaga el problema real: Europa respon país per país, sense coordinació, i això és el que exploten qui envia aquests correus, siguin governs, grups o algú sol.",
+   "temes": [
+    "seguretat aèria",
+    "guerra híbrida",
+    "unió europea",
+    "rússia",
+    "desinformació",
+    "geopolítica"
+   ],
+   "lot": "2026-11-07"
+  },
+  {
    "id": "sWBmsMHhf0A",
    "titol": "Bitcoin. Nuevamente en el soporte. Aprovecho para comprar algo. La volatilidad seguirá.",
    "data": "2026-11-06T09:55:52+00:00",
@@ -8225,9 +8395,17 @@
     "Bitcoin.: Torna a la zona de suport dels 76.000 dòlars arran del mateix desplom borsari; l'autor de Bitcoin al día hi compra, però avisa que les pujades futures seran més moderades perquè l'actiu ja es mou en línia amb la borsa.",
     "Vigilància.: Marc Vidal denuncia com Palantir i sistemes similars, alimentats amb dades sanitàries, fiscals i de remeses, ja vigilen immigrants als EUA i avancen també a Alemanya i la resta d'Europa amb Eurodac i el nou sistema d'entrades i sortides."
    ]
+  },
+  "2026-11-07": {
+   "titular": "Caos aeri a Europa per amenaces de bomba, Ueno enfonsa el president de Paraguai i Bitcoin busca suport sobre els 75.000 dòlars",
+   "punts": [
+    "Seguretat: una onada d'amenaces de bomba anònimes ha paralitzat desenes de vols a Europa, amb caces escortant avions i cap autor confirmat; Marc Vidal alerta que parlar sempre de \"guerra híbrida\" banalitza el terme i amaga la manca de coordinació europea.",
+    "Política i banca: la fallida del banc paraguaià Ueno, que amagava préstecs fraudulents a empreses del seu propi grup propietari, ha destituït el president Santiago Peña; Juan Ramón Rallo destaca que els mecanismes de resolució bancària han funcionat sense rescatar el banc amb diner públic.",
+    "Mercats: Bitcoin es manté sobre els 75.000 dòlars malgrat els temors per la regulació de la IA; l'anàlisi tècnic de Bitcoin al día preveu un possible rebot la setmana vinent mentre l'empresa Strive continua acumulant bitcoins."
+   ]
   }
  },
- "actualitzat": "2026-11-06T11:47:41.160Z",
+ "actualitzat": "2026-11-07T11:47:29.372Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
