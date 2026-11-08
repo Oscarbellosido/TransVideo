@@ -1,6 +1,53 @@
 {
  "videos": [
   {
+   "id": "E14arHR7scE",
+   "titol": "Binance España cesa actividad el 31 de Diciembre. Conviene sacar activos antes del 29 de noviembre.",
+   "data": "2026-11-08T10:44:18+00:00",
+   "canal": "btcdia",
+   "durada": 1057,
+   "idioma": "es",
+   "resum": "Binance comunica el cessament de l'activitat a Espanya, França, Itàlia i Polònia el 31 de desembre de 2026 per no haver obtingut la llicència MiCA, i recomana treure els actius abans del 29 de novembre per evitar comissions. El vídeo també repassa el preu de Bitcoin, estancat als 75.800 dòlars, i el moviment de les principals altcoins.",
+   "punts": [
+    {
+     "text": "Tancament a quatre països. Binance avisa els clients d'Espanya, França, Itàlia i Polònia que cessarà l'activitat el 31 de desembre perquè no ha aconseguit la llicència europea MiCA a temps.",
+     "t": 5
+    },
+    {
+     "text": "Comissions si no es retira el saldo. A partir del dia de càlcul (29 de novembre) cobraran una comissió mensual del 0,025% del saldo o 10 $, el que sigui més alt; si no es retira abans del 31 de desembre, la compte es tractarà com a inactiva.",
+     "t": 216
+    },
+    {
+     "text": "Recomanació. Treure els actius sense pressa però sense demorar-se, abans del 29 de novembre, cap a exchanges amb llicència MiCA com Kraken o Backpack, a una cartera freda, o vendre's a euros.",
+     "t": 367
+    },
+    {
+     "text": "Bitcoin. El preu segueix pràcticament pla al cap de setmana a la zona dels 75.800 dòlars; espera un rebot cap als 78.000 si es confirma per sobre dels 76.400 en gràfic horari.",
+     "t": 680
+    },
+    {
+     "text": "Altcoins. BGB i BNB pugen, Tron supera la resistència dels 413, XRP trenca suport per estar sobrevalorat respecte a altres altcoins, i ZCash encara lluny del suport.",
+     "t": 772
+    }
+   ],
+   "dades": [
+    "31 de desembre: cessament d'activitat",
+    "29 de novembre: primer dia de càlcul de comissions",
+    "Comissió: 0,025% del saldo o 10 $ (el més alt)",
+    "Bitcoin: 75.880 $"
+   ],
+   "conclusio": "Qui tingui compte a Binance Espanya, França, Itàlia o Polònia hauria de treure els actius abans del 29 de novembre cap a un exchange amb llicència MiCA (Kraken, Backpack) o a una cartera freda, per evitar comissions i el risc de quedar amb la compte inactiva.",
+   "temes": [
+    "binance",
+    "mica",
+    "regulacio",
+    "bitcoin",
+    "altcoins",
+    "comissions"
+   ],
+   "lot": "2026-11-08"
+  },
+  {
    "id": "YMJ6G0SeuFs",
    "titol": "Ueno: cómo un banco quebrado ha acabado con el presidente de Paraguay",
    "data": "2026-11-07T11:00:38+00:00",
@@ -8403,9 +8450,16 @@
     "Política i banca: la fallida del banc paraguaià Ueno, que amagava préstecs fraudulents a empreses del seu propi grup propietari, ha destituït el president Santiago Peña; Juan Ramón Rallo destaca que els mecanismes de resolució bancària han funcionat sense rescatar el banc amb diner públic.",
     "Mercats: Bitcoin es manté sobre els 75.000 dòlars malgrat els temors per la regulació de la IA; l'anàlisi tècnic de Bitcoin al día preveu un possible rebot la setmana vinent mentre l'empresa Strive continua acumulant bitcoins."
    ]
+  },
+  "2026-11-08": {
+   "titular": "Binance tanca els exchanges locals a Espanya, França, Itàlia i Polònia; Bitcoin es manté estancat als 75.800 dòlars",
+   "punts": [
+    "Binance: cessarà l'activitat als exchanges locals d'Espanya, França, Itàlia i Polònia el 31 de desembre per no tenir la llicència MiCA; cal retirar els actius abans del 29 de novembre per evitar comissions.",
+    "Bitcoin: preu estancat als 75.800 dòlars durant el cap de setmana, amb un possible rebot cap als 78.000 si se supera la resistència horària dels 76.400."
+   ]
   }
  },
- "actualitzat": "2026-11-07T11:47:29.372Z",
+ "actualitzat": "2026-11-08T11:47:11.800Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
@@ -8586,6 +8640,32 @@
     "21 de novembre. Bitcoin al día manté aquesta data com l'horitzó en què espera que acabi la correcció de Bitcoin.",
     "Recuperació total dels fons de Binance. Bitcoin al día, Rallo i Pablo Gil vigilen si Binance acaba de reposar el 100% dels actius robats.",
     "Inversió de les grans tecnològiques en centres de dades. Rallo assenyala que cal vigilar si Alphabet i altres mantenen el ritme d'inversió en IA o el frenen per la pressió sobre els seus negocis tradicionals."
+   ]
+  },
+  "2026-11-08": {
+   "des_de": "2026-11-02",
+   "titular": "Les eleccions dels EUA del 3 de novembre sacsegen mercats i política; Bitcoin es juga el suport als 75.700 dòlars i Binance tanca a quatre països europeus",
+   "punts": [
+    "Eleccions EUA. Els demòcrates recuperen el Congrés i el Senat; Rallo, Marc Vidal i Pablo Gil hi dediquen vídeos sencers aquesta setmana.",
+    "Bitcoin. Bitcoin Al Día repassa com el preu ha oscil·lat entre els 75.700 i els 82.000 dòlars durant tota la setmana, cada cop més lligat als moviments de la borsa i als tipus d'interès.",
+    "Binance. Bitcoin Al Día informa que Binance cessarà l'activitat dels seus exchanges locals a Espanya, França, Itàlia i Polònia el 31 de desembre per no tenir llicència MiCA, i recomana treure els fons abans del 29 de novembre.",
+    "IA i borsa. Rallo i Pablo Gil analitzen la forta caiguda del Nasdaq (-6,4%) per la por a que es frenin els centres de dades d'IA, i els set riscos que reconeix Anthropic de cara a la seva sortida a borsa.",
+    "Vigilància i seguretat. Marc Vidal denuncia l'expansió del reconeixement facial (Palantir) a Europa i Amèrica, i l'onada d'amenaces de bomba que ha paralitzat vols europeus.",
+    "Política espanyola. Rallo compara les dimissions de Puente i Mazón i defensa el vot de càstig pel mal manteniment ferroviari arran de l'accident d'Urda."
+   ],
+   "coincideixen": [
+    "Eleccions EUA. Rallo, Marc Vidal i Pablo Gil coincideixen que la inflació i el cost de vida, més que la gestió política de Trump, van decidir el vot de càstig als republicans.",
+    "Bitcoin. Bitcoin Al Día repeteix durant tota la setmana que el mercat cripto seguirà lligat als moviments de la borsa i als tipus d'interès de la Fed fins al voltant del 21 de novembre."
+   ],
+   "discrepen": [
+    "IA i borsa. Rallo creu que la caiguda del Nasdaq per la por a frenar els centres de dades d'IA és una sobrereacció del mercat més que una amenaça política real, mentre Pablo Gil alerta que la valoració d'Anthropic podria estar inflada amb independència d'aquest risc polític."
+   ],
+   "a_vigilar": [
+    "21 de novembre. Bitcoin Al Día espera una nova correcció de Bitcoin lligada als tipus d'interès de la Reserva Federal.",
+    "29 de novembre. Data límit, segons Bitcoin Al Día, per treure els fons de Binance Espanya, França, Itàlia i Polònia abans que comencin a cobrar comissions.",
+    "76.400 $. Nivell que Bitcoin Al Día vigila en gràfic horari per confirmar un rebot de Bitcoin cap als 78.000-79.000 $.",
+    "11 de desembre. Venç la pròrroga pressupostària dels EUA (llei 119/103); Pablo Gil avisa del risc de tancament parcial del govern des del 12 de desembre.",
+    "16 de novembre. Setmana prevista per la sortida a borsa d'Anthropic, segons Rallo, amb una valoració que podria rebaixar-se."
    ]
   }
  }
