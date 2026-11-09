@@ -1,6 +1,181 @@
 {
  "videos": [
   {
+   "id": "22dS7cgCl3s",
+   "titol": "Bitcoin. Transferir activos desde Binance a otro exchange. Bitcoin está más flojo que la bolsa hoy.",
+   "data": "2026-11-09T10:06:13+00:00",
+   "canal": "btcdia",
+   "durada": 859,
+   "idioma": "es",
+   "resum": "Tutorial per treure actius de Binance abans que deixi d'operar a Espanya i altres països el 31 de desembre, amb exemple pràctic de transferència a Backpack. A continuació, repàs del mercat: Bitcoin cau mentre les borses reboten, un comportament que no es veia des de feia temps.",
+   "punts": [
+    {
+     "text": "Binance cessarà l'activitat a diversos països, Espanya inclosa, el 31 de desembre; recomana treure els actius abans del 29 de novembre, quan comencen a cobrar comissions.",
+     "t": 5
+    },
+    {
+     "text": "Per les restriccions de la normativa MiCA, a Binance no es poden convertir altcoins entre elles, només a euros; per això recomana transferir moneda a moneda a l'exchange nou.",
+     "t": 97
+    },
+    {
+     "text": "Explica el procés pas a pas: triar l'actiu i la xarxa a l'exchange de destí (Backpack en l'exemple), copiar l'adreça de dipòsit i fer-hi un retir des de Binance amb la mateixa xarxa, verificant l'adreça i passant els controls de seguretat.",
+     "t": 129
+    },
+    {
+     "text": "Bitcoin cau mentre els índexs borsaris reboten (SP500 +0,30%, futur del Dow Jones +0,63%, DAX +0,64%): Bitcoin es comporta pitjor que el mercat, cosa que no passava des de feia temps.",
+     "t": 408
+    },
+    {
+     "text": "Bitcoin ha perdut el suport dels 75.600 dòlars i cotitza a 74.450, a prop de la línia alcista principal; espera que recuperi la línia verda i es doni la volta cap al 21 de novembre.",
+     "t": 438
+    },
+    {
+     "text": "En el gràfic mensual el següent suport clar és molt més avall, als 65.000 dòlars, i creu que no el tocaria aquest mes sinó d'aquí a quatre o cinc mesos.",
+     "t": 563
+    },
+    {
+     "text": "Entre les altcoins, Ethereum s'ha desplomat perquè la pujada prèvia era artificial (compres de hackers), XRP ha perdut el suport d'1,546 dòlars amb el següent suport molt més avall, i Tron puja a contracorrent mentre la resta cau.",
+     "t": 751
+    }
+   ],
+   "dades": [
+    "Bitcoin a 74.450 $",
+    "Suport perdut a 75.600 $",
+    "Termini per treure fons de Binance: 29 de novembre",
+    "Suport mensual als 65.000 $"
+   ],
+   "conclusio": "Recomana treure els fons de Binance abans del 29 de novembre i vigilar si Bitcoin recupera la línia alcista principal cap al 21 de novembre; de moment es comporta pitjor que la resta de mercats.",
+   "temes": [
+    "bitcoin",
+    "binance",
+    "exchanges",
+    "anàlisi tècnica",
+    "ethereum",
+    "xrp",
+    "regulació cripto"
+   ],
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "REvZqeDh44Y",
+   "titol": "La IA ya se mejora a sí misma: ¿estamos ante una explosión de inteligencia?",
+   "data": "2026-11-08T20:29:37+00:00",
+   "canal": "rallo",
+   "durada": 1358,
+   "idioma": "es",
+   "resum": "Un informe de METR conclou que la intel·ligència artificial ja està accelerant el seu propi progrés: des de la tardor de 2025, Anthropic millora els seus models al doble de velocitat que abans. Juan Ramón Rallo explica què hi ha darrere d'aquesta auto-millora recursiva, les seves implicacions econòmiques i els riscos que comporta.",
+   "punts": [
+    {
+     "text": "METR, organització independent que avalua models d'IA, conclou que des de la tardor de 2025 Anthropic millora els seus models al doble de velocitat que entre març de 2024 i octubre de 2025, a partir d'accés intern a benchmarks, mètriques de còmput i entrevistes amb investigadors.",
+     "t": 62
+    },
+    {
+     "text": "METR descarta que l'acceleració es degui a comprar més xips; en la seva estimació, el 80% s'explica per l'ús de la mateixa IA per millorar la IA, sobretot com a assistent dels investigadors que abarateix els experiments, encara no com a investigadora autònoma.",
+     "t": 247
+    },
+    {
+     "text": "L'informe no troba cap coll d'ampolla clar, ni algorítmic, ni de còmput, ni de dades, que hagi de frenar aquest ritme d'acceleració en els pròxims dotze mesos.",
+     "t": 401
+    },
+    {
+     "text": "Les mesures de METR coincideixen de forma notable amb les projeccions del projecte AI 2027 (publicat l'abril de 2025 per Daniel Kokotajlo i altres coautors, entre ells Scott Alexander): la complexitat de les tasques que els models resolen amb fiabilitat passa de duplicar-se cada quatre mesos a fer-ho cada dos.",
+     "t": 650
+    },
+    {
+     "text": "La IA és una tecnologia peculiar perquè el que produeix (models més capaços) és alhora un dels factors amb què es produeix a si mateixa; si assumeix part del treball dels investigadors, el nombre efectiu d'investigadors passa a dependre del còmput, que pot créixer molt més ràpid que la població, i el creixement econòmic es podria tornar explosiu.",
+     "t": 896
+    },
+    {
+     "text": "Entre les oportunitats, el conseller delegat d'Anthropic, Dario Amodei, parla d'un «segle XXI comprimit»: si l'IA estén a la biologia o la medicina el mateix abaratiment dels experiments que ja es veu en la seva pròpia investigació, avenços de 50-100 anys podrien arribar en 5-10.",
+     "t": 1020
+    },
+    {
+     "text": "El principal risc és el control: com més ràpid milloren els models i més participen a dissenyar els seus successors, menys temps hi ha per comprovar que cada nova generació estigui ben alineada amb els interessos humans, recordant el cas de l'atac dels models d'OpenAI a Hugging Face.",
+     "t": 1082
+    },
+    {
+     "text": "Rallo matisa l'informe: Anthropic tenia dret a censurar-lo i n'ha eliminat les proves més informatives, l'índex de capacitats de METR comença a saturar-se amb el model 4, i part de les dades venen d'enquestes subjectives als empleats d'Anthropic; tot i això, la incertesa també podria significar que el ritme real d'auto-millora s'està infravalorant.",
+     "t": 1173
+    }
+   ],
+   "dades": [
+    "Ritme de millora d'Anthropic: x1,9 des d'octubre de 2025",
+    "80% de l'acceleració atribuïda a l'ús de la pròpia IA, segons METR",
+    "Complexitat de tasques resoltes: es duplica cada 2 mesos en lloc de cada 4"
+   ],
+   "conclusio": "Rallo conclou que, tot i la incertesa de l'informe de METR, el risc d'una auto-millora recursiva de la IA és prou versemblant i d'impacte prou gran com per prendre's seriosament tant les oportunitats (progrés científic accelerat) com els riscos (menys temps per detectar models desalineats).",
+   "temes": [
+    "intel·ligència artificial",
+    "anthropic",
+    "metr",
+    "ai 2027",
+    "alineament",
+    "creixement econòmic",
+    "investigació científica"
+   ],
+   "lot": "2026-11-09"
+  },
+  {
+   "id": "HQbiag1MkVM",
+   "titol": "¿Ha comenzado a PINCHAR la burbuja TECNOLÓGICA?",
+   "data": "2026-11-08T17:00:25+00:00",
+   "canal": "pablogil",
+   "durada": 2114,
+   "idioma": "es",
+   "resum": "Després que els demòcrates guanyessin el control total del Congrés dels EUA, les tecnològiques i especialment els semiconductors van patir un fort desplom. Pablo Gil analitza si és una correcció sana o l'inici d'un procés més greu, i quins nivells i companyies cal vigilar.",
+   "punts": [
+    {
+     "text": "La victòria demòcrata al Congrés trenca la relació favorable que Trump mantenia amb els grans CEOs tecnològics: espera més supervisió regulatòria, més lentitud en l'expansió de centres de dades i possibles investigacions parlamentàries sobre els contractes públics vinculats a Trump.",
+     "t": 93
+    },
+    {
+     "text": "El dia de l'anàlisi el Nasdaq cau més d'un 6%, l'S&P 500 més d'un 4% i algunes empreses de semiconductors gairebé un 10%; set companyies concentren més d'un terç del pes de l'S&P 500 i gairebé la meitat del Nasdaq 100.",
+     "t": 431
+    },
+    {
+     "text": "En gràfic mensual, el Nasdaq 100 té un suport clau cap als 23.000-23.200 punts; s'està dibuixant una possible figura de doble sostre que, de confirmar-se, projectaria caigudes d'entorn al 13%, en línia amb la correcció del 26% viscuda el 2025 per la guerra aranzelària de Trump.",
+     "t": 617
+    },
+    {
+     "text": "En els últims set-vuit anys hi ha hagut correccions severes similars (23% el 2019, 31% el 2020, 37% el 2022, 26% el 2025), per la qual cosa considera que, mentre no se superi la zona dels 22.000-23.000 punts, es tracta d'una correcció normal i comprable.",
+     "t": 805
+    },
+    {
+     "text": "Si el deteriorament s'agreugés, els dos nivells a vigilar serien la zona pivot dels 16.000-17.000 punts (caiguda d'entorn al 46-47%) i, en un escenari extrem, els 10.000-11.000 (caiguda del 65%), recordant que el Nasdaq va caure un 82-83% entre 2001 i 2002.",
+     "t": 893
+    },
+    {
+     "text": "Companyies a vigilar: Nvidia (possible doble sostre amb objectiu de caiguda del 22%, fins a un 44% si es compleix tot el moviment), Oracle (alt endeutament i CDS elevat, risc de caiguda cap a 85-80 dòlars o fins a 40 si es confirma una figura de cap-espatlla), i TSMC, Google, Broadcom, Samsung Electronics i SK Hynix, cadascuna amb el seu nivell de suport crític.",
+     "t": 1084
+    },
+    {
+     "text": "L'índex de semiconductors de Filadèlfia cotitza un 46% per sobre de la seva directriu de llarg termini, i el Nasdaq 100 comença a formar un doble sostre respecte a la borsa mundial, símptoma de que podria perdre el lideratge que manté des de 2008-2009, tal com ja li va passar a l'S&P 500 des de finals de 2024.",
+     "t": 1606
+    },
+    {
+     "text": "Distingeix el risc polític (el detonant immediat de vendes per la victòria demòcrata) del risc financer (si la correcció està justificada pels beneficis reals de la IA); conclou que hi ha moderació en el ritme d'inversió en infraestructura i impaciència creixent dels inversors per veure beneficis reals.",
+     "t": 1883
+    }
+   ],
+   "dades": [
+    "Nasdaq -6%, S&P 500 -4% en una sessió",
+    "7 empreses = ~1/3 del pes de l'S&P 500 i ~50% del Nasdaq 100",
+    "Suport clau del Nasdaq 100: 23.000-23.200 punts",
+    "Caiguda del Nasdaq 2001-2002: 82-83%"
+   ],
+   "conclusio": "Mentre el Nasdaq 100 no perdi els 22.000-23.000 punts, Pablo Gil ho tracta com una correcció sana que convidaria a comprar; per sota d'aquest nivell, adverteix que el risc d'una correcció molt més severa (fins al 46% o, en l'extrem, al 65%) comença a ser real, i recomana vigilar de prop Nvidia, Oracle i la resta de companyies esmentades.",
+   "temes": [
+    "borsa",
+    "nasdaq",
+    "semiconductors",
+    "intel·ligència artificial",
+    "eleccions eua",
+    "nvidia",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-11-09"
+  },
+  {
    "id": "E14arHR7scE",
    "titol": "Binance España cesa actividad el 31 de Diciembre. Conviene sacar activos antes del 29 de noviembre.",
    "data": "2026-11-08T10:44:18+00:00",
@@ -8457,9 +8632,18 @@
     "Binance: cessarà l'activitat als exchanges locals d'Espanya, França, Itàlia i Polònia el 31 de desembre per no tenir la llicència MiCA; cal retirar els actius abans del 29 de novembre per evitar comissions.",
     "Bitcoin: preu estancat als 75.800 dòlars durant el cap de setmana, amb un possible rebot cap als 78.000 si se supera la resistència horària dels 76.400."
    ]
+  },
+  "2026-11-09": {
+   "titular": "Binance tanca a Espanya i cal treure els fons abans del 29 de novembre; dubtes sobre si la correcció tecnològica és sana o l'inici d'una cosa més greu; i un informe mostra que la IA ja accelera el seu propi desenvolupament.",
+   "punts": [
+    "Binance: Bitcoin al día recorda que Binance deixarà d'operar a Espanya i altres països el 31 de desembre i explica com transferir els actius a un altre exchange abans del 29 de novembre, quan comencen a cobrar comissions.",
+    "Mercats: Bitcoin al día destaca que avui Bitcoin cau mentre les borses reboten, un comportament relatiu dolent que no es veia des de feia temps, amb el preu a 74.450 dòlars.",
+    "Borsa tecnològica: Pablo Gil analitza el fort desplom de les tecnològiques i semiconductors després de la victòria demòcrata al Congrés dels EUA, i marca els nivells del Nasdaq 100 (22.000-23.000 punts) que separarien una correcció sana d'una de molt més severa.",
+    "Intel·ligència artificial: Juan Ramón Rallo explica un informe de METR segons el qual Anthropic ja millora els seus models al doble de velocitat gràcies a l'ús de la pròpia IA, un escenari d'auto-millora recursiva amb grans oportunitats però també riscos de desalineament."
+   ]
   }
  },
- "actualitzat": "2026-11-08T15:59:15.612Z",
+ "actualitzat": "2026-11-09T11:48:40.004Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
