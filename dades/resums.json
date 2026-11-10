@@ -1,6 +1,224 @@
 {
  "videos": [
   {
+   "id": "551ilzXkNeA",
+   "titol": "Pasar monedas de Binance a Kraken.Bitcoin se comporta peor que el resto del mercado de nuevo.",
+   "data": "2026-11-10T09:23:31+00:00",
+   "canal": "btcdia",
+   "durada": 1035,
+   "idioma": "es",
+   "resum": "Explica pas a pas com traslladar actius de Binance a Kraken abans que es tanquin els terminis a la UE. Després analitza que Bitcoin es comporta pitjor que la resta del mercat per les sortides massives dels ETF, tot i considerar-ho una zona de compra a mig termini.",
+   "punts": [
+    {
+     "text": "Tutorial per treure BNB i Bitcoin de Binance cap a Kraken abans del 29/11 (comissions de custòdia) i el 31/12 (límit final); Kraken dona un bo de 10$ si s'obre compte amb l'enllaç del canal.",
+     "t": 66
+    },
+    {
+     "text": "MicroStrategy va comprar 1.036 Bitcoin la setmana passada (ja en té 850.364) i 188 milions de dòlars en accions preferents per reduir deute, a un ritme de 170-180 milions setmanals.",
+     "t": 494
+    },
+    {
+     "text": "Sortides fortes dels ETF: el de BlackRock ha perdut 1.660 milions de dòlars en set sessions, i el conjunt dels ETF ha perdut 1.300 milions aquesta setmana, la pitjor sortida setmanal des de finals de juny.",
+     "t": 524
+    },
+    {
+     "text": "Interpreta aquestes sortides com a senyal de zona de compra, ja que les relaciona amb els petits inversors sortint en massa, al contrari del que diuen les notícies.",
+     "t": 555
+    },
+    {
+     "text": "Preveu que Bitcoin seguirà feble i per sota dels altres mercats fins al voltant del 21 de novembre, i que tardarà encara mes i mig a tornar a la zona dels 82.000.",
+     "t": 616
+    },
+    {
+     "text": "Altcoins: Cardano i BNB pugen, Ethereum i Solana baixen, i XRP perd un suport clau sense cap suport proper fins a zones molt més baixes.",
+     "t": 735
+    },
+    {
+     "text": "Bitcoin tanca a 74.418$, molt per sota d'on hauria d'estar si hagués seguit la pujada de l'S&P500 d'ahir; calen notícies diferencials perquè torni a sincronitzar-se amb els índexs.",
+     "t": 1013
+    }
+   ],
+   "dades": [
+    "1.036 BTC comprats per MicroStrategy (total 850.364)",
+    "-1.660M$ sortides de BlackRock en 7 sessions",
+    "-1.300M$ sortides totals dels ETF aquesta setmana",
+    "Bitcoin a 74.418$"
+   ],
+   "conclusio": "Cal tenir paciència: el mercat probablement seguirà flac fins al 21 de novembre; mentrestant és una bona zona d'acumulació encara que no se sap el mínim exacte.",
+   "temes": [
+    "bitcoin",
+    "kraken",
+    "binance",
+    "etf",
+    "microstrategy",
+    "mercat cripto"
+   ],
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "ulrm7Z3l7JY",
+   "titol": "El desastre de Broncano con Abascal: por qué la izquierda está rabiando",
+   "data": "2026-11-10T07:26:53+00:00",
+   "canal": "rallo",
+   "durada": 1045,
+   "idioma": "es",
+   "resum": "Analitza l'entrevista de David Broncano a Santiago Abascal a La Revuelta, en la qual la pròpia esquerra reconeix que Broncano ho va fer malament i que Abascal en va sortir reforçat. Rallo ho aprofita per argumentar que els mitjans públics esdevenen inevitablement l'òrgan de propaganda del partit que controla el govern.",
+   "punts": [
+    {
+     "text": "L'entrevista de Broncano a Abascal va generar un consens poc habitual: fins i tot crítics i enemics de Vox coincideixen que Broncano ho va fer malament i que Abascal va sortir-ne reforçat.",
+     "t": 95
+    },
+    {
+     "text": "Cita diverses reaccions d'esquerres a xarxes (Antonio Maestre, Eduardo Bayón, Máximo Pradera, Íñigo Sánchez de Ugarte, Joaquín Urías, Juan Malamed, Ignacio Guardans) que critiquen durament la feina de Broncano.",
+     "t": 186
+    },
+    {
+     "text": "Contrast amb l'entrevista de Pedro Sánchez a La Revuelta fa unes setmanes: llavors l'esquerra va celebrar que l'entrevista l'humanitzava i relançava la seva campanya, i ningú va retreure a Broncano haver-la fet 'massa bé' amb ell.",
+     "t": 375
+    },
+    {
+     "text": "Ignacio Guardans considera que TVE 'no està per' facilitar una entrevista amena a Abascal, però va defensar com a positiu que l'entrevista a Sánchez el presentés com 'un tio normal'; per Rallo, això mostra un doble criteri.",
+     "t": 499
+    },
+    {
+     "text": "El problema de fons dels mitjans públics és que el partit que controla el govern acaba controlant també l'ens públic i instrumentalitzant-lo com a propaganda; amb Sánchez, diu, això s'ha fet de forma especialment obscena.",
+     "t": 689
+    },
+    {
+     "text": "Adverteix l'esquerra: si PP i Vox guanyen les eleccions del 29 de novembre i controlen TVE, podrien fer exactament el mateix però al seu favor, amb periodistes aliats fent preguntes còmodes a Abascal.",
+     "t": 875
+    },
+    {
+     "text": "Conclou que la millor solució és tancar RTVE, perquè cap bàndol ha d'estar obligat a pagar la propaganda de l'altre.",
+     "t": 996
+    }
+   ],
+   "conclusio": "La millor solució pels mitjans públics és tancar-los, perquè qualsevol govern que els controli (ara el PSOE, demà potser PP i Vox) els convertirà en el seu òrgan de propaganda.",
+   "temes": [
+    "televisio-publica",
+    "broncano",
+    "abascal",
+    "vox",
+    "psoe",
+    "mitjans-de-comunicacio"
+   ],
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "VvDPIhzKv_4",
+   "titol": "Sexo y espionaje: el escándalo que amenaza al CEO de NVIDIA",
+   "data": "2026-11-09T20:43:33+00:00",
+   "canal": "rallo",
+   "durada": 1183,
+   "idioma": "es",
+   "resum": "Explica l'escàndol d'una suposada relació extramatrimonial de Jensen Huang, CEO de Nvidia, amb una directiva vinculada a l'espionatge xinès, i com aquest afer pot haver afluixat el control sobre l'exportació de xips avançats a la Xina. Argumenta que el domini de Nvidia sobre els xips és la clau de l'avantatge dels EUA sobre la Xina en la cursa per la intel·ligència artificial.",
+   "punts": [
+    {
+     "text": "Jensen Huang va admetre una relació extramatrimonial amb Alice Wang, directiva de Megaspeed, a qui la intel·ligència nord-americana considera un actiu de l'espionatge xinès.",
+     "t": 0
+    },
+    {
+     "text": "Megaspeed, nascuda a Singapur el 2023, es va convertir en pocs anys en el principal comprador de xips de Nvidia del sud-est asiàtic, amb més de 5.000 milions de dòlars comprats entre juny de 2024 i febrer de 2026, més de la meitat possiblement xips Blackwell prohibits per a la Xina.",
+     "t": 154
+    },
+    {
+     "text": "Per liderar la IA calen energia, talent, dades i xips; la Xina va per davant en energia (més del doble de consum elèctric que els EUA) i en talent (el 57% dels millors investigadors d'IA del món s'hi van formar), però els EUA dominen clarament l'accés als xips.",
+     "t": 276
+    },
+    {
+     "text": "Els EUA s'han quedat des de 2022 amb gairebé tres quartes parts de tota la potència de còmput d'IA mundial (78% el primer semestre de 2026), mentre la Xina només té el 10%, i la bretxa s'eixampla.",
+     "t": 426
+    },
+    {
+     "text": "Nvidia controla al voltant del 80% del mercat mundial d'acceleradors d'IA, i des de 2022 el govern dels EUA manté un embargament creixent que prohibeix vendre a la Xina els seus xips més avançats (A100, H100, memòria d'ample de banda alt el 2024, i l'H20 el 2025).",
+     "t": 592
+    },
+    {
+     "text": "La Xina intenta esquivar l'embargament per tres vies: comprar les versions legals rebaixades, el contraban (uns 660.000 xips H100 equivalents haurien entrat de contraban fins a finals de 2025) i llogar còmput en centres de dades a tercers països com Malàisia o Indonèsia.",
+     "t": 775
+    },
+    {
+     "text": "El desembre de 2025 Trump va autoritzar vendre a la Xina l'H200 a canvi d'un 25% dels ingressos, i des de llavors el Departament de Comerç ha aprovat prop de dues dotzenes d'empreses xineses, algunes amb indicis dubtosos com New Matrix, amb seu oficial a Pequín en un edifici buit.",
+     "t": 897
+    },
+    {
+     "text": "Jensen Huang lidera la facció de la indústria de la IA nord-americana que vol mantenir el ritme d'acceleració, enfrontada a la de Dario Amodei (Anthropic) que vol frenar-lo; la seva caiguda podria afeblir aquesta postura.",
+     "t": 1088
+    }
+   ],
+   "dades": [
+    "5.000M$ en compres de Nvidia per part de Megaspeed (2024-2026)",
+    "~80% de quota mundial de Nvidia en acceleradors d'IA",
+    "~660.000 xips H100 de contraban a la Xina fins a finals de 2025",
+    "25% dels ingressos per a Trump en la venda de l'H200"
+   ],
+   "conclusio": "El futur de Jensen Huang al capdavant de Nvidia està en risc, i la seva possible sortida podria afeblir tant el lideratge tecnològic de Nvidia com la postura d'accelerar el desenvolupament de la IA als EUA.",
+   "temes": [
+    "nvidia",
+    "jensen-huang",
+    "intel-ligencia-artificial",
+    "xina",
+    "geopolitica",
+    "xips"
+   ],
+   "lot": "2026-11-10"
+  },
+  {
+   "id": "ynrgALke8VM",
+   "titol": "Saltan las alarmas en Europa: piden guardar comida y agua para 72 horas, ¿para qué nos preparan?",
+   "data": "2026-11-09T19:00:26+00:00",
+   "canal": "vidal",
+   "durada": 1134,
+   "idioma": "es",
+   "resum": "Arran d'intents de sabotatge en congeladors de sang a França i Suècia, i de la recomanació de la Comissió Europea de tenir provisions per a 72 hores, Marc Vidal denuncia que els governs estan traslladant als ciutadans la responsabilitat de protegir-se davant d'una emergència que ells mateixos no poden garantir. Repassa qui demana què a Europa, el cost real d'aquesta preparació i el forat d'inversió en la xarxa elèctrica.",
+   "punts": [
+    {
+     "text": "Intents de sabotatge detectats: un tècnic va evitar que uns congeladors de plasma del banc de sang francès pugessin de -30°C a 110°C, i un supermercat suec va trobar els seus congeladors a 50 graus; l'endemà la Comissió Europea va publicar la recomanació de tenir provisions per 72 hores a casa.",
+     "t": 0
+    },
+    {
+     "text": "Cada país demana dies diferents: Alemanya 10, Àustria entre 10 i 14, Suècia i Suïssa 7, Noruega ha pujat de 3 a 7, i la majoria (Regne Unit, Dinamarca, Finlàndia, França, Països Baixos, Luxemburg) es queden en 3; Brussel·les va fixar el 3 de novembre un mínim no vinculant de 72 hores per als 27 estats.",
+     "t": 152
+    },
+    {
+     "text": "Un estudi del Banc Central Europeu recomana entre 70 i 100 euros en efectiu per persona (fins a 400 euros per a una família de quatre); la inversió necessària a la xarxa elèctrica, 1,2 bilions d'euros fins el 2041, la finançaran sobretot inversors privats a través dels peatges de la factura, és a dir, paguem dues vegades: a la compra i al rebut.",
+     "t": 306
+    },
+    {
+     "text": "Recorda l'apagada del 28 d'abril a Espanya: el consum elèctric es va enfonsar un 34% aquell dia, amb estimacions de cost que van des de 400 fins a 1.600 milions d'euros segons la font, i un topall legal d'inversió en xarxa vigent des de 2013 que amb prou feines s'ha mogut des de llavors.",
+     "t": 460
+    },
+    {
+     "text": "Ciberatacs reals sobre sistemes de refrigeració de supermercats a França, Bèlgica i Països Baixos (Coop, Carrefour, i Ahold Delhaize, que calcula fins a 250 milions d'euros de pèrdues aquest trimestre) i incidents sospitosos en cables submarins al Bàltic, que han fet que l'OTAN redueixi el seu temps de resposta de 17 a 1 hora.",
+     "t": 640
+    },
+    {
+     "text": "Assenyala la paradoxa de demanar tenir efectiu a casa mentre es prepara l'euro digital: Espanya ja limita els pagaments en efectiu professionals a 1.000 euros, i des de juliol de 2027 hi haurà un límit europeu de 10.000 euros.",
+     "t": 734
+    },
+    {
+     "text": "El nombre de dies recomanats diu poc sense mirar la cobertura de refugis: Suïssa garanteix una plaça protegida per habitant des de 1963, Finlàndia té uns 50.500 refugis que cobreixen el 85% de la població, mentre que la cobertura a Espanya, França i Itàlia és mínima.",
+     "t": 886
+    }
+   ],
+   "dades": [
+    "72 hores mínimes recomanades per la Comissió Europea",
+    "70-100€ en efectiu per persona recomanats pel BCE",
+    "1,2 bilions € d'inversió necessària a la xarxa elèctrica fins el 2041",
+    "-34% de consum elèctric durant l'apagada del 28 d'abril"
+   ],
+   "conclusio": "Reclama no una llista de la compra, sinó un calendari d'inversió en la xarxa elèctrica comprovable any a any i algú amb nom i cognoms que en respongui, en lloc de traslladar tota la responsabilitat als ciutadans mentre els impostos i peatges es mantenen alts.",
+   "temes": [
+    "unio-europea",
+    "preparacio-civil",
+    "apagada-electrica",
+    "ciberseguretat",
+    "euro-digital",
+    "xarxa-electrica"
+   ],
+   "lot": "2026-11-10"
+  },
+  {
    "id": "22dS7cgCl3s",
    "titol": "Bitcoin. Transferir activos desde Binance a otro exchange. Bitcoin está más flojo que la bolsa hoy.",
    "data": "2026-11-09T10:06:13+00:00",
@@ -8641,9 +8859,18 @@
     "Borsa tecnològica: Pablo Gil analitza el fort desplom de les tecnològiques i semiconductors després de la victòria demòcrata al Congrés dels EUA, i marca els nivells del Nasdaq 100 (22.000-23.000 punts) que separarien una correcció sana d'una de molt més severa.",
     "Intel·ligència artificial: Juan Ramón Rallo explica un informe de METR segons el qual Anthropic ja millora els seus models al doble de velocitat gràcies a l'ús de la pròpia IA, un escenari d'auto-millora recursiva amb grans oportunitats però també riscos de desalineament."
    ]
+  },
+  "2026-11-10": {
+   "titular": "L'escàndol personal del CEO de Nvidia, la polèmica per l'entrevista de Broncano a Abascal i els avisos de preparació civil a Europa marquen el dia.",
+   "punts": [
+    "Nvidia. L'escàndol personal del CEO Jensen Huang amb una suposada agent de l'espionatge xinès obre la porta a preguntar-se si s'ha relaxat l'embargament de xips avançats a la Xina.",
+    "Mitjans públics. L'entrevista de Broncano a Abascal, criticada per la pròpia esquerra, torna a posar sobre la taula que els mitjans públics acaben sent l'òrgan de propaganda de qui governa.",
+    "Preparació civil. La Comissió Europea demana tenir provisions per 72 hores a casa mentre la inversió en la xarxa elèctrica segueix endarrerida i es finança amb peatges a la factura.",
+    "Criptomonedes. Bitcoin cotitza a 74.418$ i es comporta pitjor que la resta del mercat malgrat les fortes sortides dels ETF, que el canal interpreta com a zona de compra."
+   ]
   }
  },
- "actualitzat": "2026-11-09T11:48:40.004Z",
+ "actualitzat": "2026-11-10T11:35:16.050Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
