@@ -1,6 +1,160 @@
 {
  "videos": [
   {
+   "id": "oQBeHInWrqs",
+   "titol": "Bitcoin. Toca la linea de tendencia principal. Comportamiento divergente con respecto a la bolsa.",
+   "data": "2026-11-11T10:16:27+00:00",
+   "canal": "btcdia",
+   "durada": 1459,
+   "idioma": "es",
+   "resum": "Bitcoin es comporta de manera divergent respecte a les borses: cau mentre els índexs pugen, en part per la previsible sortida de MicroStrategy de l'índex MSCI i la pujada de tipus esperada al desembre. L'analista hi veu un bon preu de compra sense apalancament, però espera una recuperació lenta i anys més complicats que en el passat.",
+   "punts": [
+    {
+     "text": "MicroStrategy: avui es decideix la seva sortida de l'índex MSCI, efectiva a final de mes; limitarà el finançament via venda d'accions per comprar més Bitcoin i recomprar deute.",
+     "t": 5
+    },
+    {
+     "text": "Divergència: Bitcoin cau mentre els índexs borsaris pugen (S&P500 +0,72%, DAX gairebé en màxims) amb el mateix context macro.",
+     "t": 158
+    },
+    {
+     "text": "Tipus d'interès: 96% de probabilitat de pujada al desembre després de les males dades d'inflació als EUA; Waller ja ha dit que hi votaria a favor.",
+     "t": 128
+    },
+    {
+     "text": "Preu objectiu: segons la recuperació del S&P500, Bitcoin hauria d'estar a 79.100$, però cotitza a 73.700$, un retard que allunya l'objectiu de 87.000$ per final d'any.",
+     "t": 405
+    },
+    {
+     "text": "Estratègia pròpia: va vendre part de la posició a prop de 86.000$ i espera un rebot fins als 80.000-82.000$ per final d'any, tot i avisar d'anys més durs i menys espectaculars.",
+     "t": 594
+    },
+    {
+     "text": "Suport clau: si es perd la línia de tendència, no hi ha suport fins als 67.000$, la zona de l'antiga figura d'espatlla-cap-espatlla.",
+     "t": 1056
+    },
+    {
+     "text": "Altcoins: Ethereum i Solana cauen fort, Tron supera els 4,12$, XRP segueix sense fonament (només beneficia Ripple Labs) i Zcash es desploma un 27% des de màxims amb risc de més caiguda.",
+     "t": 1086
+    }
+   ],
+   "dades": [
+    "73.700$ preu actual de Bitcoin",
+    "96% de probabilitat de pujada de tipus al desembre",
+    "Objectiu de 79.100$ segons el S&P500",
+    "-27% caiguda de Zcash des de màxims"
+   ],
+   "conclusio": "Bon preu per comprar sense apalancar-se, però la recuperació serà lenta: rebot esperat cap als 80.000-82.000$ per final d'any, amb risc de caure fins als 67.000$ si es perd el suport.",
+   "temes": [
+    "bitcoin",
+    "microstrategy",
+    "tipus d'interès",
+    "anàlisi tècnica",
+    "altcoins"
+   ],
+   "lot": "2026-11-11"
+  },
+  {
+   "id": "v_oYm-fZUdg",
+   "titol": "Abascal vs. Broncano: ¿quién tiene razón sobre la vivienda?",
+   "data": "2026-11-10T20:45:22+00:00",
+   "canal": "rallo",
+   "durada": 1731,
+   "idioma": "es",
+   "resum": "Rallo analitza el debat sobre l'habitatge entre Abascal i Broncano a Radiotelevisión Española, separant les xifres correctes de les exagerades i les afirmacions falses. Conclou que Abascal tenia en l'essencial raó sobre el desajust entre oferta i demanda, però ho va defensar amb dades inflades i cedint sense necessitat en el debat sobre els fons voltor.",
+   "punts": [
+    {
+     "text": "Xifres d'Abascal: l'encariment (74% compra, 40% lloguer des de 2018) i els 400.000 habitatges construïts en 5 anys són correctes, però l'entrada de 6 milions d'immigrants és bruta; la neta ronda els 3 milions, tot i que l'argument de fons es manté igual.",
+     "t": 185
+    },
+    {
+     "text": "Accés a l'habitatge: la propietat entre joves de menys de 35 anys ha caigut del 70% (2011) a menys del 40% avui; el Banc d'Espanya xifra el dèficit acumulat 2021-2025 en més de 700.000 habitatges.",
+     "t": 466
+    },
+    {
+     "text": "Fiscalitat: eliminar IVA/ITP a la primera vivenda no l'abarataria un 30% com promet Vox, sinó al voltant d'un 10%, ja que la càrrega fiscal real de la compravenda és del 10-12%.",
+     "t": 623
+    },
+    {
+     "text": "Fons voltor: les persones jurídiques (fons, socimis, bancs) només tenen el 8% de l'estoc de lloguer a Espanya; Blackstone, el major propietari, en controla només el 0,5% del mercat, i el seu pes no ha crescut en dues dècades.",
+     "t": 1125
+    },
+    {
+     "text": "Un informe d'Esade mostra que els propietaris amb diversos pisos al mateix barri cobren un 3,8% MENYS que els veïns, desmentint que els grans propietaris puguin imposar preus localment.",
+     "t": 1341
+    },
+    {
+     "text": "Perspectiva de gènere: els informes d'impacte de gènere en l'urbanisme existeixen i han anul·lat plans sencers (Costa del Sol el 2015, Boadilla del Monte el 2017), però són només un tràmit més dins d'una maranya normativa que obstrueix la construcció.",
+     "t": 1558
+    }
+   ],
+   "dades": [
+    "74% de pujada del preu de compra des de 2018",
+    "400.000 habitatges construïts en 5 anys (90.000/any)",
+    "8% de l'estoc de lloguer en mans de persones jurídiques",
+    "3 milions d'entrada neta de població en 5 anys (no 6)"
+   ],
+   "conclusio": "Abascal tenia en l'essencial raó sobre el desajust entre oferta i demanda, però ho va defensar amb xifres exagerades i cedint sense necessitat davant l'acusació falsa dels fons voltor; Broncano, per contra, va compartir el relat que ha contribuït a destruir l'accés a l'habitatge.",
+   "temes": [
+    "habitatge",
+    "vox",
+    "immigració",
+    "fiscalitat",
+    "fons voltor"
+   ],
+   "lot": "2026-11-11"
+  },
+  {
+   "id": "_QiivcoEISo",
+   "titol": "Algo está pasando con NVIDIA y no es el ESCÁNDALO: la cuenta de la inteligencia artificial no sale",
+   "data": "2026-11-10T19:00:29+00:00",
+   "canal": "vidal",
+   "durada": 1218,
+   "idioma": "es",
+   "resum": "Marc Vidal compara el model del diari Sun (1833), que venia barat perquè monetitzava l'atenció dels lectors, amb el de la intel·ligència artificial actual. Nvidia ja queia des de feia setmanes per dubtes sobre qui pagarà els 800.000 milions que Amazon, Alphabet i Microsoft inverteixen en centres de dades, abans que esclatés l'escàndol personal del seu conseller delegat, Jensen Huang.",
+   "punts": [
+    {
+     "text": "Analogia amb el diari Sun de Benjamin Day (1833): quan alguna cosa costa menys del que val, algú paga la diferència amb la seva atenció; amb la IA ja no només sabem el comportament de l'usuari, sinó la seva intenció.",
+     "t": 243
+    },
+    {
+     "text": "Nvidia ja queia des de fa cinc setmanes (màxim històric el 6 d'octubre): gairebé un 25% i 1,4 bilions de dòlars perduts en borsa, abans de l'escàndol de la suposada espia xinesa.",
+     "t": 488
+    },
+    {
+     "text": "El 29 d'octubre es van conèixer els comptes reals: Amazon, Alphabet i Microsoft invertiran més de 800.000 milions de dòlars el 2026 en centres de dades, i el mercat dubta de qui assumirà aquesta factura.",
+     "t": 578
+    },
+    {
+     "text": "Alphabet va caure un 12,6% en borsa (el pitjor dia des de la sortida el 2004, -482.000 milions$) perquè va invertir 51.400 milions en un trimestre mentre els clics al cercador baixen (del 15% al 8% amb resums d'IA, segons Pew Research).",
+     "t": 641
+    },
+    {
+     "text": "La publicitat s'ha convertit en la solució: OpenAI, que deia que seria «l'últim recurs», ja ingressa més de 1.000 milions$ anuals en publicitat i Barclays preveu que passi del 8% al 36% dels seus ingressos el 2030, tot i que perdrà uns 14.000 milions$ aquest any.",
+     "t": 795
+    },
+    {
+     "text": "Marc Vidal conclou que la tecnologia de la IA no corre perill ni es desinventarà, però els seus comptes sí, perquè els centres de dades necessiten llum, aigua i diners que encara ningú no posa de manera sostenible.",
+     "t": 978
+    }
+   ],
+   "dades": [
+    "-25% i 1,4 bilions$ perduts per Nvidia en 5 setmanes",
+    "800.000 milions$ d'inversió prevista el 2026 en centres de dades",
+    "la publicitat d'OpenAI passarà del 8% al 36% dels ingressos el 2030",
+    "-12,6% d'Alphabet, el pitjor dia des del 2004"
+   ],
+   "conclusio": "La intel·ligència artificial com a tecnologia no està en perill, però el seu model de negoci sí: ningú ha resolt encara qui paga els centres de dades, i la publicitat dins les converses amenaça de tornar-nos a convertir en el producte, com ja va passar amb els diaris i les xarxes socials.",
+   "temes": [
+    "nvidia",
+    "intel·ligència artificial",
+    "borsa",
+    "publicitat",
+    "centres de dades"
+   ],
+   "lot": "2026-11-11"
+  },
+  {
    "id": "551ilzXkNeA",
    "titol": "Pasar monedas de Binance a Kraken.Bitcoin se comporta peor que el resto del mercado de nuevo.",
    "data": "2026-11-10T09:23:31+00:00",
@@ -8868,9 +9022,17 @@
     "Preparació civil. La Comissió Europea demana tenir provisions per 72 hores a casa mentre la inversió en la xarxa elèctrica segueix endarrerida i es finança amb peatges a la factura.",
     "Criptomonedes. Bitcoin cotitza a 74.418$ i es comporta pitjor que la resta del mercat malgrat les fortes sortides dels ETF, que el canal interpreta com a zona de compra."
    ]
+  },
+  "2026-11-11": {
+   "titular": "Bitcoin es desvincula de les borses mentre Nvidia arrossega dubtes sobre qui paga la IA, i Rallo desmunta el debat Abascal-Broncano sobre l'habitatge",
+   "punts": [
+    "Intel·ligència artificial: Bitcoin al día assenyala que les grans empreses han bolcat els seus diners en IA en lloc de seguir comprant Bitcoin, mentre Marc Vidal alerta que el negoci de la IA encara no té clar qui en paga la factura, amb 800.000 milions$ d'inversió prevista el 2026 en centres de dades i Nvidia ja havia perdut un 25% en borsa abans de l'escàndol del seu conseller delegat.",
+    "Bitcoin: cotitza divergent de les borses, caient mentre els índexs pugen, en part per la previsible sortida de MicroStrategy de l'índex MSCI i la pujada de tipus d'interès esperada al desembre (96% de probabilitat).",
+    "Habitatge: Juan Ramón Rallo desmunta el debat entre Abascal i Broncano a Radiotelevisión Española i conclou que el problema real és la manca d'oferta davant més demanda, no els fons voltor, que només tenen el 8% de l'estoc de lloguer a Espanya."
+   ]
   }
  },
- "actualitzat": "2026-11-10T11:35:16.050Z",
+ "actualitzat": "2026-11-11T11:47:13.514Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
