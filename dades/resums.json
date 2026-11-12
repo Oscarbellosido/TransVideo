@@ -1,6 +1,214 @@
 {
  "videos": [
   {
+   "id": "t1zOtest3T8",
+   "titol": "Bitcoin. Una nueva caída del SP500 podría arrastrar a Bitcoin a perder la linea de tendencia.",
+   "data": "2026-11-12T09:53:09+00:00",
+   "canal": "btcdia",
+   "durada": 1523,
+   "idioma": "es",
+   "resum": "El presentador de Bitcoin al día avisa que una nova caiguda de l'S&P 500 podria arrossegar Bitcoin per sota de la seva línia de tendència alcista, en un dia en què el preu torna a estar en zona de perill. Repassa l'exclusió de Strategy (MicroStrategy) dels índexs MSCI, les sortides dels ETF de Bitcoin i els nivells tècnics clau a vigilar.",
+   "punts": [
+    {
+     "text": "Notícies: el MSCI exclourà Strategy (MicroStrategy), Metaplanet i Upexi dels seus índexs a partir del 30 de novembre, el que li limita la capacitat de vendre accions per comprar Bitcoin, encara que l'impacte és petit perquè ja compra quantitats reduïdes (té 845.000 bitcoins).",
+     "t": 162
+    },
+    {
+     "text": "Per què Bitcoin ja no puja un 40% cada any: ara és un actiu global i conegut per tothom, i després d'una fase d'expansió tan forta com la del 2025 cal un període llarg per «digerir» la pujada, igual que passa amb qualsevol altre actiu madur.",
+     "t": 316
+    },
+    {
+     "text": "Flux de capital: els ETF de Bitcoin de BlackRock han tingut sortides de 2.000 M$ en nou sessions (venda de petits inversors, zona teòrica d'acumulació), mentre Barclays i Citigroup augmenten petites posicions en ETFs de Bitcoin (17.000 $ i 119 M$ respectivament).",
+     "t": 686
+    },
+    {
+     "text": "Zona de perill: el preu torna a amenaçar la línia de tendència principal; si es perden els mínims del dia 10 (72.727 $) no hi ha suports propers i podrien arribar caigudes fortes.",
+     "t": 872
+    },
+    {
+     "text": "Bitcoin es comporta pitjor que les borses: si l'S&P 500 cau fins als 7.400 punts, la línia de tendència de Bitcoin no aguantaria; Bitcoin no s'ha desmarcat a l'alça de les borses des de l'episodi regulatori de la SEC/CFTC del 18-21 de setembre.",
+     "t": 933
+    },
+    {
+     "text": "Nivells tècnics del dia: suports horaris a 72.150 $ i 71.577 $ (possible zona de gir), i resistències a 74.650 $ i 75.700 $.",
+     "t": 1114
+    }
+   ],
+   "dades": [
+    "MicroStrategy té 845.000 bitcoins",
+    "Sortides de 2.000 M$ dels ETF de BlackRock en 9 sessions",
+    "Suport clau: 72.727 $ (mínim del dia 10)",
+    "Preu al tancament del vídeo: 73.510 $"
+   ],
+   "conclusio": "El presentador recomana prudència a curt termini: cal no perdre la línia de tendència alcista ni els suports (72.727 $ i, per sota, 71.577 $), encara que les vendes dels ETF suggereixen que el mercat podria estar a prop d'un suport.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "microstrategy",
+    "etf",
+    "anàlisi tècnica",
+    "sp500"
+   ],
+   "lot": "2026-11-12"
+  },
+  {
+   "id": "p79mvAo8KPY",
+   "titol": "Abascal planta a Jordi Wild  un error monumental de Vox",
+   "data": "2026-11-11T20:14:36+00:00",
+   "canal": "rallo",
+   "durada": 1158,
+   "idioma": "es",
+   "resum": "Juan Ramón Rallo critica que Santiago Abascal hagi cancel·lat, 48 hores després del seu èxit d'audiència amb David Broncano, l'entrevista compromesa amb Jordi Wild dins el cicle d'entrevistes als quatre candidats a les eleccions del 29 de novembre. Segons Rallo, les excuses de Vox no es sostenen -Wild mai va incomplir res i fins i tot oferia que Vox es gravés la seva pròpia còpia- i la decisió respon a càlcul electoral per no arriscar l'impuls obtingut amb Broncano.",
+   "punts": [
+    {
+     "text": "Context: Abascal va fer dilluns l'entrevista més vista de la història de La Revuelta (gairebé 5 M d'espectadors, per davant de Pedro Sánchez), però dimecres va cancel·lar l'entrevista compromesa amb Jordi Wild a The Wild Project.",
+     "t": 0
+    },
+    {
+     "text": "L'acord trencat: el 9 d'octubre Vox va acceptar, sense condicions, participar en el cicle de quatre entrevistes de Jordi Wild (amb Sánchez, Feijóo i Colau) per emetre's íntegres i sense edició el 13 de novembre, inici de campanya.",
+     "t": 123
+    },
+    {
+     "text": "L'excusa de Vox: un comunicat acusa TVE d'haver retallat 40 minuts de l'entrevista amb Broncano i diu que suspèn la gravació amb Wild per protegir la reputació del partit en campanya.",
+     "t": 185
+    },
+    {
+     "text": "La rèplica de Wild: mai va incomplir res del que va firmar (emissió íntegra sense talls) i fins i tot va oferir que l'equip de Vox gravés la seva pròpia còpia amb mòbil o càmera; només es va negar a cedir els drets de l'entrevista.",
+     "t": 337
+    },
+    {
+     "text": "El veredicte de Rallo: l'única explicació raonable és el càlcul electoral -Vox no vol arriscar l'impuls positiu de Broncano amb una entrevista dura i amb verificadors en directe.",
+     "t": 554
+    },
+    {
+     "text": "Reacció dels votants: la indignació no ve de l'esquerra sinó dels propis simpatitzants de Vox a les xarxes, decebuts perquè el partit els ha mentit, el que trenca la seva imatge de partit «diferent».",
+     "t": 740
+    },
+    {
+     "text": "Risc a partir d'ara: si Feijóo fa una bona entrevista amb Wild, pot generar simpaties cap al PP i antipatia cap a Vox, i un possible nerviosisme de Vox podria encadenar nous errors.",
+     "t": 985
+    }
+   ],
+   "dades": [
+    "Entrevista Broncano-Abascal: gairebé 5 M d'espectadors (33,6% de quota)",
+    "40 minuts de l'entrevista amb Broncano no emesos",
+    "Eleccions generals: 29 de novembre",
+    "Entrevista cancel·lada 48 h després de l'èxit amb Broncano"
+   ],
+   "conclusio": "Rallo conclou que Vox ha demostrat ser un partit polític com els altres -incompleix la seva paraula i menteix als seus votants per càlcul electoral-, i que la gestió d'aquest error pot acabar sent pitjor que l'error mateix si entra en una guerra amb Jordi Wild o amb el PP.",
+   "temes": [
+    "vox",
+    "eleccions",
+    "jordi wild",
+    "abascal",
+    "mitjans",
+    "campanya electoral"
+   ],
+   "lot": "2026-11-12"
+  },
+  {
+   "id": "JRH405I9G4I",
+   "titol": "Huelga general: por qué España para por primera vez en 14 años y por qué parar no basta | Análisis",
+   "data": "2026-11-11T17:38:01+00:00",
+   "canal": "vidal",
+   "durada": 926,
+   "idioma": "es",
+   "resum": "Marc Vidal analitza la vaga general del 12 de novembre de 2026 a Espanya, la primera en 14 anys, convocada per CCOO, UGT i altres col·lectius sota el lema «salaris, vivenda i preus». Defensa que el malestar és real -salaris que no arriben i lloguers disparats- però critica que el discurs només parli de repartir riquesa i mai de crear-la.",
+   "punts": [
+    {
+     "text": "Context: primera vaga general en 14 anys a Espanya, convocada per CCOO, UGT, el sindicat d'inquilins, la CGT i la CNT sota el lema «salaris, vivenda i preus»; la demanda elèctrica va caure un 9% al matí.",
+     "t": 125
+    },
+    {
+     "text": "Salaris i habitatge: el salari mitjà té un 5,6% menys de poder de compra que el 2008 (Instituto de Estudios Adecco); des de 2013 els pisos han pujat un 108% i els salaris un 30%, i el 2024 el lloguer ja es menjava el 47% del sou brut mitjà.",
+     "t": 218
+    },
+    {
+     "text": "Habitatge públic: Espanya té menys del 2% d'habitatge protegit (la mitjana de l'OCDE és del 7,1%, França arriba al 14%); el govern va prometre 276.000 pisos protegits en sis anys i n'ha entregat 49.000.",
+     "t": 280
+    },
+    {
+     "text": "Piquets i llei: un piquet informatiu és legal, però tallar una autovia o abaixar una persiana aliena ja no ho és; el 2021 es va derogar l'article del Codi Penal que castigava amb fins a 3 anys de presó coaccionar per fer vaga.",
+     "t": 371
+    },
+    {
+     "text": "Cost econòmic: els exportadors calculen que la vaga pot afectar 1.600 milions d'euros de producció destinada a l'exterior; el 83% dels autònoms no va seguir la vaga general de 2012.",
+     "t": 556
+    },
+    {
+     "text": "Repartir vs. crear: Espanya produeix un 14% menys per hora treballada que la mitjana europea i la pressió fiscal sobre el treball és entre les deu més altes de l'OCDE (41 de cada 100 € es queden en impostos i cotitzacions); Vidal retreu que es parli de repartir riquesa i gens de crear-la.",
+     "t": 710
+    }
+   ],
+   "dades": [
+    "Poder de compra del salari: -5,6% des de 2008",
+    "Preu de l'habitatge +108% des de 2013 (salaris +30%)",
+    "Habitatge protegit a Espanya: <2% (OCDE: 7,1%)",
+    "Impacte estimat de la vaga: 1.600 M€ en exportacions"
+   ],
+   "conclusio": "Vidal conclou que la vaga reflecteix un malestar real, però que repartir sense crear riquesa no soluciona res: cal un model productiu que generi més sous i més habitatge, no només intervenir preus.",
+   "temes": [
+    "vaga general",
+    "habitatge",
+    "salaris",
+    "fiscalitat",
+    "mercat laboral",
+    "espanya"
+   ],
+   "lot": "2026-11-12"
+  },
+  {
+   "id": "q42axejcMdw",
+   "titol": "El GIRO que podría cambiar el LIDERAZGO de WALL STREET",
+   "data": "2026-11-11T17:00:29+00:00",
+   "canal": "pablogil",
+   "durada": 1138,
+   "idioma": "es",
+   "resum": "Pablo Gil planteja si el domini de Wall Street sobre les borses europees, que dura 16 anys, podria començar a capgirar-se. Connecta quatre factors -la guerra d'Iran i el petroli, el finançament de la guerra russa, el pes de la intel·ligència artificial als EUA i els nivells tècnics dels índexs- sense afirmar que el canvi ja s'hagi produït.",
+   "punts": [
+    {
+     "text": "Context: la relació S&P 500 / Euro Stoxx 50 mostra un canal alcista a favor dels EUA des de 2009-2010, després de dècades d'alternança entre 1987 i 2008; són gairebé 16 anys de domini de Wall Street.",
+     "t": 31
+    },
+    {
+     "text": "Factor Iran-petroli: la guerra d'Iran amenaça l'estret d'Ormuz (prop del 20% del petroli mundial); la derrota republicana a les eleccions de mig mandat podria empènyer Trump a buscar una sortida negociada, i el Brent ja ha corregit amb força.",
+     "t": 156
+    },
+    {
+     "text": "Impacte diferencial: Europa és importadora neta d'energia, de manera que un petroli més barat beneficia més Alemanya, Itàlia, Espanya i França; els EUA, en canvi, són productors i poden perdre ingressos a les seves petrolieres.",
+     "t": 248
+    },
+    {
+     "text": "Factor Rússia: la caiguda del preu del petroli dels Urals redueix els ingressos fiscals amb què Rússia finança la guerra, i una relació més cooperativa entre Washington i l'OTAN podria reduir la prima de risc geopolític d'Europa.",
+     "t": 436
+    },
+    {
+     "text": "Factor tecnologia: el lideratge de Wall Street des de 2009 es deu sobretot al pes de les grans tecnològiques i la IA als EUA; el cost energètic i d'infraestructura dels centres de dades pot generar resistència social i pressió reguladora que moderi aquest lideratge.",
+     "t": 589
+    },
+    {
+     "text": "Nivells tècnics: en el gràfic S&P 500 / Euro Stoxx 50 hi ha resistència a 1,26-1,28 i suport a 1,17-1,18; en S&P 500 / Stoxx Europe 600, nivells clau a 10,8 (possible doble sostre) i 10, amb divergències baixistes a l'RSI i l'estocàstic.",
+     "t": 834
+    }
+   ],
+   "dades": [
+    "16 anys de domini de Wall Street des de 2009-2010",
+    "Estret d'Ormuz: ~20% del petroli mundial",
+    "Resistència 1,26-1,28 i suport 1,17-1,18 (S&P 500/Euro Stoxx 50)",
+    "Nivells clau 10,8 i 10 al ràtio S&P 500/Stoxx Europe 600"
+   ],
+   "conclusio": "Gil no recomana comprar Europa i vendre EUA, sinó que assenyala quins senyals (petroli, Rússia, OTAN, valoracions tecnològiques i nivells tècnics) caldria vigilar per confirmar que el lideratge borsari dels EUA comença a invertir-se a favor d'Europa.",
+   "temes": [
+    "mercats",
+    "borsa",
+    "wall street",
+    "europa",
+    "petroli",
+    "geopolítica"
+   ],
+   "lot": "2026-11-12"
+  },
+  {
    "id": "oQBeHInWrqs",
    "titol": "Bitcoin. Toca la linea de tendencia principal. Comportamiento divergente con respecto a la bolsa.",
    "data": "2026-11-11T10:16:27+00:00",
@@ -9030,9 +9238,18 @@
     "Bitcoin: cotitza divergent de les borses, caient mentre els índexs pugen, en part per la previsible sortida de MicroStrategy de l'índex MSCI i la pujada de tipus d'interès esperada al desembre (96% de probabilitat).",
     "Habitatge: Juan Ramón Rallo desmunta el debat entre Abascal i Broncano a Radiotelevisión Española i conclou que el problema real és la manca d'oferta davant més demanda, no els fons voltor, que només tenen el 8% de l'estoc de lloguer a Espanya."
    ]
+  },
+  "2026-11-12": {
+   "titular": "Vaga general a Espanya, un revés d'Abascal amb Jordi Wild i dubtes sobre el lideratge de Wall Street i Bitcoin.",
+   "punts": [
+    "Vaga general: Marc Vidal analitza la primera vaga general en 14 anys a Espanya, convocada per salaris i habitatge, i critica que el discurs del dia parli només de repartir riquesa i mai de crear-la.",
+    "Vox i Jordi Wild: Juan Ramón Rallo denuncia que Abascal ha cancel·lat l'entrevista compromesa amb Jordi Wild per càlcul electoral, 48 hores després del seu èxit d'audiència amb Broncano, i que les excuses de Vox no es sostenen.",
+    "Mercats: Pablo Gil planteja si el lideratge borsari de Wall Street sobre Europa, que dura 16 anys, podria començar a capgirar-se per l'evolució del petroli, el finançament de la guerra russa i el pes de la IA.",
+    "Bitcoin: el canal Bitcoin al día avisa que una nova caiguda de l'S&P 500 podria arrossegar Bitcoin per sota de la seva línia de tendència alcista, en una jornada en què Bitcoin es comporta pitjor que les borses."
+   ]
   }
  },
- "actualitzat": "2026-11-11T11:47:13.514Z",
+ "actualitzat": "2026-11-12T11:48:02.021Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
