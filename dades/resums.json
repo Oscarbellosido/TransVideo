@@ -1,6 +1,166 @@
 {
  "videos": [
   {
+   "id": "tT2K_s5GPVk",
+   "titol": "Bitcoin nos reafirma con su comportamiento, que el cambio de estrategia es correcto y necesario.",
+   "data": "2026-11-13T08:56:17+00:00",
+   "canal": "btcdia",
+   "durada": 2168,
+   "idioma": "es",
+   "resum": "El canal explica que Bitcoin ha perdut la línia de tendència principal i s'ha desacoblat clarament del S&P 500, que no ha corregit. Això confirma que cal abandonar l'estratègia de holdejar a curt/mitjà termini i aprofitar els repunts per anar reduint posició.",
+   "punts": [
+    {
+     "text": "Bitcoin ha caigut un 8% només en dos dies i un 11% des del 6 de novembre, mentre el S&P 500 ha pujat un 3-4% en el mateix període: una descorrelació molt forta.",
+     "t": 129
+    },
+    {
+     "text": "La demanda institucional de 2025 (empreses com MicroStrategy o Metaplanet comprant Bitcoin cada setmana) no es repetirà: aquell capital ha anat cap a la intel·ligència artificial.",
+     "t": 284
+    },
+    {
+     "text": "L'autor admet que la seva última compra a la zona de 76.000 va ser un error: va confiar en que Bitcoin rebotaria com el S&P 500 i no ha estat així; reconeix haver-se quedat curt amb la venda prèvia del 10%.",
+     "t": 408
+    },
+    {
+     "text": "Canvi d'estratègia: ja no toca holdejar a curt/mitjà termini (3-4 anys), només per a qui tingui horitzó de 10 anys o més; aprofitarà els pròxims repunts (zones de 93.000-97.000) per reduir posició amb més força que abans.",
+     "t": 536
+    },
+    {
+     "text": "Compara Bitcoin amb l'or, que va trigar des de 2011 fins a 2021 a superar el seu màxim anterior mentre digeria la pujada prèvia; creu que Bitcoin podria trigar anys a tornar als 120.000.",
+     "t": 1154
+    },
+    {
+     "text": "En gràfic diari hi ha suport al voltant de 66.900-67.000 (patró espatlla-cap-espatlla invertit); per sota, les caigudes es podrien accelerar. El dia 21 de novembre marca una data clau on espera un rebot, encara que més curt del que caldria.",
+     "t": 1650
+    },
+    {
+     "text": "Les altcoins (Ethereum, Solana, BNB, BGB, XRP, Tron) estan rebotant contra Bitcoin: la venda es concentra en Bitcoin perquè és el més líquid, mentre les altcoins ja estan massa sobrevenudes per caure més.",
+     "t": 1980
+    }
+   ],
+   "dades": [
+    "Caiguda de Bitcoin: -8% en 2 dies, -11% des del 6 de novembre",
+    "Suport clau: zona dels 66.900-67.000 dòlars",
+    "Resistència forta a 75.500 dòlars",
+    "Possible sostre dels pròxims 3-4 anys: 120.000-126.000 dòlars"
+   ],
+   "conclusio": "L'autor conclou que ha de canviar la seva mentalitat sobre Bitcoin: ja no es comporta com abans ni com els mercats borsaris, així que cal vendre en els repunts en lloc de mantenir la posició sense fer res, tot i mantenir una part per al molt llarg termini.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "anàlisi tècnica",
+    "mercats",
+    "altcoins",
+    "estratègia d'inversió"
+   ],
+   "lot": "2026-11-13"
+  },
+  {
+   "id": "p--6DdQ4QfU",
+   "titol": "El ministro Bustinduy me responde con un meme… para defender el marxismo",
+   "data": "2026-11-12T21:04:01+00:00",
+   "canal": "rallo",
+   "durada": 1274,
+   "idioma": "es",
+   "resum": "Juan Ramón Rallo desmunta l'argument del ministre Pablo Bustinduy, que va dir que la vaga general demostra que només els treballadors creen riquesa. Rallo demostra que les xifres de pèrdues econòmiques de la vaga estan inflades i que l'argument del ministre confon condició necessària amb condició suficient.",
+   "punts": [
+    {
+     "text": "El ministre Bustinduy va dir que la vaga general demostra que la riquesa la creen els treballadors i no els empresaris, citant una notícia que xifrava la pèrdua en 2.000 milions d'euros de PIB.",
+     "t": 0
+    },
+    {
+     "text": "Rallo usa la demanda elèctrica (molt fiable com a proxy d'activitat) per mostrar que la vaga va tenir un seguiment ínfim: només va caure un 4%, davant el 14-20% de les vagues generals del 2012 i 2002.",
+     "t": 187
+    },
+    {
+     "text": "Amb aquesta caiguda real, la pèrdua de PIB s'acosta als 300 milions d'euros (0,01% del PIB anual), no als 2.000 milions que va citar el ministre.",
+     "t": 526
+    },
+    {
+     "text": "Argument de fons: d'una vaga (absència de treball) només es pot inferir que el treball és una condició necessària per produir riquesa, mai que sigui una condició suficient; Bustinduy confon totes dues coses.",
+     "t": 586
+    },
+    {
+     "text": "Amb la funció de producció Cobb-Douglas (capital i treball), si qualsevol dels dos factors és zero la producció també cau a zero, però això no vol dir que cadascun per si sol sigui responsable del 100% de la producció.",
+     "t": 774
+    },
+    {
+     "text": "Rallo respon al ministre amb una analogia futbolística simètrica: dir que els defenses guanyen els partits perquè si fan vaga l'equip perd és tan absurd com dir que només el treball crea riquesa.",
+     "t": 1083
+    }
+   ],
+   "dades": [
+    "Caiguda de la demanda elèctrica: 4% (vaga d'ahir) vs 14-20% (vagues de 2012 i 2002)",
+    "Pèrdua real de PIB estimada: ~300 milions d'euros, no els 2.000 milions citats pel ministre",
+    "Un dia laborable genera ~6.000 milions d'euros de PIB a Espanya"
+   ],
+   "conclusio": "Rallo conclou que capital i treball són factors complementaris de producció: cap dels dos, per si sol, és suficient per generar riquesa, i l'argument marxista del ministre es basa en xifres inflades i una fal·làcia lògica.",
+   "temes": [
+    "economia",
+    "vaga general",
+    "marxisme",
+    "política espanyola",
+    "empresa",
+    "producció"
+   ],
+   "lot": "2026-11-13"
+  },
+  {
+   "id": "NpXKKKP3vUc",
+   "titol": "Algo grave está pasando con las pensiones y la inteligencia artificial en medio mundo a la vez",
+   "data": "2026-11-12T19:00:01+00:00",
+   "canal": "vidal",
+   "durada": 1221,
+   "idioma": "es",
+   "resum": "Marc Vidal explica que les pensions es financen amb cotitzacions de nòmines, però la IA substitueix feines d'oficina ben pagades per factures de software que no cotitzen. Això amenaça el sistema de reparto a Espanya, Itàlia i Hispanoamèrica, que ja creixen «a l'ample» (més gent treballant) en lloc de «a l'alt» (més productivitat per treballador).",
+   "punts": [
+    {
+     "text": "Andrea Nahles, de l'Agència Federal d'Ocupació alemanya, diu que la IA eliminarà 800.000 llocs d'oficina (banca, assegurances) a Alemanya i alhora demana portar més treballadors de fora de la UE.",
+     "t": 0
+    },
+    {
+     "text": "Una nòmina aporta ~30% en cotitzacions a la Seguretat Social; una factura de software només paga IVA i no cotitza res per a les pensions.",
+     "t": 184
+    },
+    {
+     "text": "Espanya va créixer un 2,8% el 2025 però tot l'avanç ve de tenir més gent treballant (3,7 milions d'estrangers cotitzant, rècord), no de produir més per treballador; la inversió en R+D és de l'1,50% del PIB davant el 2,24% de mitjana europea.",
+     "t": 553
+    },
+    {
+     "text": "Segons Fedea, l'Estat va haver de posar 61.342 milions d'euros d'impostos per completar la caixa de la Seguretat Social l'any passat, malgrat el rècord d'afiliació.",
+     "t": 704
+    },
+    {
+     "text": "A Hispanoamèrica la base cotitzant és petita: només el 46% dels treballadors té feina formal (BID) i a Mèxic el 52% treballa en la informalitat (OIT).",
+     "t": 859
+    },
+    {
+     "text": "Quatre solucions en circulació, totes amb peatge: pujar impostos al capital, pujar l'IVA, l'impost als robots (Bill Gates) o pagar pensions amb impostos generals com als països nòrdics.",
+     "t": 973
+    },
+    {
+     "text": "Suècia (des dels 90) té un fre automàtic que ajusta les pensions si els ingressos no cobreixen la despesa; Dinamarca ha lligat la jubilació a l'esperança de vida (als 70 anys a partir de 2040); Corea del Sud aposta per robots i IA sobirana.",
+     "t": 1295
+    }
+   ],
+   "dades": [
+    "800.000 llocs d'oficina amenaçats a Alemanya",
+    "30% de cotització per nòmina a Espanya",
+    "61.342 milions d'euros aportats per l'Estat espanyol a la Seguretat Social",
+    "Inversió en R+D: 1,50% del PIB a Espanya vs 2,24% a Europa"
+   ],
+   "conclusio": "Vidal demana un canvi de model productiu que generi més valor per hora treballada, perquè ni créixer «a l'ample» ni confiar que la IA es resol sola garanteix qui pagarà les pensions quan la factura substitueixi la nòmina.",
+   "temes": [
+    "pensions",
+    "intel·ligència artificial",
+    "ocupació",
+    "seguretat social",
+    "espanya",
+    "demografia"
+   ],
+   "lot": "2026-11-13"
+  },
+  {
    "id": "t1zOtest3T8",
    "titol": "Bitcoin. Una nueva caída del SP500 podría arrastrar a Bitcoin a perder la linea de tendencia.",
    "data": "2026-11-12T09:53:09+00:00",
@@ -9247,9 +9407,18 @@
     "Mercats: Pablo Gil planteja si el lideratge borsari de Wall Street sobre Europa, que dura 16 anys, podria començar a capgirar-se per l'evolució del petroli, el finançament de la guerra russa i el pes de la IA.",
     "Bitcoin: el canal Bitcoin al día avisa que una nova caiguda de l'S&P 500 podria arrossegar Bitcoin per sota de la seva línia de tendència alcista, en una jornada en què Bitcoin es comporta pitjor que les borses."
    ]
+  },
+  "2026-11-13": {
+   "titular": "Alerta sobre qui paga el futur: pensions amenaçades per la IA, un ministre desmentit amb dades i Bitcoin que es desacobla de la borsa",
+   "punts": [
+    "Pensions i IA: Marc Vidal avisa que la IA substitueix feines d'oficina ben pagades per factures de software que no cotitzen, amenaçant el finançament de les pensions a Espanya, Itàlia i Hispanoamèrica.",
+    "Política econòmica: Juan Ramón Rallo desmunta amb dades (demanda elèctrica) les xifres de pèrdues de la vaga general que va citar el ministre Bustinduy, i rebat el seu argument marxista sobre qui crea la riquesa.",
+    "Models diferents, mateix dubte de fons: tant Vidal com Rallo qüestionen com es finançarà l'estat del benestar quan canvia la manera de generar valor (nòmines que es tornen factures, o treball versus capital).",
+    "Mercats: Bitcoin al día constata que Bitcoin s'ha desacoblat del S&P 500 (cau un 11% mentre la borsa puja) i canvia d'estratègia cap a vendre en els repunts en lloc de mantenir posicions a llarg termini."
+   ]
   }
  },
- "actualitzat": "2026-11-12T11:48:02.021Z",
+ "actualitzat": "2026-11-13T11:46:52.011Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
