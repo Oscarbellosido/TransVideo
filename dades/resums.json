@@ -1,6 +1,171 @@
 {
  "videos": [
   {
+   "id": "ZpeNtr9iTfM",
+   "titol": "Bitcoin sigue con las caídas, y toca la linea clavicular que hace de soporte en 66.500.",
+   "data": "2026-11-14T11:05:37+00:00",
+   "canal": "btcdia",
+   "durada": 2134,
+   "idioma": "es",
+   "resum": "L'autor explica que la seva visió sobre Bitcoin ha canviat perquè el mercat es comporta de manera diferent als cicles anteriors, i defensa que ja no val l'estratègia de mantenir sense vendre. Repassa també les sortides dels ETFs i la situació tècnica del preu, ara donant suport a 66.500 dòlars.",
+   "punts": [
+    {
+     "text": "Bitcoin cau molt respecte al seu màxim sense que ho faci la borsa, i tancarà el segon any en negatiu: dues coses que no havien passat mai en la seva història, segons l'autor.",
+     "t": 107
+    },
+    {
+     "text": "Empreses com MicroStrategy han estat més actives reduint deute que comprant Bitcoin en les últimes pujades cap als 90.000 $, senyal que no hi veuen potencial per sobre d'aquest nivell.",
+     "t": 230
+    },
+    {
+     "text": "Considera que el gran impuls d'adopció institucional que esperava des de fa 8-10 anys ja s'ha produït el 2025; per això ja ha venut part de la cartera a 85.980 $ i tornarà a vendre si el preu rebota cap a 93.000-97.000 $.",
+     "t": 601
+    },
+    {
+     "text": "Els ETFs de Bitcoin han perdut 2.350 milions de dòlars en dues setmanes, amb una ratxa de sortides de BlackRock d'11 dies seguits.",
+     "t": 1093
+    },
+    {
+     "text": "Un cop perduda la línia de tendència principal, calcula que costarà uns dos o tres mesos consolidar per sobre dels 66.532 $; torna a assenyalar el 21 de novembre com a possible dia de gir del mercat.",
+     "t": 1153
+    },
+    {
+     "text": "Els tipus d'interès de la Fed pujaran al desembre i és poc probable que baixin aviat; fins i tot si ho fessin, el diner no aniria necessàriament cap a Bitcoin perquè ara es dirigeix cap a la intel·ligència artificial.",
+     "t": 1516
+    },
+    {
+     "text": "Avisa que si l'S&P 500 cau cap als 7.348 punts, Bitcoin podria patir-ho igualment per la forta correlació actual amb els índexs borsaris.",
+     "t": 2007
+    }
+   ],
+   "dades": [
+    "Suport clau actual: 66.500 $ (línia clavicular)",
+    "Els ETFs de Bitcoin han perdut 2.350 milions de dòlars en dues setmanes",
+    "Ratxa de sortides de BlackRock: 11 dies seguits",
+    "Venda parcial pròpia a 85.980 $; possible gir de mercat assenyalat pel 21 de novembre"
+   ],
+   "conclusio": "Creu que Bitcoin pot entrar en una fase lateral de mesos o anys perquè el gran impuls d'adopció institucional ja s'ha esgotat i el capital ara va cap a la intel·ligència artificial; per això recomana vendre parcialment en els rebots en lloc de mantenir sense vendre com defensava abans.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "etf",
+    "anàlisi tècnica",
+    "tipus d'interès",
+    "microstrategy"
+   ],
+   "lot": "2026-11-14"
+  },
+  {
+   "id": "4nmAEM5BPTM",
+   "titol": "Elecciones 2026: ¿quién ganará? Con Miguel Anxo Bastos",
+   "data": "2026-11-13T22:22:09+00:00",
+   "canal": "rallo",
+   "durada": 4466,
+   "idioma": "es",
+   "resum": "Entrevista de Juan Ramón Rallo al politòleg Miguel Anxo Bastos sobre les eleccions espanyoles del 29 de novembre. Bastos dona gairebé per feta una victòria de la dreta (PP+Vox) però avisa que no suposarà grans canvis respecte al sanchisme.",
+   "punts": [
+    {
+     "text": "Resultat obert però amb el PP com a favorit per quedar primera força; les claus imprevisibles són la pujada de Vox i l'enfonsament de l'esquerra a l'esquerra del PSOE.",
+     "t": 549
+    },
+    {
+     "text": "Bastos dona per feta una majoria de govern PP-Vox, tot i que potser no tan aclaparadora com marquen algunes enquestes (parla d'un mínim de 180-181 escons).",
+     "t": 610
+    },
+    {
+     "text": "El pacte de govern PP-Vox ja estaria tancat, amb retirades de candidatures incloses, encara que a Vox no li convé especialment perquè capta vot en zones on el PP no hi arriba.",
+     "t": 1380
+    },
+    {
+     "text": "El mateix PSOE estaria anticipant la derrota: el delegat del govern a Madrid renuncia a presentar-se i es col·loquen persones de confiança en càrrecs, senyal que el partit dona per perduda l'elecció.",
+     "t": 1750
+    },
+    {
+     "text": "La campanya de Vox va començar molt bé (debat amb Broncano) però es va frenar en comprometre's a no anar a cap pòdcast que no els cedeixi els drets, cosa que els va impedir anar amb Jordi Wild.",
+     "t": 2455
+    },
+    {
+     "text": "Encara que guanyi la dreta, Bastos no espera canvis de fons: les pensions pujaran a l'IPC igual que amb Sánchez, no es derogaran les lleis clau del sanchisme ni es baixaran impostos de manera significativa.",
+     "t": 2670
+    },
+    {
+     "text": "La vaga general convocada no va tenir cap efecte notable en la vida quotidiana (correus i comerços funcionant amb normalitat), fet que Bastos interpreta com un fracàs rotund.",
+     "t": 4081
+    }
+   ],
+   "dades": [
+    "29 de novembre de 2026: dia de les eleccions espanyoles",
+    "Bastos situa el sòl de la majoria de dreta en 180-181 escons",
+    "Pujar les pensions a l'IPC (uns 5%) costaria uns 10.000 milions d'euros",
+    "Participació mitjana actual en enquestes: 74%"
+   ],
+   "conclusio": "Bastos veu gairebé segura una victòria de la dreta però adverteix que no canviarà gran cosa respecte al sanchisme; la campanya encara pot moure vot dins de cada bloc en les dues setmanes que queden.",
+   "temes": [
+    "eleccions 2026",
+    "pp",
+    "vox",
+    "psoe",
+    "sánchez",
+    "enquestes"
+   ],
+   "lot": "2026-11-14"
+  },
+  {
+   "id": "t-vwIJ9MpWQ",
+   "titol": "El escándalo Nvidia va mucho más allá de una infidelidad",
+   "data": "2026-11-13T17:00:24+00:00",
+   "canal": "pablogil",
+   "durada": 1862,
+   "idioma": "es",
+   "resum": "Pablo Gil analitza la dimissió de Jensen Huang com a conseller delegat de Nvidia, arran d'unes relacions personals que han destapat una xarxa d'empreses vinculades a la Xina i sospites de desviació de xips avançats cap a aquell país. Repassa també l'impacte borsari i els riscos de futur per a la companyia.",
+   "punts": [
+    {
+     "text": "Jensen Huang va dimitir mentre el consell investigava les seves relacions personals, entre elles amb Alice Wang, empresària vinculada a Singapur i la Xina sospitosa (sense proves públiques) de vincles amb els serveis d'intel·ligència xinesos.",
+     "t": 308
+    },
+    {
+     "text": "Una investigació de Bloomberg identifica 193 servidors amb xips Nvidia restringits (H800, H100, H200), valorats en uns 73 milions de dòlars, que haurien acabat en un centre de dades de Xangai després de passar per Singapur.",
+     "t": 525
+    },
+    {
+     "text": "Des de la seva creació el 2023, l'empresa Megaspeed d'Alice Wang ha importat equips Nvidia per valor d'almenys 4.600 milions de dòlars, convertint-se en un dels grans clients de Singapur.",
+     "t": 649
+    },
+    {
+     "text": "Huang defensava mantenir certes vendes de xips a la Xina, argumentant que bloquejar-les del tot només acceleraria que la Xina desenvolupés alternatives pròpies; sense ell al capdavant, les veus més restrictives guanyen pes a Washington.",
+     "t": 772
+    },
+    {
+     "text": "L'acció va arribar a caure un 14% (fins als 149 $) el 12 de novembre, amb una pèrdua momentània de 600.000 milions de dòlars de capitalització, però va tancar la sessió amb només un -4,34% (-182.000 milions).",
+     "t": 1078
+    },
+    {
+     "text": "Abans de la dimissió, Nvidia pesava el 6,4% de l'ETF SPY (S&P 500) i el 6,8% del QQQ (Nasdaq 100), el que mostra la gran concentració del mercat nord-americà en una sola companyia.",
+     "t": 1199
+    },
+    {
+     "text": "Colette Kress, directora financera des de 2013, assumeix com a consellera delegada interina; havia qüestionat algunes de les grans apostes d'inversió de Huang, el que podria portar més disciplina financera.",
+     "t": 1289
+    }
+   ],
+   "dades": [
+    "193 servidors amb xips restringits (H800/H100/H200) valorats en 73 milions de dòlars",
+    "Megaspeed ha importat equips Nvidia per 4.600 milions de dòlars des de 2023",
+    "Caiguda del 14% intradia (fins a 149 $) i tancament amb -4,34% (-182.000 milions) el 12/11",
+    "Nvidia pesava el 6,4% de l'S&P 500 i el 6,8% del Nasdaq 100 abans de l'escàndol"
+   ],
+   "conclusio": "Gil conclou que no és només un escàndol de govern corporatiu: hi ha risc de lideratge, risc geopolític i regulatori, i risc de valoració, i l'episodi recorda la perillosa concentració dels índexs nord-americans en poques empreses d'intel·ligència artificial.",
+   "temes": [
+    "nvidia",
+    "jensen huang",
+    "xina",
+    "xips",
+    "borsa",
+    "intel·ligència artificial"
+   ],
+   "lot": "2026-11-14"
+  },
+  {
    "id": "tT2K_s5GPVk",
    "titol": "Bitcoin nos reafirma con su comportamiento, que el cambio de estrategia es correcto y necesario.",
    "data": "2026-11-13T08:56:17+00:00",
@@ -9416,9 +9581,18 @@
     "Models diferents, mateix dubte de fons: tant Vidal com Rallo qüestionen com es finançarà l'estat del benestar quan canvia la manera de generar valor (nòmines que es tornen factures, o treball versus capital).",
     "Mercats: Bitcoin al día constata que Bitcoin s'ha desacoblat del S&P 500 (cau un 11% mentre la borsa puja) i canvia d'estratègia cap a vendre en els repunts en lloc de mantenir posicions a llarg termini."
    ]
+  },
+  "2026-11-14": {
+   "titular": "S'obre la campanya electoral a Espanya, Nvidia tremola amb la sortida de Jensen Huang i Bitcoin segueix caient mentre el capital fuig cap a la intel·ligència artificial",
+   "punts": [
+    "Elecions a Espanya. Juan Ramón Rallo i el politòleg Miguel Anxo Bastos analitzen el primer dia de campanya: el PP seria favorit per ser primera força el 29 de novembre i el pacte de govern amb Vox ja estaria tancat, encara que no esperen canvis de fons respecte al sanchisme.",
+    "Escàndol Nvidia. Pablo Gil explica la dimissió de Jensen Huang com a conseller delegat, arran d'una relació amb una empresària sospitosa de vincles amb la Xina i d'una investigació sobre desviament de xips avançats cap a aquell país.",
+    "El capital fuig cap a la IA. Tant Pablo Gil com el canal Bitcoin al día coincideixen que els grans inversors estan concentrant el capital en la intel·ligència artificial, el que deixa Bitcoin i altres actius sense el suport que tenien en cicles anteriors.",
+    "Bitcoin a la baixa. El suport clau ara és als 66.500 $, amb els ETFs perdent 2.350 milions de dòlars en dues setmanes; l'autor preveu una fase lateral llarga abans de qualsevol recuperació."
+   ]
   }
  },
- "actualitzat": "2026-11-13T11:46:52.011Z",
+ "actualitzat": "2026-11-14T11:47:41.865Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
