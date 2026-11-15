@@ -1,6 +1,234 @@
 {
  "videos": [
   {
+   "id": "91kofIFaNig",
+   "titol": "Bitcoin. Rebota después de tocar los 62.000. Tenemos un largo camino por delante.",
+   "data": "2026-11-15T10:04:46+00:00",
+   "canal": "btcdia",
+   "durada": 1193,
+   "idioma": "es",
+   "resum": "Bitcoin ha caigut fins als 62.000 dòlars (un 15% des que va trencar la línia de tendència) i ara rebota lleugerament. L'autor avisa que la recuperació cap als 87.000-93.000 pot trigar fins a tot l'any vinent.",
+   "punts": [
+    {
+     "text": "Recorda que cal retirar els actius de Binance a Espanya, Polònia, Itàlia i França abans del 29 de novembre, perquè l'exchange hi cessa l'activitat el 31 de desembre i comença a cobrar comissions.",
+     "t": 6
+    },
+    {
+     "text": "Bitcoin ha arribat a caure fins als 62.000, un 15% des que va trencar la línia de tendència, i ara rebota un 1,9%.",
+     "t": 128
+    },
+    {
+     "text": "Sense suport fins als 66.532, el preu va perforar aquest nivell i va caure fins als 62.000; espera un rebot aquesta setmana cap als 66.532 i potser cap als 73.000.",
+     "t": 159
+    },
+    {
+     "text": "Per al 2027 no descarta tocar els 87.000 o 93.000 en algun moment d'eufòria, però els considera zones de venda, no una continuació alcista, perquè no hi haurà prou demanda per anar més amunt.",
+     "t": 220
+    },
+    {
+     "text": "Des de principi d'any Bitcoin perd entre un 25% i un 30% mentre el S&P 500 guanya un 4,5%, cosa que, diu, no havia passat mai: abans Bitcoin i la borsa queien junts.",
+     "t": 348
+    },
+    {
+     "text": "Preveu diversos mesos o anys sense demanda suficient per tornar a màxims, amb un patró de pujar i tornar a caure si no canvia l'estratègia.",
+     "t": 437
+    },
+    {
+     "text": "Per evitar pagar Hisenda en vendre els Bitcoin comprats més barats, suggereix usar futurs sense apalancament o ETF que repliquen Bitcoin en lloc de vendre directament les monedes en cartera.",
+     "t": 562
+    },
+    {
+     "text": "Entre les altcoins destaca que Cardano i Solana segueixen febles, BGB i BNB es comporten bé, i alerta que ZEC té un doble sostre a punt de confirmar-se amb risc de caiguda forta.",
+     "t": 975
+    }
+   ],
+   "dades": [
+    "Bitcoin a 62.000 $ (mínim) i 65.365 $ al tancament",
+    "caiguda del 15% en 3 dies",
+    "resistència/suport clau a 66.532 $",
+    "objectiu de rebot a 72.000-74.000 $"
+   ],
+   "conclusio": "Recomana paciència: hi haurà rebots curts però el mercat necessita temps, probablement fins al dia 21 de novembre per iniciar una recuperació més sostinguda, sense esperar un cicle alcista ràpid cap a 200.000-250.000.",
+   "temes": [
+    "bitcoin",
+    "anàlisi tècnica",
+    "criptomonedes",
+    "binance",
+    "altcoins"
+   ],
+   "lot": "2026-11-15"
+  },
+  {
+   "id": "xK50cAlt_Hk",
+   "titol": "Cae Jensen Huang: ¿estamos ante el fin de Nvidia?",
+   "data": "2026-11-15T09:49:03+00:00",
+   "canal": "rallo",
+   "durada": 1377,
+   "idioma": "es",
+   "resum": "Jensen Huang ha dimitit com a conseller delegat de Nvidia després de revelar-se relacions extramatrimonials seves, i l'acció ha caigut més del 10% en una setmana. Rallo explica el fossar competitiu de Nvidia i per què pot dependre més del que sembla d'una sola persona.",
+   "punts": [
+    {
+     "text": "Nvidia no fabrica xips: dissenya sistemes complets que TSMC produeix, amb memòria de SK Hynix, Samsung o Micron i muntatge de Foxconn o Quanta.",
+     "t": 91
+    },
+    {
+     "text": "El producte estrella no és una targeta sinó un armari, el Vera Rubin NVL72: més de 2 m d'alçada, 2 tones, 1,3 milions de components i uns 8 milions de dòlars, amb 72 GPU connectades per NVLink com si fossin una sola.",
+     "t": 184
+    },
+    {
+     "text": "Nvidia controla entre el 70% i el 86% del mercat d'acceleradors d'IA, amb un marge brut del 75%, més alt que el 66% de TSMC o el 56% d'AMD.",
+     "t": 274
+    },
+    {
+     "text": "La primera avantatge és el «codisseny extrem»: dissenyar alhora GPU, CPU, memòria, xarxa i programari perquè tot encaixi, cosa que AMD encara no ha aconseguit amb el seu armari Helios.",
+     "t": 368
+    },
+    {
+     "text": "La segona és CUDA, el programari llançat el 2006: Huang va incloure'l a totes les targetes (encaria els xips un 50%) i avui el fan servir uns 6 milions de programadors, el que fa molt costós canviar de proveïdor.",
+     "t": 431
+    },
+    {
+     "text": "La tercera és la velocitat: Nvidia treu una arquitectura nova cada 2 anys i una versió millorada cada any, redissenyant sis xips alhora.",
+     "t": 563
+    },
+    {
+     "text": "Huang coordinava personalment 36 persones i llegia centenars de correus cada dia, sense número dos ni successor preparat, i molts acords amb proveïdors eren apretons de mans, no contractes escrits, segons Elon Musk.",
+     "t": 791
+    },
+    {
+     "text": "La pròpia IA erosiona aquests avantatges: Google ja entrena amb les seves TPU i les ven a Anthropic i Meta, i Anthropic diu que va adaptar el seu codi a xips d'AMD en 3 dies amb IA, una feina que abans trigava mesos.",
+     "t": 1142
+    }
+   ],
+   "dades": [
+    "caiguda de més del 10% (~600.000 milions de dòlars) en una setmana",
+    "marge brut del 75% de Nvidia",
+    "entre 70% i 86% de quota de mercat",
+    "ingressos de gairebé 100.000 milions $ el darrer trimestre"
+   ],
+   "conclusio": "Rallo no creu que Nvidia desaparegui, però sí que pot perdre part del seu marge extraordinari sense Huang, que feia de factòtum coordinant equips, proveïdors i visió de futur; no descarta que torni al capdavant en el futur.",
+   "temes": [
+    "nvidia",
+    "jensen huang",
+    "intel·ligència artificial",
+    "semiconductors",
+    "cuda"
+   ],
+   "lot": "2026-11-15"
+  },
+  {
+   "id": "2HtUWD6hSd4",
+   "titol": "Las 5 grandes contradicción de Sánchez en su entrevista con Jordi Wild",
+   "data": "2026-11-14T20:52:13+00:00",
+   "canal": "rallo",
+   "durada": 2394,
+   "idioma": "es",
+   "resum": "Juan Ramón Rallo repassa l'entrevista de Pedro Sánchez amb Jordi Wild i hi detecta cinc blocs d'incongruències: ferrocarrils, Ceuta, l'habitatge, els corruptes del seu entorn i Zapatero.",
+   "punts": [
+    {
+     "text": "Sobre els accidents ferroviaris d'Adamuz i Úrda, Sánchez reconeix que la inversió en la línia es va multiplicar per 20, però Rallo diu que és un dada falsejada perquè barreja renovació (des de 2020) amb manteniment, que és el que realment ha faltat.",
+     "t": 94
+    },
+    {
+     "text": "Sánchez diu que Óscar Puente va fer bé dimitint, però ell mateix s'havia negat a cessar-lo abans i evita respondre si l'hauria cessat si no hagués dimitit.",
+     "t": 403
+    },
+    {
+     "text": "Sobre Ceuta, Sánchez defensa que va estar 25 dies de vacances treballant igualment des de la Mareta, però a Aimar Bretos havia reconegut que també havia descansat i estat amb la família durant la crisi.",
+     "t": 650
+    },
+    {
+     "text": "El mando únic sobre Ceuta es va crear amb 20 dies de retard, fins que Sánchez va tornar de vacances, el que contradiu que estigués gestionant la crisi a temps complet des d'allà.",
+     "t": 871
+    },
+    {
+     "text": "Sobre l'habitatge, Sánchez no dona la xifra d'habitatges entregats de les 130.000 promeses i presenta Casa 47 com a èxit, quan té menys de 1.000 pisos en lloguer, tots d'habitatges ja construïts pel banc dolent.",
+     "t": 1273
+    },
+    {
+     "text": "Sánchez diu que no coneixia Koldo ni Leire Díez, però hi ha tuits elogiosos seus a Koldo de 2014 i consta que anava amb ell al Peugeot d'Ábalos.",
+     "t": 1761
+    },
+    {
+     "text": "Segons l'acte del jutge Pedraz, Santos Cerdán va encarregar a Leire Díez desestabilitzar causes judicials i pagar-li 4.000 euros al mes a través d'intermediaris i d'una consultora de Gaspar Zarrías.",
+     "t": 1884
+    },
+    {
+     "text": "Sánchez diu que posaria la mà al foc per Zapatero, tot i dir que Ábalos i Cerdán el van decebre profundament, el que Rallo considera una incoherència lògica.",
+     "t": 2069
+    }
+   ],
+   "dades": [
+    "130.000 habitatges promesos, menys de 1.000 disponibles a Casa 47",
+    "43.225 € atribuïts per la UCO a Leire Díez",
+    "4.000 €/mes pagats a Leire Díez",
+    "25 dies de vacances de Sánchez durant la crisi de Ceuta"
+   ],
+   "conclusio": "Rallo conclou que Sánchez és un professional de la mentida que surt airós de l'entrevista perquè, tot i les contradiccions, en sap prou per esquivar les preguntes incòmodes.",
+   "temes": [
+    "política espanyola",
+    "pedro sánchez",
+    "corrupció",
+    "ceuta",
+    "habitatge",
+    "ferrocarril"
+   ],
+   "lot": "2026-11-15"
+  },
+  {
+   "id": "p5emHEQxlUw",
+   "titol": "¿Por qué la caída de Microsoft es un problema para la economía?",
+   "data": "2026-11-14T17:00:22+00:00",
+   "canal": "pablogil",
+   "durada": 450,
+   "idioma": "es",
+   "resum": "La caiguda global de Microsoft del 12 de novembre va deixar sense servei Outlook, Teams, OneDrive i Copilot durant mig dia, i Pablo Gil l'utilitza per explicar com la digitalització ha concentrat un risc sistèmic en pocs proveïdors de núvol.",
+   "punts": [
+    {
+     "text": "La caiguda va afectar més de 70 països, amb centenars de milers d'avisos d'incidències.",
+     "t": 30
+    },
+    {
+     "text": "El NHS britànic va haver de reprogramar intervencions, Japó va recuperar els avisos en paper i Nova Zelanda va suspendre tràmits de visats.",
+     "t": 62
+    },
+    {
+     "text": "Als mercats financers, operadors de Singapur, Londres i Tokio van haver de recórrer al telèfon, WhatsApp i fins i tot al fax; borses com Euronext, Nasdaq i Deutsche Börse van tenir problemes de correu.",
+     "t": 93
+    },
+    {
+     "text": "Microsoft descarta un ciberatac: va ser una fallada tècnica que va sobrecarregar els servidors que seguien operatius, provocant un efecte domino.",
+     "t": 125
+    },
+    {
+     "text": "El trasllat de la infraestructura pròpia al núvol (Microsoft, Amazon, Google) redueix costos però concentra el risc: un fallo localitzat es pot convertir en un problema sistèmic.",
+     "t": 186
+    },
+    {
+     "text": "No és un cas aïllat: el 2024 una actualització de CrowdStrike va afectar el trànsit aeri mundial, i el 2025 una caiguda d'AWS de 15 hores va deixar fora de servei centenars de webs.",
+     "t": 248
+    },
+    {
+     "text": "L'expansió de la intel·ligència artificial amplifica la dependència, perquè cada cop més processos administratius i decisions operatives es deleguen a sistemes connectats a grans plataformes.",
+     "t": 279
+    }
+   ],
+   "dades": [
+    "70+ països afectats",
+    "mig dia per restablir els serveis",
+    "15 hores de caiguda d'AWS el 2025"
+   ],
+   "conclusio": "Gil no proposa renunciar a la digitalització, però demana invertir més en sistemes de respals i plans de continuïtat: l'eficiència no sempre va de la mà de la seguretat.",
+   "temes": [
+    "microsoft",
+    "ciberseguretat",
+    "núvol",
+    "risc sistèmic",
+    "intel·ligència artificial"
+   ],
+   "lot": "2026-11-15"
+  },
+  {
    "id": "ZpeNtr9iTfM",
    "titol": "Bitcoin sigue con las caídas, y toca la linea clavicular que hace de soporte en 66.500.",
    "data": "2026-11-14T11:05:37+00:00",
@@ -9590,9 +9818,18 @@
     "El capital fuig cap a la IA. Tant Pablo Gil com el canal Bitcoin al día coincideixen que els grans inversors estan concentrant el capital en la intel·ligència artificial, el que deixa Bitcoin i altres actius sense el suport que tenien en cicles anteriors.",
     "Bitcoin a la baixa. El suport clau ara és als 66.500 $, amb els ETFs perdent 2.350 milions de dòlars en dues setmanes; l'autor preveu una fase lateral llarga abans de qualsevol recuperació."
    ]
+  },
+  "2026-11-15": {
+   "titular": "La caiguda de Microsoft i la dimissió de Jensen Huang posen en relleu la fragilitat de les grans tecnològiques, mentre Bitcoin es desploma als 62.000 i Rallo destria les contradiccions de Sánchez amb Jordi Wild",
+   "punts": [
+    "Vulnerabilitat tecnològica: Pablo Gil alerta que la caiguda global de Microsoft del 12 de novembre, que va deixar sense Outlook, Teams i OneDrive mig dia a 70 països, mostra com la concentració d'infraestructura al núvol converteix un fallo tècnic local en un risc sistèmic.",
+    "Nvidia sense Huang: Rallo explica que la dimissió de Jensen Huang, després de revelar-se relacions extramatrimonials, ha fet caure l'acció més d'un 10% en una setmana, perquè Huang coordinava personalment el codisseny, CUDA i les relacions amb proveïdors que sostenen l'avantatge competitiu de Nvidia.",
+    "Bitcoin a la baixa: l'analista de Bitcoin al día situa el preu als 62.000 dòlars, un 15% per sota dels nivells recents, i avisa que tornar als 87.000-93.000 pot trigar fins a tot l'any vinent.",
+    "Sánchez i Jordi Wild: Rallo detecta cinc blocs de contradiccions a l'entrevista, sobre ferrocarrils, Ceuta, habitatge, els corruptes del seu entorn (Koldo, Leire Díez) i la defensa de Zapatero."
+   ]
   }
  },
- "actualitzat": "2026-11-14T11:47:41.865Z",
+ "actualitzat": "2026-11-15T11:48:54.703Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
@@ -9799,6 +10036,31 @@
     "76.400 $. Nivell que Bitcoin Al Día vigila en gràfic horari per confirmar un rebot de Bitcoin cap als 78.000-79.000 $.",
     "11 de desembre. Venç la pròrroga pressupostària dels EUA (llei 119/103); Pablo Gil avisa del risc de tancament parcial del govern des del 12 de desembre.",
     "16 de novembre. Setmana prevista per la sortida a borsa d'Anthropic, segons Rallo, amb una valoració que podria rebaixar-se."
+   ]
+  },
+  "2026-11-15": {
+   "des_de": "2026-11-09",
+   "titular": "La caiguda de Jensen Huang i la fragilitat de les grans tecnològiques marquen la setmana, mentre Bitcoin es desploma als 62.000 i arrenca la campanya electoral espanyola de cara al 29 de novembre",
+   "punts": [
+    "Nvidia sense Huang. Rallo i Pablo Gil segueixen dia a dia l'escàndol de Jensen Huang (relacions personals amb directives vinculades a la Xina, sospites de desviament de xips) fins a la seva dimissió com a conseller delegat el 13 de novembre, amb l'acció caient més d'un 10% en una setmana i dubtes sobre si Nvidia pot mantenir els seus avantatges competitius sense ell.",
+    "Bitcoin es desacobla de la borsa. El canal Bitcoin al día documenta tota la setmana una caiguda continuada, de perdre la línia de tendència principal fins a tocar els 62.000 dòlars el 15 de novembre, mentre els índexs borsaris es mantenen o pugen; el 21 de novembre torna a assenyalar-se com a possible dia de gir.",
+    "Fragilitat tecnològica. Pablo Gil tanca la setmana explicant la caiguda global de Microsoft del 12 de novembre com un símptoma més de com la concentració d'infraestructura al núvol converteix fallades locals en problemes sistèmics, en la línia del seu propi avís sobre la bombolla tecnològica a principis de setmana.",
+    "Campanya electoral a Espanya. S'obre la campanya de cara al 29 de novembre: Vox cancel·la l'entrevista compromesa amb Jordi Wild per càlcul electoral, Broncano surt mal parat del seu cara a cara amb Abascal, i l'entrevista de Sánchez amb Jordi Wild (analitzada per Rallo el dia 15) deixa contradiccions sobre ferrocarrils, Ceuta, habitatge i els corruptes del seu entorn.",
+    "Qui paga el futur. Marc Vidal lliga dos fils tota la setmana: qui finançarà els centres de dades de la IA (800.000 milions$ previstos el 2026, amb Nvidia i Alphabet castigats en borsa) i qui pagarà les pensions quan les nòmines es converteixin en factures de software que no cotitzen.",
+    "Vaga general i habitatge. La primera vaga general en 14 anys (12 de novembre) i el debat Abascal-Broncano sobre l'habitatge centren la primera meitat de setmana: Vidal hi veu un malestar real però sense propostes per crear riquesa, i Rallo hi separa les dades certes de les exagerades."
+   ],
+   "coincideixen": [
+    "Risc de concentració tecnològica. Pablo Gil (Microsoft, bombolla Nasdaq) i Marc Vidal (Nvidia, centres de dades) coincideixen que l'economia s'ha tornat perillosament dependent d'un grapat de grans tecnològiques i proveïdors de núvol.",
+    "El capital fuig cap a la IA. Pablo Gil, Marc Vidal i el canal Bitcoin al día coincideixen que els grans inversors estan bolcant els seus diners en intel·ligència artificial, deixant Bitcoin sense el suport institucional que tenia en cicles anteriors."
+   ],
+   "discrepen": [
+    "Oportunitat o risc de la IA. A principis de setmana Rallo subratllava sobretot les oportunitats de l'auto-millora de la IA (progrés científic accelerat), mentre Marc Vidal insisteix que el seu model de negoci encara no té clar qui el paga i que pot acabar convertint els usuaris en el producte, com va passar amb els diaris i les xarxes socials."
+   ],
+   "a_vigilar": [
+    "21 de novembre: data que el canal Bitcoin al día assenyala repetidament com a possible punt de gir del mercat.",
+    "29 de novembre: eleccions generals a Espanya i també data límit per treure els fons de Binance (Espanya, França, Itàlia i Polònia) sense comissions.",
+    "Decisions de la nova direcció de Nvidia (Colette Kress, consellera delegada interina) sobre inversions arriscades com les de Grok o Anthropic, i sobre l'embargament de xips a la Xina.",
+    "Reunió de la Fed al desembre, amb alta probabilitat de pujada de tipus que podria allunyar encara més la recuperació de Bitcoin."
    ]
   }
  }
