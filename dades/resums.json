@@ -1,6 +1,114 @@
 {
  "videos": [
   {
+   "id": "sLD7-YQJHg4",
+   "titol": "Problemas de la red por abandono de las mineras por la IA y el estancamiento del hashrate.",
+   "data": "2026-11-16T10:16:45+00:00",
+   "canal": "btcdia",
+   "durada": 831,
+   "idioma": "es",
+   "resum": "El canal explica que grans mineres de Bitcoin com Mara i Core Scientific estan reduint l'activitat minera i venent bitcoins per finançar centres de dades d'intel·ligència artificial, molt més rendibles. Això ha fet caure el hashrate de la xarxa d'una manera que, segons l'autor, no té precedents en cicles anteriors, i és un factor de risc per al preu.",
+   "punts": [
+    {
+     "text": "Core Scientific ha passat d'ingressar 15 milions a 215,4 milions per serveis d'IA; Aen apunta a generar més de 4.000 milions anuals amb infraestructura per a IA.",
+     "t": 252
+    },
+    {
+     "text": "Mineres com Mara estan venent bitcoins (uns 20.000) no per millorar la seva minería, sinó per invertir en centres de dades d'IA, desmantellant activitat minera.",
+     "t": 283
+    },
+    {
+     "text": "El hashrate ha caigut amb força els últims dies i porta més d'un any sense superar el màxim d'octubre de 2025.",
+     "t": 347
+    },
+    {
+     "text": "A diferència del cicle 2021-2022, quan el hashrate va seguir pujant i va marcar nous màxims mentre el preu encara baixava, ara el hashrate ha caigut en paral·lel al preu: un comportament diferent als cicles anteriors.",
+     "t": 441
+    },
+    {
+     "text": "Nivell clau a vigilar en Bitcoin: recuperar els 66.532$ obriria un rebot cap a 68.000-69.000$; si no, risc de seguir caient cap a suports de 62.700$ i 59.600$ en el gràfic setmanal.",
+     "t": 501
+    },
+    {
+     "text": "Entorn de mercat negatiu: el SP500 i les borses baixen, igual que els metalls preciosos, sense factors externs que ajudin Bitcoin ara mateix.",
+     "t": 593
+    },
+    {
+     "text": "Entre les altcoins, BGB i Tron mostren bon aspecte tècnic i estan a l'alça, mentre Cardano, Ethereum i Solana segueixen en tendència baixista clara.",
+     "t": 717
+    }
+   ],
+   "dades": [
+    "Bitcoin tancat en 64.337$",
+    "Core Scientific: de 15M a 215,4M d'ingressos per IA",
+    "Nivell clau: 66.532$"
+   ],
+   "conclusio": "L'autor recomana vigilar el hashrate com a senyal d'alerta real de la xarxa i esperar a recuperar els 66.532$ abans de donar per bo qualsevol rebot de Bitcoin.",
+   "temes": [
+    "bitcoin",
+    "mineria",
+    "hashrate",
+    "intel·ligència artificial",
+    "altcoins",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-11-16"
+  },
+  {
+   "id": "Cju42trTZRo",
+   "titol": "La GRAN MENTIRA de los INGRESOS PASIVOS",
+   "data": "2026-11-15T17:00:29+00:00",
+   "canal": "pablogil",
+   "durada": 1450,
+   "idioma": "es",
+   "resum": "Pablo Gil desmunta la idea que es pugui cobrar sempre dinero fàcil, amb alta rendibilitat, segur i sense esforç. Explica que cal mirar la rendibilitat total (renda més canvi de valor del patrimoni) i no només l'ingrés que entra al compte, perquè es pot cobrar molt mentre es perd capital.",
+   "punts": [
+    {
+     "text": "Per aconseguir 2.000 €/mes calen 800.000 € al 3%, 600.000 € al 4% o 400.000 € al 6%; una rendibilitat més alta sol amagar més risc d'impagament o d'il·liquiditat.",
+     "t": 154
+    },
+    {
+     "text": "Un dividend no crea riquesa nova: si una empresa reparteix 1 € per acció de 10 €, el preu teòric baixa a 9 € i el total es manté igual.",
+     "t": 212
+    },
+    {
+     "text": "Un rendiment per dividend molt alt sovint apareix perquè la cotització s'ha enfonsat, no perquè l'empresa guanyi més: cal esbrinar per què es produeix la renda abans de celebrar-la.",
+     "t": 335
+    },
+    {
+     "text": "Exemple de rendibilitat total negativa: una inversió de 10.000 € que paga 800 € però acaba valent 8.500 € suposa una pèrdua del 7%, tot i haver cobrat efectiu.",
+     "t": 396
+    },
+    {
+     "text": "En un pis llogat de 220.000 € d'inversió total, amb un mes buit i 3.000 € de despeses, el rendiment net cau fins a un 3,6%, molt lluny del 6% brut inicial.",
+     "t": 768
+    },
+    {
+     "text": "Amb la inflació al 3% anual, 1.000 €/mes constants durant 10 anys acaben tenint el poder de compra d'uns 744 € d'avui, una pèrdua d'un 26%.",
+     "t": 990
+    },
+    {
+     "text": "Un negoci digital que factura 5.000 €/mes amb 3.000 € de despeses i 40 hores de feina mensuals no és una renda passiva real, sinó un negoci amb costos i dedicació.",
+     "t": 1082
+    }
+   ],
+   "dades": [
+    "800.000 € necessaris per a 2.000 €/mes al 3%",
+    "Rendiment net d'un lloguer: 3,6% després de despeses i un mes buit",
+    "Pèrdua de poder de compra del 26% en 10 anys amb inflació del 3%"
+   ],
+   "conclusio": "Abans de confiar en una renda passiva cal esbrinar d'on surt el diner, quin desemborsament i despeses comporta, i distingir el benefici real de la simple devolució del propi capital.",
+   "temes": [
+    "ingressos passius",
+    "dividends",
+    "lloguer",
+    "bons",
+    "inflació",
+    "inversió"
+   ],
+   "lot": "2026-11-16"
+  },
+  {
    "id": "91kofIFaNig",
    "titol": "Bitcoin. Rebota después de tocar los 62.000. Tenemos un largo camino por delante.",
    "data": "2026-11-15T10:04:46+00:00",
@@ -9827,9 +9935,17 @@
     "Bitcoin a la baixa: l'analista de Bitcoin al día situa el preu als 62.000 dòlars, un 15% per sota dels nivells recents, i avisa que tornar als 87.000-93.000 pot trigar fins a tot l'any vinent.",
     "Sánchez i Jordi Wild: Rallo detecta cinc blocs de contradiccions a l'entrevista, sobre ferrocarrils, Ceuta, habitatge, els corruptes del seu entorn (Koldo, Leire Díez) i la defensa de Zapatero."
    ]
+  },
+  "2026-11-16": {
+   "titular": "Pablo Gil desmunta el mite dels ingressos passius mentre Bitcoin al día alerta d'un hashrate que no es recupera per l'abandó de les mineres cap a la IA",
+   "punts": [
+    "Ingressos passius: Pablo Gil avisa que cal mirar la rendibilitat total (renda més canvi de valor del patrimoni) i no només el que entra al compte, posant exemples de dividends, lloguers, bons i negocis digitals on la renda aparent amaga pèrdues reals.",
+    "Mineria: Bitcoin al día destaca que grans mineres com Mara i Core Scientific estan venent bitcoins i desmantellant la seva activitat per invertir en centres de dades d'intel·ligència artificial, molt més rendibles que minar.",
+    "Risc: tant Pablo Gil com Bitcoin al día insisteixen en no confondre una xifra atractiva (rendibilitat o preu) amb la realitat subjacent: cal entendre per què es produeix una renda alta o per què cau un indicador clau abans de prendre decisions."
+   ]
   }
  },
- "actualitzat": "2026-11-15T11:48:54.703Z",
+ "actualitzat": "2026-11-16T11:46:12.632Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
