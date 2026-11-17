@@ -1,6 +1,171 @@
 {
  "videos": [
   {
+   "id": "O74Q6eDvt5c",
+   "titol": "Bitcoin. Bolsas empeoran e impiden el rebote de Bitcoin que sigue con mal aspecto en zona peligrosa.",
+   "data": "2026-11-17T09:47:29+00:00",
+   "canal": "btcdia",
+   "durada": 1033,
+   "idioma": "es",
+   "resum": "L'analista repassa com l'empitjorament dels índexs americans i europeus frena el rebot de Bitcoin, que cotitza molt per sota d'on li correspondria segons el comportament del S&P 500, i revisa l'estat tècnic de les principals altcoins.",
+   "punts": [
+    {
+     "text": "El S&P 500 s'acosta a la zona de suport dels 7.300 punts (amb risc de caure fins a 7.230) i el Nasdaq a la zona clau dels 24.400, mentre el DAX alemany cau un 1,17% i amenaça la seva línia de tendència.",
+     "t": 39
+    },
+    {
+     "text": "Bitcoin es manté a la zona de 65.600 sense superar-la, nivell imprescindible per iniciar un rebot seriós; si ho fes, podria pujar ràpid cap als 69.000 per manca de resistències pel camí.",
+     "t": 227
+    },
+    {
+     "text": "En el gràfic mensual, Bitcoin amenaça una línia de tendència de llarg termini important; si perd la zona dels 57.000 no hi ha gairebé suport per sota.",
+     "t": 385
+    },
+    {
+     "text": "Bitcoin cotitza un 16,57% per sota d'on li correspondria si hagués seguit el mateix recorregut que el S&P 500 des de la caiguda del dia 5; l'analista descarta que la causa sigui simplement la sortida a borsa d'alguna empresa.",
+     "t": 933
+    },
+    {
+     "text": "Backpack va rebotar gairebé un 30% fins a 120 des dels 0,76, impulsat per avenços en llicències d'intercanvi als Estats Units; BNB ha assumit bé un hackeig que li costarà un 40% dels beneficis anuals.",
+     "t": 478
+    },
+    {
+     "text": "Michael Saylor (MicroStrategy) ha recomprat ja més d'una quarta part del deute de les STRC, amb compres creixents (288.000 la setmana passada enfront de 160-180.000 anteriors), destinant els diners a reduir deute en lloc de comprar més Bitcoin.",
+     "t": 634
+    },
+    {
+     "text": "Bitcoin tanca la sessió en 64.358, amb una vela neutral-negativa; perdre els cossos de les veles del 14 i 15 de novembre tornaria a apuntar cap als 62.000.",
+     "t": 809
+    }
+   ],
+   "dades": [
+    "S&P 500 a prop de 7.300-7.230 de suport",
+    "Bitcoin un 16,57% per sota d'on li correspondria respecte al S&P 500",
+    "MicroStrategy va caure un 7,7% ahir",
+    "Backpack va pujar gairebé un 30% fins a 120"
+   ],
+   "conclusio": "Mentre les borses nord-americanes i europees entren en fase correctiva sense ajuda externa per a Bitcoin, aquest segueix en zona perillosa i només un tancament clar per sobre dels 65.600 permetria parlar d'un rebot seriós.",
+   "temes": [
+    "bitcoin",
+    "mercats",
+    "s&p 500",
+    "microstrategy",
+    "altcoins",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "4CyktfZVEG8",
+   "titol": "La extrema izquierda española quiere expropiar las herencias",
+   "data": "2026-11-16T19:06:35+00:00",
+   "canal": "rallo",
+   "durada": 1158,
+   "idioma": "es",
+   "resum": "El Frente Amplio d'Ada Colau proposa un tipus marginal del 100% a l'impost de successions per sobre de 10 milions d'euros i un impost anual del 2-3% sobre el patrimoni; Rallo sosté que això descapitalitza l'economia i enfonsa encara més la productivitat espanyola.",
+   "punts": [
+    {
+     "text": "El Frente Amplio proposa un tipus marginal del 100% en successions per sobre de 10 milions d'euros per hereu, i del 75% entre 5 i 10 milions.",
+     "t": 124
+    },
+    {
+     "text": "Un impost anual sobre el patrimoni net del 2% a partir d'1 milió d'euros i del 3% a partir de 50 milions; el PSOE, sense arribar-hi, també puja la tributació al capital fins al 35% i duplica la taxa Tobin al 0,4%.",
+     "t": 221
+    },
+    {
+     "text": "El 2025 les administracions públiques van recaptar 641.000 milions d'euros, màxim històric amb una pressió fiscal del 38% del PIB, i el 2026 superarà aquest rècord.",
+     "t": 281
+    },
+    {
+     "text": "Una enquesta de GAD3 mostra que, malgrat el rècord de recaptació, la percepció dels serveis públics empitjora: sanitat (67% pitjor), educació (59%), justícia (60%).",
+     "t": 373
+    },
+    {
+     "text": "La productivitat per hora treballada a Espanya és el 74% de les vuit economies líders de la UE i porta 20 anys estancada; el creixement ve de més hores treballades, no de més productivitat.",
+     "t": 559
+    },
+    {
+     "text": "Confiscar patrimonis grans penalitza capital productiu (accions, naus, immobles llogats): si una empresa de 20 milions no pot passar als fills, l'opció és tancar-la i liquidar-la.",
+     "t": 683
+    },
+    {
+     "text": "L'impost als ultrarics del Frente Amplio recaptaria uns 10.000 milions anuals, mentre que la despesa en pensions creix 12.000 milions cada any, de manera acumulativa.",
+     "t": 1021
+    }
+   ],
+   "dades": [
+    "641.000 M€ de recaptació el 2025 (+50.000 M€)",
+    "Pressió fiscal del 38% del PIB",
+    "Productivitat espanyola al 74% de les 8 economies líders de la UE",
+    "Impost ultrarics: 10.000 M€/any previstos vs. 12.000 M€/any d'increment en pensions"
+   ],
+   "conclusio": "Rallo conclou que els impostos confiscatoris sobre herències i patrimoni no resolen cap problema social perquè Espanya no té un problema de recursos de l'Estat, sinó de productivitat estancada; gravar el capital descapitalitza l'economia i la redistribució real va cap als pensionistes, no cap als pobres.",
+   "temes": [
+    "fiscalitat",
+    "herències",
+    "espanya",
+    "productivitat",
+    "pensions",
+    "frente amplio"
+   ],
+   "lot": "2026-11-17"
+  },
+  {
+   "id": "fDqe_qQ41l0",
+   "titol": "¿Apagón mundial de 72 horas? El peligro real es lo que se aprueba con miedo",
+   "data": "2026-11-16T19:00:01+00:00",
+   "canal": "vidal",
+   "durada": 1285,
+   "idioma": "es",
+   "resum": "Marc Vidal desmunta el bulo de l'apagament mundial de 72 hores barrejant fets reals (una prova d'alertes de la FEMA, la recomanació de Brussel·les, l'apagada ibèrica) i explica com la por fabricada serveix per aprovar mesures de vigilància i control que després no es retiren mai del tot.",
+   "punts": [
+    {
+     "text": "El bulo de l'apagament del 17 de novembre barreja peces reals: una prova d'alertes obligatòria de la FEMA, la recomanació de Brussel·les de tenir provisions per 72 hores i fins i tot un episodi dels Simpson amb les dates equivocades.",
+     "t": 151
+    },
+    {
+     "text": "L'apagada d'Espanya i Portugal de l'abril de 2024 no va ser un ciberatac, però la xarxa de propaganda russa Pravda hi va publicar gairebé 100 peces en castellà en només 3 dies.",
+     "t": 211
+    },
+    {
+     "text": "Robert Higgs, al llibre 'Crisis y leviatán', documenta que davant de cada emergència el poder de l'Estat creix i, quan passa la crisi, mai torna del tot enrere: l'«efecte trinquet».",
+     "t": 587
+    },
+    {
+     "text": "A Espanya, el Constitucional va declarar inconstitucional el confinament del primer estat d'alarma, però la sentència va arribar quan ja havia produït tots els seus efectes.",
+     "t": 336
+    },
+    {
+     "text": "Europol recomana que les apps de missatgeria xifrada incloguin accés legal per a la policia; al Canadà de Trudeau es van congelar més de 257 comptes sense ordre judicial durant les protestes dels camioners, declarat il·legal després per dos tribunals.",
+     "t": 618
+    },
+    {
+     "text": "El sistema alemany de dades de passatgers aeris va donar un 99,7% de falses alarmes el primer any; a Austràlia, el 81% dels menors va seguir usant xarxes socials després de prohibir-les per sota de 16 anys.",
+     "t": 922
+    },
+    {
+     "text": "Vidal reclama dues exigències abans de concedir qualsevol poder nou: proves públiques de que les mesures anteriors han funcionat i una data de caducitat que obligui a tornar-les a votar.",
+     "t": 1140
+    }
+   ],
+   "dades": [
+    "99,7% de falses alarmes en el sistema alemany de dades de passatgers",
+    "81% dels menors australians va seguir a les xarxes malgrat la prohibició",
+    "257 comptes congelats sense ordre judicial al Canadà",
+    "Entre 3 i 34 sabotatges russos documentats a Europa entre 2022 i 2024"
+   ],
+   "conclusio": "El missatge no és si l'amenaça concreta és real, sinó que la por facilita aprovar poders de vigilància i control que després queden instal·lats de manera permanent; cal exigir proves d'eficàcia i dates de caducitat abans de cedir més llibertat.",
+   "temes": [
+    "desinformació",
+    "vigilància",
+    "llibertats civils",
+    "seguretat",
+    "unió europea",
+    "por"
+   ],
+   "lot": "2026-11-17"
+  },
+  {
    "id": "sLD7-YQJHg4",
    "titol": "Problemas de la red por abandono de las mineras por la IA y el estancamiento del hashrate.",
    "data": "2026-11-16T10:16:45+00:00",
@@ -9943,9 +10108,18 @@
     "Mineria: Bitcoin al día destaca que grans mineres com Mara i Core Scientific estan venent bitcoins i desmantellant la seva activitat per invertir en centres de dades d'intel·ligència artificial, molt més rendibles que minar.",
     "Risc: tant Pablo Gil com Bitcoin al día insisteixen en no confondre una xifra atractiva (rendibilitat o preu) amb la realitat subjacent: cal entendre per què es produeix una renda alta o per què cau un indicador clau abans de prendre decisions."
    ]
+  },
+  "2026-11-17": {
+   "titular": "Rallo denuncia la fiscalitat confiscatòria de l'esquerra sobre herències, Vidal alerta del risc de cedir llibertats per por i Bitcoin segueix ancorat en zona perillosa mentre les borses cauen.",
+   "punts": [
+    "Estat i poder.: Rallo (Frente Amplio proposa confiscar herències de més de 10 milions) i Vidal (la por fabricada serveix per aprovar vigilància que mai es retira) coincideixen que el poder de l'Estat creix amb cada excusa i rares vegades retrocedeix.",
+    "Fiscalitat.: Rallo alerta que els impostos del Frente Amplio sobre patrimoni i herències descapitalitzarien l'economia espanyola i enfonsarien encara més la seva productivitat, ja estancada al 74% de la mitjana de la UE.",
+    "Desinformació.: Marc Vidal desmunta el bulo de l'apagament mundial del 17 de novembre i mostra com barreja fets reals (apagada ibèrica, propaganda russa) per generar pànic.",
+    "Mercats.: Bitcoin al día destaca que Bitcoin cotitza un 16,57% per sota d'on li correspondria segons el S&P 500, amb les borses americanes i europees entrant en fase correctiva."
+   ]
   }
  },
- "actualitzat": "2026-11-16T11:46:12.632Z",
+ "actualitzat": "2026-11-17T11:47:08.564Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
