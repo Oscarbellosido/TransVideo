@@ -1,6 +1,170 @@
 {
  "videos": [
   {
+   "id": "lzMklDY9ogU",
+   "titol": "Bitcoin. Vela del SP500 apunta a subida en el día de hoy que debería provocar fuerte rebote en BTC.",
+   "data": "2026-11-18T09:13:09+00:00",
+   "canal": "btcdia",
+   "durada": 921,
+   "idioma": "es",
+   "resum": "L'autor repassa una onada d'atacs informàtics (filtracions, malware en pàgines de compra, alertes del FBI sobre IA utilitzada per vulnerar sistemes en hores) i després analitza el mercat: Bitcoin podria rebotar avui si el SP500 confirma el gir alcista que mostra la seva vela diària.",
+   "punts": [
+    {
+     "text": "El FBI alerta que es fan servir eines d'intel·ligència artificial per vulnerar sistemes informàtics en hores, gairebé sense intervenció humana.",
+     "t": 68
+    },
+    {
+     "text": "Dades de 27.000 clients de Trezor (noms, telèfons, adreces d'entrega i de correu) han quedat exposades en la tercera filtració d'un soci del fabricant aquest any, per a comandes fetes entre el 9 d'agost i el 7 de novembre.",
+     "t": 98
+    },
+    {
+     "text": "També s'ha detectat malware instal·lat en 178 pàgines web importants per robar dades de targetes de crèdit introduïdes en elles.",
+     "t": 253
+    },
+    {
+     "text": "Bitcoin podria pujar fins a la zona de 66.532 i, si trenca aquest nivell, fins als 68.000, sempre que el SP500 confirmi el seu propi rebot.",
+     "t": 313
+    },
+    {
+     "text": "La clau tècnica és que Bitcoin tanqui per sobre dels 65.600: a partir d'aquí podrien disparar-se les compres per anàlisi tècnica.",
+     "t": 496
+    },
+    {
+     "text": "Entre les altcoins, el token de Backpack ha rebotat des del mínim de 0,76 del 14 de novembre i acumula un 28% de guany des de la zona de compra de 0,80; Tron i Solana també mostren bon comportament, mentre Cardano segueix en tendència baixista prolongada.",
+     "t": 537
+    },
+    {
+     "text": "Si el SP500 rebota però Bitcoin no aconsegueix almenys els 66.532, l'autor ho interpretaria com un senyal de feblesa important sense cap lectura positiva.",
+     "t": 841
+    }
+   ],
+   "dades": [
+    "27.000 clients de Trezor afectats",
+    "zona clau de Bitcoin: 65.600 / 66.532 / 68.000",
+    "token de Backpack: +28% des de 0,80",
+    "178 pàgines web amb malware detectat"
+   ],
+   "conclusio": "Avui pot ser un bon dia per a Bitcoin si el SP500 confirma el gir alcista de la seva vela diària; si no ho fa, caldria descartar qualsevol lectura positiva a curt termini.",
+   "temes": [
+    "bitcoin",
+    "ciberseguretat",
+    "sp500",
+    "altcoins",
+    "anàlisi tècnica",
+    "trezor"
+   ],
+   "lot": "2026-11-18"
+  },
+  {
+   "id": "mz6pMVRjfIQ",
+   "titol": "El PSOE destroza el mercado del alquiler: desaparecen miles de viviendas en solo un mes",
+   "data": "2026-11-17T20:42:35+00:00",
+   "canal": "rallo",
+   "durada": 1101,
+   "idioma": "es",
+   "resum": "Rallo analitza com, en només un mes, han desaparegut milers d'habitatges d'oferta de lloguer a Espanya arran dels decrets Mari Carmen aprovats pel govern del PSOE. Ho contraposa amb el cas d'Argentina, on la desregulació del mercat de lloguer per part de Javier Milei va disparar l'oferta d'habitatges.",
+   "punts": [
+    {
+     "text": "Segons Idealista, els anuncis de lloguer actius a Espanya van caure un 19% entre el 25 de setembre i el 25 d'octubre, de 140.000 a uns 113.000, amb caigudes superiors al 20% en 12 comunitats autònomes (Madrid i Cantàbria, un 26%).",
+     "t": 60
+    },
+    {
+     "text": "Per capitals, Terol va perdre el 46% dels seus anuncis, Sòria el 37%; en ciutats grans, Madrid i València van caure un 27%, Barcelona un 25% i Sevilla un 23%.",
+     "t": 124
+    },
+    {
+     "text": "Comparant amb el patró estacional habitual d'octubre, l'autor calcula que la meitat de la caiguda és estacional i l'altra meitat, uns 12.000 habitatges, es deu directament als decrets Mari Carmen.",
+     "t": 249
+    },
+    {
+     "text": "Fotocasa i el Centre d'Estudis de SADE confirmen caigudes similars (entre el 6% i el 12,5% segons ciutat), concentrades sobretot entre el 30 de setembre i el 2 d'octubre, quan els decrets van entrar en vigor.",
+     "t": 280
+    },
+    {
+     "text": "El decret vigent allarga la durada mínima del contracte a 5 anys (7 si l'arrendador és una empresa), limita les pujades de renda fins al 2027, manté la suspensió de desnonaments d'inquilins vulnerables fins al 2030 i restringeix el lloguer de temporada a causes acreditades i un màxim de 12 mesos.",
+     "t": 406
+    },
+    {
+     "text": "Rallo rebat l'argument d'Emilio Delgado (Front Ampli) de que la caiguda es deu a menys rotació de contractes: diu que una caiguda tan sobtada en pocs dies només s'explica per retirada d'anuncis dels propietaris.",
+     "t": 561
+    },
+    {
+     "text": "A Argentina, després que Javier Milei derogués la Llei de Lloguers el desembre de 2023, l'oferta de pisos en lloguer a Buenos Aires va passar de 551 anuncis a prop de 7.000-8.000, un augment del 326% al setembre de 2026.",
+     "t": 779
+    }
+   ],
+   "dades": [
+    "caiguda del 19% en anuncis de lloguer a Espanya en un mes",
+    "uns 12.000 habitatges retirats atribuïbles als decrets",
+    "Buenos Aires: de 551 a ~8.000 anuncis després de la desregulació de Milei (+326%)"
+   ],
+   "conclusio": "Rallo conclou que la sobreregulació del lloguer enfonsa l'oferta d'habitatges disponibles, mentre que la desregulació la dispara; però adverteix que liberalitzar el lloguer no resol per si sol el problema de fons, que és la manca d'habitatge nou construït.",
+   "temes": [
+    "lloguer",
+    "decrets mari carmen",
+    "psoe",
+    "argentina",
+    "javier milei",
+    "mercat immobiliari"
+   ],
+   "lot": "2026-11-18"
+  },
+  {
+   "id": "lo4iGRp81rI",
+   "titol": "Algo está pasando con China: Bruselas vio sus subvenciones y le dejó comprar 1.000 tiendas",
+   "data": "2026-11-17T19:00:13+00:00",
+   "canal": "vidal",
+   "durada": 1180,
+   "idioma": "es",
+   "resum": "El gigant xinès JD.com s'ha quedat amb Ceconomy (MediaMarkt, Saturn, Media World), més de 1.000 botigues a Europa, després que Brussel·les detectés subvencions estatals xineses que distorsionaven la competència i tot i així aprovés la compra. Marc Vidal ho presenta com un manual ja vist en ports estratègics (Pireu, Chancay) que ara arriba al comerç físic europeu.",
+   "punts": [
+    {
+     "text": "El 12 de novembre JD.com es va quedar amb el 59,8% de Ceconomy per 1.335 milions d'euros; la família fundadora (Convergenta) conserva el 25,3% i hi queda com a socia.",
+     "t": 134
+    },
+    {
+     "text": "Ceconomy va facturar 23.100 milions en l'exercici 24-25 amb el benefici operatiu pujant un 24% fins als 378 milions, però es va vendre per menys de sis vegades aquest benefici.",
+     "t": 339
+    },
+    {
+     "text": "La Comissió Europea va obrir una investigació sota el reglament de subvencions estrangeres (en vigor des de juliol de 2023) i va confirmar que JD.com havia rebut finançament preferent i ajudes estatals que distorsionaven el mercat, però va aprovar l'operació igualment a canvi de compromisos durant 10 anys.",
+     "t": 461
+    },
+    {
+     "text": "Els compromisos no eliminen les subvencions identificades, només obliguen a oferir la logística de JD.com a tercers en condicions de mercat; la Comissió ho va qualificar de \"remei plena i eficaçment\" la distorsió.",
+     "t": 552
+    },
+    {
+     "text": "JD.com es queda amb més de 1.000 locals ja construïts en 11 països (almacens d'última milla) i preveu llançar la seva plataforma Joybuy a Espanya el 2027, combinant botiga física i venda online per competir amb Amazon.",
+     "t": 674
+    },
+    {
+     "text": "Vidal compara el cas amb la venda del port del Pireu (Grècia, 2016) a COSCO durant el rescat grec i el megapuerto de Chancay (Perú, 2024), com a exemples del mateix patró: comprar nodes estratègics quan estan barats.",
+     "t": 756
+    },
+    {
+     "text": "Assenyala que Europa segueix liderant sectors com el luxe francès i italià, el salmó noruec o les màquines de litografia d'ASML, però que l'excés de regulació (Draghi: més del 60% de les empreses la veu com un obstacle) debilita la seva posició negociadora.",
+     "t": 920
+    }
+   ],
+   "dades": [
+    "1.335 M€ pagats per JD.com pel 59,8% de Ceconomy",
+    "112 botigues i 7.000 treballadors de MediaMarkt a Espanya",
+    "benefici operatiu de Ceconomy: 378 M€ (+24%)",
+    "compromisos de JD.com amb Brussel·les: 10 anys"
+   ],
+   "conclusio": "Vidal conclou que Europa no és pobra sinó mal governada: permet que capital estranger subvencionat es quedi amb infraestructures clau a canvi de promeses de bon comportament, mentre les seves pròpies empreses competeixen sota una regulació molt més estricta.",
+   "temes": [
+    "mediamarkt",
+    "jd.com",
+    "unió europea",
+    "subvencions estrangeres",
+    "comerç xinès",
+    "geopolítica econòmica"
+   ],
+   "lot": "2026-11-18"
+  },
+  {
    "id": "O74Q6eDvt5c",
    "titol": "Bitcoin. Bolsas empeoran e impiden el rebote de Bitcoin que sigue con mal aspecto en zona peligrosa.",
    "data": "2026-11-17T09:47:29+00:00",
@@ -10117,9 +10281,19 @@
     "Desinformació.: Marc Vidal desmunta el bulo de l'apagament mundial del 17 de novembre i mostra com barreja fets reals (apagada ibèrica, propaganda russa) per generar pànic.",
     "Mercats.: Bitcoin al día destaca que Bitcoin cotitza un 16,57% per sota d'on li correspondria segons el S&P 500, amb les borses americanes i europees entrant en fase correctiva."
    ]
+  },
+  "2026-11-18": {
+   "titular": "Europa i Espanya, atrapades per les seves pròpies regulacions: la compra xinesa de MediaMarkt i els decrets del lloguer enfonsen l'oferta",
+   "punts": [
+    "Comerç europeu. Marc Vidal explica com JD.com s'ha quedat amb més de 1.000 botigues de Ceconomy (MediaMarkt) a Europa després que Brussel·les detectés subvencions estatals xineses i tot i així aprovés la compra amb simples compromisos de bon comportament durant 10 anys.",
+    "Habitatge a Espanya. Juan Ramón Rallo denuncia que els decrets Mari Carmen del PSOE han fet desaparèixer uns 12.000 habitatges de lloguer en un mes, mentre que a Argentina la desregulació de Milei ha disparat l'oferta un 326%.",
+    "Regulació excessiva. Tant Vidal com Rallo coincideixen en el mateix diagnòstic des de sectors diferents: la sobreregulació (europea en el cas comercial, espanyola en el de l'habitatge) debilita la posició pròpia davant la competència o enfonsa l'oferta, mentre que menys regulació atreu inversió o incrementa l'oferta.",
+    "Ciberseguretat. Bitcoin al día alerta d'una onada d'atacs informàtics (filtració de dades de 27.000 clients de Trezor, malware en 178 pàgines web, ús d'IA pel FBI per detectar hackejos en hores) que també afecta l'ecosistema cripto.",
+    "Mercats. Bitcoin es manté feble a l'espera que el SP500 confirmi un rebot que, de produir-se, hauria d'arrossegar-lo cap als 66.500-68.000 dòlars."
+   ]
   }
  },
- "actualitzat": "2026-11-17T11:47:08.564Z",
+ "actualitzat": "2026-11-18T11:47:25.551Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
