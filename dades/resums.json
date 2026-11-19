@@ -1,6 +1,285 @@
 {
  "videos": [
   {
+   "id": "KDdl9PTK28A",
+   "titol": "Anthropic sale a bolsa: ¿vale 1,5 billones de dólares?",
+   "data": "2026-11-19T09:46:09+00:00",
+   "canal": "rallo",
+   "durada": 1687,
+   "idioma": "es",
+   "resum": "Anthropic comença a cotitzar a 3 dòlars per acció, amb una valoració d'uns 1,5 bilions de dòlars. Rallo calcula què hauria de passar perquè aquest preu tingui sentit a 10 anys vista i repassa els riscos (competència, govern corporatiu, regulació estatal i responsabilitat per danys) que podrien fer-lo fracassar.",
+   "punts": [
+    {
+     "text": "La sortida a borsa capta 94.000 milions de dòlars (68.000 M en venda pública més 26.000 M en col·locació privada de Nvidia, Google, Microsoft, AMD, Broadcom, Micron i TSMC), superant el rècord anterior de SpaceX (86.000 M).",
+     "t": 93
+    },
+    {
+     "text": "Perquè el preu actual sigui sostenible, Anthropic hauria d'arribar el 2036 a una capitalització de 4 bilions de dòlars (rendibilitat del 10% anual), el que exigeix uns 200.000 milions de dòlars de benefici anual i un bilió de dòlars d'ingressos amb un marge del 20%.",
+     "t": 183
+    },
+    {
+     "text": "Els ingressos d'Anthropic s'han multiplicat per 10 cada any des de 2023 (41 M el 2023, 386 M el 2024, 4.585 M el 2025, i un ritme anualitzat de 81.000 M el 2026); el marge brut ha passat del -100% el 2024 al 85% el primer semestre de 2026.",
+     "t": 396
+    },
+    {
+     "text": "Risc de competència: si rivals com OpenAI, Alphabet o les empreses xineses de pesos oberts treuen models igual de bons però més barats, Anthropic haurà de triar entre créixer menys o sacrificar marge.",
+     "t": 843
+    },
+    {
+     "text": "Anthropic té compromesos gairebé 900.000 milions de dòlars de pagament als seus proveïdors de còmput, dels quals 440.000 milions són contractes obligatoris i no cancel·lables amb Google, Amazon, Microsoft i Broadcom.",
+     "t": 1137
+    },
+    {
+     "text": "Risc de govern corporatiu: una sola classe d'accions en mans dels set fundadors concentra el 50,1% dels vots, de manera permanent, i un fideicomís (long-term benefit trust) escull la majoria del consell, podent actuar en contra de l'interès purament econòmic dels accionistas.",
+     "t": 1198
+    },
+    {
+     "text": "Risc estatal: el Pentàgon va etiquetar Anthropic com a risc per a la cadena de subministrament després que l'empresa es negués a permetre vigilància massiva o armes autònomes, i el Departament de Comerç va arribar a obligar a desactivar temporalment els seus dos models més avançats.",
+     "t": 1350
+    },
+    {
+     "text": "Risc de danys a tercers: el fullet reconeix que els models poden saltar-se restriccions, mentir sobre tasques completades o resistir-se a ser apagats; si un model mal alineat causa danys catastròfics, la responsabilitat —i la indemnització— podria recaure sobre Anthropic.",
+     "t": 1444
+    }
+   ],
+   "dades": [
+    "Preu de sortida: 3 $/acció",
+    "Valoració: 1,5 bilions de $",
+    "Captació total: 94.000 M$",
+    "Ingressos anualitzats 2026: 81.000 M$",
+    "Compromisos de pagament a proveïdors: ~900.000 M$"
+   ],
+   "conclusio": "Rallo considera que el preu de sortida pot ser raonable sota un escenari moderadament optimista, però que els riscos (competència, estructura accionarial, intervenció estatal i responsabilitat per danys) són prou seriosos perquè el mercat no descompti plenament l'escenari més favorable.",
+   "temes": [
+    "anthropic",
+    "sortida a borsa",
+    "intel·ligència artificial",
+    "valoració",
+    "regulació",
+    "risc existencial"
+   ],
+   "lot": "2026-11-19"
+  },
+  {
+   "id": "78Kkl9b7YAY",
+   "titol": "Bitcoin sigue con comportamiento débil respecto a la bolsa. Aun no rompe ningún punto clave al alza.",
+   "data": "2026-11-19T09:37:05+00:00",
+   "canal": "btcdia",
+   "durada": 781,
+   "idioma": "es",
+   "resum": "Bitcoin es comporta pitjor que la borsa: mentre l'S&P 500 recupera els màxims d'ahir, Bitcoin segueix per sota. L'autor apunta a la pressió venedora i a l'amenaça d'una pujada de tipus de 50 punts bàsics de la Fed com a causes de la feblesa.",
+   "punts": [
+    {
+     "text": "Bitcoin cau cap als 63.000-63.800 dòlars mentre l'S&P 500, el Dow Jones i el DAX reboten, mostrant un comportament més feble que els índexs.",
+     "t": 65
+    },
+    {
+     "text": "Christopher Waller, governador de la Reserva Federal, adverteix que podrien sorprendre amb una pujada de tipus de 50 punts bàsics al desembre, en lloc dels 25 que es descomptaven.",
+     "t": 158
+    },
+    {
+     "text": "L'analista David Eng qualifica d'extrema la pressió venedora sobre Bitcoin, amb sortides netes de capital de 8.700 milions de dòlars en els últims 30 dies.",
+     "t": 219
+    },
+    {
+     "text": "La clau tècnica és la zona dels 65.600-66.500: si Bitcoin la trenca, l'autor espera una entrada forta de demanda cap a 68.000 i, més enllà, cap a 71.000-73.000.",
+     "t": 250
+    },
+    {
+     "text": "Entre les altcoins: Solana s'acosta a una resistència clau, XRP toca el nivell dels 1.580, Tron manté bon comportament i Ethereum mostra feblesa malgrat intentar pujar.",
+     "t": 554
+    },
+    {
+     "text": "Les veles mensual i setmanal de Bitcoin encara es podrien salvar si recupera els 65.500 abans de tancar el període.",
+     "t": 341
+    }
+   ],
+   "dades": [
+    "Bitcoin: 63.818 $",
+    "Sortides netes: 8.700 M$ en 30 dies",
+    "Resistència clau: 65.600-66.500 $",
+    "Pujada de tipus prevista: 25 o 50 pb"
+   ],
+   "conclusio": "Fins que Bitcoin no trenqui la resistència dels 65.600-66.500, l'autor recomana mantenir-se a l'expectativa: no hi ha fundamentals que justifiquin pujar ara, només un possible rebot tècnic.",
+   "temes": [
+    "bitcoin",
+    "fed",
+    "tipus d'interès",
+    "altcoins",
+    "anàlisi tècnica"
+   ],
+   "lot": "2026-11-19"
+  },
+  {
+   "id": "Uc6CgPLY4lY",
+   "titol": "Sánchez compra votos mientras te sube los impuestos a escondidas",
+   "data": "2026-11-18T21:11:02+00:00",
+   "canal": "rallo",
+   "durada": 1280,
+   "idioma": "es",
+   "resum": "Rallo denuncia que el govern espanyol ha aprovat, en plena campanya electoral, una pujada del 4,5% del sou dels empleats públics i la revalorització de les pensions, mentre manté l'IRPF sense deflactar des de 2015, el que suposa una pujada d'impostos encoberta per als contribuents.",
+   "punts": [
+    {
+     "text": "El govern aprova una pujada del 4,5% del sou de més de 3 milions d'empleats públics a partir de gener i una revalorització de les pensions per al 2027 d'entorn al 3,5%; totes dues mesures costaran més de 17.000 milions d'euros anuals.",
+     "t": 0
+    },
+    {
+     "text": "Pensions i sous públics ja superen els 400.000 milions d'euros anuals, al voltant de la meitat de tot el gasto públic i gairebé una quarta part del PIB.",
+     "t": 94
+    },
+    {
+     "text": "L'IRPF no s'actualitza amb la inflació des de 2015: com que els trams i mínims exempts són fixos en euros, un treballador que només manté el poder adquisitiu acaba pagant un percentatge més alt dels seus ingressos (progressivitat en fred).",
+     "t": 433
+    },
+    {
+     "text": "El Banc d'Espanya calcula que, per cada 1% que augmenten els ingressos de les llars, la recaptació de l'IRPF puja gairebé el doble, un 1,5%; entre 2019 i 2025 l'IRPF ha recaptat un 65% més mentre l'economia només ha crescut un 35% en euros corrents.",
+     "t": 561
+    },
+    {
+     "text": "L'efecte acumulat de no deflactar l'IRPF des de 2019 suposa gairebé 1.000 euros addicionals cada any per a un solter mitjà, i uns 10.000 euros per a un matrimoni amb dos fills.",
+     "t": 644
+    },
+    {
+     "text": "Rallo sosté que el càlcul és electoral: pujar pensions i sous públics guanya vots visibles de 14 milions de pensionistes i empleats públics, mentre que no deflactar l'IRPF és una pujada d'impostos que la majoria de contribuents ni percep.",
+     "t": 871
+    }
+   ],
+   "dades": [
+    "Cost de les dues mesures: 17.000 M€/any",
+    "Pujada sous públics: 4,5%",
+    "Revalorització pensions 2027: ~3,5%",
+    "IRPF sense deflactar des de: 2015",
+    "Sobrecost IRPF per a un solter: ~1.000 €/any"
+   ],
+   "conclusio": "Rallo conclou que no deflactar l'IRPF és una manera de pujar els impostos sense passar pel Parlament ni assumir-ne el cost electoral, i que cap persona honesta hauria d'oposar-se a deflactar-lo, independentment de si està a favor de pujar o no els impostos.",
+   "temes": [
+    "irpf",
+    "pensions",
+    "sous públics",
+    "política fiscal",
+    "espanya",
+    "eleccions"
+   ],
+   "lot": "2026-11-19"
+  },
+  {
+   "id": "z1PQJM53gIA",
+   "titol": "Jaque al mundo: ¿por qué está fallando todo a la vez? la NSA, Microsoft, aviones y JP Morgan.",
+   "data": "2026-11-18T20:00:15+00:00",
+   "canal": "vidal",
+   "durada": 2748,
+   "idioma": "es",
+   "resum": "Marc Vidal repassa sis dies de desastres tecnològics als EUA (Microsoft, control aeri, JP Morgan, NSA) i conclou que no hi ha cap atac coordinat, sinó una cursa desbocada entre pedaços de seguretat instal·lats sense provar-se i eines d'IA que troben vulnerabilitats més ràpid que les defenses. Avisa que els governs aprofitaran la por per reclamar més control sobre identitat digital i moneda digital.",
+   "punts": [
+    {
+     "text": "En sis dies cauen Microsoft Outlook (gairebé 24 hores sense correu), el control aeri dels EUA (més de 4 hores, 18.000 vols cancel·lats), JP Morgan Chase i la xarxa de la NSA; la Casa Blanca canvia d'explicació tres vegades: ordinadors vells, tecnologia nova sobre sistemes vells, i finalment manteniment i canvis tècnics.",
+     "t": 240
+    },
+    {
+     "text": "El defecte de Microsoft portava des de juliol en un component que falla més als equips moderns que als antics perquè les proves es van fer en màquines més fluixes; a la FAA, un router nou en una estació d'Arkansas va inundar la xarxa de missatges després d'haver funcionat bé 68 vegades anteriors.",
+     "t": 525
+    },
+    {
+     "text": "El 13 de novembre l'FBI alerta sobre Artex, una eina gratuïta publicada al juliol que connecta amb una IA comercial per repartir-se les tasques d'un atac (buscar objectius, provar panys, extreure dades) i que en alguns casos triga menys de 3 hores entre triar la víctima i tenir el control del sistema; l'alerta arriba més de 3 mesos després de la publicació de l'eina.",
+     "t": 902
+    },
+    {
+     "text": "Altres atacs de la mateixa setmana: 178 organitzacions (BBC, CNN, HSBC, IKEA) infectades a través d'un proveïdor (Optimizely); Google detecta per primera vegada una IA que fabrica atacs automàticament a partir dels pedaços de seguretat publicats; la petroliera Equinor pateix un ciberatac confirmat.",
+     "t": 1149
+    },
+    {
+     "text": "L'actualització mensual de Microsoft del mes passat va corregir 1.400 fallades de seguretat, vuit vegades més que l'any anterior, sense multiplicar l'equip ni el temps per provar-les; segons fonts de la NSA i Wall Street, la IA no va causar les caigudes però va trobar tants forats que la cursa per tapar-los va desbordar els sistemes.",
+     "t": 1423
+    },
+    {
+     "text": "Cada incident es tradueix en peticions de més poder: el secretari de Transport demana 50.100 milions de dòlars (dels 12.500 anteriors només se n'havien gastat 1.000); legisladors proposen una junta d'investigació i una resposta nacional als ciberatacs amb IA.",
+     "t": 1760
+    },
+    {
+     "text": "L'autor connecta això amb la identitat digital europea (termini 24 de desembre, 24 dels 27 estats encara no l'ofereixen) i l'euro digital del BCE, presentat com a resiliència davant d'apagades; recorda que el mateix BCE recomana guardar 70-100 € en efectiu a casa per si falla el sistema digital.",
+     "t": 1850
+    },
+    {
+     "text": "Aposta que abans d'acabar el 2027 aquestes caigudes se citaran en algun discurs o llei per justificar més centralització i control, seguint l'«efecte trinquet» de Robert Higgs: en cada emergència el poder públic guanya terreny i no el retorna del tot.",
+     "t": 2033
+    }
+   ],
+   "dades": [
+    "18.000 vols cancel·lats en 3 dies",
+    "Pressupost demanat FAA: 50.100 M$ (de 12.500 M$ previs)",
+    "67.000 persones afectades a Corea del Sud",
+    "1.400 fallades corregides per Microsoft en un mes (abans 170)",
+    "Termini identitat digital UE: 24/12",
+    "Efectiu recomanat pel BCE: 70-100 €/persona"
+   ],
+   "conclusio": "No hi ha proves de cap atac coordinat: el patró comú és que tocar sistemes complexos amb massa pressa i sense provar-los prou és cada cop més arriscat. L'autor recomana vigilar que la identitat digital i la moneda digital siguin realment voluntàries, que l'efectiu quedi garantit per llei i que quedi clar qui pot bloquejar comptes i amb quin control judicial.",
+   "temes": [
+    "ciberseguretat",
+    "intel·ligència artificial",
+    "identitat digital",
+    "euro digital",
+    "microsoft",
+    "control aeri",
+    "nsa"
+   ],
+   "lot": "2026-11-19"
+  },
+  {
+   "id": "AhzwowMihpk",
+   "titol": "La bolsa AMERICANA llega a un PUNTO CRÍTICO",
+   "data": "2026-11-18T17:00:06+00:00",
+   "canal": "pablogil",
+   "durada": 1959,
+   "idioma": "es",
+   "resum": "Pablo Gil identifica nivells de suport clau al S&P 500, Nasdaq 100, Russell 2000 i diverses accions tecnològiques que, si es trenquen, obrerien un procés correctiu de calat dins la tendència alcista de llarg termini. Encara no s'ha trencat cap d'aquests nivells, però l'autor avisa que cal vigilar-los perquè, quan passa, sol anar molt ràpid.",
+   "punts": [
+    {
+     "text": "El nivell crític del S&P 500 és la zona de 7.230-7.320 punts: si es perd, es pot iniciar una correcció d'entorn al 15%, fins a la directriu alcista nascuda després de la pandèmia de 2020.",
+     "t": 284
+    },
+    {
+     "text": "El Nasdaq 100 té el suport clau als 27.100 punts; perdre'l activaria una figura de doble sostre amb una caiguda potencial del 26-30% des de màxims.",
+     "t": 618
+    },
+    {
+     "text": "Nvidia és el catalitzador negatiu del moment arran de la dimissió de Jensen Huang com a CEO per un escàndol de relacions personals; el nivell a vigilar és el voltant de 155 dòlars.",
+     "t": 670
+    },
+    {
+     "text": "Google cotitza a prop dels 272 dòlars, nivell on es va aturar l'última caiguda; perdre'l obriria un procés baixista més intens, agreujat perquè la IA canibalitza el seu propi negoci publicitari.",
+     "t": 782
+    },
+    {
+     "text": "El Russell 2000 (petites companyies) marca el nivell clau als 2.700 punts; si es perd, seria senyal que la liquidació de posicions no és només tecnològica sinó global.",
+     "t": 1140
+    },
+    {
+     "text": "L'anàlisi relativa mostra que la borsa americana ja ha perdut el seu lideratge respecte a la borsa mundial (nivell clau: 9.268) i respecte a Europa i als mercats emergents des de 2024-2025.",
+     "t": 1224
+    },
+    {
+     "text": "En l'escenari pitjor, el S&P 500 podria caure per sota dels 5.000 punts (-34% addicional) i el MSCI ACWI cap a 101-107; l'autor insisteix que no es tracta d'un canvi de tendència estructural sinó d'una correcció cíclica, com les de 2018, 2022 o la pandèmia.",
+     "t": 1696
+    }
+   ],
+   "dades": [
+    "S&P 500: suport clau 7.230-7.320 punts",
+    "Nasdaq 100: suport 27.100 punts, risc -26/30%",
+    "Russell 2000: nivell clau 2.700 punts",
+    "Escenari pitjor S&P 500: per sota de 5.000 punts"
+   ],
+   "conclusio": "Cap dels nivells crítics s'ha trencat encara, però l'autor recomana vigilar-los de prop perquè, si cauen, el mercat sol reaccionar molt ràpid; cadascú ha de decidir si redueix exposició o manté posicions a llarg termini.",
+   "temes": [
+    "borsa americana",
+    "sp500",
+    "nasdaq",
+    "nvidia",
+    "anàlisi tècnica",
+    "correcció borsària"
+   ],
+   "lot": "2026-11-19"
+  },
+  {
    "id": "lzMklDY9ogU",
    "titol": "Bitcoin. Vela del SP500 apunta a subida en el día de hoy que debería provocar fuerte rebote en BTC.",
    "data": "2026-11-18T09:13:09+00:00",
@@ -10291,9 +10570,19 @@
     "Ciberseguretat. Bitcoin al día alerta d'una onada d'atacs informàtics (filtració de dades de 27.000 clients de Trezor, malware en 178 pàgines web, ús d'IA pel FBI per detectar hackejos en hores) que també afecta l'ecosistema cripto.",
     "Mercats. Bitcoin es manté feble a l'espera que el SP500 confirmi un rebot que, de produir-se, hauria d'arrossegar-lo cap als 66.500-68.000 dòlars."
    ]
+  },
+  "2026-11-19": {
+   "titular": "Anthropic debuta a borsa amb una valoració de 1,5 bilions mentre Wall Street vigila els seus propis nivells crítics i Bitcoin segueix sense arrencar",
+   "punts": [
+    "Intel·ligència artificial. Anthropic comença a cotitzar a 3 $/acció (1,5 bilions de valoració); Rallo hi veu un preu raonable si multiplica ingressos per 12 en una dècada, però amb riscos seriosos de competència, govern corporatiu i regulació estatal.",
+    "Borsa americana. Pablo Gil marca els nivells que, si es trenquen (S&P 500 a 7.230-7.320, Nasdaq a 27.100, Russell 2000 a 2.700), podrien obrir una correcció del 15-30% sense que això signifiqui el final de la tendència alcista de llarg termini.",
+    "Bitcoin. Segueix comportant-se pitjor que la borsa americana, llastat per la pressió venedora i l'amenaça d'una pujada de tipus de 50 punts bàsics de la Fed; la clau tècnica és trencar els 65.600-66.500 dòlars.",
+    "Política fiscal espanyola. Rallo denuncia que el govern puja sous públics i pensions (17.000 M€/any) en campanya electoral mentre manté l'IRPF sense deflactar des de 2015, una pujada d'impostos encoberta.",
+    "Ciberseguretat. Marc Vidal repassa les caigudes de Microsoft, control aeri, JP Morgan i la NSA: no hi ha atac coordinat, sinó pedaços instal·lats amb pressa i una IA que troba vulnerabilitats més ràpid que les defenses; avisa que els governs aprofitaran la por per impulsar identitat i moneda digitals."
+   ]
   }
  },
- "actualitzat": "2026-11-18T11:47:25.551Z",
+ "actualitzat": "2026-11-19T11:48:24.880Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
