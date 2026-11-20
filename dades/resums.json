@@ -1,6 +1,173 @@
 {
  "videos": [
   {
+   "id": "oiwQhZXPfaM",
+   "titol": "Bitcoin. El día 21 puede ser el punto donde empiece a rebotar, pero sigue mucho peor que la bolsa.",
+   "data": "2026-11-20T10:22:17+00:00",
+   "canal": "btcdia",
+   "durada": 1244,
+   "idioma": "es",
+   "resum": "L'analista de Bitcoin al día explica que Bitcoin s'ha comportat molt pitjor que la borsa (S&P500) en la correcció actual i que, encara que esperi un rebot a partir del dia 21, aquest serà limitat i la recuperació dels màxims trigarà molts mesos.",
+   "punts": [
+    {
+     "text": "L'ETF IBIT de BlackRock va perdre una xifra rècord de 541 milions de dòlars enmig del debut borsari d'Anthropic, mentre els informes 13F mostren que els institucionals van recomprar 49.229 bitcoins durant el tercer trimestre, revertint les vendes dels tres trimestres anteriors (dades amb retard, no reflecteixen la caiguda actual).",
+     "t": 68
+    },
+    {
+     "text": "Si Bitcoin hagués seguit el comportament del S&P500, hauria d'estar al voltant dels 72.700 dòlars, però cotitza a 61.688: s'ha comportat molt pitjor que la resta de mercats.",
+     "t": 412
+    },
+    {
+     "text": "Aquesta caiguda addicional allunya el retorn als 87.000 dòlars, que podria trigar fins a mitjans de 2027 o més.",
+     "t": 504
+    },
+    {
+     "text": "El dia 21 de novembre, que havien marcat com a possible punt de gir, podria coincidir amb el mínim (marcat avui en 61.290 dòlars), però el rebot previsiblement quedarà tallat a la zona dels 72.000-74.000 dòlars.",
+     "t": 626
+    },
+    {
+     "text": "Bitcoin acumula una caiguda del 29,55%, gairebé un 30%, més severa que la de l'or i la plata, que sí partien d'una bombolla prèvia a principi d'any.",
+     "t": 839
+    },
+    {
+     "text": "Preveu un estancament que pot durar anys: cada cop que el preu s'acosti als 82.000-87.000 dòlars, sortiran vendes perquè el mercat no hi veu potencial de pujada per sobre.",
+     "t": 900
+    },
+    {
+     "text": "Per sortir d'aquesta fase calen mesures definitives contra els ordinadors quàntics, més ús de la xarxa, estabilitat de la mineria (hash rate) i, més endavant, baixades de tipus d'interès.",
+     "t": 900
+    },
+    {
+     "text": "Entre les altcoins, BGB i Tron tenen el millor comportament de les últimes setmanes, mentre Cardano cau un 12,2% i es manté en zona de mínims.",
+     "t": 1146
+    }
+   ],
+   "dades": [
+    "Caiguda acumulada del 29,55%",
+    "541 milions de dòlars de sortides a l'ETF IBIT",
+    "49.229 bitcoins recomprats pels institucionals al 3T",
+    "Objectiu de rebot: 72.000-74.000 dòlars"
+   ],
+   "conclusio": "Espera un rebot a partir del dia 21 de novembre, però limitat i insuficient per recuperar els 87.000 dòlars a curt termini; Bitcoin seguirà comportant-se pitjor que la borsa mentre pugin els tipus d'interès.",
+   "temes": [
+    "bitcoin",
+    "criptomonedes",
+    "etf",
+    "tipus d'interès",
+    "mercats",
+    "altcoins"
+   ],
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "0-J6umY-UvA",
+   "titol": "Feijóo destroza a Sánchez en el debate: hasta la izquierda reconoce la masacre",
+   "data": "2026-11-20T06:32:18+00:00",
+   "canal": "rallo",
+   "durada": 1140,
+   "idioma": "es",
+   "resum": "Rallo analitza el cara a cara entre Pedro Sánchez i Alberto Núñez Feijóo i conclou que Feijóo va guanyar amb claredat, fins i tot segons veus de l'esquerra. Defensa que moltes de les dades de Feijóo que el PSOE qualifica de mentides són en realitat certes.",
+   "punts": [
+    {
+     "text": "Diversos perfils d'esquerra (Gabriel Rufián, Antonio Maestre, Rosa Villacastín, Pedro Onrubia) van reconèixer en xarxes que Sánchez va quedar desubicat i Feijóo el va «destrossar» en el debat.",
+     "t": 122
+    },
+    {
+     "text": "Feijóo va dir que el salari net dels espanyols ha baixat més d'un 3% amb Sánchez; el PSOE ho va desmentir dient que el salari ha pujat un 28,8%, però aquesta xifra és el salari brut nominal, sense restar inflació ni impostos.",
+     "t": 428
+    },
+    {
+     "text": "Rallo calcula que, en termes nets i descomptant la inflació, el salari mitjà és avui un 3% inferior al de 2018, tal com va dir Feijóo.",
+     "t": 553
+    },
+    {
+     "text": "Preveu que els mitjans propers al govern qualificaran de bulos diverses afirmacions certes de Feijóo per rentar la imatge de Sánchez després del debat.",
+     "t": 615
+    },
+    {
+     "text": "Sánchez va intentar un to serè i presidencial per semblar l'estadista enfront d'un Feijóo «crispat», però la jugada li va sortir malament: va quedar passiu i sense arguments per defensar la seva gestió.",
+     "t": 676
+    },
+    {
+     "text": "A diferència dels mítings (militants acrítics) i de moltes entrevistes (periodistes que es senten per sota del president), en un debat amb el líder de l'oposició Sánchez no té aquest avantatge i queda exposat.",
+     "t": 799
+    },
+    {
+     "text": "Rallo conclou que el debat té «una olor molt forta de final de cicle polític» per a Sánchez, a les portes de les eleccions del 29 de novembre.",
+     "t": 1112
+    }
+   ],
+   "dades": [
+    "Salari net un 3% inferior al de 2018",
+    "El PSOE parla d'una pujada nominal del 28,8%",
+    "Eleccions el 29 de novembre"
+   ],
+   "conclusio": "Rallo recomana desconfiar de la narrativa de postdebat que titllarà de mentides moltes veritats de Feijóo, i interpreta el resultat com un senyal de final de cicle per a Sánchez.",
+   "temes": [
+    "política espanyola",
+    "debat electoral",
+    "sánchez",
+    "feijóo",
+    "salaris",
+    "eleccions"
+   ],
+   "lot": "2026-11-20"
+  },
+  {
+   "id": "crrpCbdpS24",
+   "titol": "Muchos descifran la portada de The Economist 2027, pero el plan real está en otra parte | Análisis",
+   "data": "2026-11-19T18:00:12+00:00",
+   "canal": "vidal",
+   "durada": 1241,
+   "idioma": "es",
+   "resum": "Marc Vidal desmunta la idea de que la portada anual de The Economist («The World Ahead») sigui un oracle que prediu el futur. Defensa que és, en realitat, una agenda del que l'establishment mediàtic i financer de Londres vol que importi durant l'any, no una profecia.",
+   "punts": [
+    {
+     "text": "Abans de publicar-se la portada real de 2027, va circular a les xarxes una versió falsa feta amb IA; la gent hi va buscar missatges ocults igual que fa cada any amb la veritable.",
+     "t": 62
+    },
+    {
+     "text": "L'editor Tom Standage resumeix l'edició de 2027 en 10 tendències: el futur post-Trump als EUA, les seqüeles de la guerra amb l'Iran, un possible rècord de calor, la IA sota sospita, les presidencials franceses amb Le Pen, la pressió del deute, Xina-Taiwan, els fàrmacs per aprimar, coets més barats i Hollywood.",
+     "t": 153
+    },
+    {
+     "text": "L'experiment del psicòleg Bertram Forer (1948): als seus alumnes els va donar el mateix retrat psicològic genèric a tots i la majoria s'hi va veure reflectit; amb la portada passa el mateix amb símbols que valen per a qualsevol any.",
+     "t": 552
+    },
+    {
+     "text": "L'estudi de Philip Tetlock (2005), que va seguir 20 anys 284 experts i va recollir 82.000 prediccions: el resultat mitjà va ser com el d'un mico llançant dards, i com més famós era l'expert, pitjors eren els seus pronòstics.",
+     "t": 613
+    },
+    {
+     "text": "En revisar la portada de 2026, 3 de les seves 10 tendències (deute, intel·ligència artificial, fàrmacs per aprimar) es repeteixen a la de 2027: una profecia no es repeteix, una agenda sí.",
+     "t": 704
+    },
+    {
+     "text": "La portada de 2026 sí va encertar que els demòcrates recuperarien la Cambra i el Senat, però la gran fallada va ser no preveure l'atac dels EUA i Israel a l'Iran del 28 de febrer de 2026, que va tancar l'estret d'Ormuz i va provocar una crisi de combustible.",
+     "t": 765
+    },
+    {
+     "text": "Conclusió: els plans que realment canvien la vida de la gent no estan xifrats en cap portada, sinó al BOE, al Diari Oficial de la UE i al calendari d'emissions de deute.",
+     "t": 1070
+    }
+   ],
+   "dades": [
+    "3 de les 10 tendències de 2026 es repeteixen el 2027",
+    "82.000 prediccions de 284 experts durant 20 anys (Tetlock)",
+    "Atac dels EUA i Israel a l'Iran el 28 de febrer de 2026"
+   ],
+   "conclusio": "Vidal recomana llegir la portada no com una predicció del futur, sinó com una agenda de les prioritats de l'establishment financer i polític, i buscar els plans reals en documents oficials com el BOE o el calendari de deute.",
+   "temes": [
+    "the economist",
+    "desinformació",
+    "mitjans",
+    "geopolítica",
+    "previsions econòmiques",
+    "intel·ligència artificial"
+   ],
+   "lot": "2026-11-20"
+  },
+  {
    "id": "KDdl9PTK28A",
    "titol": "Anthropic sale a bolsa: ¿vale 1,5 billones de dólares?",
    "data": "2026-11-19T09:46:09+00:00",
@@ -10580,9 +10747,17 @@
     "Política fiscal espanyola. Rallo denuncia que el govern puja sous públics i pensions (17.000 M€/any) en campanya electoral mentre manté l'IRPF sense deflactar des de 2015, una pujada d'impostos encoberta.",
     "Ciberseguretat. Marc Vidal repassa les caigudes de Microsoft, control aeri, JP Morgan i la NSA: no hi ha atac coordinat, sinó pedaços instal·lats amb pressa i una IA que troba vulnerabilitats més ràpid que les defenses; avisa que els governs aprofitaran la por per impulsar identitat i moneda digitals."
    ]
+  },
+  "2026-11-20": {
+   "titular": "Rallo analitza el debat Sánchez-Feijóo, Marc Vidal desmunta la portada de The Economist i Bitcoin segueix pitjor que la borsa",
+   "punts": [
+    "Debat electoral: Rallo sosté que Feijóo va guanyar amb claredat el cara a cara amb Sánchez, fins i tot segons veus de l'esquerra, i que la dada d'un salari net un 3% més baix des de 2018 és certa, no un bulo.",
+    "Desinformació mediàtica: Marc Vidal explica que la portada anual de The Economist no és una predicció del futur, sinó una agenda del que l'establishment vol que importi, i recorda que la portada de 2026 no va preveure l'atac a l'Iran.",
+    "Mercats: Bitcoin al día preveu un rebot a partir del dia 21 de novembre, però limitat, després d'una caiguda acumulada del 29,55% molt pitjor que la del S&P500."
+   ]
   }
  },
- "actualitzat": "2026-11-19T11:48:24.880Z",
+ "actualitzat": "2026-11-20T11:48:04.307Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
