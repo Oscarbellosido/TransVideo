@@ -1,6 +1,116 @@
 {
  "videos": [
   {
+   "id": "EU97uedvn-I",
+   "titol": "Bitcoin. Recuerdos del año 2000 me vienen a la cabeza. Mercado peligroso.",
+   "data": "2026-11-21T10:36:44+00:00",
+   "canal": "btcdia",
+   "durada": 1447,
+   "idioma": "es",
+   "resum": "Bitcoin i les borses han caigut amb força i l'autor hi veu paral·lelismes amb l'esclat de la bombolla tecnològica de l'any 2000: la sortida a borsa d'Anthropic li recorda la de Telefónica Móviles, que va marcar el sostre d'aquell cicle. Avisa que podríem entrar en un mercat baixista que duri fins al juliol de l'any vinent, amb rebots forts pel mig.",
+   "punts": [
+    {
+     "text": "L'S&P 500 ha perdut tots els suports i sembla que ha esclatat la bombolla de la intel·ligència artificial; la sortida a borsa d'Anthropic li recorda la de Telefónica Móviles l'any 2000, que va coincidir amb el pic del mercat tecnològic.",
+     "t": 98
+    },
+    {
+     "text": "Explica que no és el mateix tenir els tipus d'interès alts que tenir-los pujant: el mercat baixa quan els tipus estan pujant, per la incertesa de fins on arribaran; quan ja estan alts, el mercat comença a descomptar que aviat baixaran.",
+     "t": 438
+    },
+    {
+     "text": "Si la correcció actual és similar a la del 2022, la borsa podria estar baixista fins al juliol de l'any que ve, encara que amb rebots forts pel mig d'entre un 8% i un 19%.",
+     "t": 500
+    },
+    {
+     "text": "Bitcoin ha rebotat a la zona dels 55.000-55.130 dòlars, un suport feble (horitzontal, no una línia de tendència) que uneix els mínims de febrer i juliol; un rebot fort portaria fins als 73.000 aproximadament.",
+     "t": 1627
+    },
+    {
+     "text": "Considera que Bitcoin parteix d'un punt dolent perquè la caiguda de principis d'any (fins als 60.000) el va deixar molt per sota d'on hauria d'estar si hagués seguit la resta de mercats, que han pujat tot l'any; sense aquella caiguda, ara estaria per sobre dels 130.000-140.000.",
+     "t": 872
+    },
+    {
+     "text": "Si es perd l'actual zona de suport, el següent suport important no arriba fins als 25.000-35.000 dòlars; per això considera clau la vela mensual de desembre.",
+     "t": 963
+    },
+    {
+     "text": "Entre les altcoins, Ethereum, BGB i Tron s'han comportat millor que Bitcoin contra dòlar i contra Bitcoin aquests dies; diu que sortirà de Backpack en quant hi hagi un rebot cap a zones de resistència.",
+     "t": 1148
+    }
+   ],
+   "dades": [
+    "Bitcoin ha tocat mínim avui a la zona dels 55.000 dòlars i tanca el vídeo a 58.000",
+    "Objectiu de rebot: 66.532 dòlars; resistència propera a 62.300",
+    "Possible mercat baixista fins al juliol del 2027, segons el paral·lelisme amb el cicle del 2022",
+    "Suport fort a llarg termini entre 25.000 i 35.000 dòlars"
+   ],
+   "conclusio": "Recomana prudència a mitjà i llarg termini: cal esperar un rebot per decidir els pròxims moviments, i vigilar especialment el tancament mensual de desembre, que considera clau per saber si el suport actual aguanta.",
+   "temes": [
+    "bitcoin",
+    "mercats",
+    "bombolla ia",
+    "tipus d'interès",
+    "anàlisi tècnica",
+    "altcoins"
+   ],
+   "lot": "2026-11-21"
+  },
+  {
+   "id": "JC5wHXu8f7I",
+   "titol": "Pánico en la bolsa: ¿estamos ante el pinchazo de la IA?",
+   "data": "2026-11-21T10:30:39+00:00",
+   "canal": "rallo",
+   "durada": 1473,
+   "idioma": "es",
+   "resum": "Després d'un desplom del Nasdaq i de Nvidia, Rallo analitza els sis indicadors que Polymarket fa servir per definir el \"pinchazo\" de la bombolla de la IA i conclou que els indicadors financers (cotitzacions) ja estan molt a prop de complir-se, però els indicadors de l'economia real (preu de lloguer de GPUs, viabilitat dels laboratoris) encara en són lluny. Per això creu que, de moment, el que esclata és una bombolla borsària, no encara una bombolla real.",
+   "punts": [
+    {
+     "text": "El Nasdaq ha perdut un 5,3% en una sola sessió i més del 10% en la setmana; Nvidia ha perdut un 22% només aquesta setmana i gairebé un 50% des de màxims. Polymarket dona ja més del 50% de probabilitat a un \"pinchazo\" de la bombolla de la IA abans que acabi el 2026.",
+     "t": 0
+    },
+    {
+     "text": "Polymarket defineix el pinchazo com el compliment de com a mínim 3 de 6 condicions en una finestra de 90 dies abans del 31/12/2026: tres de financeres (caiguda del 50% de Nvidia, caiguda del 40% del SOX, caiguda del 50% d'un gran proveïdor com TSMC, ASML o Broadcom) i tres de l'economia real (preu de lloguer d'una H100 per sota d'1 dòlar/hora, fallida d'OpenAI o Anthropic, o adquisició d'OpenAI).",
+     "t": 216
+    },
+    {
+     "text": "De les condicions financeres, la del SOX (índex de semiconductors) ja s'ha complert, amb una caiguda del 43,5% des de màxims, la pitjor racha des de l'esclat de les .com el 2001; la de Nvidia està gairebé al límit, només li falta cedir un 5% més.",
+     "t": 584
+    },
+    {
+     "text": "Explica els tres fronts que pressionen Nvidia: la sortida de Jensen Wang arran de l'escàndol de Megaspeed, dues investigacions de la SEC (sobre informació als inversors i pràctiques comptables) i el risc del seu paper com a finançadora dels seus propis clients, amb avals de 118.000 milions de dòlars, 105.000 dels quals lligats a un únic campus de centres de dades a Ohio llogat a OpenAI.",
+     "t": 433
+    },
+    {
+     "text": "En canvi, les condicions de l'economia real estan molt lluny de complir-se: el preu de lloguer d'una H100 ha pujat (no baixat) més d'un 50% en 11 mesos, fins a 3,1 dòlars l'hora, senyal de demanda real molt forta i no de sobrecapacitat.",
+     "t": 901
+    },
+    {
+     "text": "Tant la fallida com l'adquisició d'OpenAI o Anthropic les considera escenaris pràcticament impossibles a curt termini, ja que totes dues han captat desenes de milers de milions de dòlars aquest any.",
+     "t": 1026
+    },
+    {
+     "text": "Compara la situació amb la bombolla de les .com: aleshores el Nasdaq es va enfonsar el març del 2000, però el preu de la fibra òptica no es va desplomar fins més tard, malgrat que la demanda seguia creixent, perquè la capacitat construïda va créixer encara més ràpid. Avisa que el mateix podria passar ara amb la IA, ja que el finançament dels laboratoris podria arribar a frenar la demanda real de xips.",
+     "t": 1364
+    }
+   ],
+   "dades": [
+    "Nvidia: -22% en una setmana, -47% des del màxim històric de 239,2 dòlars (6 d'octubre)",
+    "SOX (índex de semiconductors): -43,5% des de màxims, la pitjor caiguda des del 2001",
+    "Preu de lloguer d'una H100: 3,1 dòlars/hora, un 50% més car que fa 11 mesos",
+    "Nvidia té 118.000 milions de dòlars en avals als seus clients, 105.000 milions lligats a un campus llogat a OpenAI"
+   ],
+   "conclusio": "Rallo conclou que, amb les dades d'avui, el que està esclatant és sobretot una bombolla en les valoracions borsàries dels proveïdors de xips, per la pujada de tipus i el risc regulatori, no encara una crisi de l'economia real de la IA; però avisa que, per la interconnexió entre finançament i demanda real, no es pot descartar que la correcció borsària acabi provocant també una frenada real.",
+   "temes": [
+    "intel·ligència artificial",
+    "nvidia",
+    "borsa",
+    "bombolla",
+    "semiconductors",
+    "polymarket"
+   ],
+   "lot": "2026-11-21"
+  },
+  {
    "id": "oiwQhZXPfaM",
    "titol": "Bitcoin. El día 21 puede ser el punto donde empiece a rebotar, pero sigue mucho peor que la bolsa.",
    "data": "2026-11-20T10:22:17+00:00",
@@ -10755,9 +10865,18 @@
     "Desinformació mediàtica: Marc Vidal explica que la portada anual de The Economist no és una predicció del futur, sinó una agenda del que l'establishment vol que importi, i recorda que la portada de 2026 no va preveure l'atac a l'Iran.",
     "Mercats: Bitcoin al día preveu un rebot a partir del dia 21 de novembre, però limitat, després d'una caiguda acumulada del 29,55% molt pitjor que la del S&P500."
    ]
+  },
+  "2026-11-21": {
+   "titular": "Pànic a les borses pel possible esclat de la bombolla de la IA, i Bitcoin cau als mínims de l'any arrossegat pel mateix moviment",
+   "punts": [
+    "Caiguda generalitzada. Rallo i Bitcoin al día coincideixen que el desplom d'aquesta setmana (Nasdaq, Nvidia, semiconductors) i el de Bitcoin tenen el mateix origen: el mercat tem l'esclat de la bombolla de la intel·ligència artificial, arran de la sortida a borsa d'Anthropic.",
+    "Nvidia i els xips, al centre. Rallo detalla que els indicadors financers del possible pinchazo (caiguda del SOX i de Nvidia) ja gairebé s'han complert, mentre que els de l'economia real (preu de lloguer de GPUs, viabilitat d'OpenAI i Anthropic) encara estan lluny de fer-ho: per ara seria una bombolla de valoracions, no una crisi real de la IA.",
+    "Paral·lelisme amb l'any 2000. Tant Rallo (amb la fibra òptica i les .com) com Bitcoin al día (amb la sortida a borsa de Telefónica Móviles) comparen el moment actual amb l'esclat de la bombolla tecnològica de fa 25 anys.",
+    "Bitcoin, en zona crítica. Bitcoin al día situa el suport actual (uns 55.000-58.000 dòlars) com un dels pocs que queden abans d'una zona molt més feble entre 25.000 i 35.000 dòlars, i marca el tancament mensual de desembre com a clau."
+   ]
   }
  },
- "actualitzat": "2026-11-20T11:48:04.307Z",
+ "actualitzat": "2026-11-21T11:47:01.851Z",
  "setmanes": {
   "2026-09-24": {
    "des_de": "2026-09-18",
